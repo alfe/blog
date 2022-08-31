@@ -10,6 +10,9 @@ const Layout = (props) => {
       <Head>
         <title>{title ? `${title} | ${siteTitle}` : siteTitle}</title>
         <link rel="icon" href="/favicon.ico" />
+
+        {/* TODO: remove */}
+        <meta name="robots" content="noindex , nofollow" /> 
       </Head>
 
       <header>
