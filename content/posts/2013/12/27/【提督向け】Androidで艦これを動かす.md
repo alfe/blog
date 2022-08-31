@@ -3,7 +3,6 @@ Title: 【提督向け】Androidで艦これを動かす
 Category:
 - LifeHack
 Date: 2013-12-27T14:46:29+09:00
-URL: https://blog.alfebelow.com/entry/2013/12/27/%E3%80%90%E6%8F%90%E7%9D%A3%E5%90%91%E3%81%91%E3%80%91Android%E3%81%A7%E8%89%A6%E3%81%93%E3%82%8C%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99
 ---
 
 <p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20131227/20131227142500.jpg" alt="f:id:alfe1025:20131227142500j:plain" title="f:id:alfe1025:20131227142500j:plain" class="hatena-fotolife" itemprop="image"></span></p>

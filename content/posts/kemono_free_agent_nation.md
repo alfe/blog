@@ -3,7 +3,6 @@ Title: なぜ、けものフレンズと『フリーエージェント社会の�
 Category:
 - 本
 Date: 2017-02-12T22:37:46+09:00
-URL: https://blog.alfebelow.com/entry/kemono_free_agent_nation
 IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/20170212214848.jpg
 ---
 

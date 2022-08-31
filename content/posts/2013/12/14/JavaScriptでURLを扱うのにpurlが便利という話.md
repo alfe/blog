@@ -3,7 +3,6 @@ Title: JavaScriptでURLを扱うのにpurlが便利という話
 Category:
 - プログラム
 Date: 2013-12-14T08:12:37+09:00
-URL: https://blog.alfebelow.com/entry/2013/12/14/JavaScript%E3%81%A7URL%E3%82%92%E6%89%B1%E3%81%86%E3%81%AE%E3%81%ABpurl%E3%81%8C%E4%BE%BF%E5%88%A9%E3%81%A8%E3%81%84%E3%81%86%E8%A9%B1
 ---
 
 

@@ -3,7 +3,6 @@ Title: 銀座No1ホステスのテクニックを参考に就活した
 Category:
 - LifeHack
 Date: 2015-05-01T15:59:31+09:00
-URL: https://blog.alfebelow.com/entry/2015/05/01/%E9%8A%80%E5%BA%A7No1%E3%83%9B%E3%82%B9%E3%83%86%E3%82%B9%E3%81%AE%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF%E3%82%92%E5%8F%82%E8%80%83%E3%81%AB%E5%B0%B1%E6%B4%BB%E3%81%97%E3%81%9F
 ---
 
 <p><a class="http-image" href="http://www.flickr.com/photos/76657755@N04/8125987596" target="_blank"><img class="http-image" src="http://farm9.staticflickr.com/8463/8125987596_6ed372fd08.jpg" alt="http://www.flickr.com/photos/76657755@N04/8125987596" width="398" /></a></p>

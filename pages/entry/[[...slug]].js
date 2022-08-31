@@ -125,8 +125,6 @@ export async function getStaticProps({ params }) {
   const postIndex = posts
     .map((post) => `${post.dirname === '//' ? '/' : post.dirname}${post.slug}`)
     .findIndex(url => url === `/${params.slug.join('/')}`);
-  console.log(posts.map((post, index) => `${index} ${post.dirname === '//' ? '/' : post.dirname}${post.slug}`))
-  console.log(`/${params.slug.join('/')}`)
 
   return {
     props: {

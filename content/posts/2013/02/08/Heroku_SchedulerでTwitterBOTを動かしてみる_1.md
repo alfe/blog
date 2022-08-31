@@ -3,7 +3,6 @@ Title: Heroku SchedulerでTwitterBOTを動かしてみる
 Category:
 - プログラム
 Date: 2013-02-08T13:48:08+09:00
-URL: https://blog.alfebelow.com/entry/2013/02/08/Heroku_Scheduler%E3%81%A7TwitterBOT%E3%82%92%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B_1
 ---
 
 

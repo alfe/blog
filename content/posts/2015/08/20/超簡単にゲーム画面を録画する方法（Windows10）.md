@@ -3,7 +3,6 @@ Title: 超簡単にゲーム画面を録画する方法（Windows10）
 Category:
 - LifeHack
 Date: 2015-08-20T22:20:22+09:00
-URL: https://blog.alfebelow.com/entry/2015/08/20/%E8%B6%85%E7%B0%A1%E5%8D%98%E3%81%AB%E3%82%B2%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2%E3%82%92%E9%8C%B2%E7%94%BB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95%EF%BC%88Windows10%EF%BC%89
 ---
 
 <p><img class="hatena-fotolife" title="f:id:alfe1025:20150820221459g:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150820/20150820221459.gif" alt="f:id:alfe1025:20150820221459g:plain" width="455" /></p>

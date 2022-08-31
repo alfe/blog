@@ -39,7 +39,6 @@ export const generatedRssFeed = (posts: {
   posts.forEach((post) => {
     // post のプロパティ情報は使用しているオブジェクトの形式に合わせる
     const url = `${baseUrl}/entry${post.slug}`;
-    console.log(post.title)
     feed.addItem({
       title: post.title,
       description: (post.description || '').replace(/\<.+\>(.*)\<\/.+\>/g, '$1'),

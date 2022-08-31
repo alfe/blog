@@ -3,7 +3,6 @@ Title: PCゲーのセーブデータをDropboxで共有する
 Category:
 - LifeHack
 Date: 2015-06-22T11:44:46+09:00
-URL: https://blog.alfebelow.com/entry/2015/06/22/PC%E3%82%B2%E3%83%BC%E3%81%AE%E3%82%BB%E3%83%BC%E3%83%96%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92Dropbox%E3%81%A7%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B
 ---
 
 <p><br />PCゲームのセーブデータをショートカット的なやつ を使って複数のPCで共有します。</p>

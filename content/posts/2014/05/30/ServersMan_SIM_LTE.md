@@ -3,7 +3,6 @@ Title: ServersMan SIM LTEをNexus7(2012:Wi-fi/3G) に突っ込んでみた
 Category:
 - レビュー
 Date: 2014-05-30T12:55:06+09:00
-URL: https://blog.alfebelow.com/entry/2014/05/30/ServersMan_SIM_LTE
 ---
 
 ServersMan SIM LTE(http://dream.jp/mb/sim/)のレビュー記事な。

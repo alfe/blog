@@ -3,7 +3,6 @@ Title: Googleフォームに入力されたアドレス宛に自動返信する
 Category:
 - プログラム
 Date: 2015-07-15T17:17:25+09:00
-URL: https://blog.alfebelow.com/entry/2015/07/15/Google%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%81%AB%E5%85%A5%E5%8A%9B%E3%81%95%E3%82%8C%E3%81%9F%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E5%AE%9B%E3%81%AB%E8%87%AA%E5%8B%95%E8%BF%94%E4%BF%A1%E3%81%99%E3%82%8B
 ---
 
 <p> </p>

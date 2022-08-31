@@ -3,7 +3,6 @@ Title: デスクトップを動画でキャプチャしてPowerPointに貼りつ
 Category:
 - LifeHack
 Date: 2015-01-12T18:49:58+09:00
-URL: https://blog.alfebelow.com/entry/2015/01/12/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%92%E5%8B%95%E7%94%BB%E3%81%A7%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%81%97%E3%81%A6PowerPoint%E3%81%AB%E8%B2%BC%E3%82%8A%E3%81%A4%E3%81%91
 ---
 
 <p>あ、デスクトップを動画でキャプチャしてPowerPointに貼りつけたらいいんじゃないか。</p>

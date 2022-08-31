@@ -3,7 +3,6 @@ Title: Kobe INK 物語：旧居留地セピアと鉢伏シルエットグリー�
 Category:
 - レビュー
 Date: 2015-12-28T17:10:55+09:00
-URL: https://blog.alfebelow.com/entry/2015/12/28/Kobe_INK_%E7%89%A9%E8%AA%9E%EF%BC%9A%E6%97%A7%E5%B1%85%E7%95%99%E5%9C%B0%E3%82%BB%E3%83%94%E3%82%A2%E3%81%A8%E9%89%A2%E4%BC%8F%E3%82%B7%E3%83%AB%E3%82%A8%E3%83%83%E3%83%88%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3
 IMAGE: https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010330/20010330053840.jpg
 ---
 

@@ -3,7 +3,6 @@ Title: 就活終わったので、OB訪問してきた。
 Category:
 - 雑記
 Date: 2015-05-05T23:45:31+09:00
-URL: https://blog.alfebelow.com/entry/2015/05/05/%E5%B0%B1%E6%B4%BB%E7%B5%82%E3%82%8F%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7%E3%80%81OB%E8%A8%AA%E5%95%8F%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F%E3%80%82
 ---
 
 

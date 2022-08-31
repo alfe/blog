@@ -6,7 +6,7 @@ const Ogp = (props) => {
 
   return (
     <Head>
-      <meta property="og:url" content={`https://blog.alfebelow.com/entry/${props.slug}`} />
+      <meta property="og:url" content={`https://blog.alfebelow.com/entry${props.slug}`} />
       <meta property="og:type" content="website" />
       <meta property="og:title" content={props.title} />
       <meta property="og:description" content={props.content.substring(0, 200)} />

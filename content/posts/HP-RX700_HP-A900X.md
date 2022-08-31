@@ -3,7 +3,6 @@ Title: 剥がれ落ちてきたHP-RX700の耳あてを1,600円で上位互換
 Category:
 - 雑記
 Date: 2015-06-28T11:51:36+09:00
-URL: https://blog.alfebelow.com/entry/HP-RX700_HP-A900X
 ---
 
 <p>わりと長いこと使ってきたHP-RX700のイヤーパッドがへたってきたので交換した</p>

@@ -3,7 +3,6 @@ Title: OBSでDiscordのアイコンを四角や横並びにするジェネレー
 Category:
 - プログラム
 Date: 2022-03-20T19:00:00+09:00
-URL: https://blog.alfebelow.com/entry/obs-discord-icon
 IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20220320/20220320164720.png
 ---
 

@@ -3,7 +3,6 @@ Title: VRイベントルームcluster.の正式版リリース記念イベント
 Category:
 - レビュー
 Date: 2017-06-01T08:55:22+09:00
-URL: https://blog.alfebelow.com/entry/2017/06/01/VR%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%AB%E3%83%BC%E3%83%A0cluster.%E3%81%AE%E6%AD%A3%E5%BC%8F%E7%89%88%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88
 IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170601/20170601083416.png
 ---
 

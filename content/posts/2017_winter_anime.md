@@ -3,7 +3,6 @@ Title: 日常系スキーの2017冬アニメおすすめ目録
 Category:
 - レビュー
 Date: 2017-01-28T10:10:02+09:00
-URL: https://blog.alfebelow.com/entry/2017_winter_anime
 ---
 
 <p>好きなアニメは「未確認で進行形」と「ふらいんぐうぃっち」な人が、今期見る、と決めたアニメの一覧</p>
