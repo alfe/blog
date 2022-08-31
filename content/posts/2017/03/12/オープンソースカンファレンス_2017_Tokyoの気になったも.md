@@ -14,7 +14,7 @@ URL: https://blog.alfebelow.com/entry/2017/03/12/%E3%82%AA%E3%83%BC%E3%83%97%E3%
 <p>3月10日(金)～3月11日(土)に明星大学 日野キャンパスで開催された、オープンソースに関する展示会みたいなイベント。</p>
 <p> </p>
 <p>ちなみに、明星大学は多摩動物公園のすぐ近く。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="オープンソースカンファレンス2017 Tokyo/Spring - オープンソースの文化祭！" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.ospn.jp%2Fosc2017-spring%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://www.ospn.jp/osc2017-spring/">www.ospn.jp</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="オープンソースカンファレンス2017 Tokyo/Spring - オープンソースの文化祭！" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.ospn.jp%2Fosc2017-spring%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p><img class="magnifiable" src="https://lh3.googleusercontent.com/-rlq8oqfjwms/WMP342gFH0I/AAAAAAAAYsM/yLdK1rLQkb8e7CkuC-qiRZbnWh4ZNdklgCE0/s1024/DSC00849.JPG" alt="" /></p>
 <p> </p>
@@ -25,7 +25,7 @@ URL: https://blog.alfebelow.com/entry/2017/03/12/%E3%82%AA%E3%83%BC%E3%83%97%E3%
 <p>ただパネルの代わりにデモが展示している。</p>
 <p> </p>
 <p>加えて、いくつかの講義室でLTやセッションが開かれている。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="#osc17tk hashtag on Twitter" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Ftwitter.com%2Fhashtag%2Fosc17tk" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://twitter.com/hashtag/osc17tk">twitter.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="#osc17tk hashtag on Twitter" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Ftwitter.com%2Fhashtag%2Fosc17tk" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 
 ### で。気になったもの
@@ -96,8 +96,8 @@ URL: https://blog.alfebelow.com/entry/2017/03/12/%E3%82%AA%E3%83%BC%E3%83%97%E3%
 
 ### 類似記事
 
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="Maker Faire Tokyo 2016レポ - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/08/07/Maker_Faire_Tokyo_2016" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/08/07/Maker_Faire_Tokyo_2016">blog.alfebelow.com</a> </cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="Maker Faire Tokyo 2016レポ - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/08/07/Maker_Faire_Tokyo_2016" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/08/07/Maker_Faire_Tokyo_2016">blog.alfebelow.com</a> </cite></p>
 <p> </p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="世界を変えた書物展＠大阪 - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2015/11/15/%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E6%9B%B8%E7%89%A9%E5%B1%95%EF%BC%A0%E5%A4%A7%E9%98%AA" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2015/11/15/%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E6%9B%B8%E7%89%A9%E5%B1%95%EF%BC%A0%E5%A4%A7%E9%98%AA">blog.alfebelow.com</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="世界を変えた書物展＠大阪 - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2015/11/15/%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E6%9B%B8%E7%89%A9%E5%B1%95%EF%BC%A0%E5%A4%A7%E9%98%AA" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2015/11/15/%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E6%9B%B8%E7%89%A9%E5%B1%95%EF%BC%A0%E5%A4%A7%E9%98%AA">blog.alfebelow.com</a></cite></p>
 <p> </p>
 <p> </p>

@@ -16,8 +16,11 @@ export default function Archive(props) {
         key={post.slug}
         className="post-teaser"
       >
-      
-## <Link href={`/entry${post.dirname}${post.slug}`} as={`/entry${post.dirname}${post.slug}`}><a>{post.title}</a></Link>
+        <h2>
+          <Link href={`/entry${post.dirname}${post.slug}`} as={`/entry${post.dirname}${post.slug}`}>
+            <a>{post.title}</a>
+          </Link>
+        </h2>
 
         <div><span>{post.published}</span></div>
       </div>)}

@@ -14,7 +14,7 @@ URL: https://blog.alfebelow.com/entry/IZF-31K
 <p><!-- more --></p>
 <p> </p>
 <p>松本イズミというキャラクターで宣伝しているシェーバーの様子。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="松本イズミプロジェクト" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.izumi-products.co.jp%2Fproducts%2Fizumi%2F" frameborder="0" scrolling="no">&amp;lt;a href="https://www.izumi-products.co.jp/products/izumi/" data-mce-href="https://www.izumi-products.co.jp/products/izumi/"&amp;gt;松本イズミプロジェクト&amp;lt;/a&amp;gt;</iframe><cite class="hatena-citation"><a href="https://www.izumi-products.co.jp/products/izumi/">www.izumi-products.co.jp</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="松本イズミプロジェクト" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.izumi-products.co.jp%2Fproducts%2Fizumi%2F" frameborder="0" scrolling="no">&amp;lt;a href="https://www.izumi-products.co.jp/products/izumi/" data-mce-href="https://www.izumi-products.co.jp/products/izumi/"&amp;gt;松本イズミプロジェクト&amp;lt;/a&amp;gt;</iframe></p>
 <p> </p>
 <p> </p>
 <p>あまぞん</p>

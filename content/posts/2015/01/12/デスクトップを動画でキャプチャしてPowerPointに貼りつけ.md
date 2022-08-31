@@ -16,7 +16,7 @@ URL: https://blog.alfebelow.com/entry/2015/01/12/%E3%83%87%E3%82%B9%E3%82%AF%E3%
 
 <p>用意するソフトは2つ。</p>
 <h4>デスクトップのキャプチャソフト</h4>
-<p><iframe class="embed-card embed-webcard" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Free Screen Recorder. Video Capture Software." src="http://hatenablog.com/embed?url=http%3A%2F%2Fsrecorder.com%2F" frameborder="0" scrolling="no">&amp;amp;amp;lt;a href="http://srecorder.com/" data-mce-href="http://srecorder.com/"&amp;amp;amp;gt;Free Screen Recorder. Video Capture Software.&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe><br /> <a href="http://srecorder.com/">Free Screen Recorder. Video Capture Software.</a></p>
+<p><iframe class="embed-card embed-webcard" style="width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Free Screen Recorder. Video Capture Software." src="http://hatenablog.com/embed?url=http%3A%2F%2Fsrecorder.com%2F" frameborder="0" scrolling="no">&amp;amp;amp;lt;a href="http://srecorder.com/" data-mce-href="http://srecorder.com/"&amp;amp;amp;gt;Free Screen Recorder. Video Capture Software.&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe><br /> <a href="http://srecorder.com/">Free Screen Recorder. Video Capture Software.</a></p>
 <p> </p>
 <p>かなりシンプルなデスクトップレコーダー。</p>
 <p>ややこしい設定とかは必要なく、直感で使えるのでオススメ。<br />マウスドラッグで囲んだ部分を、動画として保存してくれます。</p>
@@ -25,7 +25,7 @@ URL: https://blog.alfebelow.com/entry/2015/01/12/%E3%83%87%E3%82%B9%E3%82%AF%E3%
 <p>ダウンロードしたものをインストールすればOK。</p>
 <p> </p>
 <h4>動画の変換ソフト</h4>
-<p><iframe class="embed-card embed-webcard" style="width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="XMedia Recode" src="http://hatenablog.com/embed?url=http%3A%2F%2Fwww.xmedia-recode.de%2F" frameborder="0" scrolling="no">&amp;amp;amp;lt;a href="http://www.xmedia-recode.de/" data-mce-href="http://www.xmedia-recode.de/"&amp;amp;amp;gt;XMedia Recode&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe><br /> <a href="http://www.xmedia-recode.de/">XMedia Recode</a></p>
+<p><iframe class="embed-card embed-webcard" style="width: 100%; height: 155px; max-width: 500px; margin: auto;" title="XMedia Recode" src="http://hatenablog.com/embed?url=http%3A%2F%2Fwww.xmedia-recode.de%2F" frameborder="0" scrolling="no">&amp;amp;amp;lt;a href="http://www.xmedia-recode.de/" data-mce-href="http://www.xmedia-recode.de/"&amp;amp;amp;gt;XMedia Recode&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe><br /> <a href="http://www.xmedia-recode.de/">XMedia Recode</a></p>
 <p> だいたいのものに対応した動画変換ソフト。 </p>
 <p>これでキャプチャした動画をパワポで使えるよう変換します。</p>
 <p> </p>

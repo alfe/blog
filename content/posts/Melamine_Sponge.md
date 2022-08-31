@@ -129,7 +129,7 @@ URL: https://blog.alfebelow.com/entry/Melamine_Sponge
 </div>
 <p>  </p>
 <p>ステンレスの硬さ</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="ステンレス鋼材の機械的性質（耐力、降伏点、引張応力、伸び、絞り、曲げ、硬度）" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.susjis.info%2Fprop%2Fkikai.html" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://www.susjis.info/prop/kikai.html">www.susjis.info</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="ステンレス鋼材の機械的性質（耐力、降伏点、引張応力、伸び、絞り、曲げ、硬度）" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.susjis.info%2Fprop%2Fkikai.html" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://www.susjis.info/prop/kikai.html">www.susjis.info</a></cite></p>
 <p> </p>
 <p>モース硬度も参考にした</p>
 <p><a href="http://www.asahi-net.or.jp/~jh3m-fjym/katasa/katasa.html">各種物質の硬度（モース硬度）</a></p>

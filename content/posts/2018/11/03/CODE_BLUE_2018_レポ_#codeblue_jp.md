@@ -8,7 +8,7 @@ URL: https://blog.alfebelow.com/entry/2018/11/03/CODE_BLUE_2018_%E3%83%AC%E3%83%
 
 <p>CODE BLUE 2018 というセキュリティに関するカンファレンスに行ってきたのでレポート</p>
 <p><img class="magnifiable" src="https://lh3.googleusercontent.com/-P0WKVqFm6xw/W9udYcwSvuI/AAAAAAABiLs/_GFLxvz7AXAvb8Ni_4ePE5LOKkyJIbduACE0YBhgL/s1024/IMG_fksd7d.jpg" /></p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="世界トップクラスの専門家による日本発の情報セキュリティ国際会議「CODE BLUE」" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fcodeblue.jp%2F2018%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://codeblue.jp/2018/">codeblue.jp</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="世界トップクラスの専門家による日本発の情報セキュリティ国際会議「CODE BLUE」" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fcodeblue.jp%2F2018%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p><!-- more --></p>
 <p> </p>
@@ -57,7 +57,7 @@ URL: https://blog.alfebelow.com/entry/2018/11/03/CODE_BLUE_2018_%E3%83%AC%E3%83%
 <p><br />疑わしいものを自動でリストアップする仕組み→自動分析させたい。<br />Lateral Movementの共通点は2つ。<br />・コマンドを使う。ドメイン管理者をつかう<br />・同じアカウントでログオンを繰り返す<br />共通点を自動分析に適用してみよう</p>
 <p><br />たくさんのホストにログインしている→あやしい→ネットワーク理論の中心性を使えば抽出できるのでは<br />Windowsログオンは3つの状態を持つので、隠れマルコフモデルをつかって状態遷移のエラーを把握する</p>
 <p><br />そうしてできたのがLogonTracer。使ってみてね。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="JPCERTCC/LogonTracer" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FJPCERTCC%2FLogonTracer" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://github.com/JPCERTCC/LogonTracer">github.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="JPCERTCC/LogonTracer" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fgithub.com%2FJPCERTCC%2FLogonTracer" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p> </p>
 
@@ -114,4 +114,4 @@ URL: https://blog.alfebelow.com/entry/2018/11/03/CODE_BLUE_2018_%E3%83%AC%E3%83%
 <p>冗談抜きで、参加していたエンジニアが力を合わせたら一国のインフラ滅ぶと思う</p>
 <p> </p>
 <p>WebGLすらThreejs経由な、アセンブリも大学でちょっと勉強しただけ、というアマチュアエンジニアなので、もうすこし低レイヤーについても学んでおかないとなぁって思いました。まる。</p>
-<p> <br /><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="CES2018＆ラスベガス訪問記 - FUN YOU BLOG" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fblog.alfebelow.com%2Fentry%2F2018%2F01%2F18%2FCES2018%25EF%25BC%2586%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2599%25E3%2582%25AC%25E3%2582%25B9%25E8%25A8%25AA%25E5%2595%258F%25E8%25A8%2598" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2018/01/18/CES2018%EF%BC%86%E3%83%A9%E3%82%B9%E3%83%99%E3%82%AC%E3%82%B9%E8%A8%AA%E5%95%8F%E8%A8%98">blog.alfebelow.com</a></cite></p>
+<p> <br /><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="CES2018＆ラスベガス訪問記 - FUN YOU BLOG" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fblog.alfebelow.com%2Fentry%2F2018%2F01%2F18%2FCES2018%25EF%25BC%2586%25E3%2583%25A9%25E3%2582%25B9%25E3%2583%2599%25E3%2582%25AC%25E3%2582%25B9%25E8%25A8%25AA%25E5%2595%258F%25E8%25A8%2598" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2018/01/18/CES2018%EF%BC%86%E3%83%A9%E3%82%B9%E3%83%99%E3%82%AC%E3%82%B9%E8%A8%AA%E5%95%8F%E8%A8%98">blog.alfebelow.com</a></cite></p>

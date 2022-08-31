@@ -19,8 +19,8 @@ URL: https://blog.alfebelow.com/entry/2017/12/24/Oculus%E3%82%925%E4%B8%87%E5%86
 ### 私の買ったきっかけ
 
 <p>これ</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="なぜオッサンはかわいいに憧れるのか 「バーチャルのじゃロリ狐娘YouTuberおじさん」独占インタビュー（前編）" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpanora.tokyo%2F46609%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://panora.tokyo/46609/">panora.tokyo</a></cite></p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="かわいいは心のATフィールドを取り払う 「バーチャルのじゃロリ狐娘YouTuberおじさん」独占インタビュー（後編）" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpanora.tokyo%2F46945%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://panora.tokyo/46945/">panora.tokyo</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="なぜオッサンはかわいいに憧れるのか 「バーチャルのじゃロリ狐娘YouTuberおじさん」独占インタビュー（前編）" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpanora.tokyo%2F46609%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://panora.tokyo/46609/">panora.tokyo</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="かわいいは心のATフィールドを取り払う 「バーチャルのじゃロリ狐娘YouTuberおじさん」独占インタビュー（後編）" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpanora.tokyo%2F46945%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://panora.tokyo/46945/">panora.tokyo</a></cite></p>
 <p> </p>
 <p>記事（後編）の中で</p>
 <blockquote>
@@ -67,20 +67,20 @@ URL: https://blog.alfebelow.com/entry/2017/12/24/Oculus%E3%82%925%E4%B8%87%E5%86
 <p>まずは、と無料で遊べる系のソフトとか、使ってるソフトのVR版を試しています。</p>
 <p> </p>
 <p>たとえば、<a href="https://cluster.mu/">Cluster</a>というプレゼン会場をVRに作るソフトとか</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="cluster." src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fcluster.mu%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://cluster.mu/">cluster.mu</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="cluster." src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fcluster.mu%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p>SKYBOX VR Video Player というVRの中に映画館つくってくれるソフトとか</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="SKYBOX VR Video Player" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.oculus.com%2Fexperiences%2Fgear-vr%2F1256687334386627%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://www.oculus.com/experiences/gear-vr/1256687334386627/">www.oculus.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="SKYBOX VR Video Player" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.oculus.com%2Fexperiences%2Fgear-vr%2F1256687334386627%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p>Oculus というVRお絵かきとか</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Quill" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.oculus.com%2Fexperiences%2Frift%2F1118609381580656%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://www.oculus.com/experiences/rift/1118609381580656/">www.oculus.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Quill" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.oculus.com%2Fexperiences%2Frift%2F1118609381580656%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p>もちろんVRChatも入ってみました。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="VRChat on Steam" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fstore.steampowered.com%2Fapp%2F438100%2FVRChat%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://store.steampowered.com/app/438100/VRChat/">store.steampowered.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="VRChat on Steam" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fstore.steampowered.com%2Fapp%2F438100%2FVRChat%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://store.steampowered.com/app/438100/VRChat/">store.steampowered.com</a></cite></p>
 <p> </p>
 <p>特によかったのはRobo RecallというFPSゲーム</p>
 <p>OculusTouchの操作性とゲームの難易度も相まって、冬なのに汗かく。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Robo Recall" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.oculus.com%2Fexperiences%2Frift%2F1081190428622821%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://www.oculus.com/experiences/rift/1081190428622821/">www.oculus.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Robo Recall" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.oculus.com%2Fexperiences%2Frift%2F1081190428622821%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 
 ### ネックかなーと思ってるとこ

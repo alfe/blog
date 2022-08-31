@@ -25,7 +25,7 @@ URL: https://blog.alfebelow.com/entry/2016/07/31/%E3%80%90%E7%92%B0%E5%A2%83%E3%
 
 # cmder
 
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="cmder | Console Emulator" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fcmder.net%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://cmder.net/">cmder.net</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="cmder | Console Emulator" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fcmder.net%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://cmder.net/">cmder.net</a></cite></p>
 <p>ページ真ん中くらいにある[Download full]からダウンロードできる。</p>
 <p>zipファイルを落としてきて解凍するとすぐ使える。</p>
 <p>インストーラーすら必要ない。</p>

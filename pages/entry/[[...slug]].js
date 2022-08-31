@@ -3,22 +3,40 @@ import path from "path"
 import dayjs from "dayjs"
 
 import Layout from "../../components/Layout"
-import { listContentFiles, readContentFile } from "../../lib/content-loader"
+import PostFooter from "../../components/PostFooter"
+import { listContentFiles, readContentFile, readContentFiles } from "../../lib/content-loader"
 
 
 export default function Post(params) {
   const date = dayjs(params.published);
+  // console.log(params)
   return (
     <Layout title={params.title}>
       <div className="post-meta">
         <time datatime={`${date.year()}-${'0' + (date.month() + 1)}-${'0' + date.date()}`}>
           {params.published}
         </time>
+        <div>
+          {(params?.category || []).map(category => (
+            <span key={category} className="category">{category}</span>
+          ))}
+        </div>
       </div>
       <div className="post-body"
         dangerouslySetInnerHTML={{ __html: params.content }}
       />
-      <style>{`
+      <PostFooter prevPage={params.prevPage} nextPage={params.nextPage} />
+
+      <style jsx>{`
+        .category {
+          padding: 0 0.5rem;
+          background: midnightblue;
+          border-radius: 3px;
+          color: #EEE;
+          font-size: .9rem;
+        }
+      `}</style>
+      <style jsx global>{`
         .post-meta {
           text-align: right;
           color: #666;
@@ -75,12 +93,24 @@ export default function Post(params) {
           text-decoration: none;
           width: 100%;
         }
+
+        .picture-caption {
+          font-size: .8em;
+          text-align: center;
+          color: #666;
+        }
+
         h3 {
           margin-top: 5rem;
           border-bottom: 1px solid #cfd8d8;
           border-left: 8px double #cfd8d8;
           padding: 1rem;
           font-size: 140%;
+        }
+        h4 {
+          margin-top: 3rem;
+          padding-left: 1em;
+          border-bottom: 1px dotted;
         }
         .post-body {
           font-size: 18px;
@@ -95,9 +125,20 @@ export default function Post(params) {
  */
 export async function getStaticProps({ params }) {
   const content = await readContentFile({ fs, slug: params.slug.join('/') })
+
+  const posts = await readContentFiles({ fs })
+  const postIndex = posts
+    .map((post) => `${post.dirname === '//' ? '/' : post.dirname}${post.slug}`)
+    .findIndex(url => url === `/${params.slug.join('/')}`);
+  console.log(posts.map((post, index) => `${index} ${post.dirname === '//' ? '/' : post.dirname}${post.slug}`))
+  console.log(`/${params.slug.join('/')}`)
+
   return {
     props: {
-      ...content
+      ...content,
+      postIndex,
+      prevPage: postIndex !== 0 ? posts[postIndex - 1] || null : null,
+      nextPage: postIndex !== posts.length ? posts[postIndex + 1] || null : null,
     }
   }
 }

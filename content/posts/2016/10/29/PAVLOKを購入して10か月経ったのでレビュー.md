@@ -62,7 +62,7 @@ URL: https://blog.alfebelow.com/entry/2016/10/29/PAVLOK%E3%82%92%E8%B3%BC%E5%85%
 <p> </p>
 <h4>◆ 売り場</h4>
 <p>公式の販売ページ（国際便に抵抗がなければ）</p>
-<p><a href="https://buy.pavlok.com/products/japanese-order-a-pavlok-wristband">Japanese Order a Pavlok + Wristband</a><cite class="hatena-citation"><a href="https://buy.pavlok.com/collections/all/products/japanese-order-a-pavlok-wristband">buy.pavlok.com</a></cite></p>
+<p><a href="https://buy.pavlok.com/products/japanese-order-a-pavlok-wristband">Japanese Order a Pavlok + Wristband</a></p>
 <p> </p>
 <p>Amazon</p>
 <div class="freezed">
@@ -82,11 +82,11 @@ URL: https://blog.alfebelow.com/entry/2016/10/29/PAVLOK%E3%82%92%E8%B3%BC%E5%85%
 <h4>◆ さっき知った</h4>
 <p>月曜から夜更かしで紹介されてたんだね。</p>
 <p>どうやら目覚ましデバイスみたいな扱いっぽい？</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="We're Big in Japan - Pavlok" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fpavlok.com%2Fblog%2Fwere-big-in-japan%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://pavlok.com/blog/were-big-in-japan/">pavlok.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="We're Big in Japan - Pavlok" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fpavlok.com%2Fblog%2Fwere-big-in-japan%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://pavlok.com/blog/were-big-in-japan/">pavlok.com</a></cite></p>
 <p> </p>
 <p> </p>
 <p>PAVLOK公式が「ほとんどの日本人って十分な睡眠とれてないと思うんだけどなー」ってコメントしてるのも面白いよね。</p>
 <p>あと、目覚まし専用のPAVLOK廉価版も近いうちに発売するっぽい。</p>
-<p><a href="https://buy.pavlok.com/products/shocking-alarm-clock">Pre-order The Shock Clock – Never Hit Snooze Again</a><cite class="hatena-citation"><a href="https://buy.pavlok.com/products/shocking-alarm-clock">buy.pavlok.com</a></cite></p>
+<p><a href="https://buy.pavlok.com/products/shocking-alarm-clock">Pre-order The Shock Clock – Never Hit Snooze Again</a></p>
 <p> </p>
 <p> </p>

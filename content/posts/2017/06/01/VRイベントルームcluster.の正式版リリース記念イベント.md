@@ -15,7 +15,7 @@ URL: https://blog.alfebelow.com/entry/2017/06/01/VR%E3%82%A4%E3%83%99%E3%83%B3%E
 </p>
 <p> </p>
 <p>ひきこもりというところに共感をおぼえ、<a href="https://cluster.mu/">cluster.</a> の公式に飛んでみた。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="cluster." src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fcluster.mu%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://cluster.mu/">cluster.mu</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="cluster." src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fcluster.mu%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p>ところで、このcluster. がどんなサービスかというと、プレゼンをしたりLT大会をしたりする空間をVRで提供してくれる、というもの。</p>
 <p> </p>

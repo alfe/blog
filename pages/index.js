@@ -1,6 +1,7 @@
 import fs from "fs"
 
 import Link from "next/link"
+import Image from "next/image"
 
 import Layout from "../components/Layout"
 import { readContentFiles } from "../lib/content-loader"
@@ -9,16 +10,19 @@ const Home = (props) => {
   const { posts, hasArchive } = props
   return (
     <Layout title="">
-      {posts.map((post) => 
-        <Link key={post.slug} href={`/entry${post.dirname}${post.slug}`} as={`/entry${post.dirname}${post.slug}`}><a
-        
-        className="post-teaser">
-          
-## {post.title}
-
-          <div><span>{post.published}</span></div>
-        </a></Link>
-      )}
+      {posts.map((post) => (
+        <Link key={post.slug} href={`/entry${post.dirname}${post.slug}`} as={`/entry${post.dirname}${post.slug}`}>
+          <a className="post-teaser">
+            <div className="post-thumbnail">
+              {post.thumbnail && (
+                <Image src={post.thumbnail} alt="thumb" width={240} height={120} />
+              )}
+            </div>
+            <h2>{post.title}</h2>
+            <div><span>{post.published}</span></div>
+          </a>
+        </Link>
+      ))}
 
       {hasArchive ? (
         <div className="home-archive">
@@ -38,6 +42,15 @@ const Home = (props) => {
 
         .post-teaser h2 {
           margin-top: 0;
+        }
+        .post-thumbnail {
+          float: right;
+          border-radius: 3px;
+          overflow: hidden;
+          width: 240px;
+          height: 120px;
+        }
+        .post-thumbnail img {
         }
 
         .home-archive {

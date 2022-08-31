@@ -7,7 +7,7 @@ URL: https://blog.alfebelow.com/entry/2015/11/23/%E3%82%B3%E3%83%BC%E3%83%89%E6%
 ---
 
 <p>最近 Cloud9を使っている。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Cloud9 - Your development environment, in the cloud" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fc9.io%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://c9.io/">c9.io</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Cloud9 - Your development environment, in the cloud" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fc9.io%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p>なにがすごいって、ブラウザだけでコーディングができるのですよ。</p>
 <p> </p>

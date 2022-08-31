@@ -91,7 +91,7 @@ URL: https://blog.alfebelow.com/entry/2016/08/07/Maker_Faire_Tokyo_2016
 <p>木製のパズル。</p>
 <p>何が面白いかというと、ピースを台に置いたときだけ目が光るのです。</p>
 <p> </p>
-<p><iframe src="https://www.youtube.com/embed/videoseries?list=PLzufwgQ1HVmWh6y6pOMY3X9caEgPj7m77" width="480" frameborder="0" allowfullscreen=""></iframe><cite class="hatena-citation"><a href="https://www.youtube.com/watch?v=ssigTk_ftxM&amp;index=2&amp;list=PLzufwgQ1HVmWh6y6pOMY3X9caEgPj7m77">www.youtube.com</a></cite></p>
+<p><iframe src="https://www.youtube.com/embed/videoseries?list=PLzufwgQ1HVmWh6y6pOMY3X9caEgPj7m77" width="480" frameborder="0" allowfullscreen=""></iframe></p>
 <p>どういう仕組みになってるのか聞いてみたら、ワイヤレス給電みたいなのを組み込んでいるとのこと。</p>
 <p>ピース自体にはコイルとLEDくらいしか入っていなくて、空洞部分も多いのか思ったより軽め。</p>
 <p> </p>
@@ -102,7 +102,7 @@ URL: https://blog.alfebelow.com/entry/2016/08/07/Maker_Faire_Tokyo_2016
 # まとめ
 
 <p>Maker Faire Tokyo 2016は 8月7日まで！</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Maker Faire Tokyo 2016 | Maker Faire Tokyo 2016 | Make: Japan" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fmakezine.jp%2Fevent%2Fmft2016%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://makezine.jp/event/mft2016/">makezine.jp</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Maker Faire Tokyo 2016 | Maker Faire Tokyo 2016 | Make: Japan" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fmakezine.jp%2Fevent%2Fmft2016%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://makezine.jp/event/mft2016/">makezine.jp</a></cite></p>
 <p> </p>
 
 # 追記

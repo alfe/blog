@@ -113,5 +113,5 @@ URL: https://blog.alfebelow.com/entry/kemono_free_agent_nation
 ### 他の記事
 
 <p> ほかにもこんなアニメ見てるよ</p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="日常系スキーの2017冬アニメおすすめ目録 - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2017_winter_anime" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2017_winter_anime">blog.alfebelow.com</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="日常系スキーの2017冬アニメおすすめ目録 - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2017_winter_anime" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2017_winter_anime">blog.alfebelow.com</a></cite></p>
 <p> </p>

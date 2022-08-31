@@ -11,7 +11,7 @@ URL: https://blog.alfebelow.com/entry/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%
 <p><img class="magnifiable" src="https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010302/20010302173830.jpg" alt="" /></p>
 <p> </p>
 <p> この間、おもしろ同人誌バザールで購入しました。</p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="第２回 #おもしろ同人誌バザール の気になってるサークル - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/10/29/%E7%AC%AC%EF%BC%92%E5%9B%9E_%23%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB_%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%B5" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/10/29/%E7%AC%AC%EF%BC%92%E5%9B%9E_%23%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB_%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%B5">blog.alfebelow.com</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="第２回 #おもしろ同人誌バザール の気になってるサークル - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/10/29/%E7%AC%AC%EF%BC%92%E5%9B%9E_%23%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB_%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%B5" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/10/29/%E7%AC%AC%EF%BC%92%E5%9B%9E_%23%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB_%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%B5">blog.alfebelow.com</a></cite></p>
 <p> </p>
 <p>で、この本に親指シフトの紹介があったわけです。</p>
 <p>なんだ親指シフトって。</p>
@@ -53,7 +53,7 @@ URL: https://blog.alfebelow.com/entry/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%
 ### どこから始めればいいの？
 
 <p>設定方法はココがわかりやすかった。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="【Windows】たった5分で！親指シフトを始める！必要なのはUSBメモリーだけ！ やまぶきR 設定方法 | ものくろぼっくす" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fmono96.jp%2Farchives%2F17834" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://mono96.jp/archives/17834">mono96.jp</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="【Windows】たった5分で！親指シフトを始める！必要なのはUSBメモリーだけ！ やまぶきR 設定方法 | ものくろぼっくす" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fmono96.jp%2Farchives%2F17834" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p>あと、キー配列覚えやすくなるかなと、これをポチった。</p>
 <div class="freezed">

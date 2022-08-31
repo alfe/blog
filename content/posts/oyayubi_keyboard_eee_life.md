@@ -8,7 +8,7 @@ URL: https://blog.alfebelow.com/entry/oyayubi_keyboard_eee_life
 
 <p>親指シフトにトライしています。</p>
 <p> </p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: 10px 0px;" title="親指シフト(NICOLA)にトライしてみている（2日目） - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88%28NICOLA%29%E3%81%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%882%E6%97%A5%E7%9B%AE%EF%BC%89" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88%28NICOLA%29%E3%81%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%882%E6%97%A5%E7%9B%AE%EF%BC%89">blog.alfebelow.com</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="親指シフト(NICOLA)にトライしてみている（2日目） - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88%28NICOLA%29%E3%81%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%882%E6%97%A5%E7%9B%AE%EF%BC%89" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88%28NICOLA%29%E3%81%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%882%E6%97%A5%E7%9B%AE%EF%BC%89">blog.alfebelow.com</a></cite></p>
 <p> </p>
 <p> </p>
 <p>で、</p>

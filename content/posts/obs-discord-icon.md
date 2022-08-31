@@ -12,7 +12,7 @@ URL: https://blog.alfebelow.com/entry/obs-discord-icon
 </p>
 <p><span style="font-weight: 400;">その見た目を自分好みに設定できるように「<a href="https://obs-discord-icon.alfebelow.com/">OBSのDiscordアイコン外観変更ジェネレーター</a></span><span style="font-weight: 400;">」</span><span style="font-weight: 400;">をつくりました。</span></p>
 <p> </p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fobs-discord-icon.alfebelow.com%2F" title="OBSのDiscordアイコン外観変更ジェネレーター" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;"></iframe><cite class="hatena-citation"><a href="https://obs-discord-icon.alfebelow.com/">obs-discord-icon.alfebelow.com</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fobs-discord-icon.alfebelow.com%2F" title="OBSのDiscordアイコン外観変更ジェネレーター" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;"></iframe></p>
 <p> </p>
 <p> </p>
 <h4>何ができるの？</h4>

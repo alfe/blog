@@ -10,7 +10,7 @@ URL: https://blog.alfebelow.com/entry/2015/07/09/_%E3%82%B9%E3%83%9E%E3%83%9B%E3
 <p>５月末にGoogle Photosがアップデートしてかなり使いやすくなった様子。</p>
 <p><iframe src="https://youtube.googleapis.com/v/ydBjsZnHrwM&amp;source=uds" width="420" frameborder="0" allowfullscreen=""></iframe><br /><a href="http://www.youtube.com/watch?v=ydBjsZnHrwM">Introducing the new Google Photos - YouTube</a></p>
 <p> </p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="Google Photos - All your photos organized and easy to find" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.google.com%2Fphotos%2Fabout%2F" frameborder="0" scrolling="no">&lt;a href="https://www.google.com/photos/about/" data-mce-href="https://www.google.com/photos/about/"&gt;Google Photos - All your photos organized and easy to find&lt;/a&gt;</iframe><cite class="hatena-citation"><a href="https://www.google.com/photos/about/">www.google.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Google Photos - All your photos organized and easy to find" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.google.com%2Fphotos%2Fabout%2F" frameborder="0" scrolling="no">&lt;a href="https://www.google.com/photos/about/" data-mce-href="https://www.google.com/photos/about/"&gt;Google Photos - All your photos organized and easy to find&lt;/a&gt;</iframe></p>
 <p><a href="https://www.google.com/photos/about/">https://www.google.com/photos/about/</a></p>
 <p> </p>
 <p>Google Photosというのは、Googleの提供している写真や動画をインターネット上に保存できるサービス。<br />Google Photosに写真を移していけば、スマホの容量がかなり空くんじゃないかな。</p>

@@ -23,7 +23,7 @@ URL: https://blog.alfebelow.com/entry/2016/09/18/SONY_%E3%82%B5%E3%82%A4%E3%83%9
 ### 修理の出し方
 
 <p>ここ↓ の [型名入力] に DSC-RX100って入れて、あとは流れにそって記入していく。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" title="修理料金の目安 | 修理のご相談 | サポート・お問い合わせ | ソニー" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.sony.jp%2Fsupport%2Frepair%2Frepair_price_online.html" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://www.sony.jp/support/repair/repair_price_online.html">www.sony.jp</a>.</cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="修理料金の目安 | 修理のご相談 | サポート・お問い合わせ | ソニー" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.sony.jp%2Fsupport%2Frepair%2Frepair_price_online.html" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://www.sony.jp/support/repair/repair_price_online.html">www.sony.jp</a>.</cite></p>
 <p> </p>
 <p>そうすると、指定した時間に引き取りに来てくれます。</p>
 <p>梱包もその場でしてくれるので、何もしなくてOK</p>

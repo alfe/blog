@@ -28,7 +28,6 @@ const Layout = (props) => {
       </main>
 
       <footer>
-        &copy; {siteTitle}
       </footer>
 
       <style jsx>{`
@@ -46,6 +45,12 @@ const Layout = (props) => {
           margin: 0 0 4em;
         }
 
+        .site-title {
+          font-size: 3rem;
+          color: #3d501a;
+          text-shadow: 2px 2px 8px #a1ab8f, 0px -2px 1px #fff;
+          letter-spacing: -4px;
+        }
         .site-title a {
           color: inherit;
           text-decoration: none;
