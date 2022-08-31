@@ -4,6 +4,7 @@ Category:
 - レビュー
 Date: 2016-12-04T10:48:00+09:00
 URL: https://blog.alfebelow.com/entry/2016/12/04/%E3%80%90%E7%B5%90%E6%9E%9C%E5%A0%B1%E5%91%8A%E3%80%91%E8%B6%85%E5%80%8B%E4%BA%BA%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%82%92Twitter%E5%BA%83%E5%91%8A%E3%81%A7%E6%B5%81%E3%81%97
+IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204095205.png
 ---
 
 <p>Twitter広告に3ドルの広告を投げて、アンケートに協力してもらった結果の報告。</p>

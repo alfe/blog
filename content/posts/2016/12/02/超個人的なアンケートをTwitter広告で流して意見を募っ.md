@@ -4,6 +4,7 @@ Category:
 - LifeHack
 Date: 2016-12-02T07:47:28+09:00
 URL: https://blog.alfebelow.com/entry/2016/12/02/%E8%B6%85%E5%80%8B%E4%BA%BA%E7%9A%84%E3%81%AA%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%E3%82%92Twitter%E5%BA%83%E5%91%8A%E3%81%A7%E6%B5%81%E3%81%97%E3%81%A6%E6%84%8F%E8%A6%8B%E3%82%92%E5%8B%9F%E3%81%A3
+IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201202754.jpg
 ---
 
 <p>部屋に読書用のライトを置きたくて、いろいろAmazonを探してみていたんですが</p>

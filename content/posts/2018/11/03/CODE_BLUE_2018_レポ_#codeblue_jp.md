@@ -4,6 +4,7 @@ Category:
 - 雑記
 Date: 2018-11-03T18:18:23+09:00
 URL: https://blog.alfebelow.com/entry/2018/11/03/CODE_BLUE_2018_%E3%83%AC%E3%83%9D_%23codeblue_jp
+IMAGE: https://lh3.googleusercontent.com/-P0WKVqFm6xw/W9udYcwSvuI/AAAAAAABiLs/_GFLxvz7AXAvb8Ni_4ePE5LOKkyJIbduACE0YBhgL/s1024/IMG_fksd7d.jpg
 ---
 
 <p>CODE BLUE 2018 というセキュリティに関するカンファレンスに行ってきたのでレポート</p>

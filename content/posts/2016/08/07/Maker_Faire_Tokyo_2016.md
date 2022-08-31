@@ -4,6 +4,7 @@ Category:
 - 雑記
 Date: 2016-08-07T10:53:11+09:00
 URL: https://blog.alfebelow.com/entry/2016/08/07/Maker_Faire_Tokyo_2016
+IMAGE: https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010212/20010212004620.jpg
 ---
 
 <p>Maker Faire Tokyo 2016の1日目に行ってきました。</p>

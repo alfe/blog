@@ -4,6 +4,7 @@ Category:
 - レビュー
 Date: 2019-06-18T23:18:57+09:00
 URL: https://blog.alfebelow.com/entry/2019/06/18/vuls%E7%A5%AD%E3%82%8A_%235%E5%8F%82%E5%8A%A0%E3%83%AC%E3%83%9D
+IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144030.jpg
 ---
 
 <span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144030.jpg" itemprop="image"></span>
@@ -145,7 +146,7 @@ Vulsみたいに自分のコンテナに含まれる脆弱性をとれる
 
 
 
-## Wordpressの脆弱性を Vulsで検知できるように！
+## Wordpressの脆弱性をVulsで検知できるように！
 
 [https://speakerdeck.com/rvirus0817/wordpressfalsecui-ruo-xing-wo-vulsdejian-zhi-dekiruyouni:embed:cite]
 

@@ -4,6 +4,7 @@ Category:
 - プログラム
 Date: 2022-03-20T19:00:00+09:00
 URL: https://blog.alfebelow.com/entry/obs-discord-icon
+IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20220320/20220320164720.png
 ---
 
 <p><span style="font-weight: 400;">Among us実況とかで雑談配信とかで、四角いDiscordのアイコンが横並びでぴょこぴょことよく動くのを見かけます。</span></p>
