@@ -8,6 +8,7 @@ import { readContentFiles } from "../lib/content-loader"
 
 const Home = (props) => {
   const { posts, hasArchive } = props
+  console.log(posts)
   return (
     <Layout title="">
       {posts.map((post) => (
@@ -72,6 +73,9 @@ export async function getStaticProps({ params }) {
   const MAX_COUNT = 10
   const posts = await readContentFiles({ fs })
   const hasArchive = posts.length > MAX_COUNT
+
+  // フィード情報の生成
+  generatedRssFeed(posts.slice(0, MAX_COUNT));
 
   return {
     props: {
