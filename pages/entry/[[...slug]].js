@@ -3,24 +3,26 @@ import path from "path"
 import dayjs from "dayjs"
 
 import Layout from "../../components/Layout"
+import Ogp from "../../components/Ogp"
+import Category from "../../components/Category"
 import PostFooter from "../../components/PostFooter"
 import { listContentFiles, readContentFile, readContentFiles } from "../../lib/content-loader"
-
 
 export default function Post(params) {
   const date = dayjs(params.published);
   // console.log(params)
   return (
     <Layout title={params.title}>
+      <Ogp
+        slug={params.slug}
+        title={params.title}
+        content={params.content}
+        thumbnail={params.thumbnail} />
       <div className="post-meta">
         <time datatime={`${date.year()}-${'0' + (date.month() + 1)}-${'0' + date.date()}`}>
           {params.published}
         </time>
-        <div>
-          {(params?.category || []).map(category => (
-            <span key={category} className="category">{category}</span>
-          ))}
-        </div>
+        <Category category={params.category} />
       </div>
       <div className="post-body"
         dangerouslySetInnerHTML={{ __html: params.content }}
@@ -28,19 +30,15 @@ export default function Post(params) {
       <PostFooter prevPage={params.prevPage} nextPage={params.nextPage} />
 
       <style jsx>{`
-        .category {
-          padding: 0 0.5rem;
-          background: midnightblue;
-          border-radius: 3px;
-          color: #EEE;
-          font-size: .9rem;
-        }
-      `}</style>
-      <style jsx global>{`
         .post-meta {
           text-align: right;
           color: #666;
         }
+        .post-body {
+          font-size: 18px;
+        }
+      `}</style>
+      <style jsx global>{`
         .hatena-asin-detail {
           display: flex;
           justify-content: center;
@@ -111,9 +109,6 @@ export default function Post(params) {
           margin-top: 3rem;
           padding-left: 1em;
           border-bottom: 1px dotted;
-        }
-        .post-body {
-          font-size: 18px;
         }
       `}</style>
     </Layout>

@@ -26,7 +26,7 @@ const Home = (props) => {
 
       {hasArchive ? (
         <div className="home-archive">
-          <Link href="/archive/[page]" as="/archive/1"><a>アーカイブ</a></Link>
+          <Link href="/archive/[page]" as="/archive/2"><a>さらに昔の記事</a></Link>
         </div>
       ) : ``}
 
@@ -69,7 +69,7 @@ export default Home;
  * ページコンポーネントで使用する値を用意する
  */
 export async function getStaticProps({ params }) {
-  const MAX_COUNT = 5
+  const MAX_COUNT = 10
   const posts = await readContentFiles({ fs })
   const hasArchive = posts.length > MAX_COUNT
 

@@ -1,0 +1,21 @@
+import Head from "next/head"
+
+const Ogp = (props) => {
+  const siteTitle = "FUN YOU BLOG"
+
+  return (
+    <Head>
+      <meta property="og:url" content={`https://blog.alfebelow.com/entry/${props.slug}`} />
+      <meta property="og:type" content="website" />
+      <meta property="og:title" content={props.title} />
+      <meta property="og:description" content={props.content.substring(0, 200)} />
+      <meta property="og:site_name" content={siteTitle} />
+      <meta property="og:locale" content="ja" />
+      <meta property="og:image" content={props.thumbnail} />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:site" content="@alfe_below" />
+    </Head>
+  )
+}
+
+export default Ogp
