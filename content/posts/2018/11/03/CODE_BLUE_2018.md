@@ -3,11 +3,11 @@ Title: 'CODE BLUE 2018 レポ #codeblue_jp'
 Category:
 - 雑記
 Date: 2018-11-03T18:18:23+09:00
-IMAGE: https://lh3.googleusercontent.com/-P0WKVqFm6xw/W9udYcwSvuI/AAAAAAABiLs/_GFLxvz7AXAvb8Ni_4ePE5LOKkyJIbduACE0YBhgL/s1024/IMG_fksd7d.jpg
+IMAGE: /img/2018/11/03/img.jpg
 ---
 
 <p>CODE BLUE 2018 というセキュリティに関するカンファレンスに行ってきたのでレポート</p>
-<p><img class="magnifiable" src="https://lh3.googleusercontent.com/-P0WKVqFm6xw/W9udYcwSvuI/AAAAAAABiLs/_GFLxvz7AXAvb8Ni_4ePE5LOKkyJIbduACE0YBhgL/s1024/IMG_fksd7d.jpg" /></p>
+<p><img class="magnifiable" src="/img/2018/11/03/img.jpg" /></p>
 <p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="世界トップクラスの専門家による日本発の情報セキュリティ国際会議「CODE BLUE」" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fcodeblue.jp%2F2018%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p><!-- more --></p>

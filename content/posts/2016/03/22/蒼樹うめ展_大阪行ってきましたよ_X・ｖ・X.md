@@ -3,7 +3,7 @@ Title: 蒼樹うめ展 大阪行ってきましたよ X・ｖ・X
 Category:
 - 雑記
 Date: 2016-03-22T22:00:36+09:00
-IMAGE: https://lh3.googleusercontent.com/-p1xrgFCo06c/VvFGKBXnBKI/AAAAAAAAPvI/qJ4y0EY1HfsntQXNsEhq5wZ6AtzHtrIVQ/s1024/IMG_20160322_221824.jpg
+IMAGE: /img/2016/03/22/img.jpg
 ---
 
 <p>想像以上の幸せ空間でした。</p>

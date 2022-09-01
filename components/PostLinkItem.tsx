@@ -11,9 +11,7 @@ const PostLinkItem = (props) => {
             <div><span>{new Date(props.published).toLocaleDateString()}</span></div>
           </div>
           <div className="post-thumbnail">
-            {props.thumbnail && (
-              <Image src={props.thumbnail} alt="thumb" width={240} height={120} />
-            )}
+            <Image src={props.thumbnail || '/img/noImage.png'} alt="thumb" width={240} height={120} />
           </div>
         </a>
       </Link>

@@ -25,6 +25,11 @@ const Archive = (props) => {
         href="/archive/[page]"
         asCallback={(page) => `/archive/${page}`}
       />
+      <style jsx global>{`
+        img[alt="thumb"] {
+          object-fit: cover;
+        }
+      `}</style>
     </Layout>
   )
 };

@@ -3,11 +3,11 @@ Title: SONY サイバーショット DSC-RX100 を修理に出した
 Category:
 - レビュー
 Date: 2016-09-18T14:24:15+09:00
-IMAGE: https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010319/20010319193000.jpg
+IMAGE: /img/2016/09/18/img.jpg
 ---
 
 <p>直してもらった</p>
-<p><img class="magnifiable" src="https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010319/20010319193000.jpg" alt="" /></p>
+<p><img class="magnifiable" src="/img/2016/09/18/img.jpg" alt="" /></p>
 <p> </p>
 <p>直る前</p>
 <p><img class="magnifiable" src="https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010319/20010319193010.jpg" alt="" /></p>

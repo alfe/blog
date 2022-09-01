@@ -3,7 +3,7 @@ Title: Twitter広告で部屋の照明を決めて、届いた
 Category:
 - レビュー
 Date: 2016-12-05T21:16:11+09:00
-IMAGE: https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010316/20010316093700.jpg
+IMAGE: /img/2016/12/05/img.jpg
 ---
 
 
@@ -27,7 +27,7 @@ IMAGE: https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010316/20010
 ### で、こうなったよ
 
 <p><img class="hatena-fotolife" title="f:id:alfe1025:20161201202754j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201202754.jpg" alt="f:id:alfe1025:20161201202754j:plain" /></p>
-<p><img class="magnifiable" src="https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010316/20010316093700.jpg" alt="" /></p>
+<p><img class="magnifiable" src="/img/2016/12/05/img.jpg" alt="" /></p>
 <p> </p>
 <p>満足。</p>
 <p> </p>

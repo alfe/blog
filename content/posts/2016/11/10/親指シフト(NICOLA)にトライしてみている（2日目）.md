@@ -3,7 +3,7 @@ Title: 親指シフト(NICOLA)にトライしてみている（2日目）
 Category:
 - 雑記
 Date: 2016-11-10T22:53:05+09:00
-IMAGE: https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010222/20010222124030.jpg
+IMAGE: /img/2016/11/10/img.jpg
 ---
 
 <p>完全にこの同人誌の影響</p>

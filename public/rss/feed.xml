@@ -2,28 +2,26 @@
 <rss version="2.0">
     <channel>
         <title>FUN YOU BLOG</title>
-        <link>https://blog.alfebelow.com/</link>
+        <link>https://blog.alfebelow.com</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Thu, 01 Sep 2022 12:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 15:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <image>
             <title>FUN YOU BLOG</title>
-            <url>https://blog.alfebelow.com//favicon.png</url>
-            <link>https://blog.alfebelow.com/</link>
+            <url>https://blog.alfebelow.com/favicon.png</url>
+            <link>https://blog.alfebelow.com</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
         <item>
             <title><![CDATA[2022年8月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com//entry2022年8月に読んだ本</link>
-            <guid>https://blog.alfebelow.com//entry2022年8月に読んだ本</guid>
+            <link>https://blog.alfebelow.com/entry2022年8月に読んだ本</link>
+            <guid>https://blog.alfebelow.com/entry2022年8月に読んだ本</guid>
             <pubDate>Wed, 31 Aug 2022 09:36:50 GMT</pubDate>
             <description><![CDATA[いつもの
 
-&#x26;nbsp;
 猫に学ぶ―いかに良く生きるか
-
 
 
 猫に学ぶ――いかに良く生きるか
@@ -33,13 +31,12 @@
 
 Amazon
 
-
-猫から生]]></description>
+猫か]]></description>
         </item>
         <item>
             <title><![CDATA[2022年7月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com//entry2022年7月に読んだ本</link>
-            <guid>https://blog.alfebelow.com//entry2022年7月に読んだ本</guid>
+            <link>https://blog.alfebelow.com/entry2022年7月に読んだ本</link>
+            <guid>https://blog.alfebelow.com/entry2022年7月に読んだ本</guid>
             <pubDate>Sun, 31 Jul 2022 08:31:41 GMT</pubDate>
             <description><![CDATA[いつもの
  
@@ -62,8 +59,8 @@ Amazon
         </item>
         <item>
             <title><![CDATA[アイコン外観変更ジェネレーターのアクセス推移]]></title>
-            <link>https://blog.alfebelow.com//entryアイコン外観変更ジェネレーターのアクセス推移</link>
-            <guid>https://blog.alfebelow.com//entryアイコン外観変更ジェネレーターのアクセス推移</guid>
+            <link>https://blog.alfebelow.com/entryアイコン外観変更ジェネレーターのアクセス推移</link>
+            <guid>https://blog.alfebelow.com/entryアイコン外観変更ジェネレーターのアクセス推移</guid>
             <pubDate>Sat, 02 Jul 2022 09:54:15 GMT</pubDate>
             <description><![CDATA[<p>3月末、OBSのカスタムCSSをつくるジェネレーターを作成して公開しました。そこからしばらく経ったのでアクセスログをまとめてみようと思います。
  </p>
@@ -78,8 +75,8 @@ Amazon
         </item>
         <item>
             <title><![CDATA[2022年6月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com//entry2022年6月に読んだ本</link>
-            <guid>https://blog.alfebelow.com//entry2022年6月に読んだ本</guid>
+            <link>https://blog.alfebelow.com/entry2022年6月に読んだ本</link>
+            <guid>https://blog.alfebelow.com/entry2022年6月に読んだ本</guid>
             <pubDate>Fri, 01 Jul 2022 10:41:25 GMT</pubDate>
             <description><![CDATA[いつもの
 
@@ -103,8 +100,8 @@ Amazon
         </item>
         <item>
             <title><![CDATA[2022年5月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com//entry2022年5月に読んだ本</link>
-            <guid>https://blog.alfebelow.com//entry2022年5月に読んだ本</guid>
+            <link>https://blog.alfebelow.com/entry2022年5月に読んだ本</link>
+            <guid>https://blog.alfebelow.com/entry2022年5月に読んだ本</guid>
             <pubDate>Tue, 31 May 2022 12:54:24 GMT</pubDate>
             <description><![CDATA[いつもの
 
@@ -124,8 +121,8 @@ Amazon
         </item>
         <item>
             <title><![CDATA[2022年4月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com//entry2022年4月に読んだ本</link>
-            <guid>https://blog.alfebelow.com//entry2022年4月に読んだ本</guid>
+            <link>https://blog.alfebelow.com/entry2022年4月に読んだ本</link>
+            <guid>https://blog.alfebelow.com/entry2022年4月に読んだ本</guid>
             <pubDate>Sun, 01 May 2022 10:56:24 GMT</pubDate>
             <description><![CDATA[いつもの
 
@@ -148,8 +145,8 @@ Amazon
         </item>
         <item>
             <title><![CDATA[2022年3月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com//entry2022年3月に読んだ本</link>
-            <guid>https://blog.alfebelow.com//entry2022年3月に読んだ本</guid>
+            <link>https://blog.alfebelow.com/entry2022年3月に読んだ本</link>
+            <guid>https://blog.alfebelow.com/entry2022年3月に読んだ本</guid>
             <pubDate>Sun, 03 Apr 2022 12:30:02 GMT</pubDate>
             <description><![CDATA[いつもの
 
@@ -171,29 +168,18 @@ Amazon
         </item>
         <item>
             <title><![CDATA[OBSでDiscordのアイコンを四角や横並びにするジェネレーター]]></title>
-            <link>https://blog.alfebelow.com//entryobs-discord-icon</link>
-            <guid>https://blog.alfebelow.com//entryobs-discord-icon</guid>
+            <link>https://blog.alfebelow.com/entryobs-discord-icon</link>
+            <guid>https://blog.alfebelow.com/entryobs-discord-icon</guid>
             <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Among us実況とかで雑談配信とかで、四角いDiscordのアイコンが横並びでぴょこぴょことよく動くのを見かけます。
+」をつくりました。
 
-
-
-その見た目を自分好みに設定できるように「OBSのDiscordアイコン外観変更ジェネレーター」をつくりました。
- 
-
- 
- 
-何ができるの？
-
-アイコンを横並びにしたり
-アイコンのサイズを変えたり
-アイコンの形を四角くしたり角を丸くしたり
-アイコンをぴょこぴょこさせたり、]]></description>
+<h3>何ができるの？</h]]></description>
         </item>
         <item>
             <title><![CDATA[2022年2月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com//entry2022年2月に読んだ本</link>
-            <guid>https://blog.alfebelow.com//entry2022年2月に読んだ本</guid>
+            <link>https://blog.alfebelow.com/entry2022年2月に読んだ本</link>
+            <guid>https://blog.alfebelow.com/entry2022年2月に読んだ本</guid>
             <pubDate>Tue, 01 Mar 2022 11:54:07 GMT</pubDate>
             <description><![CDATA[いつもの
 
@@ -216,8 +202,8 @@ Amazon
         </item>
         <item>
             <title><![CDATA[2021年12月-2022年1月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com//entry2021年12月ー2022年1月に読んだ本</link>
-            <guid>https://blog.alfebelow.com//entry2021年12月ー2022年1月に読んだ本</guid>
+            <link>https://blog.alfebelow.com/entry2021年12月ー2022年1月に読んだ本</link>
+            <guid>https://blog.alfebelow.com/entry2021年12月ー2022年1月に読んだ本</guid>
             <pubDate>Mon, 31 Jan 2022 13:44:16 GMT</pubDate>
             <description><![CDATA[いつもの
  

@@ -3,11 +3,11 @@ Title: Maker Faire Tokyo 2016レポ
 Category:
 - 雑記
 Date: 2016-08-07T10:53:11+09:00
-IMAGE: https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010212/20010212004620.jpg
+IMAGE: /img/2016/08/07/img.jpg
 ---
 
 <p>Maker Faire Tokyo 2016の1日目に行ってきました。</p>
-<p><img class="magnifiable" src="https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010212/20010212004620.jpg" alt="" /></p>
+<p><img class="magnifiable" src="/img/2016/08/07/img.jpg" alt="" /></p>
 <p> </p>
 <p>というわけで、個人的に惹かれたブースを紹介するよ！</p>
 <p> </p>

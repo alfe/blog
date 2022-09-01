@@ -3,7 +3,7 @@ import { Feed } from 'feed';
 import { readContentFiles } from "../lib/content-loader"
 
 export const generatedRssFeed = async () => {
-  const baseUrl = process.env.SITE_URL || '';
+  const baseUrl = process.env.PRD_URL || '';
   const date = new Date();
   // author の情報を書き換える
   const author = {
