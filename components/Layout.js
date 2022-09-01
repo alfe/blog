@@ -10,9 +10,6 @@ const Layout = (props) => {
       <Head>
         <title>{title ? `${title} | ${siteTitle}` : siteTitle}</title>
         <link rel="icon" href="/favicon.ico" />
-
-        {/* TODO: remove */}
-        <meta name="robots" content="noindex , nofollow" /> 
       </Head>
 
       <header>
@@ -39,6 +36,11 @@ const Layout = (props) => {
           max-width: 800px;
           margin-left: auto;
           margin-right: auto;
+        }
+        @media screen and (max-width: 767px) {
+          .page {
+            padding: 0;
+          }
         }
 
         header {
