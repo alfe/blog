@@ -1,6 +1,5 @@
 import fs from "fs"
 import path from "path"
-import dayjs from "dayjs"
 
 import Layout from "../../components/Layout"
 import Ogp from "../../components/Ogp"
@@ -9,8 +8,6 @@ import PostFooter from "../../components/PostFooter"
 import { listContentFiles, readContentFile, readContentFiles } from "../../lib/content-loader"
 
 export default function Post(params) {
-  const date = dayjs(params.published);
-  // console.log(params)
   return (
     <Layout title={params.title}>
       <Ogp
@@ -19,8 +16,8 @@ export default function Post(params) {
         content={params.content}
         thumbnail={params.thumbnail} />
       <div className="post-meta">
-        <time datatime={`${date.year()}-${'0' + (date.month() + 1)}-${'0' + date.date()}`}>
-          {params.published}
+        <time datatime={params.published}>
+          {new Date(params.published).toLocaleDateString()}
         </time>
         <Category category={params.category} />
       </div>
@@ -118,7 +115,7 @@ export default function Post(params) {
 /**
  * ページコンポーネントで使用する値を用意する
  */
-export async function getStaticProps({ params }) {
+export const getStaticProps = async ({ params }) => {
   const content = await readContentFile({ fs, slug: params.slug.join('/') })
 
   const posts = await readContentFiles({ fs })

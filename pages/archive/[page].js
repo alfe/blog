@@ -1,53 +1,36 @@
 import fs from "fs"
-
-import Link from "next/link"
-
 import Layout from "../../components/Layout"
+import PostLinkItem from "../../components/PostLinkItem"
 import Pager from "../../components/Pager"
 import { listContentFiles, readContentFiles } from "../../lib/content-loader"
 
 const COUNT_PER_PAGE = 10
 
-export default function Archive(props) {
+const Archive = (props) => {
   const { posts, page, total, perPage } = props
   return (
     <Layout title="アーカイブ">
-      {posts.map((post) => <div
-        key={post.slug}
-        className="post-teaser"
-      >
-        <h2>
-          <Link href={`/entry${post.dirname}${post.slug}`} as={`/entry${post.dirname}${post.slug}`}>
-            <a>{post.title}</a>
-          </Link>
-        </h2>
-
-        <div><span>{post.published}</span></div>
-      </div>)}
+      {posts.map((post) => (
+        <PostLinkItem
+          key={post.slug}
+          to={`/entry${post.dirname}${post.slug}`}
+          thumbnail={post.thumbnail}
+          title={post.title}
+          published={post.published}
+        />
+      ))}
 
       <Pager
         page={page} total={total} perPage={perPage}
         href="/archive/[page]"
         asCallback={(page) => `/archive/${page}`}
       />
-
-      <style jsx>{`
-        .post-teaser {
-          margin-bottom: 2em;
-        }
-
-        .post-teaser h2 a {
-          text-decoration: none;
-        }
-      `}</style>
     </Layout>
   )
-}
+};
+export default Archive;
 
-/**
- * ページコンポーネントで使用する値を用意する
- */
-export async function getStaticProps({ params }) {
+export const getStaticProps = async ({ params }) => {
   const page = parseInt(params.page, 10)
   const end = COUNT_PER_PAGE * page
   const start = end - COUNT_PER_PAGE
@@ -55,7 +38,15 @@ export async function getStaticProps({ params }) {
 
   return {
     props: {
-      posts: posts.slice(start, end),
+      posts: posts
+        .slice(start, end)
+        .map(post => ({
+          title: post.title,
+          dirname: post.dirname,
+          slug: post.slug,
+          published: post.published,
+          thumbnail: post.thumbnail,
+        })),
       page,
       total: posts.length,
       perPage: COUNT_PER_PAGE,
@@ -66,7 +57,7 @@ export async function getStaticProps({ params }) {
 /**
  * 有効な URL パラメータを全件返す
  */
-export async function getStaticPaths() {
+export const getStaticPaths = async () => {
   const posts = await listContentFiles({ fs })
   const pages = range(Math.ceil(posts.length / COUNT_PER_PAGE))
   const paths = pages.map((page) => ({
