@@ -2,7 +2,7 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "FUN YOU BLOG",
     "home_page_url": "https://blog.alfebelow.com/",
-    "feed_url": "https://blog.alfebelow.com/rss/feed.json",
+    "feed_url": "https://blog.alfebelow.com/feed.json",
     "description": "alfe_belowのブログ",
     "icon": "https://blog.alfebelow.com/favicon.png",
     "author": {

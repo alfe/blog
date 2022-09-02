@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2022-09-02T04:56:14.498Z</updated>
+    <updated>2022-09-02T05:12:06.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
     </author>
-    <link rel="alternate" href="https://blog.alfebelow.com/"/>
-    <link rel="self" href="https://blog.alfebelow.com/rss/atom.xml"/>
+    <link rel="alternate" href="https://blog.alfebelow.com/" />
+    <link rel="self" href="https://blog.alfebelow.com/atom.xml" />
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
@@ -171,7 +171,7 @@ Amazon
         <summary type="html"><![CDATA[Among us実況とかで雑談配信とかで、四角いDiscordのアイコンが横並びでぴょこぴょことよく動くのを見かけます。
 」をつくりました。
 
-<h3>何ができるの？</h]]></summary>
+何ができるの？]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022年2月に読んだ本]]></title>

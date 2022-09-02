@@ -21,9 +21,9 @@ export const generatedRssFeed = async () => {
     copyright: `All rights reserved ${author.name}`,
     updated: date,
     feedLinks: {
-      rss2: `${baseUrl}/rss/feed.xml`,
-      json: `${baseUrl}/rss/feed.json`,
-      atom: `${baseUrl}/rss/atom.xml`,
+      rss2: `${baseUrl}/feed.xml`,
+      json: `${baseUrl}/feed.json`,
+      atom: `${baseUrl}/atom.xml`,
     },
     author: author,
   });
