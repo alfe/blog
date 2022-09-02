@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "FUN YOU BLOG",
-    "home_page_url": "https://blog.alfebelow.com",
+    "home_page_url": "https://blog.alfebelow.com/",
     "feed_url": "https://blog.alfebelow.com/rss/feed.json",
     "description": "alfe_belowのブログ",
     "icon": "https://blog.alfebelow.com/favicon.png",
@@ -10,61 +10,71 @@
     },
     "items": [
         {
-            "url": "https://blog.alfebelow.com/entry/2022/08/31/2022年8月に読んだ本",
+            "id": "https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年8月に読んだ本",
             "summary": "いつもの\n\n猫に学ぶ―いかに良く生きるか\n\n\n猫に学ぶ――いかに良く生きるか\n\n作者:ジョン・グレイ\nみすず書房\n\nAmazon\n\n猫か",
             "date_modified": "2022-08-31T09:36:50.000Z"
         },
         {
-            "url": "https://blog.alfebelow.com/entry/2022/07/31/2022年7月に読んだ本",
+            "id": "https://blog.alfebelow.com/entry/2022/07/31/2022%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/07/31/2022%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年7月に読んだ本",
             "summary": "いつもの\n \n\n \n大地の五億年\n\n\n\nヤマケイ文庫 大地の五億年 せめぎあう土と生き物たち\n\n作者:藤井 一至\n山と溪谷社\n\nAmazon\n\n\n土がどのようにできてきたのかの変遷について。\n5億年前には土がなかったという話から始まり、土がない場所でなにが生えてくるか、植物が土から何を得ているのか、雨や植物によって酸性に変わる土、マクロ視点での栄養の流れ、焼畑の利点、ハーバー・ボ",
             "date_modified": "2022-07-31T08:31:41.000Z"
         },
         {
-            "url": "https://blog.alfebelow.com/entry/2022/07/02/アイコン外観変更ジェネレーターのアクセス推移",
+            "id": "https://blog.alfebelow.com/entry/2022/07/02/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%A4%96%E8%A6%B3%E5%A4%89%E6%9B%B4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%8E%A8%E7%A7%BB",
+            "url": "https://blog.alfebelow.com/entry/2022/07/02/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%A4%96%E8%A6%B3%E5%A4%89%E6%9B%B4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%8E%A8%E7%A7%BB",
             "title": "アイコン外観変更ジェネレーターのアクセス推移",
-            "summary": "<p>3月末、OBSのカスタムCSSをつくるジェネレーターを作成して公開しました。そこからしばらく経ったのでアクセスログをまとめてみようと思います。\n </p>\n\nアクセスログ\n当初、アクセスログをつけてなくて、GA4を設置したのが5月4日だったのでそこからのデータになりますがおおよその把握できるかなと思います。\n\n\nアクセスログ 5月4日～7月1日\n\n<h4>紹介",
+            "summary": "3月末、OBSのカスタムCSSをつくるジェネレーターを作成して公開しました。そこからしばらく経ったのでアクセスログをまとめてみようと思います。\n \n\nアクセスログ\n当初、アクセスログをつけてなくて、GA4を設置したのが5月4日だったのでそこからのデータになりますがおおよその把握できるかなと思います。\n\n\nアクセスログ 5月4日～7月1日\n",
             "date_modified": "2022-07-02T09:54:15.000Z"
         },
         {
-            "url": "https://blog.alfebelow.com/entry/2022/07/01/2022年6月に読んだ本",
+            "id": "https://blog.alfebelow.com/entry/2022/07/01/2022%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/07/01/2022%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年6月に読んだ本",
             "summary": "いつもの\n\n\n実践 医療現場の行動経済学\n\n\n\n実践 医療現場の行動経済学: すれ違いの解消法\n\n作者:大竹 文雄,平井 啓\n東洋経済新報社\n\nAmazon\n\n\n医療現場で起きる問題に対して、行動経済学の視点から解決できないかを模索したケース集。\n医療における行動変容について実際の事例をもとに説明している。\n \n手指消毒の遵守率は医者が説くよりもマスコミで繰り返し報じたほうが向上",
             "date_modified": "2022-07-01T10:41:25.000Z"
         },
         {
-            "url": "https://blog.alfebelow.com/entry/2022/05/31/2022年5月に読んだ本",
+            "id": "https://blog.alfebelow.com/entry/2022/05/31/2022%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/05/31/2022%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年5月に読んだ本",
             "summary": "いつもの\n\n人を賢くする道具\n\n\n\n人を賢くする道具―ソフト・テクノロジーの心理学 (新曜社認知科学選書)\n\n作者:D.A. ノーマン\n新曜社\n\nAmazon\n\n\n人間よりもテクノロジー側の要求に重点を置きすぎている問題について。機械と人間で得意な作業は異なるが、機械を正常に動かすために機械の要求に合うような仕事が人間の不得意なことにもかかわらず積み上げられている、という概略。原",
             "date_modified": "2022-05-31T12:54:24.000Z"
         },
         {
-            "url": "https://blog.alfebelow.com/entry/2022/05/01/2022年4月に読んだ本",
+            "id": "https://blog.alfebelow.com/entry/2022/05/01/2022%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/05/01/2022%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年4月に読んだ本",
             "summary": "いつもの\n\n\n \nテクノロジー・ウォッチング\n\n\n\nテクノロジー・ウォッチング―ハイテク社会をフィールドワークする (新曜社認知科学選書)\n\n作者:D.A. ノーマン\n新曜社\n\nAmazon\n\n\n30年前に書かれたUXの議論。\n子供の劇よりも劇を撮影するためのカメラの操作に夢中になってる親御さんの描写から始まり、照明盤の下に書かれた注意書き（暗がりなので読めない）や券を入れるとこ",
             "date_modified": "2022-05-01T10:56:24.000Z"
         },
         {
-            "url": "https://blog.alfebelow.com/entry/2022/04/03/2022年3月に読んだ本",
+            "id": "https://blog.alfebelow.com/entry/2022/04/03/2022%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/04/03/2022%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年3月に読んだ本",
             "summary": "いつもの\n\n\nソフトウェアアーキテクチャの基礎\n\n\n\nソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ\n\n作者:Mark Richards,Neal Ford\nオライリージャパン\n\nAmazon\n\n\nアーキテクチャを決める際に考えることについて。\nこれさえ読めばなんとかなる、というよりは各アーキテクチャの利点欠点と、アーキテクチャ決定前後にやることのリ",
             "date_modified": "2022-04-03T12:30:02.000Z"
         },
         {
+            "id": "https://blog.alfebelow.com/entry/obs-discord-icon",
             "url": "https://blog.alfebelow.com/entry/obs-discord-icon",
             "title": "OBSでDiscordのアイコンを四角や横並びにするジェネレーター",
             "summary": "Among us実況とかで雑談配信とかで、四角いDiscordのアイコンが横並びでぴょこぴょことよく動くのを見かけます。\n」をつくりました。\n\n<h3>何ができるの？</h",
             "date_modified": "2022-03-20T10:00:00.000Z"
         },
         {
-            "url": "https://blog.alfebelow.com/entry/2022/03/01/2022年2月に読んだ本",
+            "id": "https://blog.alfebelow.com/entry/2022/03/01/2022%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/03/01/2022%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年2月に読んだ本",
             "summary": "いつもの\n\n新基礎情報学\n\n\n\n新 基礎情報学 ―機械をこえる生命\n\n作者:西垣 通\nNTT出版\n\nAmazon\n\n\nトランス・ヒューマニズムとその行きつく先にあるホモ・デウスに対抗するための哲学。良書。\n生命と機械の違いを考察しながら、そもそも情報とはなにかを見ていく。\n \n私がスチュアート・カウフマン（複雑系の理論生物学者）に傾倒しているのもあって、この本の考え方にしっくりき",
             "date_modified": "2022-03-01T11:54:07.000Z"
         },
         {
-            "url": "https://blog.alfebelow.com/entry/2022/01/31/2021年12月ー2022年1月に読んだ本",
+            "id": "https://blog.alfebelow.com/entry/2022/01/31/2021%E5%B9%B412%E6%9C%88%E3%83%BC2022%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/01/31/2021%E5%B9%B412%E6%9C%88%E3%83%BC2022%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2021年12月-2022年1月に読んだ本",
             "summary": "いつもの\n \n\n \n大気微生物の世界\n\n\n\n雨もキノコも鼻クソも大気微生物の世界―気候・健康・発酵とバイオエアロゾル\n\n作者:牧 輝弥\n築地書館\n\nAmazon\n\n\n大気中を浮遊する微生物について、何を研究しているのかどうやって観測しているのかを研究者が説明していく本。\nこのバイオエアロゾルという分野はまだまだ始まったばかりの様子。立山の積雪層からサンプル採取したり、観測地点で黄",
             "date_modified": "2022-01-31T13:44:16.000Z"

@@ -14,8 +14,8 @@ export const generatedRssFeed = async () => {
   const feed = new Feed({
     title: 'FUN YOU BLOG',
     description: 'alfe_belowのブログ',
-    id: baseUrl,
-    link: baseUrl,
+    id: `${baseUrl}/`,
+    link: `${baseUrl}/`,
     language: 'ja',
     image: `${baseUrl}/favicon.png`,  // image には OGP 画像でなくファビコンを指定
     copyright: `All rights reserved ${author.name}`,
@@ -35,18 +35,18 @@ export const generatedRssFeed = async () => {
     // post のプロパティ情報は使用しているオブジェクトの形式に合わせる
     const url = `${baseUrl}/entry${post.dirname}${post.slug}`;
     feed.addItem({
+      id: encodeURI(url),
       title: post.title,
       description: (post.description || '').replace(/\<.+\>(.*)\<\/.+\>/g, '$1'),
-      link: url,
+      link: encodeURI(url),
       date: new Date(post.published),
     });
   });
 
   // フィード情報を public/rss 配下にディレクトリを作って保存
-  fs.mkdirSync('./public/rss', { recursive: true });
-  fs.writeFileSync('./public/rss/feed.xml', feed.rss2());
-  fs.writeFileSync('./public/rss/atom.xml', feed.atom1());
-  fs.writeFileSync('./public/rss/feed.json', feed.json1());
+  fs.writeFileSync('./public/feed.xml', feed.rss2());
+  fs.writeFileSync('./public/atom.xml', feed.atom1());
+  fs.writeFileSync('./public/feed.json', feed.json1());
   return feed.rss2();
 }
 
