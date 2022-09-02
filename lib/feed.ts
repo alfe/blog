@@ -33,7 +33,7 @@ export const generatedRssFeed = async () => {
   // feed で定義した情報から各記事での変更点を宣言
   posts.slice(0, MAX_COUNT).forEach((post) => {
     // post のプロパティ情報は使用しているオブジェクトの形式に合わせる
-    const url = `${baseUrl}/entry${post.slug}`;
+    const url = `${baseUrl}/entry${post.dirname}${post.slug}`;
     feed.addItem({
       title: post.title,
       description: (post.description || '').replace(/\<.+\>(.*)\<\/.+\>/g, '$1'),

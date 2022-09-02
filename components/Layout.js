@@ -11,6 +11,7 @@ const Layout = (props) => {
       <Head>
         <title>{title ? `${title} | ${siteTitle}` : siteTitle}</title>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="alternate" type="application/atom+xml" title={siteTitle} href="/rss/atom.xml" />
       </Head>
 
       <header>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com</id>
     <title>FUN YOU BLOG</title>
-    <updated>2022-09-01T15:18:23.047Z</updated>
+    <updated>2022-09-02T04:37:05.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -14,8 +14,8 @@
     <rights>All rights reserved @alfe_below</rights>
     <entry>
         <title type="html"><![CDATA[2022年8月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry2022年8月に読んだ本</id>
-        <link href="https://blog.alfebelow.com/entry2022年8月に読んだ本"/>
+        <id>https://blog.alfebelow.com/entry/2022/08/31/2022年8月に読んだ本</id>
+        <link href="https://blog.alfebelow.com/entry/2022/08/31/2022年8月に読んだ本"/>
         <updated>2022-08-31T09:36:50.000Z</updated>
         <summary type="html"><![CDATA[いつもの
 
@@ -33,8 +33,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[2022年7月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry2022年7月に読んだ本</id>
-        <link href="https://blog.alfebelow.com/entry2022年7月に読んだ本"/>
+        <id>https://blog.alfebelow.com/entry/2022/07/31/2022年7月に読んだ本</id>
+        <link href="https://blog.alfebelow.com/entry/2022/07/31/2022年7月に読んだ本"/>
         <updated>2022-07-31T08:31:41.000Z</updated>
         <summary type="html"><![CDATA[いつもの
  
@@ -57,8 +57,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[アイコン外観変更ジェネレーターのアクセス推移]]></title>
-        <id>https://blog.alfebelow.com/entryアイコン外観変更ジェネレーターのアクセス推移</id>
-        <link href="https://blog.alfebelow.com/entryアイコン外観変更ジェネレーターのアクセス推移"/>
+        <id>https://blog.alfebelow.com/entry/2022/07/02/アイコン外観変更ジェネレーターのアクセス推移</id>
+        <link href="https://blog.alfebelow.com/entry/2022/07/02/アイコン外観変更ジェネレーターのアクセス推移"/>
         <updated>2022-07-02T09:54:15.000Z</updated>
         <summary type="html"><![CDATA[<p>3月末、OBSのカスタムCSSをつくるジェネレーターを作成して公開しました。そこからしばらく経ったのでアクセスログをまとめてみようと思います。
  </p>
@@ -73,8 +73,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[2022年6月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry2022年6月に読んだ本</id>
-        <link href="https://blog.alfebelow.com/entry2022年6月に読んだ本"/>
+        <id>https://blog.alfebelow.com/entry/2022/07/01/2022年6月に読んだ本</id>
+        <link href="https://blog.alfebelow.com/entry/2022/07/01/2022年6月に読んだ本"/>
         <updated>2022-07-01T10:41:25.000Z</updated>
         <summary type="html"><![CDATA[いつもの
 
@@ -98,8 +98,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[2022年5月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry2022年5月に読んだ本</id>
-        <link href="https://blog.alfebelow.com/entry2022年5月に読んだ本"/>
+        <id>https://blog.alfebelow.com/entry/2022/05/31/2022年5月に読んだ本</id>
+        <link href="https://blog.alfebelow.com/entry/2022/05/31/2022年5月に読んだ本"/>
         <updated>2022-05-31T12:54:24.000Z</updated>
         <summary type="html"><![CDATA[いつもの
 
@@ -119,8 +119,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[2022年4月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry2022年4月に読んだ本</id>
-        <link href="https://blog.alfebelow.com/entry2022年4月に読んだ本"/>
+        <id>https://blog.alfebelow.com/entry/2022/05/01/2022年4月に読んだ本</id>
+        <link href="https://blog.alfebelow.com/entry/2022/05/01/2022年4月に読んだ本"/>
         <updated>2022-05-01T10:56:24.000Z</updated>
         <summary type="html"><![CDATA[いつもの
 
@@ -143,8 +143,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[2022年3月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry2022年3月に読んだ本</id>
-        <link href="https://blog.alfebelow.com/entry2022年3月に読んだ本"/>
+        <id>https://blog.alfebelow.com/entry/2022/04/03/2022年3月に読んだ本</id>
+        <link href="https://blog.alfebelow.com/entry/2022/04/03/2022年3月に読んだ本"/>
         <updated>2022-04-03T12:30:02.000Z</updated>
         <summary type="html"><![CDATA[いつもの
 
@@ -166,8 +166,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[OBSでDiscordのアイコンを四角や横並びにするジェネレーター]]></title>
-        <id>https://blog.alfebelow.com/entryobs-discord-icon</id>
-        <link href="https://blog.alfebelow.com/entryobs-discord-icon"/>
+        <id>https://blog.alfebelow.com/entry/obs-discord-icon</id>
+        <link href="https://blog.alfebelow.com/entry/obs-discord-icon"/>
         <updated>2022-03-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Among us実況とかで雑談配信とかで、四角いDiscordのアイコンが横並びでぴょこぴょことよく動くのを見かけます。
 」をつくりました。
@@ -176,8 +176,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[2022年2月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry2022年2月に読んだ本</id>
-        <link href="https://blog.alfebelow.com/entry2022年2月に読んだ本"/>
+        <id>https://blog.alfebelow.com/entry/2022/03/01/2022年2月に読んだ本</id>
+        <link href="https://blog.alfebelow.com/entry/2022/03/01/2022年2月に読んだ本"/>
         <updated>2022-03-01T11:54:07.000Z</updated>
         <summary type="html"><![CDATA[いつもの
 
@@ -200,8 +200,8 @@ Amazon
     </entry>
     <entry>
         <title type="html"><![CDATA[2021年12月-2022年1月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry2021年12月ー2022年1月に読んだ本</id>
-        <link href="https://blog.alfebelow.com/entry2021年12月ー2022年1月に読んだ本"/>
+        <id>https://blog.alfebelow.com/entry/2022/01/31/2021年12月ー2022年1月に読んだ本</id>
+        <link href="https://blog.alfebelow.com/entry/2022/01/31/2021年12月ー2022年1月に読んだ本"/>
         <updated>2022-01-31T13:44:16.000Z</updated>
         <summary type="html"><![CDATA[いつもの
  
