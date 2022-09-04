@@ -41,7 +41,7 @@ const Layout = (props) => {
           </ul>
         </div>
         <div>
-          <h2>月別アーカイブ</h2>
+          <h2>年別アーカイブ</h2>
           <ul>
             <li><Link href="/byMonth/[byMonth]" as="/byMonth/2022"><a>2022</a></Link></li>
             <li><Link href="/byMonth/[byMonth]" as="/byMonth/2021"><a>2021</a></Link></li>
@@ -162,6 +162,12 @@ const Layout = (props) => {
           overflow: hidden;
           width: 80px;
           height: 80px;
+        }
+        
+        @media screen and (max-width: 767px) {
+          footer {
+            flex-direction: column-reverse;
+          }
         }
       `}</style>
 

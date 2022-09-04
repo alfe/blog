@@ -108,6 +108,12 @@ export default function Post(params) {
           padding-left: 1em;
           border-bottom: 1px dotted;
         }
+        pre {
+          background: #333;
+          padding: 1rem;
+          color: #FFF;
+          overflow-x: scroll;
+        }
       `}</style>
     </Layout>
   )
