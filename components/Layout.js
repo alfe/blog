@@ -11,7 +11,7 @@ const Layout = (props) => {
       <Head>
         <title>{title ? `${title} | ${siteTitle}` : siteTitle}</title>
         <link rel="icon" href="/favicon.ico" />
-        <link rel="alternate" type="application/atom+xml" title={siteTitle} href="/atom.xml" />
+        <link rel="alternate" type="application/atom+xml" title={siteTitle} href={`${process.env.PRD_URL}/atom.xml`} />
       </Head>
 
       <header>
@@ -33,13 +33,27 @@ const Layout = (props) => {
         <div>
           <h2>カテゴリー</h2>
           <ul>
-            <li>工事中</li>
+            <li><Link href="/category/[category]" as="/category/本"><a>本</a></Link></li>
+            <li><Link href="/category/[category]" as="/category/プログラム"><a>プログラム</a></Link></li>
+            <li><Link href="/category/[category]" as="/category/LifeHack"><a>LifeHack</a></Link></li>
+            <li><Link href="/category/[category]" as="/category/レビュー"><a>レビュー</a></Link></li>
+            <li><Link href="/category/[category]" as="/category/雑記"><a>雑記</a></Link></li>
           </ul>
         </div>
         <div>
           <h2>月別アーカイブ</h2>
           <ul>
-            <li>工事中</li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2022"><a>2022</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2021"><a>2021</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2020"><a>2020</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2019"><a>2019</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2018"><a>2018</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2017"><a>2017</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2016"><a>2016</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2015"><a>2015</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2014"><a>2014</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2013"><a>2013</a></Link></li>
+            <li><Link href="/byMonth/[byMonth]" as="/byMonth/2012"><a>2012</a></Link></li>
           </ul>
         </div>
         <div>
@@ -123,8 +137,17 @@ const Layout = (props) => {
         footer h2 {
           text-shadow: 1px 1px 4px #131809;
         }
+        footer ul {
+          list-style-type: circle;
+        }
         footer a {
           color: rgb(255 255 255 / 80%);
+        }
+        footer a:hover {
+          color: rgb(255 255 255 / 100%);
+        }
+        footer a:active {
+          color: rgb(255 255 255 / 70%);
         }
         footer .profile-links {
           margin-left: 80px;
