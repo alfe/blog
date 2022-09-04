@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Fri, 02 Sep 2022 05:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 14:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,20 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[ブログをはてなブログからNext.jsで作ったブログに移行した話]]></title>
+            <link>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</link>
+            <guid>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</guid>
+            <pubDate>Sun, 04 Sep 2022 23:10:31 GMT</pubDate>
+            <description><![CDATA[ふと思い立ち、ブログをNext.jsで作って、記事をこっちに移動してきたよという話。
+いわゆる Jamstack なブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。
+
+移行手順
+ブログをつくる
+まずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができました。助かる。
+
+]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年8月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -31,7 +45,10 @@
 
 Amazon
 
-猫か]]></description>
+猫から生きる哲学を学ぶ本。良書。
+幸福・道徳・愛・死について、いかに人間が迷走しているか、そして猫のそれがいかに充足しているかを哲学者が語る。
+かわいいタイトルと表紙だが、しっかり哲学の本。
+某漫画に出てくる「人間病」という概念を、モンスターでなく現実の猫から観測する]]></description>
         </item>
         <item>
             <title><![CDATA[2022年7月に読んだ本]]></title>
@@ -55,7 +72,7 @@ Amazon
 
 
 土がどのようにできてきたのかの変遷について。
-5億年前には土がなかったという話から始まり、土がない場所でなにが生えてくるか、植物が土から何を得ているのか、雨や植物によって酸性に変わる土、マクロ視点での栄養の流れ、焼畑の利点、ハーバー・ボ]]></description>
+5億年前には土がなかったという話から始まり、土がない場所でなにが生えてくるか、植物が土から何を得ているのか、雨や植物によって酸性に変わる土、マクロ視点での栄養の流れ、焼畑の利点、ハーバー・ボッシュ法による肥料]]></description>
         </item>
         <item>
             <title><![CDATA[アイコン外観変更ジェネレーターのアクセス推移]]></title>
@@ -70,7 +87,9 @@ Amazon
 
 
 アクセスログ 5月4日～7月1日
-]]></description>
+
+紹介動画
+<p>5月中旬くらいまではだいたい100前後。個]]></description>
         </item>
         <item>
             <title><![CDATA[2022年6月に読んだ本]]></title>
@@ -95,7 +114,7 @@ Amazon
 医療現場で起きる問題に対して、行動経済学の視点から解決できないかを模索したケース集。
 医療における行動変容について実際の事例をもとに説明している。
  
-手指消毒の遵守率は医者が説くよりもマスコミで繰り返し報じたほうが向上]]></description>
+手指消毒の遵守率は医者が説くよりもマスコミで繰り返し報じたほうが向上した。HPVワクチ]]></description>
         </item>
         <item>
             <title><![CDATA[2022年5月に読んだ本]]></title>
@@ -116,7 +135,8 @@ Amazon
 Amazon
 
 
-人間よりもテクノロジー側の要求に重点を置きすぎている問題について。機械と人間で得意な作業は異なるが、機械を正常に動かすために機械の要求に合うような仕事が人間の不得意なことにもかかわらず積み上げられている、という概略。原]]></description>
+人間よりもテクノロジー側の要求に重点を置きすぎている問題について。機械と人間で得意な作業は異なるが、機械を正常に動かすために機械の要求に合うような仕事が人間の不得意なことにもかかわらず積み上げられている、という概略。原書は1993年。
+]]></description>
         </item>
         <item>
             <title><![CDATA[2022年4月に読んだ本]]></title>
@@ -140,7 +160,7 @@ Amazon
 
 
 30年前に書かれたUXの議論。
-子供の劇よりも劇を撮影するためのカメラの操作に夢中になってる親御さんの描写から始まり、照明盤の下に書かれた注意書き（暗がりなので読めない）や券を入れるとこ]]></description>
+子供の劇よりも劇を撮影するためのカメラの操作に夢中になってる親御さんの描写から始まり、照明盤の下に書かれた注意書き（暗がりなので読めない）や券を入れるところを間違えやすいの]]></description>
         </item>
         <item>
             <title><![CDATA[2022年3月に読んだ本]]></title>
@@ -163,17 +183,26 @@ Amazon
 
 
 アーキテクチャを決める際に考えることについて。
-これさえ読めばなんとかなる、というよりは各アーキテクチャの利点欠点と、アーキテクチャ決定前後にやることのリ]]></description>
+これさえ読めばなんとかなる、というよりは各アーキテクチャの利点欠点と、アーキテクチャ決定前後にやることのリストが書かれた本。]]></description>
         </item>
         <item>
             <title><![CDATA[OBSでDiscordのアイコンを四角や横並びにするジェネレーター]]></title>
-            <link>https://blog.alfebelow.com/entry/obs-discord-icon</link>
-            <guid>https://blog.alfebelow.com/entry/obs-discord-icon</guid>
+            <link>https://blog.alfebelow.com/entry/2022/03/20/obs-discord-icon</link>
+            <guid>https://blog.alfebelow.com/entry/2022/03/20/obs-discord-icon</guid>
             <pubDate>Sun, 20 Mar 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[Among us実況とかで雑談配信とかで、四角いDiscordのアイコンが横並びでぴょこぴょことよく動くのを見かけます。
 」をつくりました。
 
-<h3>何ができるの？</h]]></description>
+何ができるの？
+
+アイコンを横並びにしたり
+アイコンのサイズを変えたり
+アイコンの形を四角くしたり角を丸くしたり
+アイコンをぴょこぴょこさせたり、点滅させたり
+ぴょこぴょこする速さを変えたり
+名前の位置を調整したり
+名前を文字だけにしたり縁取りに変えたり
+]]></description>
         </item>
         <item>
             <title><![CDATA[2022年2月に読んだ本]]></title>
@@ -197,31 +226,8 @@ Amazon
 トランス・ヒューマニズムとその行きつく先にあるホモ・デウスに対抗するための哲学。良書。
 生命と機械の違いを考察しながら、そもそも情報とはなにかを見ていく。
  
-私がスチュアート・カウフマン（複雑系の理論生物学者）に傾倒しているのもあって、この本の考え方にしっくりき]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2021年12月-2022年1月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2022/01/31/2021%E5%B9%B412%E6%9C%88%E3%83%BC2022%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2022/01/31/2021%E5%B9%B412%E6%9C%88%E3%83%BC2022%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Mon, 31 Jan 2022 13:44:16 GMT</pubDate>
-            <description><![CDATA[いつもの
- 
-
- 
-大気微生物の世界
-
-
-
-雨もキノコも鼻クソも大気微生物の世界―気候・健康・発酵とバイオエアロゾル
-
-作者:牧 輝弥
-築地書館
-
-Amazon
-
-
-大気中を浮遊する微生物について、何を研究しているのかどうやって観測しているのかを研究者が説明していく本。
-このバイオエアロゾルという分野はまだまだ始まったばかりの様子。立山の積雪層からサンプル採取したり、観測地点で黄]]></description>
+私がスチュアート・カウフマン（複雑系の理論生物学者）に傾倒しているのもあって、この本の考え方にしっくりきた。
+『ホモ・デウ]]></description>
         </item>
     </channel>
 </rss>
