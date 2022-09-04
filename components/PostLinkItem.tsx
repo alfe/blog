@@ -48,6 +48,7 @@ const PostLinkItem = (props) => {
             overflow: hidden;
             width: 240px;
             height: 120px;
+            background: lightgray;
           }
           .post-thumbnail img {
           }
