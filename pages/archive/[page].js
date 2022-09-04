@@ -2,6 +2,7 @@ import fs from "fs"
 import Layout from "../../components/Layout"
 import PostLinkItem from "../../components/PostLinkItem"
 import Pager from "../../components/Pager"
+import OgpHeader from "../../components/OgpHeader"
 import { listContentFiles, readContentFiles } from "../../lib/content-loader"
 
 const COUNT_PER_PAGE = 10
@@ -10,6 +11,7 @@ const Archive = (props) => {
   const { posts, page, total, perPage } = props
   return (
     <Layout title="アーカイブ">
+      <OgpHeader />
       {posts.map((post) => (
         <PostLinkItem
           key={post.slug}

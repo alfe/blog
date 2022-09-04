@@ -1,6 +1,7 @@
 import fs from "fs"
 import Link from "next/link"
 import Layout from "../components/Layout"
+import OgpHeader from "../components/OgpHeader"
 import PostLinkItem from "../components/PostLinkItem"
 import { readContentFiles } from "../lib/content-loader"
 
@@ -18,6 +19,7 @@ const Home = (props: HomeProps) => {
   const { posts, hasArchive } = props
   return (
     <Layout title="">
+      <OgpHeader />
       {posts.map((post) => (
         <PostLinkItem
           key={post.slug}

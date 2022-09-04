@@ -1,6 +1,7 @@
 import fs from "fs"
 import PostLinkItem from "../../components/PostLinkItem"
 import Layout from "../../components/Layout"
+import OgpHeader from "../../components/OgpHeader"
 import { readContentFiles } from "../../lib/content-loader"
 
 type categoryProps = {
@@ -16,6 +17,7 @@ const category = (props: categoryProps) => {
   const { posts } = props
   return (
     <Layout title="">
+      <OgpHeader />
       {posts.map((post, index) => (
         <PostLinkItem
           key={`${index}-${post.slug}`}
