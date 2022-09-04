@@ -14,6 +14,7 @@ export default function Post(params) {
         slug={params.slug}
         title={params.title}
         content={params.content}
+        description={params.description}
         thumbnail={params.thumbnail} />
       <div className="post-meta">
         <time datatime={params.published}>

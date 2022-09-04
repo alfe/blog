@@ -37,7 +37,7 @@ export const generatedRssFeed = async () => {
     feed.addItem({
       id: encodeURI(url),
       title: post.title,
-      description: (post.description || '').replace(/\<.+\>(.*)\<\/.+\>/g, '$1'),
+      description: (post.description || ''),
       link: encodeURI(url),
       date: new Date(post.published),
     });
