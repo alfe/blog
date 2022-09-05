@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
-const PostLinkItem = (props) => {
+const PostLinkItem = (props: { to: string; title: string; published: string | Date; thumbnail?: string; }) => {
   return (
     <>
       <Link href={props.to} as={props.to}>
@@ -49,8 +49,6 @@ const PostLinkItem = (props) => {
             width: 240px;
             height: 120px;
             background: lightgray;
-          }
-          .post-thumbnail img {
           }
         `}</style>
     </>

@@ -47,16 +47,16 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20171218/201712
 <p>私のPCは現在USBポートが4つしかないので、残りの1ポートにキーボード＋トラックボール＋BluetoothドングルをくっつけたUSBハブをさしています。なんだこれ。</p>
 <p>さすがに、USB足りなさすぎるので、これ↓をぽちりました。</p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VQ3F4JW/ab1025-22/"><img class="hatena-asin-detail-image" title="SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット" src="https://images-fe.ssl-images-amazon.com/images/I/31jH4Je953L._SL160_.jpg" alt="SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VQ3F4JW/ab1025-22/">SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VQ3F4JW/ab1025-22/"><img class="external-link-detail-image" title="SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット" src="https://images-fe.ssl-images-amazon.com/images/I/31jH4Je953L._SL160_.jpg" alt="SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VQ3F4JW/ab1025-22/">SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> SODIAL(R)</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> エレクトロニクス</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> SODIAL(R)</li>
+<li><span class="external-link-detail-label">メディア:</span> エレクトロニクス</li>
 <li><a href="http://d.hatena.ne.jp/asin/B00VQ3F4JW/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p>やすいと思ってぽちったはいいけど海外発送らしく、年明け着らしい。</p>

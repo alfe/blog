@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Sun, 04 Sep 2022 14:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 02:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -20,13 +20,13 @@
             <guid>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</guid>
             <pubDate>Sun, 04 Sep 2022 23:10:31 GMT</pubDate>
             <description><![CDATA[ふと思い立ち、ブログをNext.jsで作って、記事をこっちに移動してきたよという話。
-いわゆる Jamstack なブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。
+いわゆるJamstackなブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。
 
 移行手順
 ブログをつくる
 まずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができました。助かる。
 
-]]></description>
+はて]]></description>
         </item>
         <item>
             <title><![CDATA[2022年8月に読んだ本]]></title>

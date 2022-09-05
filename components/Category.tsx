@@ -1,4 +1,4 @@
-const Category = (props) => {
+const Category = (props: { category: string[] }) => {
   return (
     <div>
       {(props.category || []).map(category => (
@@ -16,5 +16,4 @@ const Category = (props) => {
     </div>
   )
 }
-
-export default Category
+export default Category;

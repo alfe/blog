@@ -7,17 +7,35 @@ import Category from "../../components/Category"
 import PostFooter from "../../components/PostFooter"
 import { listContentFiles, readContentFile, readContentFiles } from "../../lib/content-loader"
 
-export default function Post(params) {
+type PostProps = {
+  title: string;
+  slug: string;
+  description: string;
+  thumbnail?: string;
+  published: string;
+  category: string[];
+  content: any;
+  prevPage?: {
+    dirname: string;
+    slug: string;
+    title: string;
+  };
+  nextPage?: {
+    dirname: string;
+    slug: string;
+    title: string;
+  };
+}
+const Post = (params: PostProps) => {
   return (
     <Layout title={params.title}>
       <Ogp
         slug={params.slug}
         title={params.title}
-        content={params.content}
         description={params.description}
         thumbnail={params.thumbnail} />
       <div className="post-meta">
-        <time datatime={params.published}>
+        <time dateTime={params.published}>
           {new Date(params.published).toLocaleDateString()}
         </time>
         <Category category={params.category} />
@@ -37,7 +55,7 @@ export default function Post(params) {
         }
       `}</style>
       <style jsx global>{`
-        .hatena-asin-detail {
+        .external-link-detail {
           display: flex;
           justify-content: center;
           align-items: center;
@@ -50,11 +68,11 @@ export default function Post(params) {
           margin: 1rem 0;
           padding: 1rem;
         }
-        .hatena-asin-detail-image-link {
+        .external-link-detail-image-link {
           flex-basis: 200px;
           height: 200px;
         }
-        .hatena-asin-detail>a .hatena-asin-detail-image {
+        .external-link-detail>a .external-link-detail-image {
           max-width: 200px;
           border: none;
           display: block;
@@ -64,15 +82,15 @@ export default function Post(params) {
           object-fit: contain;
           width: 100%;
         }
-        .hatena-asin-detail-info {
+        .external-link-detail-info {
           width: 25rem;
         }
-        .hatena-asin-detail-meta {
+        .external-link-detail-meta {
           list-style: none;
           font-size: .9rem;
           padding-inline-start: 1rem;
         }
-        .hatena-asin-detail .hatena-asin-detail-info .asin-detail-buy {
+        .external-link-detail .external-link-detail-info .asin-detail-buy {
           border: 1px solid #666;
           color: #666;
           box-sizing: border-box;
@@ -118,6 +136,7 @@ export default function Post(params) {
     </Layout>
   )
 }
+export default Post;
 
 /**
  * ページコンポーネントで使用する値を用意する

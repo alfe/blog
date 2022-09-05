@@ -1,6 +1,11 @@
 import Link from "next/link"
 
-const PostFooter = (props) => {
+type Post = {
+  dirname: string;
+  slug: string;
+  title: string;
+}
+const PostFooter = (props: { prevPage?: Post; nextPage?: Post }) => {
   const { prevPage, nextPage } = props
   return (
     <div className="post-footer">

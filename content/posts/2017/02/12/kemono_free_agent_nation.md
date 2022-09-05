@@ -23,18 +23,18 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/201702
 <p>『フリーエージェント社会の到来』とはダニエル・ピンク著、2002年に出版された結構古い本ながら、2014年に新装版として再出版されるほど名著として名高い本。</p>
 <p> </p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478029296/ab1025-22/"><img class="hatena-asin-detail-image" title="フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方" src="https://images-fe.ssl-images-amazon.com/images/I/51p6DmQsgrL._SL160_.jpg" alt="フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478029296/ab1025-22/">フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478029296/ab1025-22/"><img class="external-link-detail-image" title="フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方" src="https://images-fe.ssl-images-amazon.com/images/I/51p6DmQsgrL._SL160_.jpg" alt="フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478029296/ab1025-22/">フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">作者:</span> ダニエル・ピンク,序文:玄田有史,池村千秋</li>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> ダイヤモンド社</li>
-<li><span class="hatena-asin-detail-label">発売日:</span> 2014/08/29</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> 単行本（ソフトカバー）</li>
+<li><span class="external-link-detail-label">作者:</span> ダニエル・ピンク,序文:玄田有史,池村千秋</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> ダイヤモンド社</li>
+<li><span class="external-link-detail-label">発売日:</span> 2014/08/29</li>
+<li><span class="external-link-detail-label">メディア:</span> 単行本（ソフトカバー）</li>
 <li><a href="http://d.hatena.ne.jp/asin/4478029296/ab1025-22" target="_blank">この商品を含むブログ (3件) を見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> </p>

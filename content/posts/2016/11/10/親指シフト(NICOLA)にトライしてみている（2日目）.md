@@ -57,16 +57,16 @@ IMAGE: /img/2016/11/10/img.jpg
 <p> </p>
 <p>あと、キー配列覚えやすくなるかなと、これをポチった。</p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/"><img class="hatena-asin-detail-image" title="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" src="http://ecx.images-amazon.com/images/I/41llOuzyWhL._SL160_.jpg" alt="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/">親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/"><img class="external-link-detail-image" title="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" src="http://ecx.images-amazon.com/images/I/41llOuzyWhL._SL160_.jpg" alt="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/">親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> eee-life</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> エレクトロニクス</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> eee-life</li>
+<li><span class="external-link-detail-label">メディア:</span> エレクトロニクス</li>
 <li><a href="http://d.hatena.ne.jp/asin/B01I2QP5C6/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> </p>

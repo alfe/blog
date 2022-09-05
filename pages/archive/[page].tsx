@@ -7,7 +7,20 @@ import { listContentFiles, readContentFiles } from "../../lib/content-loader"
 
 const COUNT_PER_PAGE = 10
 
-const Archive = (props) => {
+type Post = {
+  title?: string;
+  dirname?: string;
+  slug?: string;
+  published?: string;
+  thumbnail?: string;
+}
+type ArchiveProps = {
+  posts: Post[];
+  page: number;
+  total: number;
+  perPage: number;
+};
+const Archive = (props: ArchiveProps) => {
   const { posts, page, total, perPage } = props
   return (
     <Layout title="アーカイブ">
@@ -25,7 +38,7 @@ const Archive = (props) => {
       <Pager
         page={page} total={total} perPage={perPage}
         href="/archive/[page]"
-        asCallback={(page) => `/archive/${page}`}
+        asCallback={(page: number) => `/archive/${page}`}
       />
       <style jsx global>{`
         img[alt="thumb"] {

@@ -65,16 +65,16 @@ Date: 2016-10-29T19:21:20+09:00
 <p> </p>
 <p>Amazon</p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013S20C3Q/ab1025-22/"><img class="hatena-asin-detail-image" title="Pavlok ブラック [並行輸入品]" src="http://ecx.images-amazon.com/images/I/41-I2P3XH1L._SL160_.jpg" alt="Pavlok ブラック [並行輸入品]" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013S20C3Q/ab1025-22/">Pavlok ブラック [並行輸入品]</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013S20C3Q/ab1025-22/"><img class="external-link-detail-image" title="Pavlok ブラック [並行輸入品]" src="http://ecx.images-amazon.com/images/I/41-I2P3XH1L._SL160_.jpg" alt="Pavlok ブラック [並行輸入品]" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013S20C3Q/ab1025-22/">Pavlok ブラック [並行輸入品]</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> Pavlok</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> Wireless Phone Accessory</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> Pavlok</li>
+<li><span class="external-link-detail-label">メディア:</span> Wireless Phone Accessory</li>
 <li><a href="http://d.hatena.ne.jp/asin/B013S20C3Q/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> </p>

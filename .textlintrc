@@ -1,0 +1,18 @@
+{
+  "filters": {},
+  "rules": {
+    "@textlint-ja/no-insert-dropping-sa": true,
+    "@textlint-ja/no-synonyms": true,
+    "date-weekday-mismatch": true,
+    "ja-hiragana-fukushi": true,
+    "ja-hiragana-hojodoushi": true,
+    "ja-hiragana-keishikimeishi": true,
+    "ja-no-inappropriate-words": true,
+    "no-mixed-zenkaku-and-hankaku-alphabet": true,
+    "no-start-duplicated-conjunction": true,
+    "prefer-tari-tari": true,
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true,
+    "preset-japanese": true
+  }
+}

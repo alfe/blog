@@ -1,7 +1,7 @@
 import React from "react"
 import Head from "next/head"
 
-const Ogp = (props) => {
+const Ogp = (props: { slug: string; title: string; description: string; thumbnail: string }) => {
   const siteTitle = "FUN YOU BLOG"
 
   return (

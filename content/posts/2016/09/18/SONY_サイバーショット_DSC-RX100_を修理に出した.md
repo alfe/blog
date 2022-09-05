@@ -50,18 +50,18 @@ IMAGE: /img/2016/09/18/img.jpg
 <p> </p>
 <p> </p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00898JY8E/ab1025-22/"><img class="hatena-asin-detail-image" title="SONY デジタルカメラ Cyber-shot RX100 光学3.6倍 DSC-RX100" src="http://ecx.images-amazon.com/images/I/41DBnlRMzdL._SL160_.jpg" alt="SONY デジタルカメラ Cyber-shot RX100 光学3.6倍 DSC-RX100" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00898JY8E/ab1025-22/">SONY デジタルカメラ Cyber-shot RX100 光学3.6倍 DSC-RX100</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00898JY8E/ab1025-22/"><img class="external-link-detail-image" title="SONY デジタルカメラ Cyber-shot RX100 光学3.6倍 DSC-RX100" src="http://ecx.images-amazon.com/images/I/41DBnlRMzdL._SL160_.jpg" alt="SONY デジタルカメラ Cyber-shot RX100 光学3.6倍 DSC-RX100" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00898JY8E/ab1025-22/">SONY デジタルカメラ Cyber-shot RX100 光学3.6倍 DSC-RX100</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> ソニー</li>
-<li><span class="hatena-asin-detail-label">発売日:</span> 2012/06/15</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> エレクトロニクス</li>
-<li><span class="hatena-asin-detail-label">購入</span>: 1人 <span class="hatena-asin-detail-label">クリック</span>: 115回</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> ソニー</li>
+<li><span class="external-link-detail-label">発売日:</span> 2012/06/15</li>
+<li><span class="external-link-detail-label">メディア:</span> エレクトロニクス</li>
+<li><span class="external-link-detail-label">購入</span>: 1人 <span class="external-link-detail-label">クリック</span>: 115回</li>
 <li><a href="http://d.hatena.ne.jp/asin/B00898JY8E/ab1025-22" target="_blank">この商品を含むブログ (64件) を見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> </p>

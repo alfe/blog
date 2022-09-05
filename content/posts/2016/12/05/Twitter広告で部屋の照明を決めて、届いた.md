@@ -36,16 +36,16 @@ IMAGE: /img/2016/12/05/img.jpg
 <p> </p>
 <p>買ったもの</p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005F5I0YI/ab1025-22/"><img class="hatena-asin-detail-image" title="LERSTA フロア読書ランプ アルミニウム 00110904 組立式 イケア IKEA" src="http://ecx.images-amazon.com/images/I/316OVgIYWeL._SL160_.jpg" alt="LERSTA フロア読書ランプ アルミニウム 00110904 組立式 イケア IKEA" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005F5I0YI/ab1025-22/">LERSTA フロア読書ランプ アルミニウム 00110904 組立式 イケア IKEA</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005F5I0YI/ab1025-22/"><img class="external-link-detail-image" title="LERSTA フロア読書ランプ アルミニウム 00110904 組立式 イケア IKEA" src="http://ecx.images-amazon.com/images/I/316OVgIYWeL._SL160_.jpg" alt="LERSTA フロア読書ランプ アルミニウム 00110904 組立式 イケア IKEA" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B005F5I0YI/ab1025-22/">LERSTA フロア読書ランプ アルミニウム 00110904 組立式 イケア IKEA</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> IKEA</li>
-<li><span class="hatena-asin-detail-label">メディア:</span></li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> IKEA</li>
+<li><span class="external-link-detail-label">メディア:</span></li>
 <li><a href="http://d.hatena.ne.jp/asin/B005F5I0YI/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> </p>

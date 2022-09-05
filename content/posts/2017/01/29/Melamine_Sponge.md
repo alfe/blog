@@ -9,16 +9,16 @@ Date: 2017-01-29T23:11:25+09:00
 <p>じゃあなんだったら使っていいの、というわけで、メラミンスポンジを使っても傷がつかないものを調べてみました。</p>
 <p> </p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OOCWP44/ab1025-22/"><img class="hatena-asin-detail-image" title="レック 激落ちくん ( メラミンスポンジ ) S-691" src="https://images-fe.ssl-images-amazon.com/images/I/51Fo2nRCz4L._SL160_.jpg" alt="レック 激落ちくん ( メラミンスポンジ ) S-691" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OOCWP44/ab1025-22/">レック 激落ちくん ( メラミンスポンジ ) S-691</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OOCWP44/ab1025-22/"><img class="external-link-detail-image" title="レック 激落ちくん ( メラミンスポンジ ) S-691" src="https://images-fe.ssl-images-amazon.com/images/I/51Fo2nRCz4L._SL160_.jpg" alt="レック 激落ちくん ( メラミンスポンジ ) S-691" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OOCWP44/ab1025-22/">レック 激落ちくん ( メラミンスポンジ ) S-691</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> レック(LEC)</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> ヘルスケア&amp;ケア用品</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> レック(LEC)</li>
+<li><span class="external-link-detail-label">メディア:</span> ヘルスケア&amp;ケア用品</li>
 <li><a href="http://d.hatena.ne.jp/asin/B00OOCWP44/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> </p>
@@ -111,19 +111,19 @@ Date: 2017-01-29T23:11:25+09:00
 
 <p>硬度のほかにphについても考察した掃除の本</p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4822247120/ab1025-22/"><img class="hatena-asin-detail-image" title="男の掃除" src="https://images-fe.ssl-images-amazon.com/images/I/41um7-sfHKL._SL160_.jpg" alt="男の掃除" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4822247120/ab1025-22/">男の掃除</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4822247120/ab1025-22/"><img class="external-link-detail-image" title="男の掃除" src="https://images-fe.ssl-images-amazon.com/images/I/41um7-sfHKL._SL160_.jpg" alt="男の掃除" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4822247120/ab1025-22/">男の掃除</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">作者:</span> 佐光紀子</li>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> 日経BP社</li>
-<li><span class="hatena-asin-detail-label">発売日:</span> 2008/11/13</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> 単行本</li>
-<li><span class="hatena-asin-detail-label">購入</span>: 1人 <span class="hatena-asin-detail-label">クリック</span>: 109回</li>
+<li><span class="external-link-detail-label">作者:</span> 佐光紀子</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> 日経BP社</li>
+<li><span class="external-link-detail-label">発売日:</span> 2008/11/13</li>
+<li><span class="external-link-detail-label">メディア:</span> 単行本</li>
+<li><span class="external-link-detail-label">購入</span>: 1人 <span class="external-link-detail-label">クリック</span>: 109回</li>
 <li><a href="http://d.hatena.ne.jp/asin/4822247120/ab1025-22" target="_blank">この商品を含むブログ (7件) を見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p>  </p>

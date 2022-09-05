@@ -1,6 +1,13 @@
 import Link from "next/link"
 
-const Pager = (props) => {
+type PagerProps = {
+  total: number;
+  page: number;
+  perPage: number;
+  href: string;
+  asCallback: (page: number) => string;
+}
+const Pager = (props: PagerProps) => {
   const { total, page, perPage, href, asCallback } = props
 
   const prevPage = page > 1 ? page - 1 : null

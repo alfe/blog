@@ -63,30 +63,30 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170601/201706
 <p> </p>
 <p> </p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01EUAU9OM/ab1025-22/"><img class="hatena-asin-detail-image" title="Oculus Rift cv1 製品版 2016 オキュラス リフト (Oculus Rift cv1 製品版) [並行輸入品]" src="https://images-fe.ssl-images-amazon.com/images/I/31oZSA6G%2BiL._SL160_.jpg" alt="Oculus Rift cv1 製品版 2016 オキュラス リフト (Oculus Rift cv1 製品版) [並行輸入品]" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01EUAU9OM/ab1025-22/">Oculus Rift cv1 製品版 2016 オキュラス リフト (Oculus Rift cv1 製品版) [並行輸入品]</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01EUAU9OM/ab1025-22/"><img class="external-link-detail-image" title="Oculus Rift cv1 製品版 2016 オキュラス リフト (Oculus Rift cv1 製品版) [並行輸入品]" src="https://images-fe.ssl-images-amazon.com/images/I/31oZSA6G%2BiL._SL160_.jpg" alt="Oculus Rift cv1 製品版 2016 オキュラス リフト (Oculus Rift cv1 製品版) [並行輸入品]" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01EUAU9OM/ab1025-22/">Oculus Rift cv1 製品版 2016 オキュラス リフト (Oculus Rift cv1 製品版) [並行輸入品]</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">メディア:</span> エレクトロニクス</li>
+<li><span class="external-link-detail-label">メディア:</span> エレクトロニクス</li>
 <li><a href="http://d.hatena.ne.jp/asin/B01EUAU9OM/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> </p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B06XKT4PBC/ab1025-22/"><img class="hatena-asin-detail-image" title="【国内正規品】 HTC VIVE (コンシューマーエディション)" src="https://images-fe.ssl-images-amazon.com/images/I/31pDZkvDd%2BL._SL160_.jpg" alt="【国内正規品】 HTC VIVE (コンシューマーエディション)" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B06XKT4PBC/ab1025-22/">【国内正規品】 HTC VIVE (コンシューマーエディション)</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B06XKT4PBC/ab1025-22/"><img class="external-link-detail-image" title="【国内正規品】 HTC VIVE (コンシューマーエディション)" src="https://images-fe.ssl-images-amazon.com/images/I/31pDZkvDd%2BL._SL160_.jpg" alt="【国内正規品】 HTC VIVE (コンシューマーエディション)" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B06XKT4PBC/ab1025-22/">【国内正規品】 HTC VIVE (コンシューマーエディション)</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> HTC</li>
-<li><span class="hatena-asin-detail-label">発売日:</span> 2016/07/07</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> Video Game</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> HTC</li>
+<li><span class="external-link-detail-label">発売日:</span> 2016/07/07</li>
+<li><span class="external-link-detail-label">メディア:</span> Video Game</li>
 <li><a href="http://d.hatena.ne.jp/asin/B06XKT4PBC/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> </p>

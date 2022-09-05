@@ -35,7 +35,7 @@ const diggingFiles = (fs, dir) => {
 /**
  * Markdown のファイルの中身をパースして取得する
  */
-const readContentFile = async ({ fs, slug, dirname = '', filename }) => {
+const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs, slug?: string, dirname?: string, filename?: string }) => {
   if (slug === undefined) {
     slug = path.parse(filename).name
     dirname = `${path.parse(filename).dir}/`

@@ -36,19 +36,19 @@ Date: 2015-05-01T15:59:31+09:00
 <p>就活でホステスの本を参考にしたってどういうことよ、とお思いだろう。</p>
 <p>仕方ないのですよ、一番役立ったのがこの本だったんですよ。 </p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4769610157/ab1025-22/"><img class="hatena-asin-detail-image" title="昼間は心理カウンセラー 銀座No.1ホステスの心をつかむ話し方" src="http://ecx.images-amazon.com/images/I/51lfPhtinDL._SL160_.jpg" alt="昼間は心理カウンセラー 銀座No.1ホステスの心をつかむ話し方" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4769610157/ab1025-22/">昼間は心理カウンセラー 銀座No.1ホステスの心をつかむ話し方</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4769610157/ab1025-22/"><img class="external-link-detail-image" title="昼間は心理カウンセラー 銀座No.1ホステスの心をつかむ話し方" src="http://ecx.images-amazon.com/images/I/51lfPhtinDL._SL160_.jpg" alt="昼間は心理カウンセラー 銀座No.1ホステスの心をつかむ話し方" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4769610157/ab1025-22/">昼間は心理カウンセラー 銀座No.1ホステスの心をつかむ話し方</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">作者:</span> 水希</li>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> こう書房</li>
-<li><span class="hatena-asin-detail-label">発売日:</span> 2009/11/03</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> 単行本（ソフトカバー）</li>
-<li><span class="hatena-asin-detail-label">購入</span>: 22人 <span class="hatena-asin-detail-label">クリック</span>: 99回</li>
+<li><span class="external-link-detail-label">作者:</span> 水希</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> こう書房</li>
+<li><span class="external-link-detail-label">発売日:</span> 2009/11/03</li>
+<li><span class="external-link-detail-label">メディア:</span> 単行本（ソフトカバー）</li>
+<li><span class="external-link-detail-label">購入</span>: 22人 <span class="external-link-detail-label">クリック</span>: 99回</li>
 <li><a href="http://d.hatena.ne.jp/asin/4769610157/ab1025-22" target="_blank">この商品を含むブログ (8件) を見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p>当初ネタで読み始めたらんだら、内容がガチで、かなり参考になりました。</p>
@@ -111,56 +111,56 @@ Date: 2015-05-01T15:59:31+09:00
 
 <p>就職は3秒で決まる。</p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4072848425/ab1025-22/"><img class="hatena-asin-detail-image" title="就職は3秒で決まる。―面接官が採用する「3秒ルール」とは?" src="http://ecx.images-amazon.com/images/I/410ie7WGA2L._SL160_.jpg" alt="就職は3秒で決まる。―面接官が採用する「3秒ルール」とは?" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4072848425/ab1025-22/">就職は3秒で決まる。―面接官が採用する「3秒ルール」とは?</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4072848425/ab1025-22/"><img class="external-link-detail-image" title="就職は3秒で決まる。―面接官が採用する「3秒ルール」とは?" src="http://ecx.images-amazon.com/images/I/410ie7WGA2L._SL160_.jpg" alt="就職は3秒で決まる。―面接官が採用する「3秒ルール」とは?" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4072848425/ab1025-22/">就職は3秒で決まる。―面接官が採用する「3秒ルール」とは?</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">作者:</span> 荒木亨二</li>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> 主婦の友社</li>
-<li><span class="hatena-asin-detail-label">発売日:</span> 2012/10/13</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> 単行本（ソフトカバー）</li>
-<li><span class="hatena-asin-detail-label">クリック</span>: 9回</li>
+<li><span class="external-link-detail-label">作者:</span> 荒木亨二</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> 主婦の友社</li>
+<li><span class="external-link-detail-label">発売日:</span> 2012/10/13</li>
+<li><span class="external-link-detail-label">メディア:</span> 単行本（ソフトカバー）</li>
+<li><span class="external-link-detail-label">クリック</span>: 9回</li>
 <li><a href="http://d.hatena.ne.jp/asin/4072848425/ab1025-22" target="_blank">この商品を含むブログ (1件) を見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> 就活こわい、と思っている人向け。程よく肩の力が抜ける。まともに読めた就活本はこの本だけ。</p>
 <p><strong><strong> </strong></strong></p>
 <p>ビジネスモデルYOU </p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798128147/ab1025-22/"><img class="hatena-asin-detail-image" title="ビジネスモデルYOU" src="http://ecx.images-amazon.com/images/I/51pD1kmEXIL._SL160_.jpg" alt="ビジネスモデルYOU" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798128147/ab1025-22/">ビジネスモデルYOU</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798128147/ab1025-22/"><img class="external-link-detail-image" title="ビジネスモデルYOU" src="http://ecx.images-amazon.com/images/I/51pD1kmEXIL._SL160_.jpg" alt="ビジネスモデルYOU" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4798128147/ab1025-22/">ビジネスモデルYOU</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">作者:</span> ティム・クラーク,アレックス・オスターワルダー,イヴ・ピニュール,神田昌典</li>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> 翔泳社</li>
-<li><span class="hatena-asin-detail-label">発売日:</span> 2012/10/26</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> 大型本</li>
-<li><span class="hatena-asin-detail-label">購入</span>: 5人 <span class="hatena-asin-detail-label">クリック</span>: 48回</li>
+<li><span class="external-link-detail-label">作者:</span> ティム・クラーク,アレックス・オスターワルダー,イヴ・ピニュール,神田昌典</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> 翔泳社</li>
+<li><span class="external-link-detail-label">発売日:</span> 2012/10/26</li>
+<li><span class="external-link-detail-label">メディア:</span> 大型本</li>
+<li><span class="external-link-detail-label">購入</span>: 5人 <span class="external-link-detail-label">クリック</span>: 48回</li>
 <li><a href="http://d.hatena.ne.jp/asin/4798128147/ab1025-22" target="_blank">この商品を含むブログ (17件) を見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> 一度本の中のワークをやっておくと、志望動機とかどんな企業はいりたいかという質問がきたときに返答しやすくなります。</p>
 <p><strong><strong> </strong></strong></p>
 <p>できる人はなぜ「白シャツ」を選ぶのか</p>
 <div class="freezed">
-<div class="hatena-asin-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4569816916/ab1025-22/"><img class="hatena-asin-detail-image" title="できる人はなぜ「白シャツ」を選ぶのか (PHPビジネス新書)" src="http://ecx.images-amazon.com/images/I/41O4KVHNXOL._SL160_.jpg" alt="できる人はなぜ「白シャツ」を選ぶのか (PHPビジネス新書)" /></a>
-<div class="hatena-asin-detail-info">
-<p class="hatena-asin-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4569816916/ab1025-22/">できる人はなぜ「白シャツ」を選ぶのか (PHPビジネス新書)</a></p>
+<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4569816916/ab1025-22/"><img class="external-link-detail-image" title="できる人はなぜ「白シャツ」を選ぶのか (PHPビジネス新書)" src="http://ecx.images-amazon.com/images/I/41O4KVHNXOL._SL160_.jpg" alt="できる人はなぜ「白シャツ」を選ぶのか (PHPビジネス新書)" /></a>
+<div class="external-link-detail-info">
+<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4569816916/ab1025-22/">できる人はなぜ「白シャツ」を選ぶのか (PHPビジネス新書)</a></p>
 <ul>
-<li><span class="hatena-asin-detail-label">作者:</span> 唐澤理恵</li>
-<li><span class="hatena-asin-detail-label">出版社/メーカー:</span> PHP研究所</li>
-<li><span class="hatena-asin-detail-label">発売日:</span> 2013/12/19</li>
-<li><span class="hatena-asin-detail-label">メディア:</span> 新書</li>
+<li><span class="external-link-detail-label">作者:</span> 唐澤理恵</li>
+<li><span class="external-link-detail-label">出版社/メーカー:</span> PHP研究所</li>
+<li><span class="external-link-detail-label">発売日:</span> 2013/12/19</li>
+<li><span class="external-link-detail-label">メディア:</span> 新書</li>
 <li><a href="http://d.hatena.ne.jp/asin/4569816916/ab1025-22" target="_blank">この商品を含むブログ (2件) を見る</a></li>
 </ul>
 </div>
-<div class="hatena-asin-detail-foot"> </div>
+<div class="external-link-detail-foot"> </div>
 </div>
 </div>
 <p> ビジネスカジュアルを指定されたときでも、この本読んでいれば何とかなる</p>
