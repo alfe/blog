@@ -13,6 +13,7 @@
   "dependencies": {
     "dayjs": "^1.11.5",
     "feed": "^4.2.2",
+    "ga-gtag": "^1.1.1",
     "gray-matter": "^4.0.3",
     "next": "12.2.5",
     "next-sitemap": "^3.1.21",
