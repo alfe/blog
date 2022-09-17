@@ -2,7 +2,7 @@
 Title: ブログをはてなブログからNext.jsで作ったブログに移行した話
 Category:
 - プログラム
-Date: 2022-09-04T23:10:31
+Date: 2022-09-04T23:10:31+09:00
 IMAGE: /img/2022/09/04/thumbnail.png
 ---
 
