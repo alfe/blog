@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Mon, 05 Sep 2022 02:08:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 10:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -15,10 +15,21 @@
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
         <item>
+            <title><![CDATA[最近の本の探し方（書店巡りが減って図書館の新着図書で探している話）]]></title>
+            <link>https://blog.alfebelow.com/entry/2022/09/17/book-browse</link>
+            <guid>https://blog.alfebelow.com/entry/2022/09/17/book-browse</guid>
+            <pubDate>Sat, 17 Sep 2022 09:40:00 GMT</pubDate>
+            <description><![CDATA[最近本屋さんに行かなくなりました。
+そもそも外に出る機会が減りました。コロナ禍で外出が減り、どこかに出かけたついでに本屋へ立ち寄ることが減りました。それに加えて本屋さんそのものも減りました。一番近い本屋、そしてその次に近い本屋。その2件はこの数年で閉店しました。
+
+本屋で本と出会わない
+では、残っている本屋によく立ち寄っているかというとそういうわけでもなく。というのも、本屋で平積みされた本との相性]]></description>
+        </item>
+        <item>
             <title><![CDATA[ブログをはてなブログからNext.jsで作ったブログに移行した話]]></title>
             <link>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</link>
             <guid>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</guid>
-            <pubDate>Sun, 04 Sep 2022 23:10:31 GMT</pubDate>
+            <pubDate>Sun, 04 Sep 2022 14:10:31 GMT</pubDate>
             <description><![CDATA[ふと思い立ち、ブログをNext.jsで作って、記事をこっちに移動してきたよという話。
 いわゆるJamstackなブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。
 
@@ -203,31 +214,6 @@ Amazon
 名前の位置を調整したり
 名前を文字だけにしたり縁取りに変えたり
 ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年2月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2022/03/01/2022%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2022/03/01/2022%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Tue, 01 Mar 2022 11:54:07 GMT</pubDate>
-            <description><![CDATA[いつもの
-
-新基礎情報学
-
-
-
-新 基礎情報学 ―機械をこえる生命
-
-作者:西垣 通
-NTT出版
-
-Amazon
-
-
-トランス・ヒューマニズムとその行きつく先にあるホモ・デウスに対抗するための哲学。良書。
-生命と機械の違いを考察しながら、そもそも情報とはなにかを見ていく。
- 
-私がスチュアート・カウフマン（複雑系の理論生物学者）に傾倒しているのもあって、この本の考え方にしっくりきた。
-『ホモ・デウ]]></description>
         </item>
     </channel>
 </rss>
