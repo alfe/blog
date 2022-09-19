@@ -101,7 +101,6 @@ const sortWithProp = (name, reversed) => (a, b) => {
 const replaceComponentInHtml = (propsValues: {
   a: { [key: string]: any };
 }) => {
-  console.log('propsValues', propsValues)
   return unified()
     .use(rehypeParse, { fragment: true })
     .use(rehypeReact, {

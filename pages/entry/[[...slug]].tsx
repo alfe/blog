@@ -45,7 +45,6 @@ type PostProps = {
   }[];
 }
 const Post = (params: PostProps) => {
-  // console.log('params', params)
   return (
     <Layout title={params.title}>
       <Ogp
@@ -63,7 +62,6 @@ const Post = (params: PostProps) => {
         {replaceComponentInHtml({
           a: { ogpDatas: params.ogpDatas }
         }).processSync(params.content).result as ReactNode}
-        {/* {params.content} */}
       </article>
       <PostFooter prevPage={params.prevPage} nextPage={params.nextPage} />
 
@@ -173,7 +171,6 @@ export const getStaticProps = async ({ params }) => {
 
   const floatingUrls = getFloatingUrls(postContent.content ?? '');
   const ogpDatas = await getOgpData(floatingUrls);
-  console.log('floatingUrls',floatingUrls)
   return {
     props: {
       ...postContent,
