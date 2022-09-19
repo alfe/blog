@@ -6,6 +6,8 @@ import Ogp from "../../components/Ogp"
 import Category from "../../components/Category"
 import PostFooter from "../../components/PostFooter"
 import { listContentFiles, readContentFile, readContentFiles } from "../../lib/content-loader"
+import getFloatingUrls from "../../lib/getFloatingUrls"
+import getOgpData from "../../lib/getOgpData"
 
 type PostProps = {
   title: string;
@@ -27,6 +29,7 @@ type PostProps = {
   };
 }
 const Post = (params: PostProps) => {
+  console.log(params)
   return (
     <Layout title={params.title}>
       <Ogp
@@ -142,17 +145,21 @@ export default Post;
  * ページコンポーネントで使用する値を用意する
  */
 export const getStaticProps = async ({ params }) => {
-  const content = await readContentFile({ fs, slug: params.slug.join('/') })
+  const postContent = await readContentFile({ fs, slug: params.slug.join('/') })
 
   const posts = await readContentFiles({ fs })
   const postIndex = posts
     .map((post) => `${post.dirname === '//' ? '/' : post.dirname}${post.slug}`)
     .findIndex(url => url === `/${params.slug.join('/')}`);
 
+  const floatingUrls = getFloatingUrls(postContent.content ?? '');
+  const ogpDatas = await getOgpData(floatingUrls);
   return {
     props: {
-      ...content,
+      ...postContent,
       postIndex,
+      floatingUrls,
+      ogpDatas,
       prevPage: postIndex !== 0 ? posts[postIndex - 1] || null : null,
       nextPage: postIndex !== posts.length ? posts[postIndex + 1] || null : null,
     }

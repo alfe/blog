@@ -4,6 +4,10 @@ import { remark } from "remark"
 import remarkHtml from "remark-html"
 import strip from "remark-strip-html"
 import matter from "gray-matter"
+import remarkRehype from "remark-rehype";
+import rehypeReact from "rehype-react";
+import { createElement, Fragment } from "react"
+import { visit } from "unist-util-visit";
 
 const DIR = path.join(process.cwd(), "content/posts")
 const EXTENSION = ".md"
@@ -45,15 +49,29 @@ const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs, slug?
   const matterResult = matter(raw)
   const { Title, Category, IMAGE, Date: rawPublished } = matterResult.data
 
+  const components = {
+  }
   const parsedContent = await remark()
     .use(remarkHtml, {sanitize: false})
+    .use(() => {
+      return (tree) => {
+        visit(tree, "html", (node: { type: string; value: string }) => {
+          node.type = "text";
+        });
+      }})
+    .use(remarkRehype)
+    .use(rehypeReact, {
+        createElement,
+        Fragment,
+        components,
+    })
     .process(matterResult.content)
   const content = parsedContent.toString()
-  const parsedSanitizeContent = await remark()
+
+  const description = await remark()
     .use(remarkHtml, {sanitize: true})
     .use(strip)
     .process(matterResult.content)
-  const description = parsedSanitizeContent
     .toString()
     .replace(/\<.+\>(.*)\<\/.+\>/g, '$1')
     .substring(0, 200)

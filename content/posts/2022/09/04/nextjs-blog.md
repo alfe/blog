@@ -12,6 +12,9 @@ IMAGE: /img/2022/09/04/thumbnail.png
 
 リポジトリはここ → [https://github.com/alfe/blog](https://github.com/alfe/blog)
 
+https://github.com/alfe/blog
+
+
 ### 移行手順
 
 #### ブログをつくる
