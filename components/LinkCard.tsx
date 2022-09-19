@@ -29,10 +29,17 @@ const LinkCard = (props: LinkCardProps) => {
   // 独立行のURL
   if (props.href === props.children[0]) {
     const ogp = props.ogpDatas.find((ogpData) => props.href === ogpData.requestUrl)
+    if (!ogp) {
+      return (
+        <a href={props.href} target="_blank" rel="noopener noreferrer">
+          {props.children[0]}
+        </a>
+      );
+    }
     return (
       <span>
         <a className="ogp-link" href={props.href} target="_blank" rel="noopener noreferrer">
-        {!!ogp.ogImage && (
+        {!!ogp?.ogImage && (
           <Image alt="ogp-link"
             src={ogp.ogImage.url}
             width={ogp.ogImage.width}
