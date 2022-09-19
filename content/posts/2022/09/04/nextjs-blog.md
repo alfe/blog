@@ -10,9 +10,9 @@ IMAGE: /img/2022/09/04/thumbnail.png
 
 いわゆるJamstackなブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。
 
-リポジトリはここ → [https://github.com/alfe/blog](https://github.com/alfe/blog)
+リポジトリはここ。
 
-https://github.com/alfe/blog
+[https://github.com/alfe/blog](https://github.com/alfe/blog)
 
 
 ### 移行手順

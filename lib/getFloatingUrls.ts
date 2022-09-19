@@ -1,9 +1,16 @@
 const getFloatingUrls = (url?: string): string[] => {
   if (!url) return [];
-  const result: string[] = [];
-  const match = url.match(/^<p>(https?:\/\/[\w!\?/\+\-_~=;\.,\*&@#\$%\(\)'\[\]]+)<\/p>/img);
+  const match = url.match(/^<p><a href="(https?:\/\/[\w!\?/\+\-_~=;\.,\*&@#\$%\(\)'\[\]]+)">(.*)<\/a>/img);
   if (!match) return [];
-  return match.map(urlRow => urlRow.replace('<p>', '').replace('</p>', ''));
+  const singleLineUrls = match
+    .map((line) => {
+      // line: '<p><a href="https://github.com/alfe/blog">https://github.com/alfe/blog</a>'
+      const result = line.replace('<p><a href="', '').replace('</a>', '').split('">')
+      return result; // result: ['https://github.com/alfe/blog', 'https://github.com/alfe/blog']
+    })
+    .filter(([href, children]) => href === children)
+    .map(([href, children]) => href)
+  return singleLineUrls;
 };
 
 export default getFloatingUrls;

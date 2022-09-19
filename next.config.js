@@ -8,6 +8,7 @@ const nextConfig = {
       'cdn-ak2.f.st-hatena.com',
       'lh3.googleusercontent.com',
       'blog.alfebelow.com',
+      'opengraph.githubassets.com',
       'localhost',
     ],
   },

@@ -5,9 +5,10 @@ import Layout from "../../components/Layout"
 import Ogp from "../../components/Ogp"
 import Category from "../../components/Category"
 import PostFooter from "../../components/PostFooter"
-import { listContentFiles, readContentFile, readContentFiles } from "../../lib/content-loader"
+import { listContentFiles, replaceComponentInHtml, readContentFile, readContentFiles } from "../../lib/content-loader"
 import getFloatingUrls from "../../lib/getFloatingUrls"
 import getOgpData from "../../lib/getOgpData"
+import { ReactNode } from "react"
 
 type PostProps = {
   title: string;
@@ -27,9 +28,24 @@ type PostProps = {
     slug: string;
     title: string;
   };
+  ogpDatas?: {
+    twitterSite: string;
+    twitterCard: string;
+    twitterTitle: string;
+    twitterDescription: string;
+    ogSiteName: string;
+    ogType: string;
+    ogTitle: string;
+    ogUrl: string;
+    ogDescription: string;
+    ogImage: any;
+    twitterImage: any;
+    requestUrl: string;
+    success: boolean;
+  }[];
 }
 const Post = (params: PostProps) => {
-  console.log(params)
+  // console.log('params', params)
   return (
     <Layout title={params.title}>
       <Ogp
@@ -43,9 +59,12 @@ const Post = (params: PostProps) => {
         </time>
         <Category category={params.category} />
       </div>
-      <div className="post-body"
-        dangerouslySetInnerHTML={{ __html: params.content }}
-      />
+      <article className="post-body">
+        {replaceComponentInHtml({
+          a: { ogpDatas: params.ogpDatas }
+        }).processSync(params.content).result as ReactNode}
+        {/* {params.content} */}
+      </article>
       <PostFooter prevPage={params.prevPage} nextPage={params.nextPage} />
 
       <style jsx>{`
@@ -154,6 +173,7 @@ export const getStaticProps = async ({ params }) => {
 
   const floatingUrls = getFloatingUrls(postContent.content ?? '');
   const ogpDatas = await getOgpData(floatingUrls);
+  console.log('floatingUrls',floatingUrls)
   return {
     props: {
       ...postContent,

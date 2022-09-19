@@ -26,7 +26,7 @@ const getOgpData = async (floatingUrls: string[]): Promise<OgpData[]> => {
         .catch((error) => {
           // error を throw するとビルドできないため、コンソールに出力して return する
           // eslint-disable-next-line no-console
-          console.log(error);
+          console.log('OgpData parse error:', error);
         });
     })
   );
