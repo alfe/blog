@@ -4,6 +4,11 @@ import { remark } from "remark"
 import remarkHtml from "remark-html"
 import strip from "remark-strip-html"
 import matter from "gray-matter"
+import { unified } from "unified"
+import rehypeReact from "rehype-react";
+import rehypeParse from "rehype-parse"
+import React from "react"
+import LinkCard from "../components/LinkCard"
 
 const DIR = path.join(process.cwd(), "content/posts")
 const EXTENSION = ".md"
@@ -47,13 +52,13 @@ const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs, slug?
 
   const parsedContent = await remark()
     .use(remarkHtml, {sanitize: false})
-    .process(matterResult.content)
+    .processSync(matterResult.content)
   const content = parsedContent.toString()
-  const parsedSanitizeContent = await remark()
+
+  const description = await remark()
     .use(remarkHtml, {sanitize: true})
     .use(strip)
     .process(matterResult.content)
-  const description = parsedSanitizeContent
     .toString()
     .replace(/\<.+\>(.*)\<\/.+\>/g, '$1')
     .substring(0, 200)
@@ -93,4 +98,17 @@ const sortWithProp = (name, reversed) => (a, b) => {
   }
 }
 
-export { listContentFiles, readContentFile, readContentFiles }
+const replaceComponentInHtml = (propsValues: {
+  a: { [key: string]: any };
+}) => {
+  return unified()
+    .use(rehypeParse, { fragment: true })
+    .use(rehypeReact, {
+      createElement: React.createElement,
+      components: { 
+        a: (props: { href: string; children: string[]; }) => LinkCard({ ...props, ...propsValues.a }),
+      },
+    });
+}
+
+export { listContentFiles, readContentFile, readContentFiles, replaceComponentInHtml }

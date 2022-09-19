@@ -5,7 +5,10 @@ import Layout from "../../components/Layout"
 import Ogp from "../../components/Ogp"
 import Category from "../../components/Category"
 import PostFooter from "../../components/PostFooter"
-import { listContentFiles, readContentFile, readContentFiles } from "../../lib/content-loader"
+import { listContentFiles, replaceComponentInHtml, readContentFile, readContentFiles } from "../../lib/content-loader"
+import getFloatingUrls from "../../lib/getFloatingUrls"
+import getOgpData from "../../lib/getOgpData"
+import { ReactNode } from "react"
 
 type PostProps = {
   title: string;
@@ -25,6 +28,21 @@ type PostProps = {
     slug: string;
     title: string;
   };
+  ogpDatas?: {
+    twitterSite: string;
+    twitterCard: string;
+    twitterTitle: string;
+    twitterDescription: string;
+    ogSiteName: string;
+    ogType: string;
+    ogTitle: string;
+    ogUrl: string;
+    ogDescription: string;
+    ogImage: any;
+    twitterImage: any;
+    requestUrl: string;
+    success: boolean;
+  }[];
 }
 const Post = (params: PostProps) => {
   return (
@@ -40,9 +58,11 @@ const Post = (params: PostProps) => {
         </time>
         <Category category={params.category} />
       </div>
-      <div className="post-body"
-        dangerouslySetInnerHTML={{ __html: params.content }}
-      />
+      <article className="post-body">
+        {replaceComponentInHtml({
+          a: { ogpDatas: params.ogpDatas }
+        }).processSync(params.content).result as ReactNode}
+      </article>
       <PostFooter prevPage={params.prevPage} nextPage={params.nextPage} />
 
       <style jsx>{`
@@ -142,17 +162,21 @@ export default Post;
  * ページコンポーネントで使用する値を用意する
  */
 export const getStaticProps = async ({ params }) => {
-  const content = await readContentFile({ fs, slug: params.slug.join('/') })
+  const postContent = await readContentFile({ fs, slug: params.slug.join('/') })
 
   const posts = await readContentFiles({ fs })
   const postIndex = posts
     .map((post) => `${post.dirname === '//' ? '/' : post.dirname}${post.slug}`)
     .findIndex(url => url === `/${params.slug.join('/')}`);
 
+  const floatingUrls = getFloatingUrls(postContent.content ?? '');
+  const ogpDatas = await getOgpData(floatingUrls);
   return {
     props: {
-      ...content,
+      ...postContent,
       postIndex,
+      floatingUrls,
+      ogpDatas,
       prevPage: postIndex !== 0 ? posts[postIndex - 1] || null : null,
       nextPage: postIndex !== posts.length ? posts[postIndex + 1] || null : null,
     }
