@@ -152,6 +152,10 @@ const Post = (params: PostProps) => {
           color: #FFF;
           overflow-x: scroll;
         }
+        a[href^="https://www.amazon.co.jp/"]:has(img){
+          display: block;
+          text-align: center;
+        }
       `}</style>
     </Layout>
   )
