@@ -10,74 +10,74 @@
     },
     "items": [
         {
+            "id": "https://blog.alfebelow.com/entry/2022/09/30/2022%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "url": "https://blog.alfebelow.com/entry/2022/09/30/2022%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "title": "2022年9月に読んだ本",
+            "summary": "[object Promise]",
+            "date_modified": "2022-09-30T14:50:00.000Z"
+        },
+        {
             "id": "https://blog.alfebelow.com/entry/2022/09/17/book-browse",
             "url": "https://blog.alfebelow.com/entry/2022/09/17/book-browse",
             "title": "最近の本の探し方（書店巡りが減って図書館の新着図書で探している話）",
-            "summary": "最近本屋さんに行かなくなりました。\nそもそも外に出る機会が減りました。コロナ禍で外出が減り、どこかに出かけたついでに本屋へ立ち寄ることが減りました。それに加えて本屋さんそのものも減りました。一番近い本屋、そしてその次に近い本屋。その2件はこの数年で閉店しました。\n\n本屋で本と出会わない\nでは、残っている本屋によく立ち寄っているかというとそういうわけでもなく。というのも、本屋で平積みされた本との相性",
+            "summary": "[object Promise]",
             "date_modified": "2022-09-17T09:40:00.000Z"
         },
         {
             "id": "https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog",
             "url": "https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog",
             "title": "ブログをはてなブログからNext.jsで作ったブログに移行した話",
-            "summary": "ふと思い立ち、ブログをNext.jsで作って、記事をこっちに移動してきたよという話。\nいわゆるJamstackなブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。\n\n移行手順\nブログをつくる\nまずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができました。助かる。\n\nはて",
+            "summary": "[object Promise]",
             "date_modified": "2022-09-04T14:10:31.000Z"
         },
         {
             "id": "https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "url": "https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年8月に読んだ本",
-            "summary": "いつもの\n\n猫に学ぶ―いかに良く生きるか\n\n\n猫に学ぶ――いかに良く生きるか\n\n作者:ジョン・グレイ\nみすず書房\n\nAmazon\n\n猫から生きる哲学を学ぶ本。良書。\n幸福・道徳・愛・死について、いかに人間が迷走しているか、そして猫のそれがいかに充足しているかを哲学者が語る。\nかわいいタイトルと表紙だが、しっかり哲学の本。\n某漫画に出てくる「人間病」という概念を、モンスターでなく現実の猫から観測する",
+            "summary": "[object Promise]",
             "date_modified": "2022-08-31T09:36:50.000Z"
         },
         {
             "id": "https://blog.alfebelow.com/entry/2022/07/31/2022%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "url": "https://blog.alfebelow.com/entry/2022/07/31/2022%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年7月に読んだ本",
-            "summary": "いつもの\n \n\n \n大地の五億年\n\n\n\nヤマケイ文庫 大地の五億年 せめぎあう土と生き物たち\n\n作者:藤井 一至\n山と溪谷社\n\nAmazon\n\n\n土がどのようにできてきたのかの変遷について。\n5億年前には土がなかったという話から始まり、土がない場所でなにが生えてくるか、植物が土から何を得ているのか、雨や植物によって酸性に変わる土、マクロ視点での栄養の流れ、焼畑の利点、ハーバー・ボッシュ法による肥料",
+            "summary": "[object Promise]",
             "date_modified": "2022-07-31T08:31:41.000Z"
         },
         {
             "id": "https://blog.alfebelow.com/entry/2022/07/02/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%A4%96%E8%A6%B3%E5%A4%89%E6%9B%B4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%8E%A8%E7%A7%BB",
             "url": "https://blog.alfebelow.com/entry/2022/07/02/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%A4%96%E8%A6%B3%E5%A4%89%E6%9B%B4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%8E%A8%E7%A7%BB",
             "title": "アイコン外観変更ジェネレーターのアクセス推移",
-            "summary": "3月末、OBSのカスタムCSSをつくるジェネレーターを作成して公開しました。そこからしばらく経ったのでアクセスログをまとめてみようと思います。\n \n\nアクセスログ\n当初、アクセスログをつけてなくて、GA4を設置したのが5月4日だったのでそこからのデータになりますがおおよその把握できるかなと思います。\n\n\nアクセスログ 5月4日～7月1日\n\n紹介動画\n<p>5月中旬くらいまではだいたい100前後。個",
+            "summary": "[object Promise]",
             "date_modified": "2022-07-02T09:54:15.000Z"
         },
         {
             "id": "https://blog.alfebelow.com/entry/2022/07/01/2022%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "url": "https://blog.alfebelow.com/entry/2022/07/01/2022%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年6月に読んだ本",
-            "summary": "いつもの\n\n\n実践 医療現場の行動経済学\n\n\n\n実践 医療現場の行動経済学: すれ違いの解消法\n\n作者:大竹 文雄,平井 啓\n東洋経済新報社\n\nAmazon\n\n\n医療現場で起きる問題に対して、行動経済学の視点から解決できないかを模索したケース集。\n医療における行動変容について実際の事例をもとに説明している。\n \n手指消毒の遵守率は医者が説くよりもマスコミで繰り返し報じたほうが向上した。HPVワクチ",
+            "summary": "[object Promise]",
             "date_modified": "2022-07-01T10:41:25.000Z"
         },
         {
             "id": "https://blog.alfebelow.com/entry/2022/05/31/2022%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "url": "https://blog.alfebelow.com/entry/2022/05/31/2022%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年5月に読んだ本",
-            "summary": "いつもの\n\n人を賢くする道具\n\n\n\n人を賢くする道具―ソフト・テクノロジーの心理学 (新曜社認知科学選書)\n\n作者:D.A. ノーマン\n新曜社\n\nAmazon\n\n\n人間よりもテクノロジー側の要求に重点を置きすぎている問題について。機械と人間で得意な作業は異なるが、機械を正常に動かすために機械の要求に合うような仕事が人間の不得意なことにもかかわらず積み上げられている、という概略。原書は1993年。\n",
+            "summary": "[object Promise]",
             "date_modified": "2022-05-31T12:54:24.000Z"
         },
         {
             "id": "https://blog.alfebelow.com/entry/2022/05/01/2022%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "url": "https://blog.alfebelow.com/entry/2022/05/01/2022%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年4月に読んだ本",
-            "summary": "いつもの\n\n\n \nテクノロジー・ウォッチング\n\n\n\nテクノロジー・ウォッチング―ハイテク社会をフィールドワークする (新曜社認知科学選書)\n\n作者:D.A. ノーマン\n新曜社\n\nAmazon\n\n\n30年前に書かれたUXの議論。\n子供の劇よりも劇を撮影するためのカメラの操作に夢中になってる親御さんの描写から始まり、照明盤の下に書かれた注意書き（暗がりなので読めない）や券を入れるところを間違えやすいの",
+            "summary": "[object Promise]",
             "date_modified": "2022-05-01T10:56:24.000Z"
         },
         {
             "id": "https://blog.alfebelow.com/entry/2022/04/03/2022%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "url": "https://blog.alfebelow.com/entry/2022/04/03/2022%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2022年3月に読んだ本",
-            "summary": "いつもの\n\n\nソフトウェアアーキテクチャの基礎\n\n\n\nソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ\n\n作者:Mark Richards,Neal Ford\nオライリージャパン\n\nAmazon\n\n\nアーキテクチャを決める際に考えることについて。\nこれさえ読めばなんとかなる、というよりは各アーキテクチャの利点欠点と、アーキテクチャ決定前後にやることのリストが書かれた本。",
+            "summary": "[object Promise]",
             "date_modified": "2022-04-03T12:30:02.000Z"
-        },
-        {
-            "id": "https://blog.alfebelow.com/entry/2022/03/20/obs-discord-icon",
-            "url": "https://blog.alfebelow.com/entry/2022/03/20/obs-discord-icon",
-            "title": "OBSでDiscordのアイコンを四角や横並びにするジェネレーター",
-            "summary": "Among us実況とかで雑談配信とかで、四角いDiscordのアイコンが横並びでぴょこぴょことよく動くのを見かけます。\n」をつくりました。\n\n何ができるの？\n\nアイコンを横並びにしたり\nアイコンのサイズを変えたり\nアイコンの形を四角くしたり角を丸くしたり\nアイコンをぴょこぴょこさせたり、点滅させたり\nぴょこぴょこする速さを変えたり\n名前の位置を調整したり\n名前を文字だけにしたり縁取りに変えたり\n",
-            "date_modified": "2022-03-20T10:00:00.000Z"
         }
     ]
 }
