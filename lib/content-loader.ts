@@ -58,7 +58,7 @@ const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs, slug?
   const description = await remark()
     .use(remarkHtml, {sanitize: true})
     .use(strip)
-    .process(matterResult.content)
+    .processSync(matterResult.content)
     .toString()
     .replace(/\<.+\>(.*)\<\/.+\>/g, '$1')
     .substring(0, 200)

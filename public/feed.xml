@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Fri, 30 Sep 2022 14:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 04:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -19,70 +19,196 @@
             <link>https://blog.alfebelow.com/entry/2022/09/30/2022%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
             <guid>https://blog.alfebelow.com/entry/2022/09/30/2022%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
             <pubDate>Fri, 30 Sep 2022 14:50:00 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[いつもの。
+
+ザ・ダークパターン
+
+ディセプティブ・デザインと呼ばれる、企業が儲けるためにユーザを意図的にだますデザインについて。
+ダークパターンの意思決定に与える影響、使う企業に対する長期的な損失、種類などが書かれている。ダークパターンを使う企業を責め立てるのではなく、使ってしまわないように反面教師にすることを目的とした本。
+今後、より忌避され受け入れられなくなっていく施策がまとめられているので]]></description>
         </item>
         <item>
             <title><![CDATA[最近の本の探し方（書店巡りが減って図書館の新着図書で探している話）]]></title>
             <link>https://blog.alfebelow.com/entry/2022/09/17/book-browse</link>
             <guid>https://blog.alfebelow.com/entry/2022/09/17/book-browse</guid>
             <pubDate>Sat, 17 Sep 2022 09:40:00 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[最近本屋さんに行かなくなりました。
+そもそも外に出る機会が減りました。コロナ禍で外出が減り、どこかに出かけたついでに本屋へ立ち寄ることが減りました。それに加えて本屋さんそのものも減りました。一番近い本屋、そしてその次に近い本屋。その2件はこの数年で閉店しました。
+
+本屋で本と出会わない
+では、残っている本屋によく立ち寄っているかというとそういうわけでもなく。というのも、本屋で平積みされた本との相性]]></description>
         </item>
         <item>
             <title><![CDATA[ブログをはてなブログからNext.jsで作ったブログに移行した話]]></title>
             <link>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</link>
             <guid>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</guid>
             <pubDate>Sun, 04 Sep 2022 14:10:31 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[ふと思い立ち、ブログをNext.jsで作って、記事をこっちに移動してきたよという話。
+いわゆるJamstackなブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。
+リポジトリはここ。
+
+移行手順
+ブログをつくる
+まずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができまし]]></description>
         </item>
         <item>
             <title><![CDATA[2022年8月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
             <guid>https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
             <pubDate>Wed, 31 Aug 2022 09:36:50 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[いつもの
+
+猫に学ぶ―いかに良く生きるか
+
+
+猫に学ぶ――いかに良く生きるか
+
+作者:ジョン・グレイ
+みすず書房
+
+Amazon
+
+猫から生きる哲学を学ぶ本。良書。
+幸福・道徳・愛・死について、いかに人間が迷走しているか、そして猫のそれがいかに充足しているかを哲学者が語る。
+かわいいタイトルと表紙だが、しっかり哲学の本。
+某漫画に出てくる「人間病」という概念を、モンスターでなく現実の猫から観測する]]></description>
         </item>
         <item>
             <title><![CDATA[2022年7月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/07/31/2022%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
             <guid>https://blog.alfebelow.com/entry/2022/07/31/2022%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
             <pubDate>Sun, 31 Jul 2022 08:31:41 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[いつもの
+ 
+
+ 
+大地の五億年
+
+
+
+ヤマケイ文庫 大地の五億年 せめぎあう土と生き物たち
+
+作者:藤井 一至
+山と溪谷社
+
+Amazon
+
+
+土がどのようにできてきたのかの変遷について。
+5億年前には土がなかったという話から始まり、土がない場所でなにが生えてくるか、植物が土から何を得ているのか、雨や植物によって酸性に変わる土、マクロ視点での栄養の流れ、焼畑の利点、ハーバー・ボッシュ法による肥料]]></description>
         </item>
         <item>
             <title><![CDATA[アイコン外観変更ジェネレーターのアクセス推移]]></title>
             <link>https://blog.alfebelow.com/entry/2022/07/02/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%A4%96%E8%A6%B3%E5%A4%89%E6%9B%B4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%8E%A8%E7%A7%BB</link>
             <guid>https://blog.alfebelow.com/entry/2022/07/02/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%A4%96%E8%A6%B3%E5%A4%89%E6%9B%B4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%8E%A8%E7%A7%BB</guid>
             <pubDate>Sat, 02 Jul 2022 09:54:15 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[3月末、OBSのカスタムCSSをつくるジェネレーターを作成して公開しました。そこからしばらく経ったのでアクセスログをまとめてみようと思います。
+ 
+
+アクセスログ
+当初、アクセスログをつけてなくて、GA4を設置したのが5月4日だったのでそこからのデータになりますがおおよその把握できるかなと思います。
+
+
+アクセスログ 5月4日～7月1日
+
+紹介動画
+<p>5月中旬くらいまではだいたい100前後。個]]></description>
         </item>
         <item>
             <title><![CDATA[2022年6月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/07/01/2022%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
             <guid>https://blog.alfebelow.com/entry/2022/07/01/2022%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
             <pubDate>Fri, 01 Jul 2022 10:41:25 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[いつもの
+
+
+実践 医療現場の行動経済学
+
+
+
+実践 医療現場の行動経済学: すれ違いの解消法
+
+作者:平井 啓
+東洋経済新報社
+
+Amazon
+
+
+医療現場で起きる問題に対して、行動経済学の視点から解決できないかを模索したケース集。
+医療における行動変容について実際の事例をもとに説明している。
+ 
+手指消毒の遵守率は医者が説くよりもマスコミで繰り返し報じたほうが向上した。HPVワクチンを本来の接]]></description>
         </item>
         <item>
             <title><![CDATA[2022年5月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/05/31/2022%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
             <guid>https://blog.alfebelow.com/entry/2022/05/31/2022%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
             <pubDate>Tue, 31 May 2022 12:54:24 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[いつもの
+
+人を賢くする道具
+
+
+
+人を賢くする道具―ソフト・テクノロジーの心理学 (新曜社認知科学選書)
+
+作者:D.A. ノーマン
+新曜社
+
+Amazon
+
+
+人間よりもテクノロジー側の要求に重点を置きすぎている問題について。機械と人間で得意な作業は異なるが、機械を正常に動かすために機械の要求に合うような仕事が人間の不得意なことにもかかわらず積み上げられている、という概略。原書は1993年。
+]]></description>
         </item>
         <item>
             <title><![CDATA[2022年4月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/05/01/2022%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
             <guid>https://blog.alfebelow.com/entry/2022/05/01/2022%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
             <pubDate>Sun, 01 May 2022 10:56:24 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[いつもの
+
+
+ 
+テクノロジー・ウォッチング
+
+
+
+テクノロジー・ウォッチング―ハイテク社会をフィールドワークする (新曜社認知科学選書)
+
+作者:D.A. ノーマン
+新曜社
+
+Amazon
+
+
+30年前に書かれたUXの議論。
+子供の劇よりも劇を撮影するためのカメラの操作に夢中になってる親御さんの描写から始まり、照明盤の下に書かれた注意書き（暗がりなので読めない）や券を入れるところを間違えやすいの]]></description>
         </item>
         <item>
             <title><![CDATA[2022年3月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/04/03/2022%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
             <guid>https://blog.alfebelow.com/entry/2022/04/03/2022%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
             <pubDate>Sun, 03 Apr 2022 12:30:02 GMT</pubDate>
-            <description><![CDATA[[object Promise]]]></description>
+            <description><![CDATA[いつもの
+
+
+ソフトウェアアーキテクチャの基礎
+
+
+
+ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ
+
+作者:Neal Ford
+オライリージャパン
+
+Amazon
+
+
+アーキテクチャを決める際に考えることについて。
+これさえ読めばなんとかなる、というよりは各アーキテクチャの利点欠点と、アーキテクチャ決定前後にやることのリストが書かれた本。
+ 
+どのアーキテクチャが良]]></description>
         </item>
     </channel>
 </rss>
