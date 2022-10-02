@@ -7,7 +7,8 @@ Date: 2014-05-30T12:55:06+09:00
 
 ServersMan SIM LTE(https://dream.jp/mb/sim/)のレビュー記事な。
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530123209.png" alt="f:id:alfe1025:20140530123209p:plain" title="f:id:alfe1025:20140530123209p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530123209.png" alt="f:id:alfe1025:20140530123209p:plain" title="f:id:alfe1025:20140530123209p:plain" class="hatena-fotolife" itemprop="image"></span>
 
 #いきさつ
 ガラケーとNexus7の2台持ちをしておりまして、Nexus7はWi-Fiのあるときだけ使うというやり方してました。
@@ -15,7 +16,8 @@ ServersMan SIM LTE(https://dream.jp/mb/sim/)のレビュー記事な。
 ここ数か月、Wi-Fiでしかタブレットを繋げない というのがネックになるアプリが出てきました。
 
 そう、こいつです。
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530123318.png" alt="f:id:alfe1025:20140530123318p:plain" title="f:id:alfe1025:20140530123318p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530123318.png" alt="f:id:alfe1025:20140530123318p:plain" title="f:id:alfe1025:20140530123318p:plain" class="hatena-fotolife" itemprop="image"></span>
 <span style="color: #80ff00"><span style="font-size: 150%">LINEです。</span></span>
 
 出先で連絡とるときとかに、LINE IDしか知らない人というのが出てきまして。
@@ -40,25 +42,31 @@ ServersMan SIM LTE(https://dream.jp/mb/sim/)のレビュー記事な。
 
 #で、封筒が届いた
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530115000.jpg" alt="f:id:alfe1025:20140530115000j:plain" title="f:id:alfe1025:20140530115000j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530115000.jpg" alt="f:id:alfe1025:20140530115000j:plain" title="f:id:alfe1025:20140530115000j:plain" class="hatena-fotolife" itemprop="image"></span>
 封筒開けた
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530115400.jpg" alt="f:id:alfe1025:20140530115400j:plain" title="f:id:alfe1025:20140530115400j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530115400.jpg" alt="f:id:alfe1025:20140530115400j:plain" title="f:id:alfe1025:20140530115400j:plain" class="hatena-fotolife" itemprop="image"></span>
 Micro SIM切り取った。
 (DOCOMOのMVNOなのでSIMカードはDOCOMOデザイン)
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530115400.jpg" alt="f:id:alfe1025:20140530115400j:plain" title="f:id:alfe1025:20140530115400j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530115400.jpg" alt="f:id:alfe1025:20140530115400j:plain" title="f:id:alfe1025:20140530115400j:plain" class="hatena-fotolife" itemprop="image"></span>
 Nexus7のSIMカード入れるとこ開けた
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530115500.jpg" alt="f:id:alfe1025:20140530115500j:plain" title="f:id:alfe1025:20140530115500j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530115500.jpg" alt="f:id:alfe1025:20140530115500j:plain" title="f:id:alfe1025:20140530115500j:plain" class="hatena-fotolife" itemprop="image"></span>
 SIMカード入れた。
 
 すると
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530124358.png" alt="f:id:alfe1025:20140530124358p:plain" title="f:id:alfe1025:20140530124358p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530124358.png" alt="f:id:alfe1025:20140530124358p:plain" title="f:id:alfe1025:20140530124358p:plain" class="hatena-fotolife" itemprop="image"></span>
 再起動します という表示が出て、再起動かけたら
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530124430.png" alt="f:id:alfe1025:20140530124430p:plain" title="f:id:alfe1025:20140530124430p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140530/20140530124430.png" alt="f:id:alfe1025:20140530124430p:plain" title="f:id:alfe1025:20140530124430p:plain" class="hatena-fotolife" itemprop="image"></span>
 DOCOMOの回線拾った！
 
 この後に、封筒に入ってたAPN設定方法の紙見ながら設定したら繋げました。

@@ -5,7 +5,8 @@ Category:
 Date: 2015-01-06T13:24:48+09:00
 ---
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141218/20141218135955.jpg" alt="f:id:alfe1025:20141218135955j:plain" title="f:id:alfe1025:20141218135955j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141218/20141218135955.jpg" alt="f:id:alfe1025:20141218135955j:plain" title="f:id:alfe1025:20141218135955j:plain" class="hatena-fotolife" itemprop="image"></span>
 
 
 出先からリモート接続して自宅PCの画面を見る。

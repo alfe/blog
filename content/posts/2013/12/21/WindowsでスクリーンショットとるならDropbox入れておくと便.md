@@ -40,7 +40,8 @@ Dropboxがスクリーンショットを自動で保存してくれる機能を�
 - 保存
 
 すると、
-<p><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20131221/20131221150915.png" alt="f:id:alfe1025:20131221150915p:plain" title="f:id:alfe1025:20131221150915p:plain" class="hatena-fotolife" itemprop="image"></p>
+
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20131221/20131221150915.png" alt="f:id:alfe1025:20131221150915p:plain" title="f:id:alfe1025:20131221150915p:plain" class="hatena-fotolife" itemprop="image">
 
 あら簡単。
 

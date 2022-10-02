@@ -13,19 +13,22 @@ Windows7使ってる人にも、Windows8使ってる人にも使いやすいよ�
 
 そこそこに使いやすいよ。
 
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105534.png" alt="f:id:alfe1025:20141018105534p:plain" title="f:id:alfe1025:20141018105534p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105534.png" alt="f:id:alfe1025:20141018105534p:plain" title="f:id:alfe1025:20141018105534p:plain" class="hatena-fotolife" itemprop="image"></span>
 
 <!-- more -->
 
 
 ###スタート
 Windows8になったときに、えらく問題になったスタートの挙動がこちら。
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105552.png" alt="f:id:alfe1025:20141018105552p:plain" title="f:id:alfe1025:20141018105552p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105552.png" alt="f:id:alfe1025:20141018105552p:plain" title="f:id:alfe1025:20141018105552p:plain" class="hatena-fotolife" itemprop="image"></span>
 
 Windows7までのスタートメニューとWindows8のモダンUIを何とかしてくっつけようという努力のにじみ出る演出になっています。
 
 ちなみに、All Apps（日本語では「すべてのアプリケーション」になると思う）を押すと、
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105611.png" alt="f:id:alfe1025:20141018105611p:plain" title="f:id:alfe1025:20141018105611p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105611.png" alt="f:id:alfe1025:20141018105611p:plain" title="f:id:alfe1025:20141018105611p:plain" class="hatena-fotolife" itemprop="image"></span>
 
 昔のWindowsっぽい！
 これ使いにくかったよなー と私は思ってるんですが、xpと7しか触ったことないぜ ってひとには、こちらのほうが使いやすいのでしょうか。
@@ -34,7 +37,8 @@ Windows7までのスタートメニューとWindows8のモダンUIを何とか�
 次
 
 他のレビューサイトでよく話題になる、コマンドプロンプトの半透明化。そして、ウィンドウの上張り付き。
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105625.png" alt="f:id:alfe1025:20141018105625p:plain" title="f:id:alfe1025:20141018105625p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105625.png" alt="f:id:alfe1025:20141018105625p:plain" title="f:id:alfe1025:20141018105625p:plain" class="hatena-fotolife" itemprop="image"></span>
 
 コマンドプロンプトの半透明化は、デザイナーの趣味っぽい感じ。
 90%くらいの半透明にすると、うっすら後ろが透けて かっちょよい。
@@ -49,7 +53,8 @@ Windows7までのスタートメニューとWindows8のモダンUIを何とか�
 
 最後にモダンアプリ関連。
 モダンアプリがウィンドウサイズになったよ。やったね。
-<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105642.png" alt="f:id:alfe1025:20141018105642p:plain" title="f:id:alfe1025:20141018105642p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+
+<span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141018/20141018105642.png" alt="f:id:alfe1025:20141018105642p:plain" title="f:id:alfe1025:20141018105642p:plain" class="hatena-fotolife" itemprop="image"></span>
 
 無駄に全画面になる「設定」とか「アラーム」とか「ストア」とか と戦わなくてよくなりました。
 普通のアプリケーションみたいに使えるので、わずらわしさがなくなってよかった。

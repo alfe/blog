@@ -5,7 +5,8 @@ Category:
 Date: 2013-12-27T14:46:29+09:00
 ---
 
-<p><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20131227/20131227142500.jpg" alt="f:id:alfe1025:20131227142500j:plain" title="f:id:alfe1025:20131227142500j:plain" class="hatena-fotolife" itemprop="image"></p>
+
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20131227/20131227142500.jpg" alt="f:id:alfe1025:20131227142500j:plain" title="f:id:alfe1025:20131227142500j:plain" class="hatena-fotolife" itemprop="image">
 <span style="font-size: 80%;">おりこうさんAndroid</span>
 
 ネットワーク環境のない実家に帰省していてイベントに参加できない！という友へ向けた煽り記事  

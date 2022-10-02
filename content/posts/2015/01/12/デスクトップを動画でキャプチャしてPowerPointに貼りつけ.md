@@ -5,66 +5,115 @@ Category:
 Date: 2015-01-12T18:49:58+09:00
 ---
 
-<p>あ、デスクトップを動画でキャプチャしてPowerPointに貼りつけたらいいんじゃないか。</p>
-<p>と思った人向け記事</p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150112185100p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112185100.png" alt="f:id:alfe1025:20150112185100p:plain" /></p>
-<p> </p>
-<p><!-- more --></p>
+
+あ、デスクトップを動画でキャプチャしてPowerPointに貼りつけたらいいんじゃないか。
+
+と思った人向け記事
+
+<img class="hatena-fotolife" title="f:id:alfe1025:20150112185100p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112185100.png" alt="f:id:alfe1025:20150112185100p:plain" />
+
+ 
+
+<!-- more -->
 
 ###  用意するソフト
 
-<p>用意するソフトは2つ。</p>
+
+用意するソフトは2つ。
 <h4>デスクトップのキャプチャソフト</h4>
-<p><iframe class="embed-card embed-webcard" style="width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Free Screen Recorder. Video Capture Software." src="https://hatenablog.com/embed?url=http%3A%2F%2Fsrecorder.com%2F" frameborder="0" scrolling="no">&amp;amp;amp;lt;a href="https://srecorder.com/" data-mce-href="https://srecorder.com/"&amp;amp;amp;gt;Free Screen Recorder. Video Capture Software.&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe><br /> <a href="https://srecorder.com/">Free Screen Recorder. Video Capture Software.</a></p>
-<p> </p>
-<p>かなりシンプルなデスクトップレコーダー。</p>
-<p>ややこしい設定とかは必要なく、直感で使えるのでオススメ。<br />マウスドラッグで囲んだ部分を、動画として保存してくれます。</p>
-<p> </p>
-<p><a href="https://srecorder.com/">Free Screen Recorder. Video Capture Software.</a>へ飛んでからオレンジ色のボタンをクリック。</p>
-<p>ダウンロードしたものをインストールすればOK。</p>
-<p> </p>
+
+<iframe class="embed-card embed-webcard" style="width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Free Screen Recorder. Video Capture Software." src="https://hatenablog.com/embed?url=http%3A%2F%2Fsrecorder.com%2F" frameborder="0" scrolling="no">&amp;amp;amp;lt;a href="https://srecorder.com/" data-mce-href="https://srecorder.com/"&amp;amp;amp;gt;Free Screen Recorder. Video Capture Software.&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe><br /> <a href="https://srecorder.com/">Free Screen Recorder. Video Capture Software.</a>
+
+ 
+
+かなりシンプルなデスクトップレコーダー。
+
+ややこしい設定とかは必要なく、直感で使えるのでオススメ。<br />マウスドラッグで囲んだ部分を、動画として保存してくれます。
+
+ 
+
+<a href="https://srecorder.com/">Free Screen Recorder. Video Capture Software.</a>へ飛んでからオレンジ色のボタンをクリック。
+
+ダウンロードしたものをインストールすればOK。
+
+ 
 <h4>動画の変換ソフト</h4>
-<p><iframe class="embed-card embed-webcard" style="width: 100%; height: 155px; max-width: 500px; margin: auto;" title="XMedia Recode" src="https://hatenablog.com/embed?url=http%3A%2F%2Fwww.xmedia-recode.de%2F" frameborder="0" scrolling="no">&amp;amp;amp;lt;a href="https://www.xmedia-recode.de/" data-mce-href="https://www.xmedia-recode.de/"&amp;amp;amp;gt;XMedia Recode&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe><br /> <a href="https://www.xmedia-recode.de/">XMedia Recode</a></p>
-<p> だいたいのものに対応した動画変換ソフト。 </p>
-<p>これでキャプチャした動画をパワポで使えるよう変換します。</p>
-<p> </p>
-<p>左にある”Download”から XMedia Recode Installer をダウンロードしてインストールしておいてください。</p>
-<p> </p>
+
+<iframe class="embed-card embed-webcard" style="width: 100%; height: 155px; max-width: 500px; margin: auto;" title="XMedia Recode" src="https://hatenablog.com/embed?url=http%3A%2F%2Fwww.xmedia-recode.de%2F" frameborder="0" scrolling="no">&amp;amp;amp;lt;a href="https://www.xmedia-recode.de/" data-mce-href="https://www.xmedia-recode.de/"&amp;amp;amp;gt;XMedia Recode&amp;amp;amp;lt;/a&amp;amp;amp;gt;</iframe><br /> <a href="https://www.xmedia-recode.de/">XMedia Recode</a>
+
+ だいたいのものに対応した動画変換ソフト。 
+
+これでキャプチャした動画をパワポで使えるよう変換します。
+
+ 
+
+左にある”Download”から XMedia Recode Installer をダウンロードしてインストールしておいてください。
+
+ 
 
 ### 手順
 
 <h4>デスクトップを動画でキャプチャ</h4>
-<p> タスクバーのFree Screen Recorderアイコンをクリック</p>
-<p> </p>
-<p>キャプチャしたい部分を選択</p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150112181814p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112181814.png" alt="f:id:alfe1025:20150112181814p:plain" /></p>
-<p> </p>
-<p>Recordの赤い●をクリックして録画。</p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150112181901p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112181901.png" alt="f:id:alfe1025:20150112181901p:plain" /></p>
-<p> </p>
-<p>そして保存。オレンジアイコン一番左のボタンです。</p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150112182550p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182550.png" alt="f:id:alfe1025:20150112182550p:plain" /></p>
+
+ タスクバーのFree Screen Recorderアイコンをクリック
+
+ 
+
+キャプチャしたい部分を選択
+
+<img class="hatena-fotolife" title="f:id:alfe1025:20150112181814p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112181814.png" alt="f:id:alfe1025:20150112181814p:plain" />
+
+ 
+
+Recordの赤い●をクリックして録画。
+
+<img class="hatena-fotolife" title="f:id:alfe1025:20150112181901p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112181901.png" alt="f:id:alfe1025:20150112181901p:plain" />
+
+ 
+
+そして保存。オレンジアイコン一番左のボタンです。
+
+<img class="hatena-fotolife" title="f:id:alfe1025:20150112182550p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182550.png" alt="f:id:alfe1025:20150112182550p:plain" />
 <h4>保存した動画の変換</h4>
-<p>XMedia Recodeを開きます。</p>
-<p>そして、左下を「カスタム」「WMV」「wmv」に設定</p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150112182120p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182120.png" alt="f:id:alfe1025:20150112182120p:plain" /></p>
-<p> </p>
-<p>「ファイルを開く」で変換するファイルを選択します。</p>
-<p>そのあと、「リストに追加」、エンコードの順にクリックすると、パワポで再生できるファイルが作られます。</p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150112182632p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182632.png" alt="f:id:alfe1025:20150112182632p:plain" /></p>
-<p> </p>
+
+XMedia Recodeを開きます。
+
+そして、左下を「カスタム」「WMV」「wmv」に設定
+
+<img class="hatena-fotolife" title="f:id:alfe1025:20150112182120p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182120.png" alt="f:id:alfe1025:20150112182120p:plain" />
+
+ 
+
+「ファイルを開く」で変換するファイルを選択します。
+
+そのあと、「リストに追加」、エンコードの順にクリックすると、パワポで再生できるファイルが作られます。
+
+<img class="hatena-fotolife" title="f:id:alfe1025:20150112182632p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182632.png" alt="f:id:alfe1025:20150112182632p:plain" />
+
+ 
 <h4>パワーポイントに貼りつける</h4>
-<p>「挿入」タブの「ビデオ」をクリックして、変換したファイルを選んでください。</p>
-<p>再生ボタンをクリックすると再生されます。</p>
-<p> </p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150112184925p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112184925.png" alt="f:id:alfe1025:20150112184925p:plain" /></p>
-<p> </p>
+
+「挿入」タブの「ビデオ」をクリックして、変換したファイルを選んでください。
+
+再生ボタンをクリックすると再生されます。
+
+ 
+
+<img class="hatena-fotolife" title="f:id:alfe1025:20150112184925p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112184925.png" alt="f:id:alfe1025:20150112184925p:plain" />
+
+ 
 
 ### まとめ
 
-<p>使うソフトさえ分かっていれば、デスクトップを動画でキャプチャしたり、パワーポイントに動画を載せたりするのは簡単です</p>
-<p>おためしあれ</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+
+使うソフトさえ分かっていれば、デスクトップを動画でキャプチャしたり、パワーポイントに動画を載せたりするのは簡単です
+
+おためしあれ
+
+ 
+
+ 
+
+ 
+
+ 
