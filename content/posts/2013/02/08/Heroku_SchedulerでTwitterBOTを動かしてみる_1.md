@@ -12,7 +12,7 @@ Herokuってチョウカンタンデスヨ。
 とりあえず書いておいてからスタート。
 
 
-Herokuを使って1日1回名言をツイートするTwitter Botの作り方(http://blog.ruedap.com/entry/20110209/ruby_heroku_twitter_bot)を読みながらTwitterBOTを作っていたら、いろいろ引っかかったのでメモしておきます。
+Herokuを使って1日1回名言をツイートするTwitter Botの作り方(https://blog.ruedap.com/entry/20110209/ruby_heroku_twitter_bot)を読みながらTwitterBOTを作っていたら、いろいろ引っかかったのでメモしておきます。
 
 主に何に引っかかったかというと、Herokuから「cron」が廃止されて、「scheduler」が導入されているということ。より便利に使いやすくなったのですが、ちょっととまどったのでその辺を書きます。
 
@@ -20,7 +20,7 @@ Herokuを使って1日1回名言をツイートするTwitter Botの作り方(htt
 上のリンク(Herokuを使って1日1回名言をツイートするTwitter Botの作り方)を参照
 
 2. プログラム作成
-今回はpso2向け緊急告知TwitterBOT(http://alfe.hateblo.jp/entry/2012/10/05/212150)を使った
+今回はpso2向け緊急告知TwitterBOT(/entry/2012/10/05/212150)を使った
 
 3. 初期化
 プログラムのあるローカルフォルダ内で
@@ -48,7 +48,7 @@ $ git push heroku master
 これで、ローカルフォルダの中身がHerokuに突っ込まれます。
 
 6. Schedulerを使う
-HerokuのWebページ(http://www.heroku.com/)にログインして、設定中のアプリを選択
+HerokuのWebページ(https://www.heroku.com/)にログインして、設定中のアプリを選択
 [+]Get Add-ons のボタンから「Heroku Scheduler 」を選択します。
 「select an app ..」のプルダウンをクリックして、設定中のアプリを選択。
 「Add Standerd For Free」のボタンを押すと、Schedulerが使えるようになります。

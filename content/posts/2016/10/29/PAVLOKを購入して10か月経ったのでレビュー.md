@@ -12,7 +12,7 @@ Date: 2016-10-29T19:21:20+09:00
 
 <p>そもそもPAVLOKってなんだという人に向けて、どんなデバイスなのかを軽く説明すると、<br />腕時計みたいにデバイスを取り付けて、ボタンを押すと電撃が走るというものです。</p>
 <p> </p>
-<p>公式URL： <a href="http://pavlok.com/">http://pavlok.com/</a></p>
+<p>公式URL： <a href="https://pavlok.com/">https://pavlok.com/</a></p>
 <p> </p>
 <h4>◆ 何ができるの？</h4>
 <p>基本機能はボタンを押すと電撃が流れる。それだけ。</p>
@@ -45,7 +45,7 @@ Date: 2016-10-29T19:21:20+09:00
 <p> </p>
 <h4>◆ エンジニア向け</h4>
 <p>APIがあるよ。</p>
-<p><a href="http://pavlok-mvp.herokuapp.com/docs/">http://pavlok-mvp.herokuapp.com/docs/</a></p>
+<p><a href="https://pavlok-mvp.herokuapp.com/docs/">https://pavlok-mvp.herokuapp.com/docs/</a></p>
 <p>WebAPI→PAVLOKサーバ→スマホ→PAVLOKデバイス という少し遠回りなルートを辿りますが、ログイン認証してURL叩くだけなので、アプリも創りやすいと思います。</p>
 <p>今度ChromeExtensionのアプリでも作りたいなとか思ってる。</p>
 <p> </p>
@@ -65,13 +65,13 @@ Date: 2016-10-29T19:21:20+09:00
 <p> </p>
 <p>Amazon</p>
 <div class="freezed">
-<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013S20C3Q/ab1025-22/"><img class="external-link-detail-image" title="Pavlok ブラック [並行輸入品]" src="http://ecx.images-amazon.com/images/I/41-I2P3XH1L._SL160_.jpg" alt="Pavlok ブラック [並行輸入品]" /></a>
+<div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B013S20C3Q/ab1025-22/"><img class="external-link-detail-image" title="Pavlok ブラック [並行輸入品]" src="https://ecx.images-amazon.com/images/I/41-I2P3XH1L._SL160_.jpg" alt="Pavlok ブラック [並行輸入品]" /></a>
 <div class="external-link-detail-info">
-<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B013S20C3Q/ab1025-22/">Pavlok ブラック [並行輸入品]</a></p>
+<p class="external-link-detail-title"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B013S20C3Q/ab1025-22/">Pavlok ブラック [並行輸入品]</a></p>
 <ul>
 <li><span class="external-link-detail-label">出版社/メーカー:</span> Pavlok</li>
 <li><span class="external-link-detail-label">メディア:</span> Wireless Phone Accessory</li>
-<li><a href="http://d.hatena.ne.jp/asin/B013S20C3Q/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
+
 </ul>
 </div>
 <div class="external-link-detail-foot"> </div>
@@ -81,7 +81,7 @@ Date: 2016-10-29T19:21:20+09:00
 <h4>◆ さっき知った</h4>
 <p>月曜から夜更かしで紹介されてたんだね。</p>
 <p>どうやら目覚ましデバイスみたいな扱いっぽい？</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="We're Big in Japan - Pavlok" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fpavlok.com%2Fblog%2Fwere-big-in-japan%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://pavlok.com/blog/were-big-in-japan/">pavlok.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="We're Big in Japan - Pavlok" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fpavlok.com%2Fblog%2Fwere-big-in-japan%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://pavlok.com/blog/were-big-in-japan/">pavlok.com</a></cite></p>
 <p> </p>
 <p> </p>
 <p>PAVLOK公式が「ほとんどの日本人って十分な睡眠とれてないと思うんだけどなー」ってコメントしてるのも面白いよね。</p>

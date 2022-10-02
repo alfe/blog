@@ -5,7 +5,7 @@ Category:
 Date: 2013-12-27T14:46:29+09:00
 ---
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20131227/20131227142500.jpg" alt="f:id:alfe1025:20131227142500j:plain" title="f:id:alfe1025:20131227142500j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20131227/20131227142500.jpg" alt="f:id:alfe1025:20131227142500j:plain" title="f:id:alfe1025:20131227142500j:plain" class="hatena-fotolife" itemprop="image"></p>
 <span style="font-size: 80%;">おりこうさんAndroid</span>
 
 ネットワーク環境のない実家に帰省していてイベントに参加できない！という友へ向けた煽り記事  
@@ -44,6 +44,6 @@ Android用のFlash Playerがインストールできたら、Androidの標準ブ
 →[スマートフォンから艦これをプレイするのは規約違反ではない][3]
 
 
-  [1]: http://helpx.adobe.com/jp/flash-player/kb/cq01160102.html?PID=7302403
-  [2]: http://www.dmm.com/netgame/feature/kancolle.html
-  [3]: http://www.sorarix.net/archives/640
+  [1]: https://helpx.adobe.com/jp/flash-player/kb/cq01160102.html?PID=7302403
+  [2]: https://www.dmm.com/netgame/feature/kancolle.html
+  [3]: https://www.sorarix.net/archives/640

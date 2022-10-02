@@ -11,9 +11,9 @@ Date: 2014-12-11T13:22:29+09:00
 
 
 
-[![](http://farm9.staticflickr.com/8149/7119907039_2b0db0d897.jpg)](http://www.flickr.com/photos/44124348109@N01/7119907039)
+[![](https://farm9.staticflickr.com/8149/7119907039_2b0db0d897.jpg)](https://www.flickr.com/photos/44124348109@N01/7119907039)
 
-[photo by jurvetson](http://www.flickr.com/photos/44124348109@N01/7119907039)
+[photo by jurvetson](https://www.flickr.com/photos/44124348109@N01/7119907039)
 
 
 
@@ -26,7 +26,7 @@ VRの勉強をちょっとしている。バーチャルリアリティ、略し
 そもそもVRとは何かというと、
 『実際の形はしていないか、形は異なるかも知れないが、機能としての本質は同じであるような環境を、ユーザの感覚を刺激することにより理工学的に作り出す技術およびその体系。』
 
-と、wikipedia(http://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%86%E3%82%A3)に書いてあった。
+と、wikipedia(https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%AA%E3%82%A2%E3%83%AA%E3%83%86%E3%82%A3)に書いてあった。
 
 自身の認識としては、『あたかも現実っぽく見える感覚』。だいたい間違ってないはず。
 

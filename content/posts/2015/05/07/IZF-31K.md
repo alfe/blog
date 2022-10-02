@@ -7,7 +7,7 @@ Date: 2015-05-07T21:24:11+09:00
 
 <p> </p>
 <p>ある日。<br />いつものようにTwitterを眺めていると、こんなつぶやきを発見。</p>
-<p>[https://twitter.com/matumoto_izumi/status/593929824676118528:embed#【松本山雅】明日 5/2(土) 18:30～　アルウィンで アルビレックス新潟戦 ♪新潟というと～・・・ニパ子ちゃん♡刺さらない程度に胸をお借りしますね～https://t.co/gDp5bAyubP #yamaga http://t.co/HrsCBYs2f7]</p>
+<p>[https://twitter.com/matumoto_izumi/status/593929824676118528:embed#【松本山雅】明日 5/2(土) 18:30～　アルウィンで アルビレックス新潟戦 ♪新潟というと～・・・ニパ子ちゃん♡刺さらない程度に胸をお借りしますね～https://t.co/gDp5bAyubP #yamaga https://t.co/HrsCBYs2f7]</p>
 <p>ニパ子は知っているけど・・・？と思って検索してみました。</p>
 <p> </p>
 <p><!-- more --></p>
@@ -19,14 +19,13 @@ Date: 2015-05-07T21:24:11+09:00
 <p>あまぞん</p>
 <p> </p>
 <div class="freezed">
-<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00F04GDRK/ab1025-22/"><img class="external-link-detail-image" title="IZUMI VIDAN 往復式シェーバー ブラック IZF-V31K" src="http://ecx.images-amazon.com/images/I/411iQf0lVxL._SL160_.jpg" alt="IZUMI VIDAN 往復式シェーバー ブラック IZF-V31K" /></a>
+<div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00F04GDRK/ab1025-22/"><img class="external-link-detail-image" title="IZUMI VIDAN 往復式シェーバー ブラック IZF-V31K" src="https://ecx.images-amazon.com/images/I/411iQf0lVxL._SL160_.jpg" alt="IZUMI VIDAN 往復式シェーバー ブラック IZF-V31K" /></a>
 <div class="external-link-detail-info">
-<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00F04GDRK/ab1025-22/">IZUMI VIDAN 往復式シェーバー ブラック IZF-V31K</a></p>
+<p class="external-link-detail-title"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00F04GDRK/ab1025-22/">IZUMI VIDAN 往復式シェーバー ブラック IZF-V31K</a></p>
 <ul>
 <li><span class="external-link-detail-label">出版社/メーカー:</span> 泉精器製作所</li>
 <li><span class="external-link-detail-label">発売日:</span> 2013/09/20</li>
 <li><span class="external-link-detail-label">メディア:</span> ホーム&amp;キッチン</li>
-<li><a href="http://d.hatena.ne.jp/asin/B00F04GDRK/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
 </ul>
 </div>
 <div class="external-link-detail-foot"> </div>
@@ -34,13 +33,13 @@ Date: 2015-05-07T21:24:11+09:00
 </div>
 <p> </p>
 <p>ぽちる<br /><br /></p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150502125834j:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150502/20150502125834.jpg" alt="f:id:alfe1025:20150502125834j:plain" /></p>
+<p><img class="hatena-fotolife" title="f:id:alfe1025:20150502125834j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150502/20150502125834.jpg" alt="f:id:alfe1025:20150502125834j:plain" /></p>
 <p><br /><br /></p>
 <p>とどく</p>
 <p> </p>
 <p>良い感じの見た目</p>
 <p>持ち手はエルゴノミクスデザイン（人間工学に基づいたデザイン）の様子。</p>
-<p> <img class="hatena-fotolife" title="f:id:alfe1025:20150507213211j:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150507/20150507213211.jpg" alt="f:id:alfe1025:20150507213211j:plain" width="393" /></p>
+<p> <img class="hatena-fotolife" title="f:id:alfe1025:20150507213211j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150507/20150507213211.jpg" alt="f:id:alfe1025:20150507213211j:plain" width="393" /></p>
 <p> </p>
 <p>なるほど。確かに持ちやすく、手がぬれてても落としにくそう。</p>
 <p> </p>

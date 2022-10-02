@@ -6,8 +6,8 @@ Date: 2015-08-21T20:19:02+09:00
 ---
 
 <p>よく忘れるのでメモ </p>
-<p><a class="http-image" href="http://www.flickr.com/photos/31437555@N00/2561885967" target="_blank"><img class="http-image" src="http://farm4.staticflickr.com/3278/2561885967_f5f0be5834.jpg" alt="http://www.flickr.com/photos/31437555@N00/2561885967" /></a></p>
-<p><a href="http://www.flickr.com/photos/31437555@N00/2561885967">photo by Jeffrey Beall</a></p>
+<p><a class="http-image" href="https://www.flickr.com/photos/31437555@N00/2561885967" target="_blank"><img class="http-image" src="https://farm4.staticflickr.com/3278/2561885967_f5f0be5834.jpg" alt="https://www.flickr.com/photos/31437555@N00/2561885967" /></a></p>
+<p><a href="https://www.flickr.com/photos/31437555@N00/2561885967">photo by Jeffrey Beall</a></p>
 <p> </p>
 <h4>”完全一致で検索”</h4>
 <p>英文検索で使うと便利。"at Tokyo" "in Tokyo"の違いを見たいときとか。</p>

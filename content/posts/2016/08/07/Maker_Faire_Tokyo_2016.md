@@ -30,7 +30,7 @@ IMAGE: /img/2016/08/07/img.jpg
 <p>インテリアとして優秀、かつ実用的。</p>
 <p>良いものを見せてもらいました。</p>
 <p> </p>
-<p><a href="http://makezine.jp/event/makers2016/mybrand/">MYBRAND | Maker Faire Tokyo 2016 | Make: Japan</a></p>
+<p><a href="https://makezine.jp/event/makers2016/mybrand/">MYBRAND | Maker Faire Tokyo 2016 | Make: Japan</a></p>
 <p> </p>
 
 # Aiphony | FLO
@@ -46,7 +46,7 @@ IMAGE: /img/2016/08/07/img.jpg
 <p>しかしながら、すごく綺麗。</p>
 <p>そのままスクリーンセイバーにできそう。</p>
 <p> </p>
-<p><a href="http://makezine.jp/event/makers2016/aiphony/">Aiphony | Maker Faire Tokyo 2016 | Make: Japan</a></p>
+<p><a href="https://makezine.jp/event/makers2016/aiphony/">Aiphony | Maker Faire Tokyo 2016 | Make: Japan</a></p>
 <p> </p>
 <p> </p>
 
@@ -66,7 +66,7 @@ IMAGE: /img/2016/08/07/img.jpg
 <p><img class="magnifiable" src="https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010212/20010212004630.jpg" alt="" /></p>
 <p>同人誌がかなり読み応えあるよ！</p>
 <p> </p>
-<p><a href="http://makezine.jp/event/makers2015/toshiba_flashair/">FlashAir | Maker Faire Tokyo 2015 | Make: Japan</a></p>
+<p><a href="https://makezine.jp/event/makers2015/toshiba_flashair/">FlashAir | Maker Faire Tokyo 2015 | Make: Japan</a></p>
 <p> </p>
 <p> </p>
 
@@ -84,7 +84,7 @@ IMAGE: /img/2016/08/07/img.jpg
 <p>LED日時計。日時計をLEDで再現。</p>
 <p>人間の歴史の中で最も古くから発見され使われた時計である日時計を、近代的なLEDで再現するというのが面白いなーと。</p>
 <p> </p>
-<p><a href="http://makezine.jp/event/makers2016/tokeinoonkochishinproject/">時計の温故知新プロジェクト | Maker Faire Tokyo 2016 | Make: Japan</a></p>
+<p><a href="https://makezine.jp/event/makers2016/tokeinoonkochishinproject/">時計の温故知新プロジェクト | Maker Faire Tokyo 2016 | Make: Japan</a></p>
 <p> </p>
 <p>品モノラボ | OBAKE PUZZLE</p>
 <p><img class="magnifiable" src="https://lh3.googleusercontent.com/-FPjmBzn4LBU/V6XWqo4xEhI/AAAAAAAAUAI/pbsboFdzCksHtxLlGk9v5smSdhB9_u5lQCKgB/s1024/DSC01112.JPG" alt="" /></p>
@@ -96,13 +96,13 @@ IMAGE: /img/2016/08/07/img.jpg
 <p>ピース自体にはコイルとLEDくらいしか入っていなくて、空洞部分も多いのか思ったより軽め。</p>
 <p> </p>
 <p><span style="color: #3d3f44; font-family: 'Helvetica Neue', Helvetica, Arial, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 24px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #ffffff;">ワイヤレス給電ってこういうふうにも使えるのか、と感心しました。</span></p>
-<p><a href="http://makezine.jp/event/makers2016/shinamonolab/">品モノラボ | Maker Faire Tokyo 2016 | Make: Japan</a></p>
+<p><a href="https://makezine.jp/event/makers2016/shinamonolab/">品モノラボ | Maker Faire Tokyo 2016 | Make: Japan</a></p>
 <p> </p>
 
 # まとめ
 
 <p>Maker Faire Tokyo 2016は 8月7日まで！</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Maker Faire Tokyo 2016 | Maker Faire Tokyo 2016 | Make: Japan" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fmakezine.jp%2Fevent%2Fmft2016%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://makezine.jp/event/mft2016/">makezine.jp</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Maker Faire Tokyo 2016 | Maker Faire Tokyo 2016 | Make: Japan" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fmakezine.jp%2Fevent%2Fmft2016%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://makezine.jp/event/mft2016/">makezine.jp</a></cite></p>
 <p> </p>
 
 # 追記

@@ -11,7 +11,7 @@ Apacheとか使いません。PHPだけしか使わないので、一番簡単�
 
 
 １、Microsoft Web Platform Installer（以下、Web PI）をダウンロードしてきます。
-http://www.microsoft.com/web/downloads/platform.aspx
+https://www.microsoft.com/web/downloads/platform.aspx
 
 ２、Web PI の検索窓に 「php」と入力して、新しそうなphpを「追加」します。
 php5.x.x を「追加」すると、他に必要なものも勝手に追加されるみたいです。

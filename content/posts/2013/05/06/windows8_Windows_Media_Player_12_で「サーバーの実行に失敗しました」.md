@@ -24,7 +24,7 @@ regsvr32 vbscript.dll
 
 これでWMPが起動した。
 
-参考：http://arxitecton.wordpress.com/2012/03/21/%E3%80%90%E5%82%99%E5%BF%98%E9%8C%B2%EF%BC%9Apc%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%80%91%E3%80%80windows-media-player-12-%E3%81%A7%E3%80%8C%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E5%AE%9F/
+参考：https://arxitecton.wordpress.com/2012/03/21/%E3%80%90%E5%82%99%E5%BF%98%E9%8C%B2%EF%BC%9Apc%E3%83%BB%E3%82%BD%E3%83%95%E3%83%88%E3%80%91%E3%80%80windows-media-player-12-%E3%81%A7%E3%80%8C%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%AE%E5%AE%9F/
 
 コントロールパネルの「プログラムと起動」から
 「Windowsの機能の有効化または無効化」を開いて

@@ -11,7 +11,7 @@ IMAGE: /img/2015/12/28/img.jpg
 <p><img class="magnifiable" src="https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010330/20010330053830.jpg" alt="" /></p>
 <p>[https://twitter.com/alfe_below/status/681368994062807041:embed#旧居留地セピアと鉢伏シルエットグリーンの2色。鉢伏はホント衝動買い的な]</p>
 <p> </p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Kobe INK 物語　旧居留地セピア | ナガサワ文具センター" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fkobe-nagasawa.co.jp%2Fproduct%2Fink_03%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://kobe-nagasawa.co.jp/product/ink_03/">kobe-nagasawa.co.jp</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Kobe INK 物語　旧居留地セピア | ナガサワ文具センター" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fkobe-nagasawa.co.jp%2Fproduct%2Fink_03%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://kobe-nagasawa.co.jp/product/ink_03/">kobe-nagasawa.co.jp</a></cite></p>
 <p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Kobe INK 物語　鉢伏シルエットグリーン | ナガサワ文具センター" src="//hatenablog-parts.com/embed?url=https%3A%2F%2Fkobe-nagasawa.co.jp%2Fproduct%2Fink_45%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p> 開けた</p>

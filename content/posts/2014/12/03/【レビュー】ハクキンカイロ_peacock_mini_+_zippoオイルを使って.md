@@ -11,7 +11,7 @@ Date: 2014-12-03T14:47:51+09:00
 
 去年の冬終わりくらいに、何かのまとめスレで取り上げられているのを見てほしいなーと思ってたのですよ。
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141128/20141128215454.jpg" alt="f:id:alfe1025:20141128215454j:plain" title="f:id:alfe1025:20141128215454j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141128/20141128215454.jpg" alt="f:id:alfe1025:20141128215454j:plain" title="f:id:alfe1025:20141128215454j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 
 たまに使い捨てカイロを使うことはありましたが、それと比べてかなりあったかい。メンテナンスとかも割と簡単。
@@ -21,7 +21,7 @@ Date: 2014-12-03T14:47:51+09:00
 
 <!-- more -->
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141130/20141130181215.jpg" alt="f:id:alfe1025:20141130181215j:plain" title="f:id:alfe1025:20141130181215j:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20141130/20141130181215.jpg" alt="f:id:alfe1025:20141130181215j:plain" title="f:id:alfe1025:20141130181215j:plain" class="hatena-fotolife" itemprop="image"></span></p>
 箱はこんな感じ
 
 ##長時間あったかい

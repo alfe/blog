@@ -14,15 +14,15 @@ div1にメイン情報を載せて、div2にサブ情報を載せる感じで。
 ボタンを押すと div2を出したり消したりできるようにしてみたかった。
 下のコードをhtmlファイルとして作れば動くはず。
 
-<b><span style="font-size: 150%">[http://alfe.wkeya.com/div_sub.html:title=デモ]</span></b>
+~https://alfe.wkeya.com/div_sub.html~ (デモ)
 
 div_sub.html
->|javascript|
+```|javascript|
 <!DOCTYPE html>
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
   </head>
   <body>
     <div id="main_contents"></div>
@@ -145,7 +145,7 @@ div_sub.html
   });
   </script>
 </html>
-||<
+```
 
 
 .botton の設定はジェネレータから。

@@ -19,8 +19,8 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20171218/201712
 ### 私の買ったきっかけ
 
 <p>これ</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="なぜオッサンはかわいいに憧れるのか 「バーチャルのじゃロリ狐娘YouTuberおじさん」独占インタビュー（前編）" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpanora.tokyo%2F46609%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://panora.tokyo/46609/">panora.tokyo</a></cite></p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="かわいいは心のATフィールドを取り払う 「バーチャルのじゃロリ狐娘YouTuberおじさん」独占インタビュー（後編）" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpanora.tokyo%2F46945%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://panora.tokyo/46945/">panora.tokyo</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="なぜオッサンはかわいいに憧れるのか 「バーチャルのじゃロリ狐娘YouTuberおじさん」独占インタビュー（前編）" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpanora.tokyo%2F46609%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://panora.tokyo/46609/">panora.tokyo</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="かわいいは心のATフィールドを取り払う 「バーチャルのじゃロリ狐娘YouTuberおじさん」独占インタビュー（後編）" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fpanora.tokyo%2F46945%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://panora.tokyo/46945/">panora.tokyo</a></cite></p>
 <p> </p>
 <p>記事（後編）の中で</p>
 <blockquote>
@@ -47,13 +47,13 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20171218/201712
 <p>私のPCは現在USBポートが4つしかないので、残りの1ポートにキーボード＋トラックボール＋BluetoothドングルをくっつけたUSBハブをさしています。なんだこれ。</p>
 <p>さすがに、USB足りなさすぎるので、これ↓をぽちりました。</p>
 <div class="freezed">
-<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VQ3F4JW/ab1025-22/"><img class="external-link-detail-image" title="SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット" src="https://images-fe.ssl-images-amazon.com/images/I/31jH4Je953L._SL160_.jpg" alt="SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット" /></a>
+<div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00VQ3F4JW/ab1025-22/"><img class="external-link-detail-image" title="SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット" src="https://images-fe.ssl-images-amazon.com/images/I/31jH4Je953L._SL160_.jpg" alt="SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット" /></a>
 <div class="external-link-detail-info">
-<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00VQ3F4JW/ab1025-22/">SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット</a></p>
+<p class="external-link-detail-title"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00VQ3F4JW/ab1025-22/">SODIAL(R) 50cm 20ピンヘッダーケーブル　USB 3.0タイプAメスPCIブラケット</a></p>
 <ul>
 <li><span class="external-link-detail-label">出版社/メーカー:</span> SODIAL(R)</li>
 <li><span class="external-link-detail-label">メディア:</span> エレクトロニクス</li>
-<li><a href="http://d.hatena.ne.jp/asin/B00VQ3F4JW/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
+
 </ul>
 </div>
 <div class="external-link-detail-foot"> </div>
@@ -76,7 +76,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20171218/201712
 <p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="Quill" src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.oculus.com%2Fexperiences%2Frift%2F1118609381580656%2F" frameborder="0" scrolling="no"></iframe></p>
 <p> </p>
 <p>もちろんVRChatも入ってみました。</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="VRChat on Steam" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fstore.steampowered.com%2Fapp%2F438100%2FVRChat%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://store.steampowered.com/app/438100/VRChat/">store.steampowered.com</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="VRChat on Steam" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fstore.steampowered.com%2Fapp%2F438100%2FVRChat%2F" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://store.steampowered.com/app/438100/VRChat/">store.steampowered.com</a></cite></p>
 <p> </p>
 <p>特によかったのはRobo RecallというFPSゲーム</p>
 <p>OculusTouchの操作性とゲームの難易度も相まって、冬なのに汗かく。</p>

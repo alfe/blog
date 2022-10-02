@@ -6,7 +6,7 @@ Date: 2015-01-27T21:14:54+09:00
 ---
 
 <p> </p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150127211107g:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211107.gif" alt="f:id:alfe1025:20150127211107g:plain" width="276" /><img class="hatena-fotolife" title="f:id:alfe1025:20150127211118g:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211118.gif" alt="f:id:alfe1025:20150127211118g:plain" width="278" /></p>
+<p><img class="hatena-fotolife" title="f:id:alfe1025:20150127211107g:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211107.gif" alt="f:id:alfe1025:20150127211107g:plain" width="276" /><img class="hatena-fotolife" title="f:id:alfe1025:20150127211118g:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211118.gif" alt="f:id:alfe1025:20150127211118g:plain" width="278" /></p>
 <p> </p>
 <p>ひさびさに情報系っぽい記事。</p>
 <p> </p>
@@ -14,26 +14,26 @@ Date: 2015-01-27T21:14:54+09:00
 <p><a href="https://mlkcca.com/">Milkcocoa - JavaScript一行に詰め込まれたバックエンド</a></p>
 <p><!-- more --></p>
 <h4>milkcocoa </h4>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150127211027p:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211027.png" alt="f:id:alfe1025:20150127211027p:plain" width="344" /></p>
+<p><img class="hatena-fotolife" title="f:id:alfe1025:20150127211027p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211027.png" alt="f:id:alfe1025:20150127211027p:plain" width="344" /></p>
 <p>&gt;milkcocoaはデータをリアルタイムで、保存・同期できる自由度の高いAPIです。</p>
 <p>と公式で紹介しているように、かなり自由度高めなサービスです。</p>
 <p>いろんなデータを飲み込んでくれるので、JavascriptのObjectもそのまま読み込んでくれます。</p>
 <p><strong><strong> </strong></strong></p>
-<p>はじめてmilkcocoaにふれるときは、LIGの解説記事（<a href="http://liginc.co.jp/web/programming/server/129348">http://liginc.co.jp/web/programming/server/129348</a>）がわかりやすくておすすめ。</p>
+<p>はじめてmilkcocoaにふれるときは、LIGの解説記事（<a href="https://liginc.co.jp/web/programming/server/129348">https://liginc.co.jp/web/programming/server/129348</a>）がわかりやすくておすすめ。</p>
 <p><strong><strong> </strong></strong></p>
 
 ### つくったもの
 
 <p>PCのストリートビューで移動</p>
-<p><strong><strong> <img class="hatena-fotolife" title="f:id:alfe1025:20150127211107g:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211107.gif" alt="f:id:alfe1025:20150127211107g:plain" width="503" /></strong></strong></p>
+<p><strong><strong> <img class="hatena-fotolife" title="f:id:alfe1025:20150127211107g:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211107.gif" alt="f:id:alfe1025:20150127211107g:plain" width="503" /></strong></strong></p>
 <p> </p>
 <p>すると、スマホ（もしくはタブレット）にストリートビューの位置が反映されます</p>
-<p><img class="hatena-fotolife" title="f:id:alfe1025:20150127211118g:plain" src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211118.gif" alt="f:id:alfe1025:20150127211118g:plain" width="461" /></p>
+<p><img class="hatena-fotolife" title="f:id:alfe1025:20150127211118g:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150127/20150127211118.gif" alt="f:id:alfe1025:20150127211118g:plain" width="461" /></p>
 <p><strong><strong> </strong></strong></p>
 <h4>デモ</h4>
-<p>PCのストリートビュー<br /><a href="http://alfe.xyz/funyou/streetview_milkcocoa/">http://alfe.xyz/funyou/streetview_milkcocoa/</a></p>
+<p>PCのストリートビュー<br />https://alfe.xyz/funyou/streetview_milkcocoa/</p>
 <p> </p>
-<p>位置を反映する地図<br /><a href="http://alfe.xyz/funyou/streetview_milkcocoa/map.html">http://alfe.xyz/funyou/streetview_milkcocoa/map.html</a></p>
+<p>位置を反映する地図<br />https://alfe.xyz/funyou/streetview_milkcocoa/map.html</p>
 <p><strong><strong> </strong></strong></p>
 
 ### まとめ

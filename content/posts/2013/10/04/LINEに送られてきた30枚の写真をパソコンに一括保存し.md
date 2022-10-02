@@ -8,8 +8,7 @@ Date: 2013-10-04T22:07:22+09:00
 ※ 2016/12/01追記
 2013年の記事です。
 
-2016年版はこちら
-[http://blog.alfebelow.com/entry/LINE_PC:embed:cite]
+[/entry/2016/12/01/LINE_PC](2016年版はこちら)
 
 ※ 追記ここまで
 

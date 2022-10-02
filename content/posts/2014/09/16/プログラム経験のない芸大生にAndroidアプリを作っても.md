@@ -22,10 +22,10 @@ Date: 2014-09-16T10:53:20+09:00
  - ボタンの見た目を変更
 
 使ったスライドは↓
-http://alfe.lk6.co/funyou/dau/dau_js.html
+https://alfe.lk6.co/funyou/dau/dau_js.html
 
 Androidの環境構築をするのに、SDKとかEclipseとかインストールするのは、初心者には敷居が高いなーと思い
-Monaca(http://monaca.mobi/ja/)を採用しました
+Monaca(https://monaca.mobi/ja/)を採用しました
 
 アプリを作る流れはそこまで変わらないので敷居低いほうでやりましょう
 
@@ -49,14 +49,14 @@ Monaca(http://monaca.mobi/ja/)を採用しました
 について解説してみました
 
 サンプルアプリ
-http://alfe.lk6.co/funyou/dau/
+https://alfe.lk6.co/funyou/dau/
 
 部品の追加 と 動作の追加 までが出来上がったサンプルです
 
 そして これにデザインを追加するとこうなります
 
 サンプルアプリ（完成版）
-http://alfe.lk6.co/funyou/dau/simple/
+https://alfe.lk6.co/funyou/dau/simple/
 
 こんな感じでアプリを作るんだよーと教えました
 
@@ -69,7 +69,7 @@ http://alfe.lk6.co/funyou/dau/simple/
 アルゴリズムとか具体的な言語の構文とかは省いています
 
 今の段階でも、「javascript （作りたいアプリ）」で検索すればある程度のアプリは作れると思いますが、
-もっと詳しく勉強してみたい！ という場合は ドットインストールでJavascript入門（http://dotinstall.com/lessons/basic_javascript_v2）をみて構文とか勉強してみるとよいかと
+もっと詳しく勉強してみたい！ という場合は ドットインストールでJavascript入門（https://dotinstall.com/lessons/basic_javascript_v2）をみて構文とか勉強してみるとよいかと
 
 あと、作ったアプリをてきとーに公開してみたので、この流れでこんなアプリ作れるんだな、という確認にどうぞ
 https://play.google.com/store/apps/details?id=jp.hateblo.alfe

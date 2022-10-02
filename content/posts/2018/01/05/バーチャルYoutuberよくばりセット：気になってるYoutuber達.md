@@ -73,7 +73,7 @@ Date: 2018-01-05T23:48:15+09:00
 <p><iframe src="https://www.youtube.com/embed/J74NtDsqcv0?feature=oembed" width="480" frameborder="0" allowfullscreen=""></iframe></p>
 <p> </p>
 <p>やー、動画を見てると癖になってきますね。</p>
-<p><a href="http://panora.tokyo/">panora</a>さんのインタビューを心待ちにしてる。</p>
+<p><a href="https://panora.tokyo/">panora</a>さんのインタビューを心待ちにしてる。</p>
 <p> </p>
 
 ### ねこます

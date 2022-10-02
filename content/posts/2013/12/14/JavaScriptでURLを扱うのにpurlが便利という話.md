@@ -29,9 +29,9 @@ purl.js(https://github.com/allmarkedup/purl)から、purl.jsをダウンロー�
 </SCRIPT>
 ||<
 としてやると、
-http://hoge/#up
+https://hoge/#up
 と入力して
-http://hoge/test/up/uploader.html
+https://hoge/test/up/uploader.html
 に飛んでくれるというわけです。
 
 purl() が 現在のURL

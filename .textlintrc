@@ -13,6 +13,7 @@
     "prefer-tari-tari": true,
     "preset-ja-spacing": true,
     "preset-ja-technical-writing": true,
+    "ja-technical-writing/no-exclamation-question-mark": false,
     "preset-japanese": true
   }
 }

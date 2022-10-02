@@ -11,7 +11,7 @@ IMAGE: /img/2016/11/10/img.jpg
 <p><img class="magnifiable" src="https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010302/20010302173830.jpg" alt="" /></p>
 <p> </p>
 <p> この間、おもしろ同人誌バザールで購入しました。</p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="第２回 #おもしろ同人誌バザール の気になってるサークル - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/10/29/%E7%AC%AC%EF%BC%92%E5%9B%9E_%23%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB_%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%B5" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/10/29/%E7%AC%AC%EF%BC%92%E5%9B%9E_%23%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB_%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%B5">blog.alfebelow.com</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="第２回 #おもしろ同人誌バザール の気になってるサークル - FUN YOU BLOG" src="/entry/2016/10/29/%E7%AC%AC%EF%BC%92%E5%9B%9E_%23%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB_%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%B5" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="/entry/2016/10/29/%E7%AC%AC%EF%BC%92%E5%9B%9E_%23%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E5%90%8C%E4%BA%BA%E8%AA%8C%E3%83%90%E3%82%B6%E3%83%BC%E3%83%AB_%E3%81%AE%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E3%82%8B%E3%82%B5">blog.alfebelow.com</a></cite></p>
 <p> </p>
 <p>で、この本に親指シフトの紹介があったわけです。</p>
 <p>なんだ親指シフトって。</p>
@@ -57,13 +57,13 @@ IMAGE: /img/2016/11/10/img.jpg
 <p> </p>
 <p>あと、キー配列覚えやすくなるかなと、これをポチった。</p>
 <div class="freezed">
-<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/"><img class="external-link-detail-image" title="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" src="http://ecx.images-amazon.com/images/I/41llOuzyWhL._SL160_.jpg" alt="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" /></a>
+<div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/"><img class="external-link-detail-image" title="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" src="https://ecx.images-amazon.com/images/I/41llOuzyWhL._SL160_.jpg" alt="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" /></a>
 <div class="external-link-detail-info">
-<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/">親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）</a></p>
+<p class="external-link-detail-title"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/">親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）</a></p>
 <ul>
 <li><span class="external-link-detail-label">出版社/メーカー:</span> eee-life</li>
 <li><span class="external-link-detail-label">メディア:</span> エレクトロニクス</li>
-<li><a href="http://d.hatena.ne.jp/asin/B01I2QP5C6/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
+
 </ul>
 </div>
 <div class="external-link-detail-foot"> </div>

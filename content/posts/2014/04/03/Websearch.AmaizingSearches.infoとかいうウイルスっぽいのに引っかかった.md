@@ -7,15 +7,15 @@ Date: 2014-04-03T06:19:19+09:00
 
 
 ちょっと怪しげなサイトからいろいろ(ファームウェアとか)インストールしたら、新しくブラウザを開いたときにこんな画面が出るようになってしまった。
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140403/20140403061600.png" alt="f:id:alfe1025:20140403061600p:plain" title="f:id:alfe1025:20140403061600p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140403/20140403061600.png" alt="f:id:alfe1025:20140403061600p:plain" title="f:id:alfe1025:20140403061600p:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 
 どうやらこのページがTOPページとして登録されてるっぽい。
-http://websearch.amaizingsearches.info/
+https://websearch.amaizingsearches.info/
 
 いかにも独自の検索エンジンっぽく見えるのに、中央の白い四角に文字入れて、「Serch」というボタン押すと、検索ワードがそのままGoogleに渡されるとかいうよくわかんない検索エンジン。
 
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140403/20140403061729.png" alt="f:id:alfe1025:20140403061729p:plain" title="f:id:alfe1025:20140403061729p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140403/20140403061729.png" alt="f:id:alfe1025:20140403061729p:plain" title="f:id:alfe1025:20140403061729p:plain" class="hatena-fotolife" itemprop="image"></span></p>
 ロゴもGoogleカラーで外枠だけ。なにをイメージしてるのか・・・？
 
 
@@ -41,7 +41,7 @@ Chrome右上の「三」→ツール→拡張機能から
  - safeweb
 
 を削除します。
-<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140403/20140403061617.png" alt="f:id:alfe1025:20140403061617p:plain" title="f:id:alfe1025:20140403061617p:plain" class="hatena-fotolife" itemprop="image"></span></p>
+<p><span ><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20140403/20140403061617.png" alt="f:id:alfe1025:20140403061617p:plain" title="f:id:alfe1025:20140403061617p:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
 
 これでChromeは元に戻ったはず。

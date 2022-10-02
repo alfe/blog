@@ -7,7 +7,7 @@ Date: 2016-11-12T23:15:29+09:00
 
 <p>親指シフトにトライしています。</p>
 <p> </p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="親指シフト(NICOLA)にトライしてみている（2日目） - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88%28NICOLA%29%E3%81%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%882%E6%97%A5%E7%9B%AE%EF%BC%89" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88%28NICOLA%29%E3%81%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%882%E6%97%A5%E7%9B%AE%EF%BC%89">blog.alfebelow.com</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="親指シフト(NICOLA)にトライしてみている（2日目） - FUN YOU BLOG" src="/entry/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88%28NICOLA%29%E3%81%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%882%E6%97%A5%E7%9B%AE%EF%BC%89" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="/entry/2016/11/10/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88%28NICOLA%29%E3%81%AB%E3%83%88%E3%83%A9%E3%82%A4%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%882%E6%97%A5%E7%9B%AE%EF%BC%89">blog.alfebelow.com</a></cite></p>
 <p> </p>
 <p> </p>
 <p>で、</p>
@@ -21,16 +21,16 @@ Date: 2016-11-12T23:15:29+09:00
 
 <p>親指シフトのキー配列が刻印されたキーボードです。</p>
 <p> </p>
-<p>公式 : <a href="http://eee-life.com/kb/">親指シフト表記付きUSBライトタッチキーボード</a></p>
+<p>公式 : <a href="https://eee-life.com/kb/">親指シフト表記付きUSBライトタッチキーボード</a></p>
 <p> </p>
 <div class="freezed">
-<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/"><img class="external-link-detail-image" title="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" src="http://ecx.images-amazon.com/images/I/41llOuzyWhL._SL160_.jpg" alt="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" /></a>
+<div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/"><img class="external-link-detail-image" title="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" src="https://ecx.images-amazon.com/images/I/41llOuzyWhL._SL160_.jpg" alt="親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）" /></a>
 <div class="external-link-detail-info">
-<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/">親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）</a></p>
+<p class="external-link-detail-title"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B01I2QP5C6/ab1025-22/">親指シフト表記付きUSBライトタッチキーボード（色：黒-Black）</a></p>
 <ul>
 <li><span class="external-link-detail-label">出版社/メーカー:</span> eee-life</li>
 <li><span class="external-link-detail-label">メディア:</span> エレクトロニクス</li>
-<li><a href="http://d.hatena.ne.jp/asin/B01I2QP5C6/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
+
 </ul>
 </div>
 <div class="external-link-detail-foot"> </div>
@@ -65,7 +65,7 @@ Date: 2016-11-12T23:15:29+09:00
 <p>めっちゃふつう。</p>
 <p>キーは軽めの押し心地で使いやすいが、まぁメンブレンキーボードなので、感動する打ち心地とかはない。</p>
 <p> </p>
-<p>この辺にこだわる人は<a href="http://d.hatena.ne.jp/asin/B000EXZ0VC/ab1025-22">HHKB</a>とか買うでしょきっと。</p>
+<p>この辺にこだわる人は<a href="https://d.hatena.ne.jp/asin/B000EXZ0VC/ab1025-22">HHKB</a>とか買うでしょきっと。</p>
 
 ###  
 

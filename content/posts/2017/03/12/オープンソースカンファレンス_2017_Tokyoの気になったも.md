@@ -95,8 +95,8 @@ Date: 2017-03-12T12:07:51+09:00
 
 ### 類似記事
 
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="Maker Faire Tokyo 2016レポ - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2016/08/07/Maker_Faire_Tokyo_2016" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2016/08/07/Maker_Faire_Tokyo_2016">blog.alfebelow.com</a> </cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="Maker Faire Tokyo 2016レポ - FUN YOU BLOG" src="/entry/2016/08/07/Maker_Faire_Tokyo_2016" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="/entry/2016/08/07/Maker_Faire_Tokyo_2016">blog.alfebelow.com</a> </cite></p>
 <p> </p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="世界を変えた書物展＠大阪 - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2015/11/15/%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E6%9B%B8%E7%89%A9%E5%B1%95%EF%BC%A0%E5%A4%A7%E9%98%AA" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2015/11/15/%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E6%9B%B8%E7%89%A9%E5%B1%95%EF%BC%A0%E5%A4%A7%E9%98%AA">blog.alfebelow.com</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="世界を変えた書物展＠大阪 - FUN YOU BLOG" src="/entry/2015/11/15/%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E6%9B%B8%E7%89%A9%E5%B1%95%EF%BC%A0%E5%A4%A7%E9%98%AA" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="/entry/2015/11/15/%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E6%9B%B8%E7%89%A9%E5%B1%95%EF%BC%A0%E5%A4%A7%E9%98%AA">blog.alfebelow.com</a></cite></p>
 <p> </p>
 <p> </p>

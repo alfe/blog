@@ -6,7 +6,7 @@ Date: 2019-06-18T23:18:57+09:00
 IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144030.jpg
 ---
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144030.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144030.jpg" itemprop="image"></span>
 
 
 もう第5回になるというVuls祭り  
@@ -23,12 +23,12 @@ OSSで公開されている、サーバの脆弱性をスキャンするVulsのL
 
 
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144040.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144040.jpg" itemprop="image"></span>
 ご飯はまい泉バーガー
 
 
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144050.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144050.jpg" itemprop="image"></span>
 
 おいしかったです
 
@@ -36,7 +36,7 @@ OSSで公開されている、サーバの脆弱性をスキャンするVulsのL
 ## 招待講演 IPAテクニカルウォッチ「脆弱性対策の効果的な進め方」
 
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144100.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144100.jpg" itemprop="image"></span>
 
 
 とうとう国の人が出てきました。  
@@ -53,20 +53,20 @@ IPA、基本情報技術者試験とかやってる機構ですね。
 というまとめ。
 
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144110.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144110.jpg" itemprop="image"></span>
 
 見たことあるおじさんイラストが出てきて、「おぉ、IPAだ」って変なところで感動した。
 
 
 ## 乾杯
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144120.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144120.jpg" itemprop="image"></span>
 
 
 
 ## 基調講演
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144130.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144130.jpg" itemprop="image"></span>
 
 * 使ってる人ロゴをvuls.ioにのせてね
 
@@ -98,11 +98,11 @@ v0.8.0でできるようになったこととして
 
 # スポンサーLT
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144140.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144140.jpg" itemprop="image"></span>
 ビアスポンサー
 
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144150.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144150.jpg" itemprop="image"></span>
 会場スポンサー  
 DMMはOSSを支援するぞ！ とのこと。期待。
 
@@ -154,7 +154,7 @@ Vulsみたいに自分のコンテナに含まれる脆弱性をとれる
 そして Wordpressも毎度多い
 
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144200.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144200.jpg" itemprop="image"></span>
 vulsのv0.7.0からコア・テーマ・プラグインに対して脆弱性がないかチェックできるようになった  
 バーチャルホストでもいける。  
 Vulsのバリューがさらに上がった。
@@ -205,7 +205,7 @@ ChinaでVulsスキャンしてみるとグレートファイアウォールが�
 すごくつらそう。。。
 
 
-<span itemtype="http://schema.org/Photograph" itemscope="itemscope"><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144210.jpg" itemprop="image"></span>
+<span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144210.jpg" itemprop="image"></span>
 アタックチャンスも継続
 
 ## クロージング

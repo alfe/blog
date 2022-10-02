@@ -23,15 +23,15 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/201702
 <p>『フリーエージェント社会の到来』とはダニエル・ピンク著、2002年に出版された結構古い本ながら、2014年に新装版として再出版されるほど名著として名高い本。</p>
 <p> </p>
 <div class="freezed">
-<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478029296/ab1025-22/"><img class="external-link-detail-image" title="フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方" src="https://images-fe.ssl-images-amazon.com/images/I/51p6DmQsgrL._SL160_.jpg" alt="フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方" /></a>
+<div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4478029296/ab1025-22/"><img class="external-link-detail-image" title="フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方" src="https://images-fe.ssl-images-amazon.com/images/I/51p6DmQsgrL._SL160_.jpg" alt="フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方" /></a>
 <div class="external-link-detail-info">
-<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4478029296/ab1025-22/">フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方</a></p>
+<p class="external-link-detail-title"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4478029296/ab1025-22/">フリーエージェント社会の到来 新装版---組織に雇われない新しい働き方</a></p>
 <ul>
 <li><span class="external-link-detail-label">作者:</span> ダニエル・ピンク,序文:玄田有史,池村千秋</li>
 <li><span class="external-link-detail-label">出版社/メーカー:</span> ダイヤモンド社</li>
 <li><span class="external-link-detail-label">発売日:</span> 2014/08/29</li>
 <li><span class="external-link-detail-label">メディア:</span> 単行本（ソフトカバー）</li>
-<li><a href="http://d.hatena.ne.jp/asin/4478029296/ab1025-22" target="_blank">この商品を含むブログ (3件) を見る</a></li>
+
 </ul>
 </div>
 <div class="external-link-detail-foot"> </div>
@@ -68,10 +68,10 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/201702
 <p>アメリカビーバーとオグロプレーリードッグに共同作業を促したことだ。</p>
 <p> </p>
 <p>家を作るための知識を持つ人と、家を実物として作り上げられる人を結びつけた。</p>
-<p>同様のことが現実世界にも近年起こっており、オープンイノベーション((オープンイノベーションについては『<a href="http://d.hatena.ne.jp/asin/4862760465/ab1025-22">オープンイノベーション 組織を越えたネットワークが成長を加速する</a>』が詳しい))と呼ばれている。</p>
+<p>同様のことが現実世界にも近年起こっており、オープンイノベーション((オープンイノベーションについては『<a href="https://d.hatena.ne.jp/asin/4862760465/ab1025-22">オープンイノベーション 組織を越えたネットワークが成長を加速する</a>』が詳しい))と呼ばれている。</p>
 <p>自分の知識をより有効活用するため相乗効果を生みそうな相手と一緒にイノベーションを起こすことを「オープンイノベーション」と呼ぶ。</p>
 <p>知識のある研究者と、実現できるベンチャーとが手を取り合い、新製品の開発やサービスの運用から得られた知見を論文として発表することが活発になってきている。</p>
-<p>昨年の7月には経済産業省もオープンイベーション白書((http://www.meti.go.jp/press/2016/07/20160708001/20160708001.html))を取りまとめるなど、国内でもオープンイノベーションを促進させようとする動きがある。</p>
+<p>昨年の7月には経済産業省もオープンイベーション白書((https://www.meti.go.jp/press/2016/07/20160708001/20160708001.html))を取りまとめるなど、国内でもオープンイノベーションを促進させようとする動きがある。</p>
 <p> </p>
 <p><br />カバンちゃんは「オープンイノベーション」を起こさせている。</p>
 <p>欲しているもの同士をつなぎ合わせ、新たな価値を生み出す。</p>
@@ -105,7 +105,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/201702
 <p>わたしにはユートピアに思える。</p>
 <p> </p>
 <p> </p>
-<p>けものフレンズは、人類の進化史((この記事に影響されて、私も考察してみたいと書きました <a href="http://honeshabri.hatenablog.com/entry/kemono-friends">アニメ『けものフレンズ』は人類史600万年を探求する - 本しゃぶり</a>))だけでなく、ビジネストレンドすらも見出せる。</p>
+<p>けものフレンズは、人類の進化史((この記事に影響されて、私も考察してみたいと書きました <a href="https://honeshabri.hatenablog.com/entry/kemono-friends">アニメ『けものフレンズ』は人類史600万年を探求する - 本しゃぶり</a>))だけでなく、ビジネストレンドすらも見出せる。</p>
 <p>つくづく懐の深いアニメだ。</p>
 <p> </p>
 <p> </p>
@@ -113,5 +113,5 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/201702
 ### 他の記事
 
 <p> ほかにもこんなアニメ見てるよ</p>
-<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="日常系スキーの2017冬アニメおすすめ目録 - FUN YOU BLOG" src="http://blog.alfebelow.com/embed/2017_winter_anime" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://blog.alfebelow.com/entry/2017_winter_anime">blog.alfebelow.com</a></cite></p>
+<p><iframe class="embed-card embed-blogcard" style="display: block; width: 100%; height: 190px; max-width: 500px; margin: auto;" title="日常系スキーの2017冬アニメおすすめ目録 - FUN YOU BLOG" src="/entry/2017_winter_anime" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="/entry/2017_winter_anime">blog.alfebelow.com</a></cite></p>
 <p> </p>

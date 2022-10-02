@@ -9,13 +9,13 @@ Date: 2017-01-29T23:11:25+09:00
 <p>じゃあなんだったら使っていいの、というわけで、メラミンスポンジを使っても傷がつかないものを調べてみました。</p>
 <p> </p>
 <div class="freezed">
-<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OOCWP44/ab1025-22/"><img class="external-link-detail-image" title="レック 激落ちくん ( メラミンスポンジ ) S-691" src="https://images-fe.ssl-images-amazon.com/images/I/51Fo2nRCz4L._SL160_.jpg" alt="レック 激落ちくん ( メラミンスポンジ ) S-691" /></a>
+<div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00OOCWP44/ab1025-22/"><img class="external-link-detail-image" title="レック 激落ちくん ( メラミンスポンジ ) S-691" src="https://images-fe.ssl-images-amazon.com/images/I/51Fo2nRCz4L._SL160_.jpg" alt="レック 激落ちくん ( メラミンスポンジ ) S-691" /></a>
 <div class="external-link-detail-info">
-<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/B00OOCWP44/ab1025-22/">レック 激落ちくん ( メラミンスポンジ ) S-691</a></p>
+<p class="external-link-detail-title"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00OOCWP44/ab1025-22/">レック 激落ちくん ( メラミンスポンジ ) S-691</a></p>
 <ul>
 <li><span class="external-link-detail-label">出版社/メーカー:</span> レック(LEC)</li>
 <li><span class="external-link-detail-label">メディア:</span> ヘルスケア&amp;ケア用品</li>
-<li><a href="http://d.hatena.ne.jp/asin/B00OOCWP44/ab1025-22" target="_blank">この商品を含むブログを見る</a></li>
+
 </ul>
 </div>
 <div class="external-link-detail-foot"> </div>
@@ -111,16 +111,16 @@ Date: 2017-01-29T23:11:25+09:00
 
 <p>硬度のほかにphについても考察した掃除の本</p>
 <div class="freezed">
-<div class="external-link-detail"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4822247120/ab1025-22/"><img class="external-link-detail-image" title="男の掃除" src="https://images-fe.ssl-images-amazon.com/images/I/41um7-sfHKL._SL160_.jpg" alt="男の掃除" /></a>
+<div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4822247120/ab1025-22/"><img class="external-link-detail-image" title="男の掃除" src="https://images-fe.ssl-images-amazon.com/images/I/41um7-sfHKL._SL160_.jpg" alt="男の掃除" /></a>
 <div class="external-link-detail-info">
-<p class="external-link-detail-title"><a href="http://www.amazon.co.jp/exec/obidos/ASIN/4822247120/ab1025-22/">男の掃除</a></p>
+<p class="external-link-detail-title"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4822247120/ab1025-22/">男の掃除</a></p>
 <ul>
 <li><span class="external-link-detail-label">作者:</span> 佐光紀子</li>
 <li><span class="external-link-detail-label">出版社/メーカー:</span> 日経BP社</li>
 <li><span class="external-link-detail-label">発売日:</span> 2008/11/13</li>
 <li><span class="external-link-detail-label">メディア:</span> 単行本</li>
 <li><span class="external-link-detail-label">購入</span>: 1人 <span class="external-link-detail-label">クリック</span>: 109回</li>
-<li><a href="http://d.hatena.ne.jp/asin/4822247120/ab1025-22" target="_blank">この商品を含むブログ (7件) を見る</a></li>
+
 </ul>
 </div>
 <div class="external-link-detail-foot"> </div>
@@ -128,8 +128,8 @@ Date: 2017-01-29T23:11:25+09:00
 </div>
 <p>  </p>
 <p>ステンレスの硬さ</p>
-<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="ステンレス鋼材の機械的性質（耐力、降伏点、引張応力、伸び、絞り、曲げ、硬度）" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.susjis.info%2Fprop%2Fkikai.html" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="http://www.susjis.info/prop/kikai.html">www.susjis.info</a></cite></p>
+<p><iframe class="embed-card embed-webcard" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;" title="ステンレス鋼材の機械的性質（耐力、降伏点、引張応力、伸び、絞り、曲げ、硬度）" src="//hatenablog-parts.com/embed?url=http%3A%2F%2Fwww.susjis.info%2Fprop%2Fkikai.html" frameborder="0" scrolling="no"></iframe><cite class="hatena-citation"><a href="https://www.susjis.info/prop/kikai.html">www.susjis.info</a></cite></p>
 <p> </p>
 <p>モース硬度も参考にした</p>
-<p><a href="http://www.asahi-net.or.jp/~jh3m-fjym/katasa/katasa.html">各種物質の硬度（モース硬度）</a></p>
+<p><a href="https://www.asahi-net.or.jp/~jh3m-fjym/katasa/katasa.html">各種物質の硬度（モース硬度）</a></p>
 <p> </p>
