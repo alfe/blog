@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Sat, 01 Oct 2022 04:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Oct 2022 08:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,19 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2022年10月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2022/10/31/2022%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2022/10/31/2022%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Mon, 31 Oct 2022 10:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+地球温暖化で人類は絶滅しない
+
+環境活動家が環境破壊と貧困の固定をいかに進めてきたかについて。
+自然を守るには高密度なエネルギー利用と経済発展が必須として、その説明と真逆に推し進めるとどうなるのかを解説する。
+プラスチックがウミガメを救ってきた、発展途上国に工場ができると森林が守られる、放し飼いという環境破壊、やせたホッキョクグマという寓話、再生可能エネルギーという偽物の電気、などな]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年9月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/09/30/2022%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -184,31 +197,6 @@ Amazon
 
 30年前に書かれたUXの議論。
 子供の劇よりも劇を撮影するためのカメラの操作に夢中になってる親御さんの描写から始まり、照明盤の下に書かれた注意書き（暗がりなので読めない）や券を入れるところを間違えやすいの]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年3月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2022/04/03/2022%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2022/04/03/2022%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Sun, 03 Apr 2022 12:30:02 GMT</pubDate>
-            <description><![CDATA[いつもの
-
-
-ソフトウェアアーキテクチャの基礎
-
-
-
-ソフトウェアアーキテクチャの基礎 ―エンジニアリングに基づく体系的アプローチ
-
-作者:Neal Ford
-オライリージャパン
-
-Amazon
-
-
-アーキテクチャを決める際に考えることについて。
-これさえ読めばなんとかなる、というよりは各アーキテクチャの利点欠点と、アーキテクチャ決定前後にやることのリストが書かれた本。
- 
-どのアーキテクチャが良]]></description>
         </item>
     </channel>
 </rss>
