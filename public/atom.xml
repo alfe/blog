@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2022-11-15T09:22:51.084Z</updated>
+    <updated>2022-12-01T14:30:57.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,18 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年11月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2022/12/01/2022%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2022/12/01/2022%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2022-12-01T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。ちょっとポケモンしてたので冊数少なめ。オススメできるくらい良い本だけに絞ったとも言える。
+
+未来のモノのデザイン
+
+ロボット時代のデザイン言論として十数年前にでたDAノーマンの本。人間と機械がそれぞれ独り言を言っているだけで、相互のインタラクションが取れていない。
+機械とコミュニケーションを取れるようにするためには、機械の状態や動作を理解できるように自然で周到なシグナルを組み込んでいかな]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自作PC（リサイクルシール無し）の処分をPC3Rに頼んだ]]></title>
         <id>https://blog.alfebelow.com/entry/2022/11/15/%E8%87%AA%E4%BD%9CPC%EF%BC%88%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%AB%E7%84%A1%E3%81%97%EF%BC%89%E3%81%AE%E5%87%A6%E5%88%86%E3%82%92PC3R%E3%81%AB%E9%A0%BC%E3%82%93%E3%81%A0</id>
@@ -162,27 +174,5 @@ Amazon
 医療における行動変容について実際の事例をもとに説明している。
  
 手指消毒の遵守率は医者が説くよりもマスコミで繰り返し報じたほうが向上した。HPVワクチンを本来の接]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年5月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2022/05/31/2022%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2022/05/31/2022%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2022-05-31T12:54:24.000Z</updated>
-        <summary type="html"><![CDATA[いつもの
-
-人を賢くする道具
-
-
-
-人を賢くする道具―ソフト・テクノロジーの心理学 (新曜社認知科学選書)
-
-作者:D.A. ノーマン
-新曜社
-
-Amazon
-
-
-人間よりもテクノロジー側の要求に重点を置きすぎている問題について。機械と人間で得意な作業は異なるが、機械を正常に動かすために機械の要求に合うような仕事が人間の不得意なことにもかかわらず積み上げられている、という概略。原書は1993年。
-]]></summary>
     </entry>
 </feed>
