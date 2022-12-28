@@ -24,7 +24,7 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
       </header>
 
       <main>
-        {title ? <h1 className="page-title">{title}</h1> : ``}
+        {title ? <h2 className="page-title">{title}</h2> : ``}
         <div className="page-main">
           {children}
         </div>
@@ -61,6 +61,9 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
         .site-title a {
           color: inherit;
           text-decoration: none;
+        }
+        .page-title {
+          font-size: 2rem;
         }
       `}</style>
 

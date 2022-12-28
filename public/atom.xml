@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2022-12-01T14:30:57.740Z</updated>
+    <updated>2022-12-28T13:47:57.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,22 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年12月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2022/12/28/2022%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2022/12/28/2022%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2022-12-28T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+空飛ぶヘビとアメンボロボット
+
+生き物たちから学ぶを実践し、ロボットとして再現できないかを模索する研究を紹介していく本。
+水に浮くアメンボロボット、ヘビの動きは体のどこに力をかけているか、まつげは目の幅の3分の1の長さ、などなど。
+世間から無駄な研究と言われたりするアニマルモーションの研究を紹介しながら、科学の営みのあり方や基礎研究の重要性を説く。
+雪崩教本
+
+積雪と雪崩、雪崩のリス]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年11月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2022/12/01/2022%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -149,30 +165,5 @@ Amazon
 
 紹介動画
 <p>5月中旬くらいまではだいたい100前後。個]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年6月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2022/07/01/2022%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2022/07/01/2022%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2022-07-01T10:41:25.000Z</updated>
-        <summary type="html"><![CDATA[いつもの
-
-
-実践 医療現場の行動経済学
-
-
-
-実践 医療現場の行動経済学: すれ違いの解消法
-
-作者:平井 啓
-東洋経済新報社
-
-Amazon
-
-
-医療現場で起きる問題に対して、行動経済学の視点から解決できないかを模索したケース集。
-医療における行動変容について実際の事例をもとに説明している。
- 
-手指消毒の遵守率は医者が説くよりもマスコミで繰り返し報じたほうが向上した。HPVワクチンを本来の接]]></summary>
     </entry>
 </feed>
