@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Wed, 28 Dec 2022 13:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 11:04:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,19 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2022年に読んで良かった7冊の本]]></title>
+            <link>https://blog.alfebelow.com/entry/2022/12/30/2022%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2022/12/30/2022%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC</guid>
+            <pubDate>Fri, 30 Dec 2022 11:00:00 GMT</pubDate>
+            <description><![CDATA[年末なので、2022年に読んだ中で良かった本をまとめておこうという記事。
+今年も、年内に読んだ本の中から特に良かった本を7冊紹介します。
+
+猫に学ぶ―いかに良く生きるか
+
+猫から生きる哲学を学ぶという一見かわいいテーマ。ただし、しっかり哲学の本。
+「人間がなかなか手に入れられない幸福が、猫には生まれつき与えられているのだ。(p.6)」と、幸福・道徳・愛・死について、いかに人間が迷走しているか、そし]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年12月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2022/12/28/2022%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -150,23 +163,6 @@ Amazon
 
 土がどのようにできてきたのかの変遷について。
 5億年前には土がなかったという話から始まり、土がない場所でなにが生えてくるか、植物が土から何を得ているのか、雨や植物によって酸性に変わる土、マクロ視点での栄養の流れ、焼畑の利点、ハーバー・ボッシュ法による肥料]]></description>
-        </item>
-        <item>
-            <title><![CDATA[アイコン外観変更ジェネレーターのアクセス推移]]></title>
-            <link>https://blog.alfebelow.com/entry/2022/07/02/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%A4%96%E8%A6%B3%E5%A4%89%E6%9B%B4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%8E%A8%E7%A7%BB</link>
-            <guid>https://blog.alfebelow.com/entry/2022/07/02/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E5%A4%96%E8%A6%B3%E5%A4%89%E6%9B%B4%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%8E%A8%E7%A7%BB</guid>
-            <pubDate>Sat, 02 Jul 2022 09:54:15 GMT</pubDate>
-            <description><![CDATA[3月末、OBSのカスタムCSSをつくるジェネレーターを作成して公開しました。そこからしばらく経ったのでアクセスログをまとめてみようと思います。
- 
-
-アクセスログ
-当初、アクセスログをつけてなくて、GA4を設置したのが5月4日だったのでそこからのデータになりますがおおよその把握できるかなと思います。
-
-
-アクセスログ 5月4日～7月1日
-
-紹介動画
-<p>5月中旬くらいまではだいたい100前後。個]]></description>
         </item>
     </channel>
 </rss>
