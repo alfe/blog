@@ -15,6 +15,7 @@
     "preset-ja-technical-writing": true,
     "ja-technical-writing/no-exclamation-question-mark": false,
     "ja-technical-writing/ja-no-weak-phrase": false,
+    "ja-technical-writing/ja-no-successive-word": false,
     "preset-japanese": true
   }
 }
