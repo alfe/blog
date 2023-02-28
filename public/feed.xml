@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Tue, 31 Jan 2023 10:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 08:03:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,19 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2023年02月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Tue, 28 Feb 2023 10:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+ヒトは＜家畜化＞して進化した　
+
+自己家畜化したヒトと家畜化した生物に起きる変化について。良書。
+前半では犬とキツネなどの家畜化を通して、家畜化が協力行動やコミュニケーションといった認知能力の点で有利になること、自制能力がすぐれ、寿命が長くなり、ストレスホルモンの濃度を下げることが示される。
+後半では、ヒトは「集団内の見知らぬ人」に対して友好的に接するが他集団に対しては攻撃的になるこ]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年01月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2023/01/31/2023%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -131,28 +144,6 @@
 移行手順
 ブログをつくる
 まずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができまし]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年8月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Wed, 31 Aug 2022 09:36:50 GMT</pubDate>
-            <description><![CDATA[いつもの
-
-猫に学ぶ―いかに良く生きるか
-
-
-猫に学ぶ――いかに良く生きるか
-
-作者:ジョン・グレイ
-みすず書房
-
-Amazon
-
-猫から生きる哲学を学ぶ本。良書。
-幸福・道徳・愛・死について、いかに人間が迷走しているか、そして猫のそれがいかに充足しているかを哲学者が語る。
-かわいいタイトルと表紙だが、しっかり哲学の本。
-某漫画に出てくる「人間病」という概念を、モンスターでなく現実の猫から観測する]]></description>
         </item>
     </channel>
 </rss>

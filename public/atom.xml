@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2023-01-31T10:40:00.000Z</updated>
+    <updated>2023-02-28T08:03:30.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,19 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2023年02月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2023-02-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+ヒトは＜家畜化＞して進化した　
+
+自己家畜化したヒトと家畜化した生物に起きる変化について。良書。
+前半では犬とキツネなどの家畜化を通して、家畜化が協力行動やコミュニケーションといった認知能力の点で有利になること、自制能力がすぐれ、寿命が長くなり、ストレスホルモンの濃度を下げることが示される。
+後半では、ヒトは「集団内の見知らぬ人」に対して友好的に接するが他集団に対しては攻撃的になるこ]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年01月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2023/01/31/2023%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -129,27 +142,5 @@
 移行手順
 ブログをつくる
 まずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができまし]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年8月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2022/08/31/2022%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2022-08-31T09:36:50.000Z</updated>
-        <summary type="html"><![CDATA[いつもの
-
-猫に学ぶ―いかに良く生きるか
-
-
-猫に学ぶ――いかに良く生きるか
-
-作者:ジョン・グレイ
-みすず書房
-
-Amazon
-
-猫から生きる哲学を学ぶ本。良書。
-幸福・道徳・愛・死について、いかに人間が迷走しているか、そして猫のそれがいかに充足しているかを哲学者が語る。
-かわいいタイトルと表紙だが、しっかり哲学の本。
-某漫画に出てくる「人間病」という概念を、モンスターでなく現実の猫から観測する]]></summary>
     </entry>
 </feed>
