@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2023-02-28T08:03:30.228Z</updated>
+    <updated>2023-03-04T08:18:06.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,17 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[NetlifyとSupabaseでほぼ静的なActivityPubサーバ]]></title>
+        <id>https://blog.alfebelow.com/entry/2023/03/04/Netlify%E3%81%A8Supabase%E3%81%A7%E3%81%BB%E3%81%BC%E9%9D%99%E7%9A%84%E3%81%AAActivityPub%E3%82%B5%E3%83%BC%E3%83%90</id>
+        <link href="https://blog.alfebelow.com/entry/2023/03/04/Netlify%E3%81%A8Supabase%E3%81%A7%E3%81%BB%E3%81%BC%E9%9D%99%E7%9A%84%E3%81%AAActivityPub%E3%82%B5%E3%83%BC%E3%83%90"/>
+        <updated>2023-03-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NetlifyとSupabaseで、静的ファイルをメインにしたActivityPubサーバを作ってフォロワーに投稿を届けるお話。いまのところ無料利用枠内。
+「@alfe@ap.alfebelow.com」でフォローができるよ。
+
+ちかごろActivityPubやFediverseの話が盛んになってきています。
+Twitterがあやしい感じになってきたので分散型SNSにいこう！や、あっちのSNSはス]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年02月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -129,18 +140,5 @@
 
 本屋で本と出会わない
 では、残っている本屋によく立ち寄っているかというとそういうわけでもなく。というのも、本屋で平積みされた本との相性]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ブログをはてなブログからNext.jsで作ったブログに移行した話]]></title>
-        <id>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</id>
-        <link href="https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog"/>
-        <updated>2022-09-04T14:10:31.000Z</updated>
-        <summary type="html"><![CDATA[ふと思い立ち、ブログをNext.jsで作って、記事をこっちに移動してきたよという話。
-いわゆるJamstackなブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。
-リポジトリはここ。
-
-移行手順
-ブログをつくる
-まずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができまし]]></summary>
     </entry>
 </feed>

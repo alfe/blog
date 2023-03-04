@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Tue, 28 Feb 2023 08:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 08:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,17 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[NetlifyとSupabaseでほぼ静的なActivityPubサーバ]]></title>
+            <link>https://blog.alfebelow.com/entry/2023/03/04/Netlify%E3%81%A8Supabase%E3%81%A7%E3%81%BB%E3%81%BC%E9%9D%99%E7%9A%84%E3%81%AAActivityPub%E3%82%B5%E3%83%BC%E3%83%90</link>
+            <guid>https://blog.alfebelow.com/entry/2023/03/04/Netlify%E3%81%A8Supabase%E3%81%A7%E3%81%BB%E3%81%BC%E9%9D%99%E7%9A%84%E3%81%AAActivityPub%E3%82%B5%E3%83%BC%E3%83%90</guid>
+            <pubDate>Sat, 04 Mar 2023 10:00:00 GMT</pubDate>
+            <description><![CDATA[NetlifyとSupabaseで、静的ファイルをメインにしたActivityPubサーバを作ってフォロワーに投稿を届けるお話。いまのところ無料利用枠内。
+「@alfe@ap.alfebelow.com」でフォローができるよ。
+
+ちかごろActivityPubやFediverseの話が盛んになってきています。
+Twitterがあやしい感じになってきたので分散型SNSにいこう！や、あっちのSNSはス]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年02月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -131,19 +142,6 @@
 
 本屋で本と出会わない
 では、残っている本屋によく立ち寄っているかというとそういうわけでもなく。というのも、本屋で平積みされた本との相性]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ブログをはてなブログからNext.jsで作ったブログに移行した話]]></title>
-            <link>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</link>
-            <guid>https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog</guid>
-            <pubDate>Sun, 04 Sep 2022 14:10:31 GMT</pubDate>
-            <description><![CDATA[ふと思い立ち、ブログをNext.jsで作って、記事をこっちに移動してきたよという話。
-いわゆるJamstackなブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。
-リポジトリはここ。
-
-移行手順
-ブログをつくる
-まずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができまし]]></description>
         </item>
     </channel>
 </rss>

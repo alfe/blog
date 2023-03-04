@@ -1,5 +1,6 @@
 {
-  "filters": {},
+  "filters": {
+  },
   "rules": {
     "@textlint-ja/no-insert-dropping-sa": true,
     "@textlint-ja/no-synonyms": true,
@@ -16,6 +17,7 @@
     "ja-technical-writing/no-exclamation-question-mark": false,
     "ja-technical-writing/ja-no-weak-phrase": false,
     "ja-technical-writing/ja-no-successive-word": false,
+    "ja-technical-writing/sentence-length": false,
     "preset-japanese": true
   }
 }

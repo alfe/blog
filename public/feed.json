@@ -10,6 +10,13 @@
     },
     "items": [
         {
+            "id": "https://blog.alfebelow.com/entry/2023/03/04/Netlify%E3%81%A8Supabase%E3%81%A7%E3%81%BB%E3%81%BC%E9%9D%99%E7%9A%84%E3%81%AAActivityPub%E3%82%B5%E3%83%BC%E3%83%90",
+            "url": "https://blog.alfebelow.com/entry/2023/03/04/Netlify%E3%81%A8Supabase%E3%81%A7%E3%81%BB%E3%81%BC%E9%9D%99%E7%9A%84%E3%81%AAActivityPub%E3%82%B5%E3%83%BC%E3%83%90",
+            "title": "NetlifyとSupabaseでほぼ静的なActivityPubサーバ",
+            "summary": "NetlifyとSupabaseで、静的ファイルをメインにしたActivityPubサーバを作ってフォロワーに投稿を届けるお話。いまのところ無料利用枠内。\n「@alfe@ap.alfebelow.com」でフォローができるよ。\n\nちかごろActivityPubやFediverseの話が盛んになってきています。\nTwitterがあやしい感じになってきたので分散型SNSにいこう！や、あっちのSNSはス",
+            "date_modified": "2023-03-04T10:00:00.000Z"
+        },
+        {
             "id": "https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "url": "https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2023年02月に読んだ本",
@@ -71,13 +78,6 @@
             "title": "最近の本の探し方（書店巡りが減って図書館の新着図書で探している話）",
             "summary": "最近本屋さんに行かなくなりました。\nそもそも外に出る機会が減りました。コロナ禍で外出が減り、どこかに出かけたついでに本屋へ立ち寄ることが減りました。それに加えて本屋さんそのものも減りました。一番近い本屋、そしてその次に近い本屋。その2件はこの数年で閉店しました。\n\n本屋で本と出会わない\nでは、残っている本屋によく立ち寄っているかというとそういうわけでもなく。というのも、本屋で平積みされた本との相性",
             "date_modified": "2022-09-17T09:40:00.000Z"
-        },
-        {
-            "id": "https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog",
-            "url": "https://blog.alfebelow.com/entry/2022/09/04/nextjs-blog",
-            "title": "ブログをはてなブログからNext.jsで作ったブログに移行した話",
-            "summary": "ふと思い立ち、ブログをNext.jsで作って、記事をこっちに移動してきたよという話。\nいわゆるJamstackなブログというやつですね。この記事は作るにあたってやったことと参考になった記事のメモ。\nリポジトリはここ。\n\n移行手順\nブログをつくる\nまずはMarkdownのファイルを入れるとブログっぽい表示になるWebサイトを作ります。以下のサイトをほぼコピペで投稿一覧ページと投稿詳細ページができまし",
-            "date_modified": "2022-09-04T14:10:31.000Z"
         }
     ]
 }
