@@ -14,9 +14,13 @@ const nextConfig = {
   },
   async redirects() {
     return [{
-        source: '/entry/2018/11/03/CODE_BLUE_2018_レポ_',
-        destination: '/entry/2018/11/03/CODE_BLUE_2018',
-        permanent: true,
+      source: '/entry2023/:path*',
+      destination: '/entry/2023/:path*',
+      permanent: true,
+    }, {
+      source: '/entry/2018/11/03/CODE_BLUE_2018_レポ_',
+      destination: '/entry/2018/11/03/CODE_BLUE_2018',
+      permanent: true,
     }, {
       source: '/entry/おいしいコーヒーの入れ方',
       destination: '/entry/2015/01/30/おいしいコーヒーの入れ方',
