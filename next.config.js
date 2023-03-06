@@ -14,6 +14,38 @@ const nextConfig = {
   },
   async redirects() {
     return [{
+      source: '/entry2015/:path*',
+      destination: '/entry/2015/:path*',
+      permanent: true,
+    }, {
+      source: '/entry2016/:path*',
+      destination: '/entry/2016/:path*',
+      permanent: true,
+    }, {
+      source: '/entry2017/:path*',
+      destination: '/entry/2017/:path*',
+      permanent: true,
+    }, {
+      source: '/entry2018/:path*',
+      destination: '/entry/2018/:path*',
+      permanent: true,
+    }, {
+      source: '/entry2019/:path*',
+      destination: '/entry/2019/:path*',
+      permanent: true,
+    }, {
+      source: '/entry2020/:path*',
+      destination: '/entry/2020/:path*',
+      permanent: true,
+    }, {
+      source: '/entry2021/:path*',
+      destination: '/entry/2021/:path*',
+      permanent: true,
+    }, {
+      source: '/entry2022/:path*',
+      destination: '/entry/2022/:path*',
+      permanent: true,
+    }, {
       source: '/entry2023/:path*',
       destination: '/entry/2023/:path*',
       permanent: true,
