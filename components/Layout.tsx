@@ -72,8 +72,7 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
         body {
           padding: 0;
           margin: 0;
-          font-family: 'Noto Sans JP', -apple-system, "Segoe UI", "Helvetica Neue",
-            "Hiragino Kaku Gothic ProN", メイリオ, meiryo, sans-serif;
+          font-family: "Noto Sans Japanese", 'Noto Sans JP', -apple-system, "メイリオ", Meiryo, sans-serif;
           color: #222;
         }
 

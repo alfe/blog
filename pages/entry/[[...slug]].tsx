@@ -136,21 +136,34 @@ const Post = (params: PostProps) => {
 
         h3 {
           margin-top: 5rem;
-          border-bottom: 1px solid #cfd8d8;
-          border-left: 8px double #cfd8d8;
-          padding: 1rem;
-          font-size: 140%;
+          border-bottom: 1px solid #666;
+          font-size: 1.7rem;
+          margin-left: -1rem;
+          padding-left: 1rem;
         }
         h4 {
           margin-top: 3rem;
-          padding-left: 1em;
+          padding-left: 0.5em;
+          margin-left: -0.5rem;
           border-bottom: 1px dotted;
+          font-size: 1.2rem;
+        }
+        h5 {
+          margin-top: 1rem;
+          padding-left: 0.25em;
+          margin-left: -0.25rem;
+          border-bottom: 1px dashed;
+          font-size: 1rem;
         }
         pre {
           background: #333;
           padding: 1rem;
           color: #FFF;
           overflow-x: scroll;
+        }
+        code {
+          background: #ecffc8;
+          padding: 0.25rem 0.5rem;
         }
         a[href^="https://www.amazon.co.jp/"]:has(img){
           display: block;

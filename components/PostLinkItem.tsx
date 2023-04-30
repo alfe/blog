@@ -11,7 +11,7 @@ const PostLinkItem = (props: { to: string; title: string; published: string | Da
             <div><span>{new Date(props.published).toLocaleDateString()}</span></div>
           </div>
           <div className="post-thumbnail">
-            <Image src={props.thumbnail || '/img/noImage.png'} alt="thumb" width={240} height={120} />
+            <Image src={props.thumbnail || '/img/noImage.jpg'} alt="thumb" width={240} height={135} />
           </div>
         </a>
       </Link>
@@ -47,7 +47,7 @@ const PostLinkItem = (props: { to: string; title: string; published: string | Da
             border-radius: 3px;
             overflow: hidden;
             width: 240px;
-            height: 120px;
+            height: 135px;
             background: lightgray;
           }
         `}</style>
