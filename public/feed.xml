@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Sun, 25 Jun 2023 05:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 05:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -24,7 +24,9 @@ Windows11のタスクバーを右側に配置したい、と検索するとア�
 が、タスクバーの固定を外してタスクバーをドラッグすると右側に配置された。という内容。
 
 Explorer Patcher
-Microsoftが提供しているBingやBing AIで検索すると、Windows11のタスクバーを右側に配置するためにはExplorer Patch]]></description>
+を使う、と出てくる。
+
+どうやらこのExplorerPatcherを使うと、タスクバーのアイコンを小さくしたり、右クリックのメニューをWindows 1]]></description>
         </item>
         <item>
             <title><![CDATA[2023年05月に読んだ本]]></title>

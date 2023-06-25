@@ -15,26 +15,21 @@ Windows11のタスクバーを右側に配置したい、と検索するとア�
 ![Windows11のスクリーンショット。タスクバーが右側に配置](/img/2023/06/25/image.png)
 
 
+### Explorer Patcher
 
-
-## Explorer Patcher
-
-Microsoftが提供しているBingやBing AIで検索すると、Windows11のタスクバーを右側に配置するためにはExplorer Patcherを使う、と出てくる。
+Microsoftが提供しているBingやBing AIで検索すると、Windows11のタスクバーを右側に配置するためには[Explorer Patcher](https://github.com/valinet/ExplorerPatcher)を使う、と出てくる。
 
 ![Alt text](/img/2023/06/25/image-1.png)
-
-ExplorerPatcher https://github.com/valinet/ExplorerPatcher
 
 どうやらこのExplorerPatcherを使うと、タスクバーのアイコンを小さくしたり、右クリックのメニューをWindows 10に近づけたりができる様子。
 
 そして、タスクバーを画面の上や右に配置する機能も備わっているのだそう。なぜか私のPCで動作しなかった（Explorerが落ちる）ので別の方法がないかなと探したところ、固定を外すだけで動くことに気づいた。
 
 
-
-
-## 「タスクバーを固定する」を外して右にドラッグ
+### 「タスクバーを固定する」を外して右にドラッグ
 
 ![タスクバーを右クリックしたときのスクリーンショット](/img/2023/06/25/image-2.png)
+
 タスクバーを右クリックすると出てくるメニューに「タスクバーを固定する」がある。
 
 これのチェックを外して、タスクバーを右側にドラッグアンドドロップすると右側に配置される。
@@ -42,13 +37,15 @@ ExplorerPatcher https://github.com/valinet/ExplorerPatcher
 ![Windows11のスクリーンショット。タスクバーが右側に配置](/img/2023/06/25/image.png)
 
 もちろん、上側にドラッグすれば、タスクバーが上部に配置される。
+
 ![Windows11のスクリーンショット。タスクバーが上側に配置](/img/2023/06/25/image-3.png)
 
 左側にドラッグすれば、タスクバーが左部に配置される。
+
 ![Windows11のスクリーンショット。タスクバーが左側に配置](/img/2023/06/25/image-4.png)
 
 
-## まとめ
+### まとめ
 
 タスクバーの固定を外してタスクバーをドラッグすると好きな方向に配置される。
 
