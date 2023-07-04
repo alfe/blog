@@ -165,6 +165,10 @@ const Post = (params: PostProps) => {
           background: #ecffc8;
           padding: 0.25rem 0.5rem;
         }
+        pre > code {
+          background: transparent;
+          padding: 0.25rem 0.5rem;
+        }
         a[href^="https://www.amazon.co.jp/"]:has(img){
           display: block;
           text-align: center;
