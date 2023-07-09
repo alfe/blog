@@ -42,7 +42,7 @@ export const getStaticProps = async ({ params }) => {
   return {
     props: {
       posts: posts.filter(
-        (post) => post.published.substring(0, 4) === params.byMonth
+        (post) => post.published.substring(0, 4) === params.byYear
       ),
     }
   }
@@ -50,17 +50,18 @@ export const getStaticProps = async ({ params }) => {
 
 export const getStaticPaths = async () => {
   const paths = [
-    { params: { byMonth: '2022' } },
-    { params: { byMonth: '2021' } },
-    { params: { byMonth: '2020' } },
-    { params: { byMonth: '2019' } },
-    { params: { byMonth: '2018' } },
-    { params: { byMonth: '2017' } },
-    { params: { byMonth: '2016' } },
-    { params: { byMonth: '2015' } },
-    { params: { byMonth: '2014' } },
-    { params: { byMonth: '2013' } },
-    { params: { byMonth: '2012' } },
+    { params: { byYear: '2023' } },
+    { params: { byYear: '2022' } },
+    { params: { byYear: '2021' } },
+    { params: { byYear: '2020' } },
+    { params: { byYear: '2019' } },
+    { params: { byYear: '2018' } },
+    { params: { byYear: '2017' } },
+    { params: { byYear: '2016' } },
+    { params: { byYear: '2015' } },
+    { params: { byYear: '2014' } },
+    { params: { byYear: '2013' } },
+    { params: { byYear: '2012' } },
   ];
   return { paths: paths, fallback: false }
 }

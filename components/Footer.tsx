@@ -8,7 +8,8 @@ const CATEGORY = [
   'レビュー',
   '雑記',
 ];
-const BY_MONTH = [
+const BY_YEAR = [
+  '2023',
   '2022',
   '2021',
   '2020',
@@ -40,10 +41,10 @@ const Footer = () => {
       <div>
         <h2>年別アーカイブ</h2>
         <ul>
-          {BY_MONTH.map((byMonth, index) => (
-            <li key={`${index}-${byMonth}`}>
-              <Link href="/byMonth/[byMonth]" as={`/byMonth/${byMonth}`}>
-                <a>{byMonth}</a>
+          {BY_YEAR.map((byYear, index) => (
+            <li key={`${index}-${byYear}`}>
+              <Link href="/byYear/[byYear]" as={`/byYear/${byYear}`}>
+                <a>{byYear}</a>
               </Link>
             </li>
           ))}
