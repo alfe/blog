@@ -67,6 +67,16 @@ const Footer = () => {
             </a>
           </li>
           <li>
+            <a href="https://github.com/alfe" target="_blank" rel="noopener noreferrer">
+              Github
+            </a>
+          </li>
+          <li>
+            <a href="https://mastodon-japan.net/@alfe" target="_blank" rel="me noopener noreferrer">
+              Mastodon
+            </a>
+          </li>
+          <li>
             <a href="https://twitter.com/alfe_below" target="_blank" rel="noopener noreferrer">
               Twitter
             </a>
@@ -74,11 +84,6 @@ const Footer = () => {
           <li>
             <a href="https://qiita.com/alfe_below" target="_blank" rel="noopener noreferrer">
               Qiita
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/alfe" target="_blank" rel="noopener noreferrer">
-              Github
             </a>
           </li>
         </ul>
