@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Fri, 30 Jun 2023 08:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 13:03:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -34,14 +34,15 @@ DEEP LIFE 海底下生命圏 生命存在の限界はどこにあるのか
             <link>https://blog.alfebelow.com/entry/2023/06/25/Windows11%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%90%E3%83%BC%E3%82%92%E5%8F%B3%E5%81%B4%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%99%E3%82%8B</link>
             <guid>https://blog.alfebelow.com/entry/2023/06/25/Windows11%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%90%E3%83%BC%E3%82%92%E5%8F%B3%E5%81%B4%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%99%E3%82%8B</guid>
             <pubDate>Sat, 24 Jun 2023 20:30:00 GMT</pubDate>
-            <description><![CDATA[メモ書き。
+            <description><![CDATA[※ 2023/07/19更新: Windowsのアップデートでこの方法も使えなくなっちゃいました。ぐぬぬ。
+メモ書き。
 Windows11のタスクバーを右側に配置したい、と検索するとアプリを入れろとかレジストリをいじれとか出てくる。
 が、タスクバーの固定を外してタスクバーをドラッグすると右側に配置された。という内容。
 
 Explorer Patcher
 を使う、と出てくる。
 
-どうやらこのExplorerPatcherを使うと、タスクバーのアイコンを小さくしたり、右クリックのメニューをWindows 1]]></description>
+どうやらこのExpl]]></description>
         </item>
         <item>
             <title><![CDATA[2023年05月に読んだ本]]></title>
