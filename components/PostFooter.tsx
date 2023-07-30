@@ -11,29 +11,25 @@ const PostFooter = (props: { prevPage?: Post; nextPage?: Post }) => {
     <div className="post-footer">
       {prevPage ? (
         <Link
+          className="post-teaser"
           href={`/entry${prevPage?.dirname === '//' ? '/' : prevPage?.dirname}${prevPage?.slug}`}
-          as={`/entry${prevPage?.dirname === '//' ? '/' : prevPage?.dirname}${prevPage?.slug}`}
-          legacyBehavior>
-          <a className="post-teaser">
-            <span>&lt; {prevPage?.title}</span>
-          </a>
+          as={`/entry${prevPage?.dirname === '//' ? '/' : prevPage?.dirname}${prevPage?.slug}`}>
+          <span>&lt; {prevPage?.title}</span>
         </Link>
       ) : (
         <div />
       )}
       {nextPage ? (
         <Link
+          className="post-teaser right"
           href={`/entry${nextPage?.dirname === '//' ? '/' : nextPage?.dirname}${nextPage?.slug}`}
-          as={`/entry${nextPage?.dirname === '//' ? '/' : nextPage?.dirname}${nextPage?.slug}`}
-          legacyBehavior>
-          <a className="post-teaser right">
-            <span>{nextPage?.title} &gt;</span>
-          </a>
+          as={`/entry${nextPage?.dirname === '//' ? '/' : nextPage?.dirname}${nextPage?.slug}`}>
+          <span>{nextPage?.title} &gt;</span>
         </Link>
       ) : (
         <div />
       )}
-      <style jsx>{`
+      <style jsx global>{`
         .post-footer {
           display: flex;
           justify-content: space-between;

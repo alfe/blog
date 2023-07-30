@@ -31,8 +31,8 @@ const Footer = () => {
         <ul>
           {CATEGORY.map((category, index) => (
             <li key={`${index}-${category}`}>
-              <Link href="/category/[category]" as={`/category/${category}`} legacyBehavior>
-                <a>{category}</a>
+              <Link href="/category/[category]" as={`/category/${category}`}>
+                {category}
               </Link>
             </li>
           ))}
@@ -43,8 +43,8 @@ const Footer = () => {
         <ul>
           {BY_YEAR.map((byYear, index) => (
             <li key={`${index}-${byYear}`}>
-              <Link href="/byYear/[byYear]" as={`/byYear/${byYear}`} legacyBehavior>
-                <a>{byYear}</a>
+              <Link href="/byYear/[byYear]" as={`/byYear/${byYear}`}>
+                {byYear}
               </Link>
             </li>
           ))}
@@ -89,7 +89,7 @@ const Footer = () => {
           </li>
         </ul>
       </div>
-      <style jsx>{`
+      <style jsx global>{`
         footer {
           background: linear-gradient(180deg, #3D501A 0%, #616850 100%);
           margin-top: 4em;

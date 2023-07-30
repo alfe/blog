@@ -17,9 +17,7 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
 
       <header>
         <h1 className="site-title">
-          <Link href="/" legacyBehavior>
-            <a>{siteTitle}</a>
-          </Link>
+          <Link href="/" >{siteTitle}</Link>
         </h1>
       </header>
 
@@ -32,7 +30,7 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
 
       <Footer />
 
-      <style jsx>{`
+      <style jsx global>{`
         main {
           padding: 2em 1em;
           max-width: 800px;

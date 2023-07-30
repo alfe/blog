@@ -20,21 +20,21 @@ const Pager = (props: PagerProps) => {
     <div className="pager">
       <span className="pager-item">
         {prevPage ? (
-          <Link href={href} as={asCallback(prevPage)} legacyBehavior>
-            <a>{prevPage}</a>
+          <Link href={href} as={asCallback(prevPage)}>
+            {prevPage}
           </Link>
         ) : ``}
       </span>
       <span className="pager-item">{page}</span>
       <span className="pager-item">
         {nextPage ? (
-          <Link href={href} as={asCallback(nextPage)} legacyBehavior>
-            <a>{nextPage}</a>
+          <Link href={href} as={asCallback(nextPage)}>
+            {nextPage}
           </Link>
         ) : ``}
       </span>
 
-      <style jsx>{`
+      <style jsx global>{`
         .pager {
           display: flex;
           flex-direction: row;
