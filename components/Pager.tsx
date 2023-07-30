@@ -21,7 +21,7 @@ const Pager = (props: PagerProps) => {
       <span className="pager-item">
         {prevPage ? (
           <Link href={href} as={asCallback(prevPage)}>
-            <a>{prevPage}</a>
+            {prevPage}
           </Link>
         ) : ``}
       </span>
@@ -29,12 +29,12 @@ const Pager = (props: PagerProps) => {
       <span className="pager-item">
         {nextPage ? (
           <Link href={href} as={asCallback(nextPage)}>
-            <a>{nextPage}</a>
+            {nextPage}
           </Link>
         ) : ``}
       </span>
 
-      <style jsx>{`
+      <style jsx global>{`
         .pager {
           display: flex;
           flex-direction: row;
@@ -47,7 +47,7 @@ const Pager = (props: PagerProps) => {
         }
       `}</style>
     </div>
-  )
+  );
 }
 
 export default Pager

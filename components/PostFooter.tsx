@@ -11,27 +11,25 @@ const PostFooter = (props: { prevPage?: Post; nextPage?: Post }) => {
     <div className="post-footer">
       {prevPage ? (
         <Link
+          className="post-teaser"
           href={`/entry${prevPage?.dirname === '//' ? '/' : prevPage?.dirname}${prevPage?.slug}`}
           as={`/entry${prevPage?.dirname === '//' ? '/' : prevPage?.dirname}${prevPage?.slug}`}>
-          <a className="post-teaser">
-            <span>&lt; {prevPage?.title}</span>
-          </a>
+          <span>&lt; {prevPage?.title}</span>
         </Link>
       ) : (
         <div />
       )}
       {nextPage ? (
         <Link
+          className="post-teaser right"
           href={`/entry${nextPage?.dirname === '//' ? '/' : nextPage?.dirname}${nextPage?.slug}`}
           as={`/entry${nextPage?.dirname === '//' ? '/' : nextPage?.dirname}${nextPage?.slug}`}>
-          <a className="post-teaser right">
-            <span>{nextPage?.title} &gt;</span>
-          </a>
+          <span>{nextPage?.title} &gt;</span>
         </Link>
       ) : (
         <div />
       )}
-      <style jsx>{`
+      <style jsx global>{`
         .post-footer {
           display: flex;
           justify-content: space-between;
@@ -48,6 +46,6 @@ const PostFooter = (props: { prevPage?: Post; nextPage?: Post }) => {
         }
       `}</style>
     </div>
-  )
+  );
 }
 export default PostFooter

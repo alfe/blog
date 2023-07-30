@@ -32,7 +32,7 @@ const Home = (props: HomeProps) => {
 
       {hasArchive ? (
         <div className="home-archive">
-          <Link href="/archive/[page]" as="/archive/2"><a>さらに昔の記事</a></Link>
+          <Link href="/archive/[page]" as="/archive/2">さらに昔の記事</Link>
         </div>
       ) : ``}
 
@@ -45,7 +45,7 @@ const Home = (props: HomeProps) => {
         }
       `}</style>
     </Layout>
-  )
+  );
 }
 export default Home;
 
