@@ -12,7 +12,8 @@ const PostFooter = (props: { prevPage?: Post; nextPage?: Post }) => {
       {prevPage ? (
         <Link
           href={`/entry${prevPage?.dirname === '//' ? '/' : prevPage?.dirname}${prevPage?.slug}`}
-          as={`/entry${prevPage?.dirname === '//' ? '/' : prevPage?.dirname}${prevPage?.slug}`}>
+          as={`/entry${prevPage?.dirname === '//' ? '/' : prevPage?.dirname}${prevPage?.slug}`}
+          legacyBehavior>
           <a className="post-teaser">
             <span>&lt; {prevPage?.title}</span>
           </a>
@@ -23,7 +24,8 @@ const PostFooter = (props: { prevPage?: Post; nextPage?: Post }) => {
       {nextPage ? (
         <Link
           href={`/entry${nextPage?.dirname === '//' ? '/' : nextPage?.dirname}${nextPage?.slug}`}
-          as={`/entry${nextPage?.dirname === '//' ? '/' : nextPage?.dirname}${nextPage?.slug}`}>
+          as={`/entry${nextPage?.dirname === '//' ? '/' : nextPage?.dirname}${nextPage?.slug}`}
+          legacyBehavior>
           <a className="post-teaser right">
             <span>{nextPage?.title} &gt;</span>
           </a>
@@ -48,6 +50,6 @@ const PostFooter = (props: { prevPage?: Post; nextPage?: Post }) => {
         }
       `}</style>
     </div>
-  )
+  );
 }
 export default PostFooter

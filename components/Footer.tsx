@@ -31,7 +31,7 @@ const Footer = () => {
         <ul>
           {CATEGORY.map((category, index) => (
             <li key={`${index}-${category}`}>
-              <Link href="/category/[category]" as={`/category/${category}`}>
+              <Link href="/category/[category]" as={`/category/${category}`} legacyBehavior>
                 <a>{category}</a>
               </Link>
             </li>
@@ -43,7 +43,7 @@ const Footer = () => {
         <ul>
           {BY_YEAR.map((byYear, index) => (
             <li key={`${index}-${byYear}`}>
-              <Link href="/byYear/[byYear]" as={`/byYear/${byYear}`}>
+              <Link href="/byYear/[byYear]" as={`/byYear/${byYear}`} legacyBehavior>
                 <a>{byYear}</a>
               </Link>
             </li>

@@ -17,7 +17,7 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
 
       <header>
         <h1 className="site-title">
-          <Link href="/">
+          <Link href="/" legacyBehavior>
             <a>{siteTitle}</a>
           </Link>
         </h1>
@@ -91,7 +91,7 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
         }
       `}</style>
     </div>
-  )
+  );
 }
 export default Layout
 
