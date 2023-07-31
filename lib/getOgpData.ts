@@ -1,11 +1,9 @@
-import openGraphScraper, {
-  OpenGraphImage,
-  OpenGraphProperties,
-} from 'open-graph-scraper';
+import openGraphScraper from 'open-graph-scraper';
 
-export type OgpData = OpenGraphProperties & {
-  ogImage?: OpenGraphImage | OpenGraphImage[] | undefined;
-};
+export type OgpData = any;
+// OpenGraphProperties & {
+//   ogImage?: OpenGraphImage | OpenGraphImage[] | undefined;
+// };
 
 const getOgpData = async (floatingUrls: string[]): Promise<OgpData[]> => {
   const ogpDatas: OgpData[] = [];

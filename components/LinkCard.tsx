@@ -42,8 +42,8 @@ const LinkCard = (props: LinkCardProps) => {
         {!!ogp?.ogImage && (
           <Image alt="ogp-link"
             src={ogp.ogImage.url}
-            width={ogp.ogImage.width}
-            height={ogp.ogImage.height} />
+            width={Number(ogp.ogImage.width)}
+            height={Number(ogp.ogImage.height)} />
         )}
         <cite>{ogp.ogTitle}</cite>
         <br />
