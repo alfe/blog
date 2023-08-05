@@ -10,10 +10,6 @@ Date: 2015-11-30T15:54:21+09:00
 
 結構便利な裏技紹介。
 
-<a class="http-image" href="https://www.flickr.com/photos/15747413@N00/2755066176" target="_blank"><img class="http-image" src="https://farm4.staticflickr.com/3071/2755066176_d6a51a5862.jpg" alt="https://www.flickr.com/photos/15747413@N00/2755066176" width="331" /></a>
-
-<a href="https://www.flickr.com/photos/15747413@N00/2755066176">photo by anonymonk</a>
-
  
 
 ### 未読メールだけ表示する

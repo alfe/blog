@@ -15,7 +15,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/201702
 
 アメリカビーバー・オグロプレーリードッグと一緒に家を作る話。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170212214848j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/20170212214848.jpg" alt="f:id:alfe1025:20170212214848j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/20170212214848.jpg)
 
  
 
@@ -70,13 +70,13 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/201702
 
 設計が得意なフレンズであるアメリカビーバーは、小さな模型を作り、家の構造を考え、製作時に指示を行う。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170212214748j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/20170212214748.jpg" alt="f:id:alfe1025:20170212214748j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/20170212214748.jpg)
 
  
 
 穴掘りや作業が得意なフレンズであるオグロプレーリードッグは、アメリカビーバーの指示を期待通りこなし、瞬く間に豪華なログハウスを作り上げてしまう。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170212214756j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/20170212214756.jpg" alt="f:id:alfe1025:20170212214756j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170212/20170212214756.jpg)
 
  
 

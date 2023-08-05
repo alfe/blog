@@ -15,7 +15,7 @@ Date: 2016-12-01T21:38:24+09:00
 
 写真を保存したいグループorヒトのページで、右上のボタンを押す
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201072253j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201072253.jpg" alt="f:id:alfe1025:20161201072253j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201072253.jpg)
 
  
 
@@ -25,7 +25,7 @@ Date: 2016-12-01T21:38:24+09:00
 
 「写真」を押す
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201072303j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201072303.jpg" alt="f:id:alfe1025:20161201072303j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201072303.jpg)
 
  
 
@@ -37,7 +37,7 @@ Date: 2016-12-01T21:38:24+09:00
 
 右下の「保存」を押す
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201212707p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201212707.png" alt="f:id:alfe1025:20161201212707p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201212707.png)
 
  
 
@@ -47,7 +47,7 @@ Date: 2016-12-01T21:38:24+09:00
 
 右上チェックボックスを押す
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201213103j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213103.jpg" alt="f:id:alfe1025:20161201213103j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213103.jpg)
 
  
 
@@ -57,7 +57,7 @@ Date: 2016-12-01T21:38:24+09:00
 
 すると こうなるので、右下の「端末」を押す
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201213206p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213206.png" alt="f:id:alfe1025:20161201213206p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213206.png)
 
  
 
@@ -67,7 +67,7 @@ Date: 2016-12-01T21:38:24+09:00
 
 「写真を保存しました」と出たら、スマホをパソコンに接続
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201213248p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213248.png" alt="f:id:alfe1025:20161201213248p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213248.png)
 
  
 
@@ -79,13 +79,13 @@ Date: 2016-12-01T21:38:24+09:00
 
 PCを開けて、スマホを探して開ける。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201213428j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213428.jpg" alt="f:id:alfe1025:20161201213428j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213428.jpg)
 
  
 
 Picturesを頑張って探して開ける
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201213549j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213549.jpg" alt="f:id:alfe1025:20161201213549j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213549.jpg)
 
  
 
@@ -93,13 +93,13 @@ Picturesを頑張って探して開ける
 
 LINEを開けると・・・
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201213543j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213543.jpg" alt="f:id:alfe1025:20161201213543j:plain" />.
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213543.jpg).
 
  
 
 LINEの画像が入ってるので、適当に移動してください
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201213648j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213648.jpg" alt="f:id:alfe1025:20161201213648j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201213648.jpg)
 
  
 

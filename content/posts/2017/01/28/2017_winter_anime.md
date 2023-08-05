@@ -15,7 +15,7 @@ Date: 2017-01-28T10:10:02+09:00
 ### 亜人ちゃんは語りたい
 
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170128093459p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170128/20170128093459.png" alt="f:id:alfe1025:20170128093459p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170128/20170128093459.png)
 
 亜人の特性を持った学生のほのぼのスクールライフ。
 
@@ -30,7 +30,7 @@ Date: 2017-01-28T10:10:02+09:00
 ### この素晴らしい世界に祝福を！2
 
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170128093634j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170128/20170128093634.jpg" alt="f:id:alfe1025:20170128093634j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170128/20170128093634.jpg)
 
 このすば！
 
@@ -45,7 +45,7 @@ Date: 2017-01-28T10:10:02+09:00
 ### 小林さんちのメイドラゴン
 
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170128094803j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170128/20170128094803.jpg" alt="f:id:alfe1025:20170128094803j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170128/20170128094803.jpg)
 
 京アニの日常系。
 

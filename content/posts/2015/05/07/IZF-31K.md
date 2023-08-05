@@ -49,7 +49,7 @@ Date: 2015-05-07T21:24:11+09:00
 
 ぽちる<br /><br />
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150502125834j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150502/20150502125834.jpg" alt="f:id:alfe1025:20150502125834j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150502/20150502125834.jpg)
 
 <br /><br />
 
@@ -61,7 +61,7 @@ Date: 2015-05-07T21:24:11+09:00
 
 持ち手はエルゴノミクスデザイン（人間工学に基づいたデザイン）の様子。
 
- <img class="hatena-fotolife" title="f:id:alfe1025:20150507213211j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150507/20150507213211.jpg" alt="f:id:alfe1025:20150507213211j:plain" width="393" />
+ ![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150507/20150507213211.jpg)
 
  
 

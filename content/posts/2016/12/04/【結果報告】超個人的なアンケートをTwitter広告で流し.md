@@ -19,7 +19,7 @@ Twitter広告に3ドルの広告を投げて、アンケートに協力しても
 
  簡単にまとめると、部屋に置くフロアライトをどれにするかアンケートをTwitter広告に流してみました。 
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201202754j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201202754.jpg" alt="f:id:alfe1025:20161201202754j:plain" width="680" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201202754.jpg)
 
  
 
@@ -45,7 +45,7 @@ Twitter広告に3ドルの広告を投げて、アンケートに協力しても
 
 広告費使い切った数分後（2016年12月3日、‏0:01:16）
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204094408p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204094408.png" alt="f:id:alfe1025:20161204094408p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204094408.png)
 
  
 
@@ -53,11 +53,11 @@ Twitter広告に3ドルの広告を投げて、アンケートに協力しても
 
 広告（プロモーション）で流れる→RTされる→オーガニック（普通のTL）で流れる、みたいな流れでオーガニックも増えているっぽい
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204094515p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204094515.png" alt="f:id:alfe1025:20161204094515p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204094515.png)
 
 インプレッションの内訳（2016年12月3日、‏7:51:40）
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204095007p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204095007.png" alt="f:id:alfe1025:20161204095007p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204095007.png)
 
  
 
@@ -71,18 +71,18 @@ Twitter広告に3ドルの広告を投げて、アンケートに協力しても
 
 さらに次の日（2016年12月4日、‏9:51:35）
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204095205p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204095205.png" alt="f:id:alfe1025:20161204095205p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204095205.png)
 
 インプレッションの内訳（2016年12月3日、‏7:51:40）
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204095109p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204095109.png" alt="f:id:alfe1025:20161204095109p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204095109.png)
 
 ここでもまだプロモーションの効果出てる・・・？
 
  
 <h4>広告のエンゲージメントは80％超</h4>
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204094919j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204094919.jpg" alt="f:id:alfe1025:20161204094919j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204094919.jpg)
 
 Twitter広告について、それほど詳しいわけではないので良いのか悪いのか判別しかねるが、みんな意外と広告クリックするんだなという印象。
 
@@ -120,7 +120,7 @@ Twitter広告はキャンペーンの目的によって課金基準が選択で�
 
 日本で絞った。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204101513p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204101513.png" alt="f:id:alfe1025:20161204101513p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204101513.png)
 
  
 <h4>フォロワーターゲティング</h4>
@@ -131,14 +131,14 @@ Twitter広告はキャンペーンの目的によって課金基準が選択で�
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204102513p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204102513.png" alt="f:id:alfe1025:20161204102513p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204102513.png)
 
  
 <h4>予算</h4>
 
 ドル単位。3ドルは一瞬。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204102849p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204102849.png" alt="f:id:alfe1025:20161204102849p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204102849.png)
 
  
 
@@ -157,13 +157,13 @@ Twitter広告はキャンペーンの目的によって課金基準が選択で�
 
 ③に票が集まって、
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161202072804p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202072804.png" alt="f:id:alfe1025:20161202072804p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202072804.png)
 
  
 
 ぽちった。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161204105549p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204105549.png" alt="f:id:alfe1025:20161204105549p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161204/20161204105549.png)
 
  
 

@@ -10,7 +10,7 @@ Date: 2015-01-12T18:49:58+09:00
 
 と思った人向け記事
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150112185100p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112185100.png" alt="f:id:alfe1025:20150112185100p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112185100.png)
 
  
 
@@ -61,26 +61,26 @@ Date: 2015-01-12T18:49:58+09:00
 
 キャプチャしたい部分を選択
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150112181814p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112181814.png" alt="f:id:alfe1025:20150112181814p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112181814.png)
 
  
 
 Recordの赤い●をクリックして録画。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150112181901p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112181901.png" alt="f:id:alfe1025:20150112181901p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112181901.png)
 
  
 
 そして保存。オレンジアイコン一番左のボタンです。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150112182550p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182550.png" alt="f:id:alfe1025:20150112182550p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182550.png)
 <h4>保存した動画の変換</h4>
 
 XMedia Recodeを開きます。
 
 そして、左下を「カスタム」「WMV」「wmv」に設定
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150112182120p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182120.png" alt="f:id:alfe1025:20150112182120p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182120.png)
 
  
 
@@ -88,7 +88,7 @@ XMedia Recodeを開きます。
 
 そのあと、「リストに追加」、エンコードの順にクリックすると、パワポで再生できるファイルが作られます。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150112182632p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182632.png" alt="f:id:alfe1025:20150112182632p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112182632.png)
 
  
 <h4>パワーポイントに貼りつける</h4>
@@ -99,7 +99,7 @@ XMedia Recodeを開きます。
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150112184925p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112184925.png" alt="f:id:alfe1025:20150112184925p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150112/20150112184925.png)
 
  
 

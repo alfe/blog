@@ -10,17 +10,6 @@ Date: 2014-12-11T13:22:29+09:00
 没入感ってなにさ？ という疑問。だれかおしえてください。
 
 
-
-[![](https://farm9.staticflickr.com/8149/7119907039_2b0db0d897.jpg)](https://www.flickr.com/photos/44124348109@N01/7119907039)
-
-[photo by jurvetson](https://www.flickr.com/photos/44124348109@N01/7119907039)
-
-
-
-<!-- more -->
-
-
-
 VRの勉強をちょっとしている。バーチャルリアリティ、略してVRですね。
 
 そもそもVRとは何かというと、

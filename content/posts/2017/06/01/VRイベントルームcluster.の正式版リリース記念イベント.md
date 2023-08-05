@@ -50,7 +50,7 @@ Twitterで登録してから、Windows用インストーラーをダウンロー
 
 入ってみるとこんな感じ。まばらながらそこそこの人数。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170601083416p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170601/20170601083416.png" alt="f:id:alfe1025:20170601083416p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170601/20170601083416.png)
 
   
 
@@ -72,13 +72,13 @@ Twitterで登録してから、Windows用インストーラーをダウンロー
 
 イベント概要説明
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170601084159p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170601/20170601084159.png" alt="f:id:alfe1025:20170601084159p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170601/20170601084159.png)
 
  
 
 モニター横にコメント欄がある
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170601084312p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170601/20170601084312.png" alt="f:id:alfe1025:20170601084312p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170601/20170601084312.png)
 
  
 

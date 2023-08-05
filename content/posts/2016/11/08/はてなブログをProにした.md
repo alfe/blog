@@ -11,6 +11,6 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161108/201611
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161108204652p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161108/20161108204652.png" alt="f:id:alfe1025:20161108204652p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161108/20161108204652.png)
 
  

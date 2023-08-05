@@ -13,7 +13,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/201612
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201202754j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201202754.jpg" alt="f:id:alfe1025:20161201202754j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201202754.jpg)
 
  
 
@@ -25,7 +25,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/201612
  
 <h4>１、和紙っぽいやつ</h4>
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161202072713p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202072713.png" alt="f:id:alfe1025:20161202072713p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202072713.png)
 
  
 <div class="freezed">
@@ -46,7 +46,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/201612
  
 <h4> ２、スリムなの</h4>
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161202072725p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202072725.png" alt="f:id:alfe1025:20161202072725p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202072725.png)
 <div class="freezed">
 <div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B00XOH4TNK/ab1025-22/"><img class="external-link-detail-image" title="簡単組み立て 高さが選べる ブラック アッパーライト 5段階調整" src="https://ecx.images-amazon.com/images/I/21soiBlL1DL._SL160_.jpg" alt="簡単組み立て 高さが選べる ブラック アッパーライト 5段階調整" /></a>
 <div class="external-link-detail-info">
@@ -65,7 +65,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/201612
 <h4>３、先っぽ曲がるやつ</h4>
 <h4>４、裸電球</h4>
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161202072804p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202072804.png" alt="f:id:alfe1025:20161202072804p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202072804.png)
 <div class="freezed">
 <div class="external-link-detail"><a href="https://www.amazon.co.jp/exec/obidos/ASIN/B005F5I0YI/ab1025-22/"><img class="external-link-detail-image" title="LERSTA フロア読書ランプ アルミニウム 00110904 組立式 イケア IKEA" src="https://ecx.images-amazon.com/images/I/316OVgIYWeL._SL160_.jpg" alt="LERSTA フロア読書ランプ アルミニウム 00110904 組立式 イケア IKEA" /></a>
 <div class="external-link-detail-info">
@@ -108,7 +108,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/201612
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161202074610p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202074610.png" alt="f:id:alfe1025:20161202074610p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202074610.png)
 
  
 
@@ -117,7 +117,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/201612
 ###  予算
 
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161202074622p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202074622.png" alt="f:id:alfe1025:20161202074622p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161202/20161202074622.png)
 
  
 

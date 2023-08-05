@@ -60,7 +60,7 @@ USBメモリにターミナルが入る時代。
 
 私は見た目すっきりが好きなので消した。ショートカットキーでタブ切り替えできるし。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20160731123937p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20160731/20160731123937.png" alt="f:id:alfe1025:20160731123937p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20160731/20160731123937.png)
 
  
 

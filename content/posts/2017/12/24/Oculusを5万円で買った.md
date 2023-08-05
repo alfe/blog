@@ -11,7 +11,7 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20171218/201712
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20171218211514j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20171218/20171218211514.jpg" alt="f:id:alfe1025:20171218211514j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20171218/20171218211514.jpg)
 
  
 

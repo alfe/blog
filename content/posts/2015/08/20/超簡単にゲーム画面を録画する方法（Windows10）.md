@@ -36,7 +36,7 @@ Date: 2015-08-20T22:20:22+09:00
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150820221658p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150820/20150820221658.png" alt="f:id:alfe1025:20150820221658p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150820/20150820221658.png)
 
 <br />こんなメニューが出てきます<br />ここで、ゲーム画面のスクリーンショットとかプレイ動画の撮影ができるんですね
 
@@ -44,7 +44,7 @@ Date: 2015-08-20T22:20:22+09:00
 
 メニューの赤丸
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150820221846p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150820/20150820221846.png" alt="f:id:alfe1025:20150820221846p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150820/20150820221846.png)
 
 <br />もしくは<br /><strong>[windowsキー]＋[Alt]＋[R]</strong>
 
@@ -52,7 +52,7 @@ Date: 2015-08-20T22:20:22+09:00
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150820221903p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150820/20150820221903.png" alt="f:id:alfe1025:20150820221903p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150820/20150820221903.png)
 
 <br />こんなのが右上に表示されて録画が始まります。
 

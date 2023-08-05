@@ -58,12 +58,12 @@ Wi-fiでつなげていれば、スマホに保存しているときとそれほ
 
 動画はYoutube見るのと同じ感覚。というかYoutubeの部品をそのまま使ってる。<br />ブルーレイ品質の動画をアップロードしていても、スマホで見るときはスマホ用の画質に抑えてくれる。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150709122328p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150709/20150709122328.png" alt="f:id:alfe1025:20150709122328p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150709/20150709122328.png)
 <h4><br />◆ 自動アルバム化</h4>
 
 時間と場所を写真から読み取って、見栄えのいい写真を見繕ってアルバムを作ってくれるみたい。<br />どうやって作ってるんだろ。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150709122254p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150709/20150709122254.png" alt="f:id:alfe1025:20150709122254p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150709/20150709122254.png)
 
  
 

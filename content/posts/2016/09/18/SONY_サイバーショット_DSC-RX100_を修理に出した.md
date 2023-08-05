@@ -62,7 +62,7 @@ Web見積もりが15,000円＋税と来てたのでほぼ同額。
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20160918134108j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20160918/20160918134108.jpg" alt="f:id:alfe1025:20160918134108j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20160918/20160918134108.jpg)
 
 修理代金は代引きで支払いました。
 
@@ -70,7 +70,7 @@ Web見積もりが15,000円＋税と来てたのでほぼ同額。
 
 あと、交換した部品が同梱されてました。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20160918134149j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20160918/20160918134149.jpg" alt="f:id:alfe1025:20160918134149j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20160918/20160918134149.jpg)
 
 修理で交換した部品もくれるって珍しい気がする。
 

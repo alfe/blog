@@ -15,25 +15,25 @@ IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/201706
 
 そして、「システム」を開く。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170606065924p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/20170606065924.png" alt="f:id:alfe1025:20170606065924p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/20170606065924.png)
 
  
 
 右側をスクロールすると、夜間モードというのがある
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170606065948p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/20170606065948.png" alt="f:id:alfe1025:20170606065948p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/20170606065948.png)
 
  
 
 夜間モードをオンにして、「夜間モード設定」をクリック。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170606070019p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/20170606070019.png" alt="f:id:alfe1025:20170606070019p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/20170606070019.png)
 
  
 
 あとは色温度とか、赤っぽい画面を何時から表示するかのスケジュールを設定したり。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20170606070231p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/20170606070231.png" alt="f:id:alfe1025:20170606070231p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20170606/20170606070231.png)
 
  
 

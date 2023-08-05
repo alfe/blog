@@ -3,11 +3,12 @@ Title: PAVLOKを購入して10か月経ったのでレビュー
 Category:
 - レビュー
 Date: 2016-10-29T19:21:20+09:00
+IMAGE: /img/2016/10/29/20010311234020.jpg
 ---
 
 PAVLOKを購入して10か月くらい経ったので、ちゃんとレビューを書こうと思います。
 
-![image](https://cdn-ak2.f.st-hatena.com/images/fotolife/a/alfe1025/20010311/20010311234020.jpg)
+![image](/img/2016/10/29/20010311234020.jpg)
 
 ### ◆ PAVLOKとは
 
@@ -16,7 +17,7 @@ PAVLOKを購入して10か月くらい経ったので、ちゃんとレビュー
 
  
 
-公式URL： <a href="https://pavlok.com/">https://pavlok.com/</a>
+公式URL： [https://pavlok.com/](https://pavlok.com/)
 
  
 #### ◆ 何ができるの？
@@ -78,7 +79,7 @@ PAVLOKはパブロフの条件付けを人間に対して電撃で行おうと�
 
 APIがあるよ。
 
-<a href="https://pavlok-mvp.herokuapp.com/docs/">https://pavlok-mvp.herokuapp.com/docs/</a>
+[Pavlok API](https://pavlok-mvp.herokuapp.com/docs/)
 
 WebAPI→PAVLOKサーバ→スマホ→PAVLOKデバイス という少し遠回りなルートを辿りますが、ログイン認証してURL叩くだけなので、アプリも創りやすいと思います。
 
@@ -107,7 +108,7 @@ WebAPI→PAVLOKサーバ→スマホ→PAVLOKデバイス という少し遠回�
 
 公式の販売ページ（国際便に抵抗がなければ）
 
-<a href="https://buy.pavlok.com/products/japanese-order-a-pavlok-wristband">Japanese Order a Pavlok + Wristband</a>
+[Japanese Order a Pavlok + Wristband](https://buy.pavlok.com/products/japanese-order-a-pavlok-wristband)
 
  
 
@@ -143,7 +144,7 @@ PAVLOK公式が「ほとんどの日本人って十分な睡眠とれてない�
 
 あと、目覚まし専用のPAVLOK廉価版も近いうちに発売するっぽい。
 
-<a href="https://buy.pavlok.com/products/shocking-alarm-clock">Pre-order The Shock Clock – Never Hit Snooze Again</a>
+[Pre-order The Shock Clock – Never Hit Snooze Again](https://buy.pavlok.com/products/shocking-alarm-clock)
 
  
 

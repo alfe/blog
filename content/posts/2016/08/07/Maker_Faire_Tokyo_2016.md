@@ -67,7 +67,7 @@ Maker Faire Tokyo 2016の1日目に行ってきました。
 
 動く様子はこんな感じ。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20160807100941g:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20160807/20160807100941.gif" alt="f:id:alfe1025:20160807100941g:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20160807/20160807100941.gif)
 
 仕組み的としては、加湿器にフェルトをかぶせて、
 

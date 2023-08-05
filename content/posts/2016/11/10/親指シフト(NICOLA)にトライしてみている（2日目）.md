@@ -40,7 +40,7 @@ IMAGE: /img/2016/11/10/img.jpg
 
 具体的にはこんなキー配列。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161110221020p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161110/20161110221020.png" alt="f:id:alfe1025:20161110221020p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161110/20161110221020.png)
 
 <a href="https://ja.wikipedia.org/wiki/%E8%A6%AA%E6%8C%87%E3%82%B7%E3%83%95%E3%83%88">親指シフト - Wikipedia</a>
 

@@ -18,6 +18,7 @@
     "ja-technical-writing/ja-no-weak-phrase": false,
     "ja-technical-writing/ja-no-successive-word": false,
     "ja-technical-writing/sentence-length": false,
+    "ja-spacing/ja-no-space-between-full-width": false,
     "preset-japanese": true
   }
 }

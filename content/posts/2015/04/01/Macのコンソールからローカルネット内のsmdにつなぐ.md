@@ -6,13 +6,7 @@ Date: 2015-04-01T22:22:17+09:00
 ---
 
 
-忘備録的なアレ。
-
-<a class="http-image" href="https://www.flickr.com/photos/78137955@N00/477844434" target="_blank"><img class="http-image" src="https://farm1.staticflickr.com/199/477844434_7d6d15e457.jpg" alt="https://www.flickr.com/photos/78137955@N00/477844434" width="360" /></a>
-
-<a href="https://www.flickr.com/photos/78137955@N00/477844434">photo by Tom Carmony</a>
-
- 
+忘備録的なアレ。 
 
 コンソールにこんな感じで打てばOK 
 <blockquote>

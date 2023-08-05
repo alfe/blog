@@ -5,11 +5,6 @@ Category:
 Date: 2015-05-01T15:59:31+09:00
 ---
 
-
-<a class="http-image" href="https://www.flickr.com/photos/76657755@N04/8125987596" target="_blank"><img class="http-image" src="https://farm9.staticflickr.com/8463/8125987596_6ed372fd08.jpg" alt="https://www.flickr.com/photos/76657755@N04/8125987596" width="398" /></a>
-
-<a href="https://www.flickr.com/photos/76657755@N04/8125987596">photo by Tax Credits</a>
-
 <strong><strong> </strong></strong>
 
 スーツ着ないまま就活終わった。

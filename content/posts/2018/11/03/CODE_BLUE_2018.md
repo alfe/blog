@@ -190,7 +190,7 @@ Microsoftのコンタクトページやトランプ大統領のページにもFa
 ### 感想
 
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20181101120827j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20181101/20181101120827.jpg" alt="f:id:alfe1025:20181101120827j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20181101/20181101120827.jpg)
 
 今回 CODE BLUE初参加だったんですが、やばい人がやばいほどいる、みたいな語彙力皆無な感想しか出てきませんでした。
 

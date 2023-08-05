@@ -12,7 +12,7 @@ Googleフォームにに申し込み欄つくって<br />「申し込みあり�
 
  
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150715171526p:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150715/20150715171526.png" alt="f:id:alfe1025:20150715171526p:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150715/20150715171526.png)
 
 ### やりかた
 

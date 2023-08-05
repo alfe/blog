@@ -10,7 +10,7 @@ Date: 2015-06-28T11:51:36+09:00
 
 めくれて、はがれて、ぼろぼろ
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150628105409j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150628/20150628105409.jpg" alt="f:id:alfe1025:20150628105409j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150628/20150628105409.jpg)
 
  
 
@@ -73,13 +73,13 @@ HP-A900Xのイヤーパッドでも何とか使えるという噂を入手
 
 届いた
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150627202943j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150627/20150627202943.jpg" alt="f:id:alfe1025:20150627202943j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150627/20150627202943.jpg)
 
  
 
 こんな感じのが ２つ入ってる
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150627203015j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150627/20150627203015.jpg" alt="f:id:alfe1025:20150627203015j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150627/20150627203015.jpg)
 
  
 
@@ -87,7 +87,7 @@ HP-A900Xのイヤーパッドでも何とか使えるという噂を入手
 
 説明書見ながら装着（といっても はめ込むだけ
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150627203147j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150627/20150627203147.jpg" alt="f:id:alfe1025:20150627203147j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150627/20150627203147.jpg)
 
 何の苦労もなくスポッとはいる。
 
@@ -95,7 +95,7 @@ HP-A900Xのイヤーパッドでも何とか使えるという噂を入手
 
 両耳とも入れた
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150627203631j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150627/20150627203631.jpg" alt="f:id:alfe1025:20150627203631j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150627/20150627203631.jpg)
 
  
 

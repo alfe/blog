@@ -8,7 +8,7 @@ Date: 2015-06-22T11:44:46+09:00
 
 <br />PCゲームのセーブデータをショートカット的なやつ を使って複数のPCで共有します。
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20150620125500j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150620/20150620125500.jpg" alt="f:id:alfe1025:20150620125500j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20150620/20150620125500.jpg)
 
 <br />しかし、普通のショートカットだと、ゲームのセーブデータのようなプログラムから読み込むファイルはうまく動作してくれないのです。
 

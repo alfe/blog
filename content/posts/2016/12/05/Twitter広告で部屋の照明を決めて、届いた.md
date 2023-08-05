@@ -35,7 +35,7 @@ IMAGE: /img/2016/12/05/img.jpg
 ### で、こうなったよ
 
 
-<img class="hatena-fotolife" title="f:id:alfe1025:20161201202754j:plain" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201202754.jpg" alt="f:id:alfe1025:20161201202754j:plain" />
+![img](https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20161201/20161201202754.jpg)
 
 <img class="magnifiable" src="/img/2016/12/05/img.jpg" alt="" />
 
