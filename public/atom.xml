@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2023-07-30T01:55:23.173Z</updated>
+    <updated>2023-08-31T09:03:55.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,20 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2023年08月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2023/08/31/2023%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2023/08/31/2023%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2023-08-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+博物館とコレクション管理
+
+博物館のコレクションを管理し活かしていくためにどうしていけばいいのか、をテーマにした寄稿集。
+令和元年度の調査で6割の博物館で収蔵庫が満杯状態、半分の博物館は資料台帳の作成が未完了という状態の様子。
+展示機能が編重され人手も足りず、収集や保管・調査研究への手が回らないという博物館も多いよう。
+コレクションを管理するための考え方として、英国の博物館ドキュメン]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年07月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2023/07/31/2023%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -129,18 +143,5 @@ Embyとは
 
 ちかごろActivityPubやFediverseの話が盛んになってきています。
 Twitterがあやしい感じになってきたので分散型SNSにいこう！や、あっちのSNSはス]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年02月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2023/02/28/2023%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2023-02-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いつもの。
-
-ヒトは＜家畜化＞して進化した　
-
-自己家畜化したヒトと家畜化した生物に起きる変化について。良書。
-前半では犬とキツネなどの家畜化を通して、家畜化が協力行動やコミュニケーションといった認知能力の点で有利になること、自制能力がすぐれ、寿命が長くなり、ストレスホルモンの濃度を下げることが示される。
-後半では、ヒトは「集団内の見知らぬ人」に対して友好的に接するが他集団に対しては攻撃的になるこ]]></summary>
     </entry>
 </feed>
