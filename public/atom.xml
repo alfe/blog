@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2023-09-30T09:30:47.635Z</updated>
+    <updated>2023-10-31T09:51:18.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,23 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2023年10月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2023/10/31/2023%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2023/10/31/2023%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2023-10-31T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+「電気」という物理現象の不思議な科学　
+
+電気に関わるものを幅広く見ていく本。
+電気と電子のような基礎部分から始まり、電子殻構造や化学結合、雷、生物電気、磁気、これからの電池と発電までと非常に幅広く扱っている。
+物理・生物・科学にまたがる幅広い分野を扱いながらも、それぞれわかりやすく説明されている。
+ニッポンの氷河時代
+
+日本に残る寒冷化の痕跡を写真とともに説明、紹介していく本。
+大]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年09月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2023/09/30/2023%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -131,19 +148,5 @@ Embyとは
 自宅のメディアファイルをストリーミングするためのオープンソースのメディアサーバーアプリケーションです。自宅のネットワーク内でメディアファイルの共有サービスを展開できます。
 <p>今は亡きGoogle Play Musicみたいな使い方ができるわけです。つまり、ブラウザやスマホアプリで音楽を流せる。
 それと、音楽だけで]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年03月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2023/03/31/2023%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2023/03/31/2023%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2023-03-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いつもの。Twitterに読了投稿するのやめちゃったけれども、手元書き残しでなんとかなりそう。
-今月は宇宙本が多め。H3ロケットの影響ですかね？
-
-宇宙の化学
-
-宇宙にはどういう物質が存在するのか、そしてどうやってそのことを知ったのか。
-都市ガスの炎をスペクトルで見るとどう見えるのかから始まり、スペクトルを使って宇宙の物質を特定する、ビックバンをどう知ったのか、電波望遠鏡で何を見てるのかなど。
-東]]></summary>
     </entry>
 </feed>
