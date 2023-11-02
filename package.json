@@ -1,7 +1,11 @@
 {
   "name": "blog",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "blog by alfe",
   "private": true,
+  "author": "alfe (https://github.com/alfe/)",
+  "homepage": "https://blog.alfebelow.com/",
+  "license": "UNLICENSED",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -60,5 +64,6 @@
     "textlint-rule-preset-ja-technical-writing": "^8.0.0",
     "textlint-rule-preset-japanese": "^8.0.0",
     "typescript": "^5.2.2"
-  }
+  },
+  "packageManager": "yarn@4.0.1"
 }
