@@ -1,9 +1,9 @@
 import fs from "fs"
-import Layout from "../../components/Layout"
-import PostLinkItem from "../../components/PostLinkItem"
-import Pager from "../../components/Pager"
-import OgpHeader from "../../components/OgpHeader"
-import { listContentFiles, readContentFiles } from "../../lib/content-loader"
+import Layout from "components/Layout"
+import PostLinkItem from "components/PostLinkItem"
+import Pager from "components/Pager"
+import OgpHeader from "components/OgpHeader"
+import { listContentFiles, readContentFiles } from "lib/content-loader"
 
 const COUNT_PER_PAGE = 10
 

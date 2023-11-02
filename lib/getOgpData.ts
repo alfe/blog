@@ -1,9 +1,20 @@
 import openGraphScraper from 'open-graph-scraper';
 
-export type OgpData = any;
-// OpenGraphProperties & {
-//   ogImage?: OpenGraphImage | OpenGraphImage[] | undefined;
-// };
+export type OgpData = {
+  twitterSite: string;
+  twitterCard: string;
+  twitterTitle: string;
+  twitterDescription: string;
+  ogSiteName: string;
+  ogType: string;
+  ogTitle: string;
+  ogUrl: string;
+  ogDescription: string;
+  ogImage: any;
+  twitterImage: any;
+  requestUrl: string;
+  success: boolean;
+};
 
 const getOgpData = async (floatingUrls: string[]): Promise<OgpData[]> => {
   const ogpDatas: OgpData[] = [];
@@ -19,7 +30,7 @@ const getOgpData = async (floatingUrls: string[]): Promise<OgpData[]> => {
             return;
           }
           // OGP によるデータ取得が成功した場合
-          ogpDatas.push(data.result);
+          ogpDatas.push(data.result as OgpData);
         })
         .catch((error) => {
           // error を throw するとビルドできないため、コンソールに出力して return する

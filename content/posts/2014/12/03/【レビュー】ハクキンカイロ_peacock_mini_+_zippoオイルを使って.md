@@ -31,7 +31,8 @@ Date: 2014-12-03T14:47:51+09:00
 
 13倍って何だ。ちょっとよくわかんないですね。
 
-[asin:B000FQN97A:detail]
+[https://www.amazon.co.jp/B000FQN97A](https://www.amazon.co.jp/B000FQN97A)
+
 初期コストは使い捨てのほうがもちろん安い。しかし、使い捨てカイロ13個分の熱量。
 
 いまは服2枚(シャツ・下着)の上から腰に当てるように装着しているのですが、椅子に座っているときとかには、たまにずらさないと熱く感じるほど。
@@ -54,11 +55,14 @@ Date: 2014-12-03T14:47:51+09:00
 
 掲示板だと、この辺がおすすめされてます。
 
-[asin:B005M20QGY:detail]
+[https://www.amazon.co.jp/B005M20QGY](https://www.amazon.co.jp/B005M20QGY)
 
-[asin:B004K77FH0:detail]
 
-[asin:B000K2U3JG:detail]
+[https://www.amazon.co.jp/B004K77FH0](https://www.amazon.co.jp/B004K77FH0)
+
+
+[https://www.amazon.co.jp/B000K2U3JG](https://www.amazon.co.jp/B000K2U3JG)
+
 
 専用オイルのほうがzippoより安いのですが、あまり売ってない。送料とか考えると近くの薬局でzippo買うほうが安いんじゃないかな。
 
@@ -81,7 +85,8 @@ Date: 2014-12-03T14:47:51+09:00
 Loftや東急ハンズでも売ってるらしいです。私はアマゾンでぽちりました。
 
 
-[asin:B00N4FDAPA:detail]
+[https://www.amazon.co.jp/B00N4FDAPA](https://www.amazon.co.jp/B00N4FDAPA)
+
 
 
 

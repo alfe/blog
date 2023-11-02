@@ -33,7 +33,7 @@ OSSで公開されている、サーバの脆弱性をスキャンするVulsのL
 おいしかったです
 
 
-## 招待講演 IPAテクニカルウォッチ「脆弱性対策の効果的な進め方」
+### 招待講演 IPAテクニカルウォッチ「脆弱性対策の効果的な進め方」
 
 
 <span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144100.jpg" itemprop="image"></span>
@@ -58,26 +58,26 @@ IPA、基本情報技術者試験とかやってる機構ですね。
 見たことあるおじさんイラストが出てきて、「おぉ、IPAだ」って変なところで感動した。
 
 
-## 乾杯
+### 乾杯
 
 <span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144120.jpg" itemprop="image"></span>
 
 
 
-## 基調講演
+### 基調講演
 
 <span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144130.jpg" itemprop="image"></span>
 
 * 使ってる人ロゴをvuls.ioにのせてね
 
-### Vuls概要
+#### Vuls概要
 
 * 自分のサーバに関係のある脆弱性だけ取れるのがVulsのいいところ
 * OVALが検知の肝
 * 攻撃コードも公開されているかわかる
 * wordpressも検知できるようになった(versionv0.7.0)
 
-### 基調講演中にv0.8.0リリース
+#### 基調講演中にv0.8.0リリース
 OSSのリリース手順をリアルタイムで  
 といってもタグ打つだけ  
 
@@ -96,7 +96,7 @@ v0.8.0でできるようになったこととして
 
 
 
-# スポンサーLT
+### スポンサーLT
 
 <span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144140.jpg" itemprop="image"></span>
 ビアスポンサー
@@ -115,7 +115,7 @@ DMMはOSSを支援するぞ！ とのこと。期待。
 
 なぜかスポンサーLTで時間が押す
 
-## Dockle
+### Dockle
 
 元記事  
 [https://qiita.com/tomoyamachi/items/2397457f5d516a1fbc85:embed:cite]
@@ -145,7 +145,7 @@ Vulsみたいに自分のコンテナに含まれる脆弱性をとれる
 
 
 
-## Wordpressの脆弱性をVulsで検知できるように！
+### Wordpressの脆弱性をVulsで検知できるように！
 
 [https://speakerdeck.com/rvirus0817/wordpressfalsecui-ruo-xing-wo-vulsdejian-zhi-dekiruyouni:embed:cite]
 
@@ -161,7 +161,7 @@ Vulsのバリューがさらに上がった。
 
 今回はWordpressスキャンのデモ を試して、エラーが出て終わってしまった。残念。
 
-## プロダクトセキュリティチーム立上げにおけるVulsの活用
+### プロダクトセキュリティチーム立上げにおけるVulsの活用
 
 [https://speakerdeck.com/okuken/using-vuls-in-product-security-team:embed:cite]
 
@@ -169,19 +169,19 @@ Vulsのバリューがさらに上がった。
 
 セキュリティどこから始めれば・・・という人の参考になりそう
 
-## 脆弱性トリアージの考え方
+### 脆弱性トリアージの考え方
 
 脆弱性全部の対策はできないのだから、トリアージを行ってリスクに見合った対策が大事  
 対応する/しないの検討基準とどれに対処するのか検討する基準をどう決めていこうかという話
 
-## Vulsを用いた脆弱性スキャンと自動適用の提案
+### Vulsを用いた脆弱性スキャンと自動適用の提案
 
 テストとかが整っていれば脆弱性発見→自動アップデートができるのでは？と試した話  
 まだWIPとのこと
 
 （この辺から画面がおかしくうなる）
 
-## Vulsクラウドサービスのご提案
+### Vulsクラウドサービスのご提案
 
 [https://vuls.biz:embed:cite]
 
@@ -196,7 +196,7 @@ AWSの設定をすると、ブラウザ上からSSM経由でソフトウェア�
 
 話している途中からモニタが消え始め、アタックチャンスみたいになった
 
-## China Vuls
+### China Vuls
 
 [https://www.slideshare.net/jkudo/vuls5:embed:cite]
 
@@ -208,11 +208,11 @@ ChinaでVulsスキャンしてみるとグレートファイアウォールが�
 <span><img class="magnifiable" src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20010502/20010502144210.jpg" itemprop="image"></span>
 アタックチャンスも継続
 
-## クロージング
+### クロージング
 
 記念撮影の写真がそのうちどこかに上がるはず。
 
-# 以上、レポでした
+### 以上、レポでした
 
 お疲れ様でした！！！
 

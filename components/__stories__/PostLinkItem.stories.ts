@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import PostLinkItem from './PostLinkItem';
+import PostLinkItem from '../PostLinkItem';
 
 const meta = {
   title: 'component/PostLinkItem',

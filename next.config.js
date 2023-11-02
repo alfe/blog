@@ -2,6 +2,9 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  experimental: {
+    largePageDataBytes: 512 * 100000,
+  },
   images: {
     remotePatterns: [
       {
@@ -15,6 +18,10 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname:'lh3.googleusercontent.com',
+      },
+      {
+        protocol: 'https',
+        hostname:'m.media-amazon.com',
       },
       {
         protocol: 'https',

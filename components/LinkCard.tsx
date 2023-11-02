@@ -1,92 +1,35 @@
-import Image from "next/image";
+import { OgpData } from "lib/getOgpData";
+import { AmznData } from "lib/getAmazonLinkInfos";
+import OgpCard from "./OgpCard";
+import AmznCard from "./AmznCard";
 
 type LinkCardProps = {
   href: string | null;
-  children: string[] | null;
-  ogpDatas?: {
-    twitterSite: string;
-    twitterCard: string;
-    twitterTitle: string;
-    twitterDescription: string;
-    ogSiteName: string;
-    ogType: string;
-    ogTitle: string;
-    ogUrl: string;
-    ogDescription: string;
-    ogImage: {
-      url: string;
-      width: string;
-      height: string;
-      type: null;
-    };
-    twitterImage: any;
-    requestUrl: string;
-    success: boolean;
-  }[];
+  children: string | null;
+  ogpDatas?: OgpData[];
+  amznData?: AmznData[];
 };
 const LinkCard = (props: LinkCardProps) => {
-
   // 独立行のURL
-  if (props.href === props.children[0]) {
+  if (props.href === props.children) {
     const ogp = props.ogpDatas.find((ogpData) => props.href === ogpData.requestUrl)
-    if (!ogp) {
+    if (!!ogp) {
       return (
-        <a href={props.href} target="_blank" rel="noopener noreferrer">
-          {props.children[0]}
-        </a>
+        <OgpCard href={props.href} ogp={ogp} />
       );
     }
+
+    const amzn = (props.amznData || []).find((amznData) => props.href === amznData.url)
+    if (!!amzn) {
+      return (
+        <AmznCard href={props.href} amzn={amzn} />
+      );
+    }
+
     return (
-      <span>
-        <a className="ogp-link" href={props.href} target="_blank" rel="noopener noreferrer">
-        {!!ogp?.ogImage && (
-          <Image alt="ogp-link"
-            src={ogp.ogImage.url}
-            width={Number(ogp.ogImage.width)}
-            height={Number(ogp.ogImage.height)} />
-        )}
-        <cite>{ogp.ogTitle}</cite>
-        <br />
-        <small>{ogp.ogDescription}</small>
-        <br />
-        <small className="ogp-url">{props.children[0]}</small>
-        </a>
-        <style jsx>{`
-          .ogp-link {
-            display: block;
-            overflow: hidden;
-            border: 1px solid #CCC;
-            border-radius: 8px;
-            padding: 0;
-            margin: 2rem;
-            text-decoration: none;
-          }
-          .ogp-link:hover {
-            box-shadow: 4px 4px 8px rgb(0 0 0 / 10%);
-            transform: translate(-1px, -1px);
-          }
-          .ogp-link:active {
-            box-shadow: none;
-            transform: translate(1px, 1px);
-            backdrop-filter: brightness(0.95);
-            filter: brightness(0.95);
-          }
-          .ogp-link cite {
-            margin: 0 1rem;
-            color: #333;
-            font-weight: 600;
-            font-style: inherit;
-          }
-          .ogp-link small {
-            margin: 0 1rem;
-            color: #666;
-          }
-          .ogp-link .ogp-url {
-            margin: 0 1rem 0.5rem;
-            float: right;
-          }
-        `}</style>
-      </span>
+      <a href={props.href} target="_blank" rel="noopener noreferrer">
+        {props.children}
+      </a>
     );
   }
 
@@ -94,7 +37,7 @@ const LinkCard = (props: LinkCardProps) => {
   if (props.href.startsWith('/')) {
     return (
       <a href={props.href} target="_blank" rel="noopener noreferrer">
-        {props.children[0]}
+        {props.children}
       </a>
     );
   }
@@ -102,7 +45,7 @@ const LinkCard = (props: LinkCardProps) => {
   // 行内のURL
   return (
     <a href={props.href} target="_blank" rel="noopener noreferrer">
-      {props.children[0]}
+      {props.children}
     </a>
   );
 };
