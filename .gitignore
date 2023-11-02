@@ -43,3 +43,11 @@ public/sitemap.xml
 /test-results/
 /playwright-report/
 /playwright/.cache/
+
+# yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

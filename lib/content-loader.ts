@@ -7,7 +7,7 @@ import matter from "gray-matter"
 import { unified } from "unified"
 import rehypeReact from "rehype-react"
 import rehypeParse from "rehype-parse"
-import LinkCard from "../components/LinkCard"
+import LinkCard from "components/LinkCard"
 
 const DIR = path.join(process.cwd(), "content/posts")
 const EXTENSION = ".md"

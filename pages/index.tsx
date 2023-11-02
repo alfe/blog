@@ -1,9 +1,9 @@
 import fs from "fs"
 import Link from "next/link"
-import Layout from "../components/Layout"
-import OgpHeader from "../components/OgpHeader"
-import PostLinkItem from "../components/PostLinkItem"
-import { readContentFiles } from "../lib/content-loader"
+import Layout from "components/Layout"
+import OgpHeader from "components/OgpHeader"
+import PostLinkItem from "components/PostLinkItem"
+import { readContentFiles } from "lib/content-loader"
 
 type HomeProps = {
   posts: {

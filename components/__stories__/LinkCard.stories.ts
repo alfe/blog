@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import LinkCard from './LinkCard';
+import LinkCard from '../LinkCard';
 
 const meta = {
   title: 'component/LinkCard',

@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/experimental-ct-react';
-import PostFooter from './PostFooter';
+import PostFooter from '../PostFooter';
 
 test.use({ viewport: { width: 500, height: 500 } });
 

@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/experimental-ct-react';
-import Pager from './Pager';
+import Pager from '../Pager';
 
 test.use({ viewport: { width: 800, height: 500 } });
 

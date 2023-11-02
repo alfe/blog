@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/experimental-ct-react';
-import PostLinkItem from './PostLinkItem';
+import PostLinkItem from '../PostLinkItem';
 
 test.use({ viewport: { width: 800, height: 500 } });
 

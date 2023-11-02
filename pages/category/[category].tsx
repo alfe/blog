@@ -1,8 +1,8 @@
 import fs from "fs"
-import PostLinkItem from "../../components/PostLinkItem"
-import Layout from "../../components/Layout"
-import OgpHeader from "../../components/OgpHeader"
-import { readContentFiles } from "../../lib/content-loader"
+import PostLinkItem from "components/PostLinkItem"
+import Layout from "components/Layout"
+import OgpHeader from "components/OgpHeader"
+import { readContentFiles } from "lib/content-loader"
 
 type categoryProps = {
   posts: {

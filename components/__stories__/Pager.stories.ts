@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import Pager from './Pager';
+import Pager from '../Pager';
 
 const meta = {
   title: 'component/Pager',

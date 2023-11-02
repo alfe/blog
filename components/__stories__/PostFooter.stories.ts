@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react';
-import PostFooter from './PostFooter';
+import PostFooter from '../PostFooter';
 
 const meta = {
   title: 'component/PostFooter',

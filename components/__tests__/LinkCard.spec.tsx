@@ -1,6 +1,6 @@
 /* eslint-disable react/no-children-prop */
 import { test, expect } from '@playwright/experimental-ct-react';
-import LinkCard from './LinkCard';
+import LinkCard from '../LinkCard';
 
 test.use({ viewport: { width: 800, height: 500 } });
 
