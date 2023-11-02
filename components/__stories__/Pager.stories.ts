@@ -18,7 +18,7 @@ export const Default: StoryObj<typeof meta> = {
   }
 };
 
-export const page2nd: StoryObj<typeof meta> = {
+export const Page2nd: StoryObj<typeof meta> = {
   args: {
     total: 100,
     page: 2,
@@ -28,7 +28,7 @@ export const page2nd: StoryObj<typeof meta> = {
   }
 };
 
-export const page3rd: StoryObj<typeof meta> = {
+export const Page3rd: StoryObj<typeof meta> = {
   args: {
     total: 100,
     page: 3,

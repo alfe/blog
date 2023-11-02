@@ -1,4 +1,8 @@
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
 [build]
+  base = "./"
+  command = "yarn build"
   publish = ".next"
 
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
