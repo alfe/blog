@@ -11,7 +11,7 @@ export default meta;
 export const Default: StoryObj<typeof meta> = {
   args: {
     href: 'https://example.com',
-    children: ['https://example.com'],
+    children: 'https://example.com',
     ogpDatas: [],
   }
 };

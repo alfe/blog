@@ -8,7 +8,7 @@ test('should work', async ({ mount }) => {
   const component = await mount(
     <LinkCard
       href='https://example.com'
-      children={['https://example.com']}
+      children={'https://example.com'}
       ogpDatas={[]}
     />
   );
