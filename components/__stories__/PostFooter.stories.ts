@@ -23,7 +23,7 @@ export const Default: StoryObj<typeof meta> = {
   }
 };
 
-export const nextPage: StoryObj<typeof meta> = {
+export const NextPage: StoryObj<typeof meta> = {
   args: {
     nextPage: {
       title: 'Next Page',
@@ -33,7 +33,7 @@ export const nextPage: StoryObj<typeof meta> = {
   }
 };
 
-export const prevPage: StoryObj<typeof meta> = {
+export const PrevPage: StoryObj<typeof meta> = {
   args: {
     prevPage: {
       title: 'Previous Page',

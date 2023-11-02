@@ -1,3 +1,4 @@
+import { createElement } from "react";
 import path from "path"
 import { remark } from "remark"
 import remarkHtml from "remark-html"
@@ -10,7 +11,7 @@ import * as prod from 'react/jsx-runtime';
 import LinkCard from "components/LinkCard"
 
 // @ts-expect-error: the react types are missing.
-const production = { Fragment: prod.Fragment, jsx: prod.jsx, jsxs: prod.jsxs, createElement: prod.createElement };
+const production = { Fragment: prod.Fragment, jsx: prod.jsx, jsxs: prod.jsxs, createElement: createElement };
 
 const DIR = path.join(process.cwd(), "content/posts")
 const EXTENSION = ".md"

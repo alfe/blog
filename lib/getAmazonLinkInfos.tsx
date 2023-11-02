@@ -22,9 +22,9 @@ const getAmazonLinkInfos = async (amznUrls: string[]) => {
         
           try {
             const dom = new JSDOM(body)
-            const title: string = dom.window.document.querySelector('#productTitle').textContent || ''
-            const bylineInfo: string = dom.window.document.querySelector('#bylineInfo').textContent || ''
-            const imgUrl: string = dom.window.document.querySelector('#imgTagWrapperId img').attributes.src.textContent || ''
+            const title: string = dom.window.document.querySelector('#productTitle')?.textContent || ''
+            const bylineInfo: string = dom.window.document.querySelector('#bylineInfo')?.textContent || ''
+            const imgUrl: string = dom.window.document.querySelector('#imgTagWrapperId img')?.attributes?.src?.textContent || ''
             AmznData.push({
               title: title.replace('Amazon.co.jp: ', '').replace(': Kindleストア', '').replace(': 本', '').replace(' |本 | 通販 | Amazon', ''),
               bylineInfo: bylineInfo.replaceAll(/( |\n|\s|\t)/g, '').replace('形式:Kindle版', ''),
