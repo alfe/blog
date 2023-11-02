@@ -1,3 +1,4 @@
+import { ReactNode } from "react"
 import fs from "fs"
 import path from "path"
 
@@ -8,8 +9,8 @@ import ArticleHeadInfos from "components/ArticleHeadInfos"
 import ArticleContentStyles from "components/ArticleContentStyles"
 import { listContentFiles, replaceComponentInHtml, readContentFile, readContentFiles } from "lib/content-loader"
 import getFloatingUrls from "lib/getFloatingUrls"
-import getOgpData from "lib/getOgpData"
-import { ReactNode } from "react"
+import getOgpData, { OgpData } from "lib/getOgpData"
+import getAmazonLinkInfos, { AmznData } from "lib/getAmazonLinkInfos"
 
 type PostProps = {
   title: string;
@@ -29,21 +30,8 @@ type PostProps = {
     slug: string;
     title: string;
   };
-  ogpDatas?: {
-    twitterSite: string;
-    twitterCard: string;
-    twitterTitle: string;
-    twitterDescription: string;
-    ogSiteName: string;
-    ogType: string;
-    ogTitle: string;
-    ogUrl: string;
-    ogDescription: string;
-    ogImage: any;
-    twitterImage: any;
-    requestUrl: string;
-    success: boolean;
-  }[];
+  ogpDatas?: OgpData[];
+  amznData?: AmznData[];
 }
 const Post = (params: PostProps) => {
   return (
@@ -59,7 +47,7 @@ const Post = (params: PostProps) => {
         category={params.category} />
       <ArticleContentStyles>
         {replaceComponentInHtml({
-          a: { ogpDatas: params.ogpDatas }
+          a: { ogpDatas: params.ogpDatas, amznData: params.amznData }
         }).processSync(params.content).result as ReactNode}
       </ArticleContentStyles>
       <PostFooter prevPage={params.prevPage} nextPage={params.nextPage} />
@@ -80,13 +68,18 @@ export const getStaticProps = async ({ params }) => {
     .findIndex(url => url === `/${params.slug.join('/')}`);
 
   const floatingUrls = getFloatingUrls(postContent.content ?? '');
-  const ogpDatas = await getOgpData(floatingUrls);
+  const amznUrls = floatingUrls.filter(url => url.includes('amazon.co.jp'))
+  const ogpUrls = floatingUrls.filter(url => !url.includes('amazon.co.jp'))
+  
+  const ogpDatas = await getOgpData(ogpUrls);
+  const amznData = await getAmazonLinkInfos(amznUrls);
   return {
     props: {
       ...postContent,
       postIndex,
       floatingUrls,
       ogpDatas,
+      amznData,
       prevPage: postIndex !== 0 ? posts[postIndex - 1] || null : null,
       nextPage: postIndex !== posts.length ? posts[postIndex + 1] || null : null,
     }

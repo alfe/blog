@@ -1,13 +1,16 @@
-import { createElement, Fragment } from 'react';
 import path from "path"
 import { remark } from "remark"
 import remarkHtml from "remark-html"
 import strip from "remark-strip-html"
 import matter from "gray-matter"
 import { unified } from "unified"
-import rehypeReact from "rehype-react"
+import rehypeReact, { type Options as ReactOptions } from "rehype-react"
 import rehypeParse from "rehype-parse"
+import * as prod from 'react/jsx-runtime';
 import LinkCard from "components/LinkCard"
+
+// @ts-expect-error: the react types are missing.
+const production = { Fragment: prod.Fragment, jsx: prod.jsx, jsxs: prod.jsxs };
 
 const DIR = path.join(process.cwd(), "content/posts")
 const EXTENSION = ".md"
@@ -100,10 +103,8 @@ const sortWithProp = (name, reversed) => (a, b) => {
 const replaceComponentInHtml = (propsValues: {
   a: { [key: string]: any };
 }) => {
-  const rehypeReactOption = {
-    // createElement: React.createElement,
-    createElement,
-    Fragment,
+  const rehypeReactOption: ReactOptions = {
+    ...production,
     components: { 
       a: (props: { href: string; children: string[]; }) => LinkCard({ ...props, ...propsValues.a }),
     },
