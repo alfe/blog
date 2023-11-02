@@ -24,7 +24,7 @@ Twitterがあやしい感じになってきたので分散型SNSにいこう！�
 そもそもActivityPubって何なのか調べてみよう、余裕があればサーバを立ててみよう、という気になってきました。
 
 
-## ActivityPubとは
+### ActivityPubとは
 調べてみるまで知らなかったんですが、ActivityPubってW3C勧告として文書が出ているんですよね。
 
 [ActivityPub - W3C (https://www.w3.org/TR/activitypub/)](https://www.w3.org/TR/activitypub/)
@@ -33,7 +33,7 @@ Twitterがあやしい感じになってきたので分散型SNSにいこう！�
 
 ちなみに、Mastodonだと開発当時からActivityPubというわけではなく、もともとはOStatusという通信プロトコルが使われていた様子。いまでも外部通信するときにその名残がある様子。
 
-## サーバ構成
+### サーバ構成
 で、W3Cの勧告を読んでいると「実は大部分を静的ファイルで置き換えができたりしない？」と思えてきました。
 
 Mastodonサーバを立てよう、といったときにVPSを借りるたりラズパイを用意したり、みたいなのが必要っぽいんですよね。ただおひとりさまでActivityPub鯖を立てるときにそこまでスペックが必要な構成を要求されているわけでもなさそうだなというのをドキュメントを見て感じました。
@@ -46,7 +46,7 @@ Mastodonサーバを立てよう、といったときにVPSを借りるたりラ
 
 ![サーバ構成の図](/img/2023/03/04/architecture.jpg)
 
-## URL一覧
+### URL一覧
 で、この構成で用意しているURLが以下の通り。
 
 - [https://ap.alfebelow.com/api/inbox](https://ap.alfebelow.com/api/inbox)
@@ -72,7 +72,7 @@ Mastodonサーバを立てよう、といったときにVPSを借りるたりラ
 
 そういった面倒を踏まえれば、配置したのが静的ファイルでも他のサーバからは関係なかったりします。
 
-## 他のActivityサーバが自鯖を見つける流れ
+### 他のActivityサーバが自鯖を見つける流れ
 
 これらのURLを用意したときにどんな流れで他のActivityサーバとつながるのか見てみましょう。
 
@@ -137,7 +137,7 @@ JSONの中身がこんな感じ。
 
 プロフィール画面を見てフォローをしようとなったときに、動的な処理を求められるinboxが必要になりきます。
 
-## フォローしたときの処理
+### フォローしたときの処理
 
 ActivityPubサーバから他のActivityPubサーバのユーザをフォローするとき、以下のような手順をとります。
 
@@ -198,7 +198,7 @@ Follow以外は200を返して後は内側で処理すればOKですが、Follow
 あとは受け取ったtypeに合わせて内々に処理しておきましょう。
 
 
-## 投稿時の処理
+### 投稿時の処理
 他のサーバからフォローをしてもらいました。フォロワーに対して投稿を届けに行きましょう。
 
 W3Cのドキュメントにはoutboxに投稿が保存されたと同時に他のサーバへ投稿を届けに行きましょう、と書かれています。
@@ -262,7 +262,7 @@ ActivityPubはフォロワーに対してアクティブに投稿を送る必要
 
 フォロワーのinboxのURLは、ユーザのプロフィール（Follow時に受け取ったJSONのactorに書かれているURL）のJSONに書かれています。そのURLに対してCreateのPOSTリクエストを送りましょう。
 
-## まとめ
+### まとめ
 これでNetlifyとSupabaseを使った、inboxと投稿以外は静的ファイルで構築されたActivityPubサーバが構築されました。
 
 投稿時にJSONを設置して手動でトリガーを発火させる必要はありますが、外から見たら普通にフォローができて投稿が届くサーバに見えるかと思います。
@@ -273,7 +273,7 @@ ActivityPubはフォロワーに対してアクティブに投稿を送る必要
 
 何かしらの参考になれば幸いです。
 
-## 参考URL
+### 参考URL
 - [https://macwright.com/2022/12/09/activitypub.html](https://macwright.com/2022/12/09/activitypub.html)
 - [https://gitlab.com/shrmpy/hello-activitypub](https://gitlab.com/shrmpy/hello-activitypub)
 - [https://qiita.com/wakin/items/94a0ff3f32f842b18a25](https://qiita.com/wakin/items/94a0ff3f32f842b18a25)
