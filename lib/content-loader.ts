@@ -10,7 +10,7 @@ import * as prod from 'react/jsx-runtime';
 import LinkCard from "components/LinkCard"
 
 // @ts-expect-error: the react types are missing.
-const production = { Fragment: prod.Fragment, jsx: prod.jsx, jsxs: prod.jsxs };
+const production = { Fragment: prod.Fragment, jsx: prod.jsx, jsxs: prod.jsxs, createElement: prod.createElement };
 
 const DIR = path.join(process.cwd(), "content/posts")
 const EXTENSION = ".md"
@@ -113,5 +113,4 @@ const replaceComponentInHtml = (propsValues: {
     .use(rehypeParse, { fragment: true })
     .use(rehypeReact, rehypeReactOption);
 }
-
 export { listContentFiles, readContentFile, readContentFiles, replaceComponentInHtml }
