@@ -1,13 +1,12 @@
+import { createElement, Fragment } from 'react';
 import path from "path"
-
 import { remark } from "remark"
 import remarkHtml from "remark-html"
 import strip from "remark-strip-html"
 import matter from "gray-matter"
 import { unified } from "unified"
-import rehypeReact from "rehype-react";
+import rehypeReact from "rehype-react"
 import rehypeParse from "rehype-parse"
-import React from "react"
 import LinkCard from "../components/LinkCard"
 
 const DIR = path.join(process.cwd(), "content/posts")
@@ -101,14 +100,17 @@ const sortWithProp = (name, reversed) => (a, b) => {
 const replaceComponentInHtml = (propsValues: {
   a: { [key: string]: any };
 }) => {
+  const rehypeReactOption = {
+    // createElement: React.createElement,
+    createElement,
+    Fragment,
+    components: { 
+      a: (props: { href: string; children: string[]; }) => LinkCard({ ...props, ...propsValues.a }),
+    },
+  };
   return unified()
     .use(rehypeParse, { fragment: true })
-    .use(rehypeReact, {
-      createElement: React.createElement,
-      components: { 
-        a: (props: { href: string; children: string[]; }) => LinkCard({ ...props, ...propsValues.a }),
-      },
-    });
+    .use(rehypeReact, rehypeReactOption);
 }
 
 export { listContentFiles, readContentFile, readContentFiles, replaceComponentInHtml }
