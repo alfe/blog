@@ -3,7 +3,6 @@ import { OgpData } from "lib/getOgpData";
 
 type OgpCardProps = {
   href: string | null;
-  children: string | null;
   ogp?: OgpData;
 };
 const OgpCard = (props: OgpCardProps) => {
@@ -21,7 +20,7 @@ const OgpCard = (props: OgpCardProps) => {
       <br />
       <small>{ogp.ogDescription}</small>
       <br />
-      <small className="ogp-url">{props.children}</small>
+      <small className="ogp-url">{props.href}</small>
       </a>
       <style jsx>{`
         .ogp-link {

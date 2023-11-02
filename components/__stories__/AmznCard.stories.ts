@@ -8,7 +8,6 @@ export default {
 export const Default = {
   args: {
     href: 'https://www.amazon.co.jp/dp/462209049X',
-    children: 'https://www.amazon.co.jp/dp/462209049X',
     amzn: {
       title: '猫に学ぶ――いかに良く生きるか | ジョン・グレイ, 鈴木晶 |本 | 通販 | Amazon',
       bylineInfo: 'ジョン・グレイ(著),鈴木晶(翻訳)',

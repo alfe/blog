@@ -106,7 +106,7 @@ const replaceComponentInHtml = (propsValues: {
   const rehypeReactOption: ReactOptions = {
     ...production,
     components: { 
-      a: (props: { href: string; children: string[]; }) => LinkCard({ ...props, ...propsValues.a }),
+      a: (props: { href: string; children: string; }) => LinkCard({ ...props, ...propsValues.a }),
     },
   };
   return unified()

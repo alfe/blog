@@ -8,7 +8,6 @@ export default {
 export const Default = {
   args: {
     href: 'https://github.com/alfe/blog',
-    children: 'https://github.com/alfe/blog',
     ogp: {
       twitterSite: '@github',
       twitterCard: 'summary_large_image',

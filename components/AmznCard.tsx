@@ -3,7 +3,6 @@ import { AmznData } from "lib/getAmazonLinkInfos";
 
 type AmznCardProps = {
   href: string | null;
-  children: string | null;
   amzn?: AmznData;
 };
 const AmznCard = (props: AmznCardProps) => {
@@ -19,7 +18,7 @@ const AmznCard = (props: AmznCardProps) => {
           <cite>{amzn.title}</cite>
           <small>{amzn.bylineInfo}</small>
         </span>
-        <small className="amzn-url">{props.children}</small>
+        <small className="amzn-url">{props.href}</small>
       </a>
       <style jsx>{`
         .amzn-link {
