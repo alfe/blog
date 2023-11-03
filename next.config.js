@@ -1,11 +1,13 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  // output: 'export',
   reactStrictMode: true,
   swcMinify: true,
   experimental: {
     largePageDataBytes: 512 * 100000,
   },
   images: {
+    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
