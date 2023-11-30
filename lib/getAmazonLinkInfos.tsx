@@ -15,7 +15,9 @@ const getAmazonLinkInfos = async (amznUrls: string[]) => {
   await Promise.all(
     amznUrls.map((url) => {
       return new Promise((resolve, reject) => {
-        request(url, (e, response, body) => {
+        request(url, {
+          gzip: true,
+        }, (e, response, body) => {
           if (e) {
             console.error(e)
           }

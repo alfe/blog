@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2023-10-31T09:51:18.133Z</updated>
+    <updated>2023-11-30T12:51:55.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -13,21 +13,33 @@
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
     <entry>
+        <title type="html"><![CDATA[2023年11月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2023/11/30/2023%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2023/11/30/2023%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2023-11-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+会話の科学 あなたはなぜ「え?」と言ってしまうのか
+
+<p>会話する際に発せられる「え？」「あー」「えーっと」という無意味そうにみえる言葉にどういった意味があるのかを、会話に関する研究を通じてみていく本。
+これまで言語学で研究の対象とされてこなかった、対話における言葉にならない言葉がいかに重要であるかを詳説している。</p>
+気になったトピックとしては以下。
+<ul>
+話者交換のタイ]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023年10月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2023/10/31/2023%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
         <link href="https://blog.alfebelow.com/entry/2023/10/31/2023%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
         <updated>2023-10-31T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[いつもの。
 
-「電気」という物理現象の不思議な科学　
+「電気」という物理現象の不思議な科学
 
 電気に関わるものを幅広く見ていく本。
 電気と電子のような基礎部分から始まり、電子殻構造や化学結合、雷、生物電気、磁気、これからの電池と発電までと非常に幅広く扱っている。
-物理・生物・科学にまたがる幅広い分野を扱いながらも、それぞれわかりやすく説明されている。
-ニッポンの氷河時代
-
-日本に残る寒冷化の痕跡を写真とともに説明、紹介していく本。
-大]]></summary>
+物理・生物・科学にまたがるかなり幅広い分野を扱いながらも、それぞれわかりやすく説明されている。
+電池の仕組み、電気ウナギ、原子に働く電磁気力、再生可能発電、全個体電池。ここまで]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023年09月に読んだ本]]></title>
@@ -118,7 +130,8 @@ Explorer Patcher
         <updated>2023-05-31T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[いつもの。
 
-言語はこうして生まれる　
+言語はこうして生まれる
+
 言語はジェスチャーゲームが由来となってできたという説をベースに、言語処理に関する研究や言語誕生に関する歴史、子供の言語獲得に関しての考察などを述べていく。良書。
 チョムスキーの普遍文法やFOXP2という言語遺伝子に対する反論、自然発生する言語秩序、他人の足跡をたどることで子供は言語を学習する、など。
 言語を数理解析する姿勢への批判、コミュニケーションの道具と]]></summary>
@@ -131,22 +144,12 @@ Explorer Patcher
         <summary type="html"><![CDATA[いつもの。
 
 『取材・執筆・推敲』
+
 ライターが原稿を作り上げるまでの流れについて書いた本。今後も繰り返し読むことになりそうな本。
 執筆とは「取材の翻訳」、文章構成の考え方を桃太郎の絵本から学ぶ、推敲は過去の自分への取材、などが特に印象に残っている。
-
 ヒトという種の未来について生物界の法則が教えてくれること
+
 ヒトが生物全体の中でどのような立ち位置にいるか。
-生物学者から見た環境問題とヒト種の未来が]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SynologyにEmbyをインストール、メディアファイル追加のための権限追加]]></title>
-        <id>https://blog.alfebelow.com/entry/2023/04/29/Synology%E3%81%ABEmby%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%80%81%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%A8%A9%E9%99%90%E8%BF%BD%E5%8A%A0</id>
-        <link href="https://blog.alfebelow.com/entry/2023/04/29/Synology%E3%81%ABEmby%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%80%81%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E8%BF%BD%E5%8A%A0%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%A8%A9%E9%99%90%E8%BF%BD%E5%8A%A0"/>
-        <updated>2023-04-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SynologyにEmbyを入れたときにちょっと戸惑ったのでメモ。
-Embyとは
-自宅のメディアファイルをストリーミングするためのオープンソースのメディアサーバーアプリケーションです。自宅のネットワーク内でメディアファイルの共有サービスを展開できます。
-<p>今は亡きGoogle Play Musicみたいな使い方ができるわけです。つまり、ブラウザやスマホアプリで音楽を流せる。
-それと、音楽だけで]]></summary>
+生物学者から見た環境問題とヒト種の未来]]></summary>
     </entry>
 </feed>

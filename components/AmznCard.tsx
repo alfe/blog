@@ -12,7 +12,7 @@ const AmznCard = (props: AmznCardProps) => {
     <span>
       <a className="amzn-link" href={href} target="_blank" rel="noopener noreferrer">
         <span className="amzn-img">
-          <Image alt="thumb" src={amzn.imgUrl} width={0} height={0} sizes="100vw" style={{ width: '100%', height: 'auto' }} />
+          {amzn.imgUrl && <Image alt="thumb" src={amzn.imgUrl} width={0} height={0} sizes="100vw" style={{ width: '100%', height: 'auto' }} />}
         </span>
         <span className="amzn-info">
           <cite>{amzn.title}</cite>

@@ -22,7 +22,7 @@
     "feed": "^4.2.2",
     "ga-gtag": "^1.1.7",
     "gray-matter": "^4.0.3",
-    "jsdom": "^22.1.0",
+    "jsdom": "^23.0.0",
     "next": "14.0.1",
     "next-sitemap": "^4.2.3",
     "open-graph-scraper": "^6.3.2",
