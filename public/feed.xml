@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Thu, 30 Nov 2023 12:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 10:51:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,32 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2023年に読んで良かった7冊の本]]></title>
+            <link>https://blog.alfebelow.com/entry/2023/12/30/2023%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2023/12/30/2023%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC</guid>
+            <pubDate>Sat, 30 Dec 2023 11:00:00 GMT</pubDate>
+            <description><![CDATA[年末なので、2023年に読んだ中で良かった本をまとめておこうという記事。
+今年も、年内に読んだ本の中から特に良かった本を7冊紹介します。
+
+言語はこうして生まれる
+
+言語はジェスチャーゲームが由来となってできたという説をベースに、言語処理に関する研究や言語誕生に関する歴史、子供の言語獲得に関しての考察などを述べていく本。
+言語の成り立ちであったり、新語の生成といったものに興味があるならオススメ。
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2023年12月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2023/12/29/2023%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2023/12/29/2023%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Fri, 29 Dec 2023 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+万物の黎明
+
+先史時代の人類が平等で無邪気な存在であるとか戦争好きな存在といった先入観・誤解を取り除くために、考古学と人類学の知見とともに格闘していく本。
+人類が穀物を発見したため、農耕を主とした定住生活となり、人口が増えて都市となり文明ができた。というのが、これまでの常識であったが、これはどうやら現代からみた安直なストーリー付けであり、そこの対応関係はかなり薄そうだという論が展開さ]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年11月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2023/11/30/2023%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -124,35 +150,6 @@ Explorer Patcher
 を使う、と出てくる。
 
 どうやらこのExpl]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年05月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/05/31/2023%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2023/05/31/2023%E5%B9%B45%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Wed, 31 May 2023 10:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-言語はこうして生まれる
-
-言語はジェスチャーゲームが由来となってできたという説をベースに、言語処理に関する研究や言語誕生に関する歴史、子供の言語獲得に関しての考察などを述べていく。良書。
-チョムスキーの普遍文法やFOXP2という言語遺伝子に対する反論、自然発生する言語秩序、他人の足跡をたどることで子供は言語を学習する、など。
-言語を数理解析する姿勢への批判、コミュニケーションの道具と]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年04月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/04/30/2023%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2023/04/30/2023%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Sun, 30 Apr 2023 10:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-『取材・執筆・推敲』
-
-ライターが原稿を作り上げるまでの流れについて書いた本。今後も繰り返し読むことになりそうな本。
-執筆とは「取材の翻訳」、文章構成の考え方を桃太郎の絵本から学ぶ、推敲は過去の自分への取材、などが特に印象に残っている。
-ヒトという種の未来について生物界の法則が教えてくれること
-
-ヒトが生物全体の中でどのような立ち位置にいるか。
-生物学者から見た環境問題とヒト種の未来]]></description>
         </item>
     </channel>
 </rss>
