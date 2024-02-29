@@ -15,7 +15,8 @@
     "lint": "next lint",
     "textlint": "npx textlint --fix ./content/posts/2022/09/04/*.md",
     "storybook": "storybook dev -p 6006",
-    "build-storybook": "storybook build"
+    "build-storybook": "storybook build",
+    "test-ct": "playwright test -c playwright-ct.config.ts"
   },
   "dependencies": {
     "dayjs": "^1.11.10",
@@ -37,7 +38,8 @@
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^4.41.1",
-    "@playwright/experimental-ct-react": "^1.39.0",
+    "@playwright/experimental-ct-react": "^1.40.1",
+    "@playwright/test": "^1.42.0",
     "@storybook/addon-essentials": "7.5.2",
     "@storybook/addon-interactions": "7.5.2",
     "@storybook/addon-links": "7.5.2",

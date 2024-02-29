@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Sat, 30 Dec 2023 10:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 10:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,36 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2024年2月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2024/02/29/2024%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2024/02/29/2024%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Thu, 29 Feb 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+おみくじの歴史: 神仏のお告げはなぜ詩歌なのか
+
+おみくじが古代からどういう変遷を辿ってきたのか。おみくじにはなぜ和歌や漢文が書かれているのか。
+大吉や凶と書かれている部分に注目して読む人が多いが、メインはそこでなく和歌やメッセージの部分だよ、ということを各時代ごとの変遷を見ながら解説してくれる。
+占いたい人が自作のくじを作っていたところから始まり、平安時代には神聖なお告げを受け取る]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2024年1月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2024/01/31/2024%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2024/01/31/2024%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Wed, 31 Jan 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+脳科学はウェルビーイングをどう語るか？
+
+<p>ミラーニューロンと心の痛みの緩和について。
+痛みやストレスがどのように脳に伝わっているのか、それらを軽減してウェルビーイングを向上させるには、という内容。</p>
+保健の教科書みたいな読後感であった。
+興味深かったトピックとしては以下。
+<ul>
+共感性が高い人とふれあうと鎮痛作用が高くなる。
+五感とおなじように、消化器や循環器がもつ内]]></description>
+        </item>
         <item>
             <title><![CDATA[2023年に読んで良かった7冊の本]]></title>
             <link>https://blog.alfebelow.com/entry/2023/12/30/2023%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC</link>
@@ -120,36 +150,6 @@
 今回はなぜサーバーを閉じるときに、410を返すように設定することが推奨されるのか、という話をします。
 
 どうやって410を返せばいいのかは、以下の記事で解説されているのでそちらをご覧くださ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年06月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/06/30/2023%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2023/06/30/2023%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Fri, 30 Jun 2023 10:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-DEEP LIFE 海底下生命圏 生命存在の限界はどこにあるのか
-
-海底地下の世界を探る研究者の体験記と海底地下に住む生命について現在わかっていること。
-生命がいないといわれていた海底のさらに深い地下で生命がどう見つかったのか、試料掘削の現場のあわただしい空気、見つかった生命はどのような生き方をしているのか、などなど。
-量子テレポーテーションのゆくえ
-
-<p>量子テレポーテーションの]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Windows11のタスクバーを右側に配置する（アプリ・レジストリ不要）]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/06/25/Windows11%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%90%E3%83%BC%E3%82%92%E5%8F%B3%E5%81%B4%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%99%E3%82%8B</link>
-            <guid>https://blog.alfebelow.com/entry/2023/06/25/Windows11%E3%81%AE%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%90%E3%83%BC%E3%82%92%E5%8F%B3%E5%81%B4%E3%81%AB%E9%85%8D%E7%BD%AE%E3%81%99%E3%82%8B</guid>
-            <pubDate>Sat, 24 Jun 2023 20:30:00 GMT</pubDate>
-            <description><![CDATA[※ 2023/07/19更新: Windowsのアップデートでこの方法も使えなくなっちゃいました。ぐぬぬ。
-メモ書き。
-Windows11のタスクバーを右側に配置したい、と検索するとアプリを入れろとかレジストリをいじれとか出てくる。
-が、タスクバーの固定を外してタスクバーをドラッグすると右側に配置された。という内容。
-
-Explorer Patcher
-を使う、と出てくる。
-
-どうやらこのExpl]]></description>
         </item>
     </channel>
 </rss>

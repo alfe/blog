@@ -9,6 +9,7 @@ const CATEGORY = [
   '雑記',
 ];
 const BY_YEAR = [
+  '2024',
   '2023',
   '2022',
   '2021',
