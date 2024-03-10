@@ -26,6 +26,7 @@
     "**/*.tsx"
 , "components/__stories__/ArticleContentStyles.mdx"  ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "public"
   ]
 }
