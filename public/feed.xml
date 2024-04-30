@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Thu, 29 Feb 2024 10:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 14:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,34 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2024年4月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2024/04/30/2024%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2024/04/30/2024%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Tue, 30 Apr 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+都市に侵入する獣たち
+
+都市に出没するクマや埠頭で日光浴するアザラシが話題になりはじめているが、都市で野生動物が繫栄するようになったのはなぜか。自然文化地理学者が、生物にとっての都市環境がどのようなものかを生態と絡めながら紹介していく。
+気になった内容としては以下。
+<ul>
+ウマ・ブタ・ウシのような家畜が都会で生活していたころの状況
+都市に適応するアメリカクロクマと、アメリカクロク]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2024年3月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2024/03/31/2024%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2024/03/31/2024%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Sun, 31 Mar 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+AI・機械翻訳と英語学習
+
+大学での英語教育に機械翻訳ツールを大々的に取り入れたらどういう影響があったかの報告。
+立命館大学では機械翻訳や生成AIを英語の授業に積極的に取り入れたが、どのような取り入れ方を試しているのか、翻訳ツールを導入したことによる学生への影響はどうであったかが書かれている。
+ChatGPTに文章を書かせるのではなく、ChatGPTを利用して文章を書く。機械翻訳を利]]></description>
+        </item>
         <item>
             <title><![CDATA[2024年2月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2024/02/29/2024%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -125,31 +153,6 @@
 令和元年度の調査で6割の博物館で収蔵庫が満杯状態、半分の博物館は資料台帳の作成が未完了という状態の様子。
 展示機能が編重され人手も足りず、収集や保管・調査研究への手が回らないという博物館も多いよう。
 コレクションを管理するための考え方として、英国の博物館ドキュメン]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年07月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/07/31/2023%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2023/07/31/2023%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Mon, 31 Jul 2023 10:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-幻覚剤は役に立つのか　
-
-幻覚剤、とくにLSDとマジックマッシュルーム由来のサイロビシンについての歴史と研究の最前線、そして幻覚剤の体験レポート。
-<p>1960年代にカウンターカルチャーとしてLSDが乱用され危険薬物として規制された。
-しかし近年過去の幻覚剤研究を掘り起こし、幻覚剤が脳にどう作用するのか、治療に応用できないかの模索が始まった、らしい。</p>
-この本で知れたこととし]]></description>
-        </item>
-        <item>
-            <title><![CDATA[どうしてActivityPub鯖の爆破に410が必要なのか]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/07/20/%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6ActivityPub%E9%AF%96%E3%81%AE%E7%88%86%E7%A0%B4%E3%81%AB410%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%E3%81%8B</link>
-            <guid>https://blog.alfebelow.com/entry/2023/07/20/%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6ActivityPub%E9%AF%96%E3%81%AE%E7%88%86%E7%A0%B4%E3%81%AB410%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%E3%81%8B</guid>
-            <pubDate>Thu, 20 Jul 2023 02:30:00 GMT</pubDate>
-            <description><![CDATA[MastodonやMisskeyなどのActivityPubに住んでいると、人が増えて盛況になっていくサーバーもある一方、おひとり鯖や少人数鯖を閉じるという話も聞こえてきます。
- という話も同時に流れてきます。
-今回はなぜサーバーを閉じるときに、410を返すように設定することが推奨されるのか、という話をします。
-
-どうやって410を返せばいいのかは、以下の記事で解説されているのでそちらをご覧くださ]]></description>
         </item>
     </channel>
 </rss>
