@@ -229,3 +229,6 @@
 {"url":"https://www.amazon.co.jp/dp/447304551X","title":"利休・織部・遠州 くらべる茶の湯","bylineInfo":"神津朝夫(著)","imgUrl":"https://m.media-amazon.com/images/I/41n4YHE7ktL._SY445_SX342_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4767832454","title":"科学がつきとめた疑似科学","bylineInfo":"山本輝太郎(著),石川幹人(著)","imgUrl":"https://m.media-amazon.com/images/I/514p5k2rapL._SY445_SX342_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/481636756X","title":"マンガでわかる!薬のしくみとはたらき事典","bylineInfo":"丸山敬(監修)","imgUrl":"https://m.media-amazon.com/images/I/51Z-MtaNNOL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4004320151","title":"日本語と漢字──正書法がないことばの歴史 (岩波新書 新赤版 2015)","bylineInfo":"今野真二(著)","imgUrl":"https://m.media-amazon.com/images/I/614Xq2R1SzL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4797681381","title":"デジタル時代の恐竜学 (インターナショナル新書)","bylineInfo":"河部壮一郎(著)","imgUrl":"https://m.media-amazon.com/images/I/71y0x7zo4HL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/448007614X","title":"結婚の社会学 (ちくま新書 １７８９)","bylineInfo":"阪井裕一郎(著)","imgUrl":"https://m.media-amazon.com/images/I/61CjpwKQA-L._SY385_.jpg"}
