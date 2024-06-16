@@ -232,3 +232,4 @@
 {"url":"https://www.amazon.co.jp/dp/4004320151","title":"日本語と漢字──正書法がないことばの歴史 (岩波新書 新赤版 2015)","bylineInfo":"今野真二(著)","imgUrl":"https://m.media-amazon.com/images/I/614Xq2R1SzL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4797681381","title":"デジタル時代の恐竜学 (インターナショナル新書)","bylineInfo":"河部壮一郎(著)","imgUrl":"https://m.media-amazon.com/images/I/71y0x7zo4HL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/448007614X","title":"結婚の社会学 (ちくま新書 １７８９)","bylineInfo":"阪井裕一郎(著)","imgUrl":"https://m.media-amazon.com/images/I/61CjpwKQA-L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4297142201","title":"［入門］Webフロントエンド E2E テスト――PlaywrightによるWebアプリの自動テストから良いテストの書き方まで (エンジニア選書)","bylineInfo":"渋川よしき(著),武田大輝、枇榔晃裕、木戸俊輔、藤戸四恩、小澤泰河(著)","imgUrl":"https://m.media-amazon.com/images/I/815WYfp945L._SY342_.jpg"}
