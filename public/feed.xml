@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Sun, 16 Jun 2024 10:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jun 2024 12:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,21 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2024年6月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2024/06/30/2024%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2024/06/30/2024%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Sun, 30 Jun 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+脳に収まるコードの書き方
+
+プログラミングの本。メンテナンスをしやすいコードの書き方について。
+Gitをつかおう、問題を見つけるにはコードを半分削除してみよう、1つのコードではやることを7以内に収めようみたいなことを書いている。
+さっくりと『SOFT SKILLS』みたいなテイストの『リーダブルコード』といったオモムキ。
+研修ではまだ『リーダブルコード』のほうが使いやすいかな。
+爆発]]></description>
+        </item>
         <item>
             <title><![CDATA[書いた本が出版される話]]></title>
             <link>https://blog.alfebelow.com/entry/2024/06/16/%E6%9B%B8%E3%81%84%E3%81%9F%E6%9C%AC%E3%81%8C%E5%87%BA%E7%89%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A9%B1</link>
@@ -136,20 +151,6 @@ ChatGPTに文章を書かせるのではなく、ChatGPTを利用して文章を
 気になったトピックとしては以下。
 <ul>
 話者交換のタイ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年10月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/10/31/2023%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2023/10/31/2023%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Tue, 31 Oct 2023 01:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-「電気」という物理現象の不思議な科学
-
-電気に関わるものを幅広く見ていく本。
-電気と電子のような基礎部分から始まり、電子殻構造や化学結合、雷、生物電気、磁気、これからの電池と発電までと非常に幅広く扱っている。
-物理・生物・科学にまたがるかなり幅広い分野を扱いながらも、それぞれわかりやすく説明されている。
-電池の仕組み、電気ウナギ、原子に働く電磁気力、再生可能発電、全個体電池。ここまで]]></description>
         </item>
     </channel>
 </rss>

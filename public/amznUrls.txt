@@ -233,3 +233,10 @@
 {"url":"https://www.amazon.co.jp/dp/4797681381","title":"デジタル時代の恐竜学 (インターナショナル新書)","bylineInfo":"河部壮一郎(著)","imgUrl":"https://m.media-amazon.com/images/I/71y0x7zo4HL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/448007614X","title":"結婚の社会学 (ちくま新書 １７８９)","bylineInfo":"阪井裕一郎(著)","imgUrl":"https://m.media-amazon.com/images/I/61CjpwKQA-L._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4297142201","title":"［入門］Webフロントエンド E2E テスト――PlaywrightによるWebアプリの自動テストから良いテストの書き方まで (エンジニア選書)","bylineInfo":"渋川よしき(著),武田大輝、枇榔晃裕、木戸俊輔、藤戸四恩、小澤泰河(著)","imgUrl":"https://m.media-amazon.com/images/I/815WYfp945L._SY342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0D16T669F","title":"改訂新版 SUPERサイエンス 爆発の仕組みを化学する","bylineInfo":"齋藤勝裕(著)","imgUrl":"https://m.media-amazon.com/images/I/81y4edqNWZL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/476203312X","title":"新 調理の科学: 基礎から実践まで","bylineInfo":"高崎禎子(編集),小林理恵(編集)","imgUrl":"https://m.media-amazon.com/images/I/41ZyK0fgIYL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4814400799","title":"脳に収まるコードの書き方 ―複雑さを避け持続可能にするための経験則とテクニック","bylineInfo":"MarkSeemann(著),吉羽龍太郎(翻訳),原田騎郎(翻訳),RobertC.Martin(その他)&1その他","imgUrl":"https://m.media-amazon.com/images/I/41-D9lxwVcL._SX342_SY445_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0D179DLGG","title":"美容の科学","bylineInfo":"尾池哲郎(著)","imgUrl":"https://m.media-amazon.com/images/I/61wdjdlta6L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4254103050","title":"皮膚ガスのはなし: 体臭は心と体のメッセージ","bylineInfo":"関根嘉香(著)","imgUrl":"https://m.media-amazon.com/images/I/81W3DM4lQKL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4815606676","title":"身近な科学が人に教えられるほどよくわかる本 「朝起きてから、寝るまで」のサイエンス","bylineInfo":"左巻健男(著,編集)","imgUrl":"https://m.media-amazon.com/images/I/81Z+IARTXHL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798176737","title":"フェーズフリー 「日常」を超えた価値を創るデザイン","bylineInfo":"佐藤唯行(著)","imgUrl":"https://m.media-amazon.com/images/I/71yTohpZRtL._SY385_.jpg"}
