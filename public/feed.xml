@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Sun, 30 Jun 2024 12:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jul 2024 10:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,19 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2024年7月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2024/07/31/2024%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2024/07/31/2024%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Wed, 31 Jul 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+データとデザイン
+
+データをより人によりそうものとするにはどうデザインしていくべきかについて。良書。
+ビッグデータという資源が生まれているが、データに人々が慣れていないため扱い切れていない。データと人をつなぐ媒介としてのデザインを考えていこうという内容。
+データの可視化における主な役割として「探索」と「提示」をそれぞれ個別に求められてきたが、多くの人がデータを触れるようになり両方を融]]></description>
+        </item>
         <item>
             <title><![CDATA[2024年6月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2024/06/30/2024%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -136,21 +149,6 @@ ChatGPTに文章を書かせるのではなく、ChatGPTを利用して文章を
 
 先史時代の人類が平等で無邪気な存在であるとか戦争好きな存在といった先入観・誤解を取り除くために、考古学と人類学の知見とともに格闘していく本。
 人類が穀物を発見したため、農耕を主とした定住生活となり、人口が増えて都市となり文明ができた。というのが、これまでの常識であったが、これはどうやら現代からみた安直なストーリー付けであり、そこの対応関係はかなり薄そうだという論が展開さ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年11月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/11/30/2023%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2023/11/30/2023%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Thu, 30 Nov 2023 01:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-会話の科学 あなたはなぜ「え?」と言ってしまうのか
-
-<p>会話する際に発せられる「え？」「あー」「えーっと」という無意味そうにみえる言葉にどういった意味があるのかを、会話に関する研究を通じてみていく本。
-これまで言語学で研究の対象とされてこなかった、対話における言葉にならない言葉がいかに重要であるかを詳説している。</p>
-気になったトピックとしては以下。
-<ul>
-話者交換のタイ]]></description>
         </item>
     </channel>
 </rss>

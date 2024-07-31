@@ -240,3 +240,7 @@
 {"url":"https://www.amazon.co.jp/dp/4254103050","title":"皮膚ガスのはなし: 体臭は心と体のメッセージ","bylineInfo":"関根嘉香(著)","imgUrl":"https://m.media-amazon.com/images/I/81W3DM4lQKL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4815606676","title":"身近な科学が人に教えられるほどよくわかる本 「朝起きてから、寝るまで」のサイエンス","bylineInfo":"左巻健男(著,編集)","imgUrl":"https://m.media-amazon.com/images/I/81Z+IARTXHL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4798176737","title":"フェーズフリー 「日常」を超えた価値を創るデザイン","bylineInfo":"佐藤唯行(著)","imgUrl":"https://m.media-amazon.com/images/I/71yTohpZRtL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4801307191","title":"新版 図解 江戸の間取り","bylineInfo":"安藤優一郎(著)","imgUrl":"https://m.media-amazon.com/images/I/51njqD5Im-L._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0CSPCJG33","title":"データ と デザイン　人とデータのつなぎかた","bylineInfo":"櫻井稔(著)","imgUrl":"https://m.media-amazon.com/images/I/71IdnD6HdaL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4635310485","title":"ADAPTATION アダプテーション 適応 気候危機をサバイバルするための100の戦略","bylineInfo":"肱岡靖明(編集),根本緑(著)","imgUrl":"https://m.media-amazon.com/images/I/81Xn8oSpF9L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798060925","title":"図解入門 よくわかる最新センサ技術の基本と仕組み","bylineInfo":"松本光春(著)","imgUrl":"https://m.media-amazon.com/images/I/710LivXjlKL._SY385_.jpg"}
