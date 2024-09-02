@@ -244,3 +244,8 @@
 {"url":"https://www.amazon.co.jp/dp/B0CSPCJG33","title":"データ と デザイン　人とデータのつなぎかた","bylineInfo":"櫻井稔(著)","imgUrl":"https://m.media-amazon.com/images/I/71IdnD6HdaL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4635310485","title":"ADAPTATION アダプテーション 適応 気候危機をサバイバルするための100の戦略","bylineInfo":"肱岡靖明(編集),根本緑(著)","imgUrl":"https://m.media-amazon.com/images/I/81Xn8oSpF9L._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4798060925","title":"図解入門 よくわかる最新センサ技術の基本と仕組み","bylineInfo":"松本光春(著)","imgUrl":"https://m.media-amazon.com/images/I/710LivXjlKL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4774408328","title":"もっと調べる技術: 国会図書館秘伝のレファレンス・チップス2","bylineInfo":"小林昌樹(著)","imgUrl":"https://m.media-amazon.com/images/I/51rnpUhJFzL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4794227256","title":"ナットとボルト 世界を変えた7つの小さな発明","bylineInfo":"ロマ・アグラワル(著),牧尾晴喜(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/714roydZtPL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798172359","title":"テスト自動化実践ガイド 継続的にWebアプリケーションを改善するための知識と技法","bylineInfo":"末村拓也(著)","imgUrl":"https://m.media-amazon.com/images/I/81Ukoqlpo3L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4492800964","title":"人類は宇宙のどこまで旅できるのか: これからの「遠い恒星への旅」の科学とテクノロジー","bylineInfo":"レス・ジョンソン(著),吉田三知世(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/812NQMF1yTL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4065316243","title":"「複雑系」入門 カオス、フラクタルから生命の謎まで (ブルーバックス)","bylineInfo":"金重明(著)","imgUrl":"https://m.media-amazon.com/images/I/81sgk+2VngL._SY385_.jpg"}

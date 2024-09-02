@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2024-07-31T10:38:40.296Z</updated>
+    <updated>2024-08-31T10:29:20.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,18 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2024年8月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2024/08/31/2024%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2024/08/31/2024%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2024-08-31T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+「複雑系」入門
+
+カオス、フラクタル、ライフゲームといった近代のパラダイムがなぜ注目されているのか。そして、これらのパラダイムで科学がどのように発展していけるかについて。良書。
+カオス、フラクタルについてはなんか数学者たちが注目しているらしい、ライフゲームはときどき実装しているひとがいるな、くらいの認識であった。この本を読んでようやくそれらがなぜ注目するに値するのかの一端を知れた気が]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年7月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2024/07/31/2024%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -135,17 +147,5 @@ ChatGPTに文章を書かせるのではなく、ChatGPTを利用して文章を
 言語はジェスチャーゲームが由来となってできたという説をベースに、言語処理に関する研究や言語誕生に関する歴史、子供の言語獲得に関しての考察などを述べていく本。
 言語の成り立ちであったり、新語の生成といったものに興味があるならオススメ。
 ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023年12月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2023/12/29/2023%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2023/12/29/2023%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2023-12-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いつもの。
-
-万物の黎明
-
-先史時代の人類が平等で無邪気な存在であるとか戦争好きな存在といった先入観・誤解を取り除くために、考古学と人類学の知見とともに格闘していく本。
-人類が穀物を発見したため、農耕を主とした定住生活となり、人口が増えて都市となり文明ができた。というのが、これまでの常識であったが、これはどうやら現代からみた安直なストーリー付けであり、そこの対応関係はかなり薄そうだという論が展開さ]]></summary>
     </entry>
 </feed>
