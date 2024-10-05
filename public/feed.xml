@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Sat, 31 Aug 2024 10:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 14:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,32 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[引越しの忘備録 2024]]></title>
+            <link>https://blog.alfebelow.com/entry/2024/10/05/%E5%BC%95%E8%B6%8A%E3%81%97%E3%81%AE%E5%BF%98%E5%82%99%E9%8C%B2%202024</link>
+            <guid>https://blog.alfebelow.com/entry/2024/10/05/%E5%BC%95%E8%B6%8A%E3%81%97%E3%81%AE%E5%BF%98%E5%82%99%E9%8C%B2%202024</guid>
+            <pubDate>Sat, 05 Oct 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[9月末に引越しをしたのでその忘備録。先々でまた引越すことになったときにスケジュール感とか注意点を把握するための記録。
+内見
+ふと思い立ち内見を入れる。8月25日に2件の内見を行い、その場で物件を決定した。
+<p>物件の申し込み書類と家賃支払用のエポスのサービスへの登録サインを行った。<br>
+問題がなければ翌々週に再訪問。それまでに審査通過の連絡、その後諸経費(40万弱)の振込。</p>
+次回への]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2024年9月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2024/09/30/2024%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2024/09/30/2024%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Mon, 30 Sep 2024 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+水と清潔
+
+「清潔」に対する文化の違い。ガンジス川での沐浴、イスラム教とキリスト教の清潔さにおける対立、江戸時代の銭湯の様子など。
+<p>インドでは動く水を清浄、動かない水を不浄とみなすので、汚いガンジス川を清浄で聖なる水と考える。
+洗礼で振りかけた神聖な水を生涯身体に取り置くため体を洗おうとしなかったキリスト教の聖人たち。
+仏教伝来とともに入浴が推奨され、鎌倉時代には一般人に無]]></description>
+        </item>
         <item>
             <title><![CDATA[2024年8月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2024/08/31/2024%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -118,37 +144,6 @@ ChatGPTに文章を書かせるのではなく、ChatGPTを利用して文章を
 おみくじが古代からどういう変遷を辿ってきたのか。おみくじにはなぜ和歌や漢文が書かれているのか。
 大吉や凶と書かれている部分に注目して読む人が多いが、メインはそこでなく和歌やメッセージの部分だよ、ということを各時代ごとの変遷を見ながら解説してくれる。
 占いたい人が自作のくじを作っていたところから始まり、平安時代には神聖なお告げを受け取る]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年1月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2024/01/31/2024%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2024/01/31/2024%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Wed, 31 Jan 2024 01:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-脳科学はウェルビーイングをどう語るか？
-
-<p>ミラーニューロンと心の痛みの緩和について。
-痛みやストレスがどのように脳に伝わっているのか、それらを軽減してウェルビーイングを向上させるには、という内容。</p>
-保健の教科書みたいな読後感であった。
-興味深かったトピックとしては以下。
-<ul>
-共感性が高い人とふれあうと鎮痛作用が高くなる。
-五感とおなじように、消化器や循環器がもつ内]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2023年に読んで良かった7冊の本]]></title>
-            <link>https://blog.alfebelow.com/entry/2023/12/30/2023%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2023/12/30/2023%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC</guid>
-            <pubDate>Sat, 30 Dec 2023 11:00:00 GMT</pubDate>
-            <description><![CDATA[年末なので、2023年に読んだ中で良かった本をまとめておこうという記事。
-今年も、年内に読んだ本の中から特に良かった本を7冊紹介します。
-
-言語はこうして生まれる
-
-言語はジェスチャーゲームが由来となってできたという説をベースに、言語処理に関する研究や言語誕生に関する歴史、子供の言語獲得に関しての考察などを述べていく本。
-言語の成り立ちであったり、新語の生成といったものに興味があるならオススメ。
-]]></description>
         </item>
     </channel>
 </rss>

@@ -249,3 +249,18 @@
 {"url":"https://www.amazon.co.jp/dp/4798172359","title":"テスト自動化実践ガイド 継続的にWebアプリケーションを改善するための知識と技法","bylineInfo":"末村拓也(著)","imgUrl":"https://m.media-amazon.com/images/I/81Ukoqlpo3L._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4492800964","title":"人類は宇宙のどこまで旅できるのか: これからの「遠い恒星への旅」の科学とテクノロジー","bylineInfo":"レス・ジョンソン(著),吉田三知世(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/812NQMF1yTL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4065316243","title":"「複雑系」入門 カオス、フラクタルから生命の謎まで (ブルーバックス)","bylineInfo":"金重明(著)","imgUrl":"https://m.media-amazon.com/images/I/81sgk+2VngL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0BSMVPJCT","title":"調べる技術 国会図書館秘伝のレファレンス・チップス","bylineInfo":"小林昌樹(著)","imgUrl":"https://m.media-amazon.com/images/I/81OfS-AvprL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4416623127","title":"おせっかいな化石案内: 見えないものが見えてくる! 古生物の観賞ポイントを解説してみた","bylineInfo":"芝原暁彦(著)","imgUrl":"https://m.media-amazon.com/images/I/81G7RABG3bL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4022631341","title":"水と清潔——風呂、トイレ、水道の比較文化史 (朝日選書1043)","bylineInfo":"福田眞人(著)","imgUrl":"https://m.media-amazon.com/images/I/81BlgmhD8qL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4863113927","title":"学芸員しか知らない 美術館が楽しくなる話","bylineInfo":"ちいさな美術館の学芸員(著)","imgUrl":"https://m.media-amazon.com/images/I/81qHmlzlMQL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4065352509","title":"サピエンス前史 脊椎動物の進化から人類に至る5億年の物語 (ブルーバックス B 2255)","bylineInfo":"土屋健(著),木村由莉(監修)","imgUrl":"https://m.media-amazon.com/images/I/71VMMKv5xZL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0BSMVPJCT","title":"調べる技術 国会図書館秘伝のレファレンス・チップス","bylineInfo":"小林昌樹(著)","imgUrl":"https://m.media-amazon.com/images/I/81OfS-AvprL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4416623127","title":"おせっかいな化石案内: 見えないものが見えてくる! 古生物の観賞ポイントを解説してみた","bylineInfo":"芝原暁彦(著)","imgUrl":"https://m.media-amazon.com/images/I/81G7RABG3bL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4065352509","title":"サピエンス前史 脊椎動物の進化から人類に至る5億年の物語 (ブルーバックス B 2255)","bylineInfo":"土屋健(著),木村由莉(監修)","imgUrl":"https://m.media-amazon.com/images/I/71VMMKv5xZL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4022631341","title":"水と清潔——風呂、トイレ、水道の比較文化史 (朝日選書1043)","bylineInfo":"福田眞人(著)","imgUrl":"https://m.media-amazon.com/images/I/81BlgmhD8qL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4863113927","title":"学芸員しか知らない 美術館が楽しくなる話","bylineInfo":"ちいさな美術館の学芸員(著)","imgUrl":"https://m.media-amazon.com/images/I/81qHmlzlMQL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0BSMVPJCT","title":"調べる技術 国会図書館秘伝のレファレンス・チップス","bylineInfo":"小林昌樹(著)","imgUrl":"https://m.media-amazon.com/images/I/81OfS-AvprL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4022631341","title":"水と清潔——風呂、トイレ、水道の比較文化史 (朝日選書1043)","bylineInfo":"福田眞人(著)","imgUrl":"https://m.media-amazon.com/images/I/81BlgmhD8qL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4416623127","title":"おせっかいな化石案内: 見えないものが見えてくる! 古生物の観賞ポイントを解説してみた","bylineInfo":"芝原暁彦(著)","imgUrl":"https://m.media-amazon.com/images/I/81G7RABG3bL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4863113927","title":"学芸員しか知らない 美術館が楽しくなる話","bylineInfo":"ちいさな美術館の学芸員(著)","imgUrl":"https://m.media-amazon.com/images/I/81qHmlzlMQL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4065352509","title":"サピエンス前史 脊椎動物の進化から人類に至る5億年の物語 (ブルーバックス B 2255)","bylineInfo":"土屋健(著),木村由莉(監修)","imgUrl":"https://m.media-amazon.com/images/I/71VMMKv5xZL._SY385_.jpg"}
