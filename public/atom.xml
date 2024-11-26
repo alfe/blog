@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2024-10-05T14:18:55.534Z</updated>
+    <updated>2024-10-31T13:35:47.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,19 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2024年10月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2024/10/31/2024%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2024/10/31/2024%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2024-10-31T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+ラトヴィアの図書館
+
+バルト三国の1つであるラトビアの図書館事情について。ソ連とナチス・ドイツによって繰り返し占領に遭い、ラトビア語と文化の弱体化を克服するため図書館をどのように立て直していったか。
+<p>ラトビア語を守るためラトビア語を唯一の国家語と規定しつつも、図書館には実際の話者数に配慮しロシア語・ウクライナ語・ポーランド語などの資料が用意されている。
+作家が図書館を訪問する]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[引越しの忘備録 2024]]></title>
         <id>https://blog.alfebelow.com/entry/2024/10/05/%E5%BC%95%E8%B6%8A%E3%81%97%E3%81%AE%E5%BF%98%E5%82%99%E9%8C%B2%202024</id>
@@ -129,18 +142,5 @@ AI・機械翻訳と英語学習
 大学での英語教育に機械翻訳ツールを大々的に取り入れたらどういう影響があったかの報告。
 立命館大学では機械翻訳や生成AIを英語の授業に積極的に取り入れたが、どのような取り入れ方を試しているのか、翻訳ツールを導入したことによる学生への影響はどうであったかが書かれている。
 ChatGPTに文章を書かせるのではなく、ChatGPTを利用して文章を書く。機械翻訳を利]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年2月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2024/02/29/2024%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2024/02/29/2024%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2024-02-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いつもの。
-
-おみくじの歴史: 神仏のお告げはなぜ詩歌なのか
-
-おみくじが古代からどういう変遷を辿ってきたのか。おみくじにはなぜ和歌や漢文が書かれているのか。
-大吉や凶と書かれている部分に注目して読む人が多いが、メインはそこでなく和歌やメッセージの部分だよ、ということを各時代ごとの変遷を見ながら解説してくれる。
-占いたい人が自作のくじを作っていたところから始まり、平安時代には神聖なお告げを受け取る]]></summary>
     </entry>
 </feed>

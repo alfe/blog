@@ -264,3 +264,7 @@
 {"url":"https://www.amazon.co.jp/dp/4416623127","title":"おせっかいな化石案内: 見えないものが見えてくる! 古生物の観賞ポイントを解説してみた","bylineInfo":"芝原暁彦(著)","imgUrl":"https://m.media-amazon.com/images/I/81G7RABG3bL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4863113927","title":"学芸員しか知らない 美術館が楽しくなる話","bylineInfo":"ちいさな美術館の学芸員(著)","imgUrl":"https://m.media-amazon.com/images/I/81qHmlzlMQL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4065352509","title":"サピエンス前史 脊椎動物の進化から人類に至る5億年の物語 (ブルーバックス B 2255)","bylineInfo":"土屋健(著),木村由莉(監修)","imgUrl":"https://m.media-amazon.com/images/I/71VMMKv5xZL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4910108017","title":"「家庭料理」という戦場: 暮らしはデザインできるか?","bylineInfo":"久保明教(著)","imgUrl":"https://m.media-amazon.com/images/I/41clvdmts-L._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4622097028","title":"世界目録をつくろうとした男――奇才ポール・オトレと情報化時代の誕生","bylineInfo":"アレックス・ライト(原著),鈴木和博(翻訳),根本彰(解説)&0その他","imgUrl":"https://m.media-amazon.com/images/I/71f8mNncFSL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798073830","title":"ラトヴィアの図書館","bylineInfo":"吉田右子(著)","imgUrl":"https://m.media-amazon.com/images/I/81PRImWlhtL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4863102844","title":"間違いだらけの電力問題","bylineInfo":"山本隆三(著)","imgUrl":"https://m.media-amazon.com/images/I/71rO-n3qgoL._SY385_.jpg"}
