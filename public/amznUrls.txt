@@ -268,3 +268,15 @@
 {"url":"https://www.amazon.co.jp/dp/4622097028","title":"世界目録をつくろうとした男――奇才ポール・オトレと情報化時代の誕生","bylineInfo":"アレックス・ライト(原著),鈴木和博(翻訳),根本彰(解説)&0その他","imgUrl":"https://m.media-amazon.com/images/I/71f8mNncFSL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4798073830","title":"ラトヴィアの図書館","bylineInfo":"吉田右子(著)","imgUrl":"https://m.media-amazon.com/images/I/81PRImWlhtL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4863102844","title":"間違いだらけの電力問題","bylineInfo":"山本隆三(著)","imgUrl":"https://m.media-amazon.com/images/I/71rO-n3qgoL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4867221317","title":"患者のための図書館学: 医療・健康情報リテラシーを鍛える","bylineInfo":"山口直比古(著)","imgUrl":"https://m.media-amazon.com/images/I/81uihmXL37L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4844138057","title":"収納され続ける収納　生活者のデザイン史","bylineInfo":"北田聖子(著)","imgUrl":"https://m.media-amazon.com/images/I/31Z29dxNNVL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0D921T628","title":"『現代調理道具論』　おいしさ・美しさ・楽しさを最大化する　【電子版だけの特典！スペシャルレシピ５点付き】","bylineInfo":"稲田俊輔(著)","imgUrl":"https://m.media-amazon.com/images/I/71fEnZc5cUL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0CZJFZFTK","title":"軽量登山入門","bylineInfo":"栗山祐哉(著)","imgUrl":"https://m.media-amazon.com/images/I/81bBsJeUtaL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DCNJMHNL","title":"大学4年間の天文学が10時間でざっと学べる","bylineInfo":"戸谷友則(著)","imgUrl":"https://m.media-amazon.com/images/I/913q-LrdOGL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4254171927","title":"発光生物のはなし: ホタル,きのこ,深海魚……世界は光る生き物でイッパイだ","bylineInfo":"大場裕一(編集)","imgUrl":"https://m.media-amazon.com/images/I/61y-I4HWIFL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0D921T628","title":"『現代調理道具論』　おいしさ・美しさ・楽しさを最大化する　【電子版だけの特典！スペシャルレシピ５点付き】","bylineInfo":"稲田俊輔(著)","imgUrl":"https://m.media-amazon.com/images/I/71fEnZc5cUL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0CZJFZFTK","title":"軽量登山入門","bylineInfo":"栗山祐哉(著)","imgUrl":"https://m.media-amazon.com/images/I/81bBsJeUtaL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4844138057","title":"収納され続ける収納　生活者のデザイン史","bylineInfo":"北田聖子(著)","imgUrl":"https://m.media-amazon.com/images/I/71G7u+czByL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DCNJMHNL","title":"大学4年間の天文学が10時間でざっと学べる","bylineInfo":"戸谷友則(著)","imgUrl":"https://m.media-amazon.com/images/I/913q-LrdOGL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4254171927","title":"発光生物のはなし: ホタル,きのこ,深海魚……世界は光る生き物でイッパイだ","bylineInfo":"大場裕一(編集)","imgUrl":"https://m.media-amazon.com/images/I/61y-I4HWIFL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4867221317","title":"患者のための図書館学: 医療・健康情報リテラシーを鍛える","bylineInfo":"山口直比古(著)","imgUrl":"https://m.media-amazon.com/images/I/81uihmXL37L._SY385_.jpg"}
