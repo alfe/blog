@@ -280,3 +280,10 @@
 {"url":"https://www.amazon.co.jp/dp/B0DCNJMHNL","title":"大学4年間の天文学が10時間でざっと学べる","bylineInfo":"戸谷友則(著)","imgUrl":"https://m.media-amazon.com/images/I/913q-LrdOGL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4254171927","title":"発光生物のはなし: ホタル,きのこ,深海魚……世界は光る生き物でイッパイだ","bylineInfo":"大場裕一(編集)","imgUrl":"https://m.media-amazon.com/images/I/61y-I4HWIFL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4867221317","title":"患者のための図書館学: 医療・健康情報リテラシーを鍛える","bylineInfo":"山口直比古(著)","imgUrl":"https://m.media-amazon.com/images/I/81uihmXL37L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4801303986","title":"超実践！　サラリーマン節税術","bylineInfo":"梅本正樹(著)","imgUrl":"https://m.media-amazon.com/images/I/71fL84xA01L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4788518546","title":"記号創発システム論ー来るべきAI共生社会の「意味」理解にむけて（ワードマップ）","bylineInfo":"谷口忠大(著,編集)","imgUrl":"https://m.media-amazon.com/images/I/513rQ2qdDLL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4469269948","title":"そもそも「よい眠り」とは何かー努力によらない睡眠改善のヒント","bylineInfo":"福田一彦(著)","imgUrl":"https://m.media-amazon.com/images/I/41gi4yttt6L._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4816376240","title":"家計と世界情勢の関係がまるわかり! 暮らしと物価の地政学","bylineInfo":"小山堅(監修)","imgUrl":"https://m.media-amazon.com/images/I/81425oRtEJL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4777822508","title":"旅行が200%楽しくなる! スーツケース収納術","bylineInfo":"三田村蕗子(著)","imgUrl":"https://m.media-amazon.com/images/I/71CheekzGAL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4297145715","title":"［改訂新版］プロになるためのWeb技術入門","bylineInfo":"小森裕介(著)","imgUrl":"https://m.media-amazon.com/images/I/61whkFViA5L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4866674989","title":"地政学から読み解く!戦略物資の未来地図","bylineInfo":"小山堅(著)","imgUrl":"https://m.media-amazon.com/images/I/91GQpCptOvL._SY385_.jpg"}
