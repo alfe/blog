@@ -287,3 +287,15 @@
 {"url":"https://www.amazon.co.jp/dp/4777822508","title":"旅行が200%楽しくなる! スーツケース収納術","bylineInfo":"三田村蕗子(著)","imgUrl":"https://m.media-amazon.com/images/I/71CheekzGAL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4297145715","title":"［改訂新版］プロになるためのWeb技術入門","bylineInfo":"小森裕介(著)","imgUrl":"https://m.media-amazon.com/images/I/61whkFViA5L._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4866674989","title":"地政学から読み解く!戦略物資の未来地図","bylineInfo":"小山堅(著)","imgUrl":"https://m.media-amazon.com/images/I/91GQpCptOvL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4766133935","title":"名前のないデザイン 世界の日常と社会を動かす思いがけないデザインの話","bylineInfo":"WorksThatWork編集部(編集),大木麻利子(翻訳),奥田由意(翻訳),野見山桜(翻訳)&1その他","imgUrl":"https://m.media-amazon.com/images/I/71GkdVIQy+L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4781603998","title":"ブレーン・ハッカー 巨人の「肩」に乗れ!―「新しいこと」を次々に考える“脳”! (East Press Business)","bylineInfo":"デイビッド・コードマレイ(著),DavidKordMurray(原名),本田直之(翻訳)&0その他","imgUrl":"https://m.media-amazon.com/images/I/814gd5ZsuRL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4044006091","title":"日本語をどう書くか (角川ソフィア文庫)","bylineInfo":"柳父章(著)","imgUrl":"https://m.media-amazon.com/images/I/81RMllX7AYL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4326653728","title":"自己啓発の時代: 「自己」の文化社会学的探究","bylineInfo":"牧野智和(著)","imgUrl":"https://m.media-amazon.com/images/I/71IesfYhHPL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4480072721","title":"人間のトリセツ: 人工知能への手紙 (ちくま新書)","bylineInfo":"黒川伊保子(著)","imgUrl":"https://m.media-amazon.com/images/I/51ImXtWFokL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4627261519","title":"WORLD BEYOND PHYSICS:生命はいかにして複雑系となったか","bylineInfo":"スチュアート・A・カウフマン(著),水谷淳(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/61lX6QNAlrL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4306073564","title":"ユニバーサルデザインの基礎と実践 ―ひとの感覚から空間デザインを考える","bylineInfo":"(一社)日本福祉のまちづくり学会身体と空間特別研究委員会(著,編集),原利明(著),伊藤納奈(著,編集),太田篤史(著,編集),船場ひさお(著,編集),松田雄二(著,編集),矢野喜正(著,編集),原利明(編集)&7その他","imgUrl":"https://m.media-amazon.com/images/I/71EOz+MPCKL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4802511876","title":"カーム・テクノロジー 生活に溶け込む情報技術のデザイン","bylineInfo":"アンバー・ケース(AmberCase)(著),大木和典(muiLab)(監修),佐藤宗彦(muiLab)(監修),森口明子(muiLab)(監修),高崎拓哉(翻訳)&3その他","imgUrl":"https://m.media-amazon.com/images/I/61RiopJpEiL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0C7ZY2JL1","title":"プロダクトデザインのスタイリング入門　アイデアに形を与えるための11ステップ","bylineInfo":"ピーター・ダブズ(著),小野健太（監修）(著),百合田香織(翻訳)&0その他","imgUrl":"https://m.media-amazon.com/images/I/719VpQ+lBfL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4315524832","title":"注意を操る心理学~気が散ることだらけの現代で自分を保つには","bylineInfo":"ステファンファンデルスティッヘル(著),清水寛之(監修),井上智義(監修)&0その他","imgUrl":"https://m.media-amazon.com/images/I/41+cViYhnmL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4502509612","title":"物価の歴史","bylineInfo":"平山賢一(著)","imgUrl":"https://m.media-amazon.com/images/I/81+OVPM0JmL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4153400106","title":"かたちには理由がある (ハヤカワ新書 010)","bylineInfo":"秋田道夫(著)","imgUrl":"https://m.media-amazon.com/images/I/61D8YbrSUoL._SY385_.jpg"}

@@ -41,7 +41,7 @@ const Ogp = (props) => {
   const siteTitle = "FUN YOU BLOG"
   return (
     <Head>
-      <meta property="og:url" content={`https://blog.alfebelow.com/entry${props.slug}`} />
+      <meta property="og:url" content={`https://blog.alfebelow.com/entry/${props.slug}`} />
       <meta property="og:type" content="website" />
       <meta property="og:title" content={props.title} />
       <meta property="og:description" content={props.description} />
