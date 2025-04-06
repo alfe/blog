@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Fri, 31 Jan 2025 14:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Mar 2025 11:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -15,7 +15,33 @@
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
         <item>
-            <title><![CDATA[2025年01月に読んだ本]]></title>
+            <title><![CDATA[2025年3月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2025/03/31/2025%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2025/03/31/2025%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Mon, 31 Mar 2025 01:30:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+亜宗教 オカルト、スピリチュアル、疑似科学から陰謀論まで
+
+西洋と日本のオカルトをはじめとした信念の数々を科学の勃興から現代にいたるまで見ていく。
+著者が亜宗教と名付けた、宗教と半ば似ているが宗教でないもの（カルトや反ワクチン主義、陰謀論など）が、どのような時代背景や精神の流れによって生まれてきたのかについて語られる。
+「亜宗教が人類の知恵の発展に積極的に寄与することは概ねないと言え]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2025年2月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2025/02/28/2025%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2025/02/28/2025%E5%B9%B42%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Fri, 28 Feb 2025 01:30:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+まったく新しいアカデミック・ライティングの教科書
+
+人文学における論文はどういった文章であるか、そして論文を書くためにどのように文章を構成していけばいいか。良書。
+論文の核となる主張（アーギュメント）を提示し、その主張が正しいことを論証するための本文をどう構築していけば説得力が生まれるのかが書かれている。
+パラグラフになるかという観点でトピックを選定する。「観察」と「解釈」の次元を意]]></description>
+        </item>
+        <item>
+            <title><![CDATA[2025年1月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2025/01/31/2025%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
             <guid>https://blog.alfebelow.com/entry/2025/01/31/2025%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
             <pubDate>Fri, 31 Jan 2025 05:00:00 GMT</pubDate>
@@ -118,34 +144,6 @@ LED式薄型信号機をデザインしたひとのデザイン論。
 
 カオス、フラクタル、ライフゲームといった近代のパラダイムがなぜ注目されているのか。そして、これらのパラダイムで科学がどのように発展していけるかについて。良書。
 カオス、フラクタルについてはなんか数学者たちが注目しているらしい、ライフゲームはときどき実装しているひとがいるな、くらいの認識であった。この本を読んでようやくそれらがなぜ注目するに値するのかの一端を知れた気が]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年7月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2024/07/31/2024%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2024/07/31/2024%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Wed, 31 Jul 2024 01:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-データとデザイン
-
-データをより人によりそうものとするにはどうデザインしていくべきかについて。良書。
-ビッグデータという資源が生まれているが、データに人々が慣れていないため扱い切れていない。データと人をつなぐ媒介としてのデザインを考えていこうという内容。
-データの可視化における主な役割として「探索」と「提示」をそれぞれ個別に求められてきたが、多くの人がデータを触れるようになり両方を融]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年6月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2024/06/30/2024%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2024/06/30/2024%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Sun, 30 Jun 2024 01:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-脳に収まるコードの書き方
-
-プログラミングの本。メンテナンスをしやすいコードの書き方について。
-Gitをつかおう、問題を見つけるにはコードを半分削除してみよう、1つのコードではやることを7以内に収めようみたいなことを書いている。
-さっくりと『SOFT SKILLS』みたいなテイストの『リーダブルコード』といったオモムキ。
-研修ではまだ『リーダブルコード』のほうが使いやすいかな。
-爆発]]></description>
         </item>
     </channel>
 </rss>

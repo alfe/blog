@@ -299,3 +299,16 @@
 {"url":"https://www.amazon.co.jp/dp/4315524832","title":"注意を操る心理学~気が散ることだらけの現代で自分を保つには","bylineInfo":"ステファンファンデルスティッヘル(著),清水寛之(監修),井上智義(監修)&0その他","imgUrl":"https://m.media-amazon.com/images/I/41+cViYhnmL._SY445_SX342_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4502509612","title":"物価の歴史","bylineInfo":"平山賢一(著)","imgUrl":"https://m.media-amazon.com/images/I/81+OVPM0JmL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4153400106","title":"かたちには理由がある (ハヤカワ新書 010)","bylineInfo":"秋田道夫(著)","imgUrl":"https://m.media-amazon.com/images/I/61D8YbrSUoL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4309757588","title":"仕舞う: 美しい収納の知恵 (らんぷの本)","bylineInfo":"小泉和子(編集)","imgUrl":"https://m.media-amazon.com/images/I/91ZrkKHecxL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4766139852","title":"製本家とつくる紙文具: オリジナル文具づくりから文庫本の仕立て直しまで、35のアイデア","bylineInfo":"永岡綾(著)","imgUrl":"https://m.media-amazon.com/images/I/41lpRoUoTkL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4787200887","title":"図書館を学問する: なぜ図書館の本棚はいっぱいにならないのか","bylineInfo":"佐藤翔(著)","imgUrl":"https://m.media-amazon.com/images/I/81q046UJZLL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4334103804","title":"まったく新しいアカデミック・ライティングの教科書","bylineInfo":"阿部幸大(著)","imgUrl":"https://m.media-amazon.com/images/I/81frwJNPMJL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4309757588","title":"仕舞う: 美しい収納の知恵 (らんぷの本)","bylineInfo":"小泉和子(編集)","imgUrl":"https://m.media-amazon.com/images/I/91ZrkKHecxL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4766139852","title":"製本家とつくる紙文具: オリジナル文具づくりから文庫本の仕立て直しまで、35のアイデア","bylineInfo":"永岡綾(著)","imgUrl":"https://m.media-amazon.com/images/I/41lpRoUoTkL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4787200887","title":"図書館を学問する: なぜ図書館の本棚はいっぱいにならないのか","bylineInfo":"佐藤翔(著)","imgUrl":"https://m.media-amazon.com/images/I/81q046UJZLL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4334103804","title":"まったく新しいアカデミック・ライティングの教科書","bylineInfo":"阿部幸大(著)","imgUrl":"https://m.media-amazon.com/images/I/81frwJNPMJL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4844137948","title":"道具のブツリ","bylineInfo":"田中幸(著),結城千代子(著),大塚文香(イラスト)&0その他","imgUrl":"https://m.media-amazon.com/images/I/71XKGo+hBcL._SY522_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0D3H9YC73","title":"温暖化に負けない生き物たち　気候変動を生き抜くしたたかな戦略","bylineInfo":"ソーア・ハンソン(著),黒沢令子(著)","imgUrl":"https://m.media-amazon.com/images/I/91vl1-T4NAL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/402333426X","title":"発明が変えた世界史：ビフォーとアフターが一目でわかる","bylineInfo":"祝田秀全(監修)","imgUrl":"https://m.media-amazon.com/images/I/81LDY2BcY1L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B074FS6QRY","title":"サボり上手な動物たち－海の中から新発見！ (岩波科学ライブラリー)","bylineInfo":"佐藤克文(著),森阪匡通(著)","imgUrl":"https://m.media-amazon.com/images/I/81qDuLtrAaL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4797681217","title":"亜宗教 オカルト、スピリチュアル、疑似科学から陰謀論まで (インターナショナル新書)","bylineInfo":"中村圭志(著)","imgUrl":"https://m.media-amazon.com/images/I/71GJOwVS7DL._SY425_.jpg"}
