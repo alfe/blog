@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Mon, 31 Mar 2025 11:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 01:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,19 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2025年4月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2025/04/30/2025%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2025/04/30/2025%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Wed, 30 Apr 2025 01:30:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+動物には何が見え、聞こえ、感じられるのか
+
+<p>動物が持つセンサーと環世界について。良書。
+環境全体のうち動物が知覚して体験できる部分のみを指して環世界と呼ぶ。人間と他の動物は異なる環世界を生きており、人間にとっての暗闇や静寂が他の動物にとってはそうでないということを知れる本。</p>
+人間は人間の感覚をベースに他の動物の能力を測ろうとしてしまう。他の動物にはそれぞれの生活に即し]]></description>
+        </item>
         <item>
             <title><![CDATA[2025年3月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2025/03/31/2025%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -132,18 +145,6 @@ LED式薄型信号機をデザインしたひとのデザイン論。
 <p>インドでは動く水を清浄、動かない水を不浄とみなすので、汚いガンジス川を清浄で聖なる水と考える。
 洗礼で振りかけた神聖な水を生涯身体に取り置くため体を洗おうとしなかったキリスト教の聖人たち。
 仏教伝来とともに入浴が推奨され、鎌倉時代には一般人に無]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年8月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2024/08/31/2024%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2024/08/31/2024%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Sat, 31 Aug 2024 01:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-「複雑系」入門
-
-カオス、フラクタル、ライフゲームといった近代のパラダイムがなぜ注目されているのか。そして、これらのパラダイムで科学がどのように発展していけるかについて。良書。
-カオス、フラクタルについてはなんか数学者たちが注目しているらしい、ライフゲームはときどき実装しているひとがいるな、くらいの認識であった。この本を読んでようやくそれらがなぜ注目するに値するのかの一端を知れた気が]]></description>
         </item>
     </channel>
 </rss>

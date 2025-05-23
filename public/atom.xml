@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2025-03-31T11:49:44.224Z</updated>
+    <updated>2025-05-01T01:01:24.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,19 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2025年4月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2025/04/30/2025%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2025/04/30/2025%E5%B9%B44%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2025-04-30T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+動物には何が見え、聞こえ、感じられるのか
+
+<p>動物が持つセンサーと環世界について。良書。
+環境全体のうち動物が知覚して体験できる部分のみを指して環世界と呼ぶ。人間と他の動物は異なる環世界を生きており、人間にとっての暗闇や静寂が他の動物にとってはそうでないということを知れる本。</p>
+人間は人間の感覚をベースに他の動物の能力を測ろうとしてしまう。他の動物にはそれぞれの生活に即し]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年3月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2025/03/31/2025%E5%B9%B43%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -130,17 +143,5 @@ LED式薄型信号機をデザインしたひとのデザイン論。
 <p>インドでは動く水を清浄、動かない水を不浄とみなすので、汚いガンジス川を清浄で聖なる水と考える。
 洗礼で振りかけた神聖な水を生涯身体に取り置くため体を洗おうとしなかったキリスト教の聖人たち。
 仏教伝来とともに入浴が推奨され、鎌倉時代には一般人に無]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年8月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2024/08/31/2024%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2024/08/31/2024%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2024-08-31T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いつもの。
-
-「複雑系」入門
-
-カオス、フラクタル、ライフゲームといった近代のパラダイムがなぜ注目されているのか。そして、これらのパラダイムで科学がどのように発展していけるかについて。良書。
-カオス、フラクタルについてはなんか数学者たちが注目しているらしい、ライフゲームはときどき実装しているひとがいるな、くらいの認識であった。この本を読んでようやくそれらがなぜ注目するに値するのかの一端を知れた気が]]></summary>
     </entry>
 </feed>
