@@ -3,6 +3,8 @@ import PostLinkItem from "components/PostLinkItem"
 import Layout from "components/Layout"
 import OgpHeader from "components/OgpHeader"
 import { readContentFiles } from "lib/content-loader"
+import { useRouter } from "next/router"
+import { useState, useEffect } from "react"
 
 type categoryProps = {
   posts: {
@@ -13,12 +15,41 @@ type categoryProps = {
     thumbnail?: string;
   }[];
 }
-const category = (props: categoryProps) => {
+
+const POSTS_PER_PAGE = 20
+
+const Category = (props: categoryProps) => {
   const { posts } = props
+  const router = useRouter()
+  const [currentPage, setCurrentPage] = useState(1)
+  const [displayedPosts, setDisplayedPosts] = useState([])
+
+  useEffect(() => {
+    const startIndex = (currentPage - 1) * POSTS_PER_PAGE
+    const endIndex = startIndex + POSTS_PER_PAGE
+    setDisplayedPosts(posts.slice(startIndex, endIndex))
+  }, [currentPage, posts])
+
+  const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)
+
+  const handlePrevPage = () => {
+    if (currentPage > 1) {
+      setCurrentPage(currentPage - 1)
+      window.scrollTo({ top: 0, behavior: 'auto' })
+    }
+  }
+
+  const handleNextPage = () => {
+    if (currentPage < totalPages) {
+      setCurrentPage(currentPage + 1)
+      window.scrollTo({ top: 0, behavior: 'auto' })
+    }
+  }
+
   return (
     <Layout title="">
       <OgpHeader />
-      {posts.map((post, index) => (
+      {displayedPosts.map((post, index) => (
         <PostLinkItem
           key={`${index}-${post.slug}`}
           to={`/entry${post.dirname}${post.slug}`}
@@ -27,15 +58,90 @@ const category = (props: categoryProps) => {
           published={post.published}
         />
       ))}
+      
+      <div className="pagination">
+        <button
+          onClick={handlePrevPage}
+          disabled={currentPage === 1}
+          className="page-button"
+          aria-label="前のページへ"
+        >
+          <svg 
+            fill="none" 
+            stroke="currentColor" 
+            viewBox="0 -4 32 32"
+            width="24"
+            height="32"
+          >
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 19l-7-7 7-7" />
+          </svg>
+          前のページ
+        </button>
+
+        <div className="flex items-center text-sm text-gray-500">
+          <span className="font-medium text-gray-900">{currentPage}</span>
+          <span className="mx-1.5">/</span>
+          <span>{totalPages}</span>
+        </div>
+
+        <button
+          onClick={handleNextPage}
+          disabled={currentPage === totalPages}
+          className="page-button"
+          aria-label="次のページへ"
+        >
+          次のページ
+          <svg 
+            fill="none" 
+            stroke="currentColor" 
+            viewBox="0 -4 32 32"
+            width="24"
+            height="32"
+          >
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5l7 7-7 7" />
+          </svg>
+        </button>
+      </div>
+
       <style jsx global>{`
         img[alt="thumb"] {
           object-fit: cover;
         }
       `}</style>
+      
+      <style jsx>{`
+        .pagination {
+          display: flex;
+          justify-content: space-evenly;
+          align-items: center;
+          gap: 8px;
+          margin: 16px 0;
+        }
+        .page-button {
+          background: #3D501A;
+          color: #EEEEEE;
+          padding: 0 1rem;
+          width: 10rem;
+          height: 3rem;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          border-radius: 3px;
+        }
+        .page-button:focus {
+          outline: none;
+          background: #616850;
+        }
+        .page-button:disabled {
+          background: #616850;
+          opacity: 0.5;
+        }
+      `}</style>
     </Layout>
   )
 }
-export default category;
+
+export default Category;
 
 export const getStaticProps = async ({ params }) => {
   const posts = await readContentFiles({ fs })

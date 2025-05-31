@@ -3,14 +3,14 @@ Title: OBSでDiscordのアイコンを四角や横並びにするジェネレー
 Category:
 - プログラム
 Date: 2022-03-20T19:00:00+09:00
-IMAGE: https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20220320/20220320164720.png
+IMAGE: /img/2022/03/20/20220320164720.png
 ---
 
 Among us実況とかで雑談配信とかで、四角いDiscordのアイコンが横並びでぴょこぴょことよく動くのを見かけます。
 
 その見た目を自分好みに設定できるように「[OBSのDiscordアイコン外観変更ジェネレーター](https://obs-discord-icon.alfebelow.com/)」をつくりました。
 
-<iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fobs-discord-icon.alfebelow.com%2F" title="OBSのDiscordアイコン外観変更ジェネレーター" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: auto;"></iframe>
+[https://obs-discord-icon.alfebelow.com/](https://obs-discord-icon.alfebelow.com/)
 
 
 ### 何ができるの？
@@ -28,8 +28,7 @@ Among us実況とかで雑談配信とかで、四角いDiscordのアイコン�
 
 そして、変更後の見た目をOBSに反映するカスタムCSSが出力されます。
 
-
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/alfe1025/20220320/20220320164720.png" alt="f:id:alfe1025:20220320164720p:plain" width="1200" loading="lazy" title="" class="hatena-fotolife" itemprop="image" />
+![img](/img/2022/03/20/20220320164720.png)
 
 ### 導入方法
 
@@ -39,18 +38,17 @@ Among us実況とかで雑談配信とかで、四角いDiscordのアイコン�
 ##### 1. OBSのソースにブラウザを追加
 OBSを起動、OBSのシーンを選択後、「ソース」欄で右クリックしてブラウザを追加
 
-<div class="MuiBox-root css-xi606m" style="text-align: center; color: rgba(0, 0, 0, 0.87); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img src="https://obs-discord-icon.alfebelow.com/assets/1_add_browser.b4336576.png" /></div>
+![img](/img/2022/03/20/1_add_browser.png)
 
 ##### 2. Discord を起動
 起動していない場合は起動してください
 
-<div class="MuiBox-root css-xi606m" style="text-align: center; color: rgba(0, 0, 0, 0.87); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"> </div>
 
 ##### 3. Discord StreamKit Overlay にアクセス
 
+[Discord StreamKit Overlay](https://streamkit.discord.com/overlay) にアクセス
 
-[https://streamkit.discord.com/overlay](https://streamkit.discord.com/overlay) にアクセス
-<div class="MuiBox-root css-xi606m" style="text-align: center;"><img width="80%" src="https://obs-discord-icon.alfebelow.com/assets/2_Discord-StreamKit-Overlay.1be10a2f.png" style="border: 1px solid #1976d2; border-radius: 8px; margin: 1rem 0px;" /></div>
+![img](/img/2022/03/20/2_Discord-StreamKit-Overlay.png)
 
 ##### 4. ボイスウィジェットのURLを取得
 
@@ -62,27 +60,27 @@ OBSを起動、OBSのシーンを選択後、「ソース」欄で右クリッ�
 
 右下に表示されるURLをコピー
 
-<div class="MuiBox-root css-xi606m" style="text-align: center; color: rgba(0, 0, 0, 0.87); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img width="80%" src="https://obs-discord-icon.alfebelow.com/assets/discord-url.0f1b9919.png" /></div>
+![img](/img/2022/03/20/discord-url.png)
 
 ##### 5. OBSにURLを入力
 OBSに戻り、中央にあるURLの入力欄に 3. でコピーしたURLを貼り付け
 
-<div class="MuiBox-root css-xi606m" style="text-align: center; color: rgba(0, 0, 0, 0.87); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img width="80%" src="https://obs-discord-icon.alfebelow.com/assets/1_obs_empty.cfb78304.png" /></div>
+![img](/img/2022/03/20/1_obs_empty.png)
 
 ##### 6. カスタムCSSを作成
-<span style="font-weight: 400;"><a href="https://obs-discord-icon.alfebelow.com/">OBSのDiscordアイコン外観変更ジェネレーター</a> </span>で好みの見た目を決めたあと、下に表示されるCSSをコピー
+[OBSのDiscordアイコン外観変更ジェネレーター](https://obs-discord-icon.alfebelow.com/)で好みの見た目を決めたあと、下に表示されるCSSをコピー
 
-<div class="MuiBox-root css-xi606m" style="text-align: center; color: rgba(0, 0, 0, 0.87); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img width="80%" src="https://obs-discord-icon.alfebelow.com/assets/copy-css.d1fe68cb.png" /></div>
+![img](/img/2022/03/20/copy-css.png)
 
 ##### 7. OBSにカスタムCSSを入力
 OBSに戻り、URLの少し下にあるカスタムCSSの入力欄に 5. でコピーしたカスタムCSSを貼り付け
 
-<div class="MuiBox-root css-xi606m" style="text-align: center; color: rgba(0, 0, 0, 0.87); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img width="80%" src="https://obs-discord-icon.alfebelow.com/assets/obs-css.3ec88a4a.png" /></div>
+![img](/img/2022/03/20/obs-css.png)
 
 ##### 8. 作成完了
 ダイアログをOKで閉じて完了。OBSに話している人が表示されます。
 
-<div class="MuiBox-root css-xi606m" style="text-align: center; color: rgba(0, 0, 0, 0.87); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><img width="80%" src="https://obs-discord-icon.alfebelow.com/assets/obs-complete.3113658d.png" /></div>
+![img](/img/2022/03/20/obs-complete.png)
  
 
 ### Q＆A
@@ -114,7 +112,7 @@ CSSの微調整するときにOBS上でやるの大変なので、ブラウザ�
 #### Q. こういうのも設定できるようにしてほしい
 
 
-GitHubわかるひとはレポジトリ( <a href="https://github.com/alfe/obs-discord-icons-css-generator">https://github.com/alfe/obs-discord-icons-css-generator</a> )にIssueとかプルリクとか投げてください。
+GitHubがわかる方はレポジトリ([https://github.com/alfe/obs-discord-icons-css-generator](https://github.com/alfe/obs-discord-icons-css-generator))にIssueやプルリクエストを投げてください。
 
 
 ついでにスターも押してくれると嬉しいです。

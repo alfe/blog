@@ -475,3 +475,28 @@
 {"url":"https://www.amazon.co.jp/dp/4480066977","title":"キレる女懲りない男: 男と女の脳科学 (ちくま新書 988)","bylineInfo":"黒川伊保子(著)","imgUrl":"https://m.media-amazon.com/images/I/41PkLCZAFaL._SY425_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4393365372","title":"あなたは、なぜ、つながれないのか　ラポールと身体知","bylineInfo":"高石宏輔(著)","imgUrl":"https://m.media-amazon.com/images/I/81KzH8K6nSL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4061385208","title":"投資家が「お金」よりも大切にしていること (星海社新書 30)","bylineInfo":"藤野英人(著)","imgUrl":"https://m.media-amazon.com/images/I/61792Uruo+L._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4526076066","title":"今日からモノ知りシリーズ トコトンやさしい段ボールの本","bylineInfo":"斎藤勝彦(監修),レンゴー株式会社(著)","imgUrl":"https://m.media-amazon.com/images/I/61kZropyMRL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4622097699","title":"並行宇宙は実在するか――この世界について知りうる限界を探る","bylineInfo":"松下安武(著),野村泰紀(監修)","imgUrl":"https://m.media-amazon.com/images/I/31ZB4j6aKOL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4296207849","title":"インフラメンテナンス大変革　老朽化の危機を救う建設DX","bylineInfo":"石田哲也(編集),岩城一郎(編集),日経コンストラクション(編集)&0その他","imgUrl":"https://m.media-amazon.com/images/I/81b0qCBZLIL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4480685162","title":"社会は「私」をどうかたちづくるのか (ちくまプリマー新書 ４８７)","bylineInfo":"牧野智和(著)","imgUrl":"https://m.media-amazon.com/images/I/61GbwTSbuRL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4000297287","title":"生成AIのしくみ　〈流れ〉が画像・音声・動画をつくる (岩波科学ライブラリー 328)","bylineInfo":"岡野原大輔(著)","imgUrl":"https://m.media-amazon.com/images/I/81dlBckf9fL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4526076066","title":"今日からモノ知りシリーズ トコトンやさしい段ボールの本","bylineInfo":"斎藤勝彦(監修),レンゴー株式会社(著)","imgUrl":"https://m.media-amazon.com/images/I/61kZropyMRL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4296207849","title":"インフラメンテナンス大変革　老朽化の危機を救う建設DX","bylineInfo":"石田哲也(編集),岩城一郎(編集),日経コンストラクション(編集)&0その他","imgUrl":"https://m.media-amazon.com/images/I/81b0qCBZLIL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4622097699","title":"並行宇宙は実在するか――この世界について知りうる限界を探る","bylineInfo":"松下安武(著),野村泰紀(監修)","imgUrl":"https://m.media-amazon.com/images/I/71SvkkYl5PL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4480685162","title":"社会は「私」をどうかたちづくるのか (ちくまプリマー新書 ４８７)","bylineInfo":"牧野智和(著)","imgUrl":"https://m.media-amazon.com/images/I/61GbwTSbuRL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4000297287","title":"生成AIのしくみ　〈流れ〉が画像・音声・動画をつくる (岩波科学ライブラリー 328)","bylineInfo":"岡野原大輔(著)","imgUrl":"https://m.media-amazon.com/images/I/81dlBckf9fL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4140816589","title":"ゼロ・トゥ・ワン 君はゼロから何を生み出せるか","bylineInfo":"ピーター・ティール(著),ブレイク・マスターズ(著),瀧本哲史(その他),関美和(翻訳)&1その他","imgUrl":"https://m.media-amazon.com/images/I/71jHLe0jLtL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4839928401","title":"ノンデザイナーズ・デザインブック [フルカラー新装増補版]","bylineInfo":"RobinWilliams(著),吉川典秀(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/41nvddaG9BL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798128147","title":"ビジネスモデルYOU: キャリア再構築のための1ページメソッド","bylineInfo":"ティムクラーク(著),神田昌典(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/51pD1kmEXIL._SX342_SY445_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4478017328","title":"新版 小予算で優良顧客をつかむ方法 マーケティング常識11のウソ","bylineInfo":"神田昌典(著)","imgUrl":"https://m.media-amazon.com/images/I/41zevhULBRL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/432011048X","title":"とある弁当屋の統計技師(データサイエンティスト) ―データ分析のはじめかた―","bylineInfo":"石田基広(著),りんと(イラスト)","imgUrl":"https://m.media-amazon.com/images/I/71TMB3zZ73L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4140816589","title":"ゼロ・トゥ・ワン 君はゼロから何を生み出せるか","bylineInfo":"ピーター・ティール(著),ブレイク・マスターズ(著),瀧本哲史(その他),関美和(翻訳)&1その他","imgUrl":"https://m.media-amazon.com/images/I/71jHLe0jLtL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4478028656","title":"男女脳戦略。――男にはデータを、女にはイメージを売れ","bylineInfo":"メンタリストDaiGo(著)","imgUrl":"https://m.media-amazon.com/images/I/41tcksYc7iL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4478760993","title":"ザ・マインドマップ","bylineInfo":"トニー・ブザン(著),バリー・ブザン(著),神田昌典(翻訳)&0その他","imgUrl":"https://m.media-amazon.com/images/I/81q+QLihfsL._SY342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4839928401","title":"ノンデザイナーズ・デザインブック [フルカラー新装増補版]","bylineInfo":"RobinWilliams(著),吉川典秀(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/41nvddaG9BL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4478028656","title":"男女脳戦略。――男にはデータを、女にはイメージを売れ","bylineInfo":"メンタリストDaiGo(著)","imgUrl":"https://m.media-amazon.com/images/I/41tcksYc7iL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798128147","title":"ビジネスモデルYOU: キャリア再構築のための1ページメソッド","bylineInfo":"ティムクラーク(著),神田昌典(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/51pD1kmEXIL._SX342_SY445_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4478017328","title":"新版 小予算で優良顧客をつかむ方法 マーケティング常識11のウソ","bylineInfo":"神田昌典(著)","imgUrl":"https://m.media-amazon.com/images/I/41zevhULBRL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4140816589","title":"ゼロ・トゥ・ワン 君はゼロから何を生み出せるか","bylineInfo":"ピーター・ティール(著),ブレイク・マスターズ(著),瀧本哲史(その他),関美和(翻訳)&1その他","imgUrl":"https://m.media-amazon.com/images/I/71jHLe0jLtL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/432011048X","title":"とある弁当屋の統計技師(データサイエンティスト) ―データ分析のはじめかた―","bylineInfo":"石田基広(著),りんと(イラスト)","imgUrl":"https://m.media-amazon.com/images/I/71TMB3zZ73L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4478760993","title":"ザ・マインドマップ","bylineInfo":"トニー・ブザン(著),バリー・ブザン(著),神田昌典(翻訳)&0その他","imgUrl":"https://m.media-amazon.com/images/I/81q+QLihfsL._SY342_.jpg"}

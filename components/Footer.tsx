@@ -8,21 +8,11 @@ const CATEGORY = [
   'レビュー',
   '雑記',
 ];
-const BY_YEAR = [
-  '2024',
-  '2023',
-  '2022',
-  '2021',
-  '2020',
-  '2019',
-  '2018',
-  '2017',
-  '2016',
-  '2015',
-  '2014',
-  '2013',
-  '2012',
-]
+// 2012年から今年までの年を配列にする
+const BY_YEAR = Array.from(
+  { length: new Date().getFullYear() - 2011 },
+  (_, i) => (new Date().getFullYear() - i).toString()
+)
 
 const Footer = () => {
   return (
@@ -64,12 +54,12 @@ const Footer = () => {
         </div>
         <ul className="profile-links">
           <li>
-            <a href="https://alfebelow.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://alfebelow.com/" target="_blank" rel="me noopener noreferrer">
               alfebelow.com
             </a>
           </li>
           <li>
-            <a href="https://github.com/alfe" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/alfe" target="_blank" rel="me noopener noreferrer">
               Github
             </a>
           </li>
@@ -79,13 +69,8 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/alfe_below" target="_blank" rel="noopener noreferrer">
-              Twitter
-            </a>
-          </li>
-          <li>
-            <a href="https://qiita.com/alfe_below" target="_blank" rel="noopener noreferrer">
-              Qiita
+            <a href="https://x.com/alfe_below" target="_blank" rel="me noopener noreferrer">
+              X(Twitter)
             </a>
           </li>
         </ul>

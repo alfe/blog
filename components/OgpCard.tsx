@@ -13,8 +13,8 @@ const OgpCard = (props: OgpCardProps) => {
       {!!ogp?.ogImage?.[0] && (
         <Image alt="ogp-link"
           src={ogp.ogImage[0].url}
-          width={Number(ogp.ogImage[0].width * 3 / 5)}
-          height={Number(ogp.ogImage[0].height * 3 / 5)} />
+          width={(Number(ogp.ogImage[0].width ?? 1200)* 3 / 5)}
+          height={(Number(ogp.ogImage[0].height ?? 630) * 3 / 5)} />
       )}
       <cite>{ogp.ogTitle}</cite>
       <br />
