@@ -17,7 +17,7 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
 
       <header>
         <h1 className="site-title">
-          <Link href="/" >{siteTitle}</Link>
+          <Link href="/" prefetch={false}>{siteTitle}</Link>
         </h1>
       </header>
 
