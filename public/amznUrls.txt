@@ -500,3 +500,9 @@
 {"url":"https://www.amazon.co.jp/dp/4140816589","title":"ゼロ・トゥ・ワン 君はゼロから何を生み出せるか","bylineInfo":"ピーター・ティール(著),ブレイク・マスターズ(著),瀧本哲史(その他),関美和(翻訳)&1その他","imgUrl":"https://m.media-amazon.com/images/I/71jHLe0jLtL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/432011048X","title":"とある弁当屋の統計技師(データサイエンティスト) ―データ分析のはじめかた―","bylineInfo":"石田基広(著),りんと(イラスト)","imgUrl":"https://m.media-amazon.com/images/I/71TMB3zZ73L._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4478760993","title":"ザ・マインドマップ","bylineInfo":"トニー・ブザン(著),バリー・ブザン(著),神田昌典(翻訳)&0その他","imgUrl":"https://m.media-amazon.com/images/I/81q+QLihfsL._SY342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4766139380","title":"台所道具の選び方、使い方、繕い方 使い込み、育て、変化を楽しむ。","bylineInfo":"日野明子(著)","imgUrl":"https://m.media-amazon.com/images/I/81t3qLb-lgL._SY342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4339066729","title":"暮らしと霧の科学","bylineInfo":"井川学(著)","imgUrl":"https://m.media-amazon.com/images/I/71yR6jkYZ-L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4422430637","title":"タコ・イカが見ている世界 (創元ビジュアル教養＋α)","bylineInfo":"吉田真明(著),滋野修一(著)","imgUrl":"https://m.media-amazon.com/images/I/81OD7Zs9qLL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4065398509","title":"硬くて柔らかい「複雑系」 骨のふしぎ からだを支えるだけでない、知られざるはたらき (ブルーバックス B 2295)","bylineInfo":"石井優(著)","imgUrl":"https://m.media-amazon.com/images/I/61YtUukEWAL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4480874127","title":"建築家は住まいの何を設計しているのか (単行本)","bylineInfo":"藤山和久(著)","imgUrl":"https://m.media-amazon.com/images/I/616WyXZ22rL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4791777093","title":"火葬と土葬: 日本人の死生観","bylineInfo":"岩田重則(著)","imgUrl":"https://m.media-amazon.com/images/I/61oNoHVbUYL._SY385_.jpg"}
