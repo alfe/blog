@@ -19,5 +19,8 @@
     "ja-technical-writing/max-kanji-continuous-len": false,
     "ja-spacing/ja-no-space-between-full-width": false,
     "preset-japanese": true
+  },
+  "filters": {
+    "comments": true
   }
 }

@@ -6109,6 +6109,7 @@ __metadata:
     storybook: 8.0.0
     sudachi-synonyms-dictionary: ^12.0.0
     textlint: ^15.2.1
+    textlint-filter-rule-comments: ^1.2.2
     textlint-rule-date-weekday-mismatch: ^1.1.1
     textlint-rule-ja-hiragana-fukushi: ^1.3.0
     textlint-rule-ja-hiragana-hojodoushi: ^1.1.0
@@ -16838,6 +16839,15 @@ __metadata:
   version: 0.2.0
   resolution: "text-table@npm:0.2.0"
   checksum: b6937a38c80c7f84d9c11dd75e49d5c44f71d95e810a3250bd1f1797fc7117c57698204adf676b71497acc205d769d65c16ae8fa10afad832ae1322630aef10a
+  languageName: node
+  linkType: hard
+
+"textlint-filter-rule-comments@npm:^1.2.2":
+  version: 1.2.2
+  resolution: "textlint-filter-rule-comments@npm:1.2.2"
+  peerDependencies:
+    textlint: ">=6.8.0"
+  checksum: 3ffc3d25204f8ce8a79e2fbbedff29b22eb030a98563ad5242c974f91b7e63f7b3f03c91130019190dcbbe8d7dba0560a88acc3c26ca7115ab6a154ac1597161
   languageName: node
   linkType: hard
 
