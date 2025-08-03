@@ -13,7 +13,7 @@
     "postbuild": "next-sitemap",
     "deploy": "netlify deploy --build --prod --skip-functions-cache",
     "lint": "next lint",
-    "textlint": "npx textlint --fix ./content/posts/2025/**/*.md",
+    "textlint": "npx textlint --fix ./content/posts/2023/**/*.md",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "test-ct": "playwright test -c playwright-ct.config.ts"
