@@ -1,9 +1,8 @@
 {
-  "filters": {
-  },
   "rules": {
     "@textlint-ja/no-insert-dropping-sa": true,
     "@textlint-ja/no-synonyms": true,
+    "@textlint-ja/preset-ai-writing": true,
     "date-weekday-mismatch": true,
     "ja-hiragana-fukushi": true,
     "ja-hiragana-hojodoushi": true,
