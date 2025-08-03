@@ -506,3 +506,7 @@
 {"url":"https://www.amazon.co.jp/dp/4065398509","title":"硬くて柔らかい「複雑系」 骨のふしぎ からだを支えるだけでない、知られざるはたらき (ブルーバックス B 2295)","bylineInfo":"石井優(著)","imgUrl":"https://m.media-amazon.com/images/I/61YtUukEWAL._SY425_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4480874127","title":"建築家は住まいの何を設計しているのか (単行本)","bylineInfo":"藤山和久(著)","imgUrl":"https://m.media-amazon.com/images/I/616WyXZ22rL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4791777093","title":"火葬と土葬: 日本人の死生観","bylineInfo":"岩田重則(著)","imgUrl":"https://m.media-amazon.com/images/I/61oNoHVbUYL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4845920085","title":"北欧式インテリア・スタイリングの法則","bylineInfo":"フリーダ・ラムステッド(著),久山葉子(翻訳),机宏典(翻訳)&0その他","imgUrl":"https://m.media-amazon.com/images/I/51HeWd6NL4L._SX342_SY445_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4000063391","title":"解きたくなる数学","bylineInfo":"佐藤雅彦(著),大島遼(著),廣瀬隼也(著)&0その他","imgUrl":"https://m.media-amazon.com/images/I/51wyUpnLAoL._SY445_SX342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B089LNG1KD","title":"食品添加物はなぜ嫌われるのか: 食品情報を「正しく」読み解くリテラシー","bylineInfo":"畝山智香子(著)","imgUrl":"https://m.media-amazon.com/images/I/71FaGjJioTL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4046046813","title":"これならわかる! 人を動かすデザイン22の法則","bylineInfo":"ウジトモコ(著)","imgUrl":"https://m.media-amazon.com/images/I/81t0N4hWJtL._SY385_.jpg"}

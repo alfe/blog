@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Mon, 30 Jun 2025 10:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Jul 2025 10:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,23 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2025年7月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2025/07/31/2025%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2025/07/31/2025%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Thu, 31 Jul 2025 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+北欧式インテリア・スタイリングの法則
+
+建物の内装やインテリアを組み立てる際の考え方。インテリアの本には珍しく、写真はなく図説と文章による解説。
+家庭内の動線を描きこむ、まぶしくない光と光の高低差、ラグの寸法、外界の音を軽減するテクニックなど。
+インテリアについて考える際のロジックがまとまっていて興味深かった。
+食品添加物はなぜ嫌われるのか
+
+食品添加物に関する論争を見ていく本。
+無]]></description>
+        </item>
         <item>
             <title><![CDATA[2025年6月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2025/06/30/2025%E5%B9%B46%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -26,7 +43,7 @@
 <p>火葬と土葬の移り変わりと死生観について。
 日本では身分ある人は火葬が上位とされていたが、豊臣秀吉が自らを神と崇めさせるために遺体を保存させたため、江戸時代の上層階級は遺体を安置を選択するようになった。
 また、明治政府が火葬禁止令を出したため、火葬から土葬への転換があった。</p>
-現代は火葬が100％となり、死者を上や地域社会ではなく葬儀センターが受け持つこと]]></description>
+現代は火葬が100％となり、死者を上や地域社会ではなく葬儀センターが受け持つことにな]]></description>
         </item>
         <item>
             <title><![CDATA[2025年5月に読んだ本]]></title>
@@ -133,19 +150,6 @@ LED式薄型信号機をデザインしたひとのデザイン論。
 2000年代のブロガーやミニマリストによって語られる収納から始まり、遡るように90年代や戦後、戦中、明治の収納がメディアでどう扱われてきたかを追っていく。
 <p>テレビや雑誌でたびたび特集が組まれる収納というものにここまで時代性のようなものを感じると思ってなかった。
 たしかに90年代くらいの収納術ってこ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年10月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2024/10/31/2024%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2024/10/31/2024%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Thu, 31 Oct 2024 01:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-ラトヴィアの図書館
-
-バルト三国の1つであるラトビアの図書館事情について。ソ連とナチス・ドイツによって繰り返し占領に遭い、ラトビア語と文化の弱体化を克服するため図書館をどのように立て直していったか。
-<p>ラトビア語を守るためラトビア語を唯一の国家語と規定しつつも、図書館には実際の話者数に配慮しロシア語・ウクライナ語・ポーランド語などの資料が用意されている。
-作家が図書館を訪問する]]></description>
         </item>
     </channel>
 </rss>
