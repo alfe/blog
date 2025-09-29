@@ -1,7 +1,7 @@
 ---
 Title: NetlifyとSupabaseでほぼ静的なActivityPubサーバ
 Category:
-- 本
+- プログラム
 Date: 2023-03-04T19:00:00+09:00
 IMAGE: /img/2023/03/04/thumbnail.jpg
 ---

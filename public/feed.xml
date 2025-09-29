@@ -4,7 +4,7 @@
         <title>FUN YOU BLOG</title>
         <link>https://blog.alfebelow.com/</link>
         <description>alfe_belowのブログ</description>
-        <lastBuildDate>Thu, 31 Jul 2025 10:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Aug 2025 05:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
@@ -14,6 +14,19 @@
             <link>https://blog.alfebelow.com/</link>
         </image>
         <copyright>All rights reserved @alfe_below</copyright>
+        <item>
+            <title><![CDATA[2025年8月に読んだ本]]></title>
+            <link>https://blog.alfebelow.com/entry/2025/08/31/2025%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
+            <guid>https://blog.alfebelow.com/entry/2025/08/31/2025%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
+            <pubDate>Sun, 31 Aug 2025 01:00:00 GMT</pubDate>
+            <description><![CDATA[いつもの。
+
+世界は進化に満ちている
+
+進化は極めて短期間で、しかもすぐそばで起こっているという研究の紹介。
+生存率が1%違うだけで500世代経てば99%の主流派となるという話や、環境の大幅な変化が急激な進化をもたらすという話、駆除や保全によって人間にとって望ましくない進化をしてしまうという話など興味深いものが多かった。
+<p>牙の立派な個体が狙われやすいと牙は小さくなっていくし、毒餌の甘さを苦手]]></description>
+        </item>
         <item>
             <title><![CDATA[2025年7月に読んだ本]]></title>
             <link>https://blog.alfebelow.com/entry/2025/07/31/2025%E5%B9%B47%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
@@ -82,7 +95,9 @@
 
 西洋と日本のオカルトをはじめとした信念の数々を科学の勃興から現代にいたるまで見ていく。
 著者が亜宗教と名付けた、宗教と半ば似ているが宗教でないもの（カルトや反ワクチン主義、陰謀論など）が、どのような時代背景や精神の流れによって生まれてきたのかについて語られる。
-「亜宗教が人類の知恵の発展に積極的に寄与することは概ねないと言え]]></description>
+
+<blockquote>
+「亜宗教が人類の知恵の発展に積極的に]]></description>
         </item>
         <item>
             <title><![CDATA[2025年2月に読んだ本]]></title>
@@ -136,20 +151,6 @@ LED式薄型信号機をデザインしたひとのデザイン論。
 「記号創発システム論」という学術的概念に関係する分野とキーワードを、それぞれの分野の研究者が紹介・解説する本。
 手元に置いて読み返すことになるだろう良書。
 人間社会は言葉という記号を用いたコミュニケーションを行っているが、その記号の意味がどのように成立しているのか？についての探求を人文社会・情報・工学・哲学と各分野横断]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2024年11月に読んだ本]]></title>
-            <link>https://blog.alfebelow.com/entry/2024/11/30/2024%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</link>
-            <guid>https://blog.alfebelow.com/entry/2024/11/30/2024%E5%B9%B411%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</guid>
-            <pubDate>Sat, 30 Nov 2024 05:00:00 GMT</pubDate>
-            <description><![CDATA[いつもの。
-
-収納され続ける収納
-
-日本での収納がメディアでどう語られてきたかを見ていく本。
-2000年代のブロガーやミニマリストによって語られる収納から始まり、遡るように90年代や戦後、戦中、明治の収納がメディアでどう扱われてきたかを追っていく。
-<p>テレビや雑誌でたびたび特集が組まれる収納というものにここまで時代性のようなものを感じると思ってなかった。
-たしかに90年代くらいの収納術ってこ]]></description>
         </item>
     </channel>
 </rss>

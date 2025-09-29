@@ -1,7 +1,7 @@
 ---
 Title: SynologyにEmbyをインストール、メディアファイル追加のための権限追加
 Category:
-- 本
+- プログラム
 Date: 2023-04-29T14:00:00+09:00
 IMAGE: /img/2023/04/29/thumbnail.png
 ---
