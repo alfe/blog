@@ -518,3 +518,13 @@
 {"url":"https://www.amazon.co.jp/dp/4000297341","title":"世界は進化に満ちている (岩波科学ライブラリー 334)","bylineInfo":"深野祐也(著)","imgUrl":"https://m.media-amazon.com/images/I/71m1gnxCrpL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0DJV337M1","title":"GitLabに学ぶ パフォーマンスを最大化させるドキュメンテーション技術 数千ページにもわたるハンドブックを活用したテキストコミュニケーションの作法","bylineInfo":"千田和央(著),伊藤俊廷(監修),佐々木直晴(監修)&0その他","imgUrl":"https://m.media-amazon.com/images/I/71kSRphs2rL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0FCWNL2DX","title":"私たちの暮らしに生かせる 南極レシピ","bylineInfo":"渡貫淳子(著)","imgUrl":"https://m.media-amazon.com/images/I/91CsV-aQFXL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4639027524","title":"中近世和鏡の研究","bylineInfo":"青木豊(著)","imgUrl":"https://m.media-amazon.com/images/I/71oFRfnKhEL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4867931047","title":"呪文の言語学: ルーマニアの魔女に耳をすませて","bylineInfo":"角悠介(著)","imgUrl":"https://m.media-amazon.com/images/I/91Os-hnQkzL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4422440470","title":"大地と人の物語: 地質学でよみとく日本の伝承","bylineInfo":"日本地質学会(著)","imgUrl":"https://m.media-amazon.com/images/I/71i05zOApmL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4065404290","title":"宇宙線のひみつ 「宇宙最強のエネルギー」の謎を追って (ブルーバックス B 2301)","bylineInfo":"藤井俊博(著)","imgUrl":"https://m.media-amazon.com/images/I/71p9FMAt2jL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4801400647","title":"今あるもので「あか抜けた」部屋になる。 (サンクチュアリ出版)","bylineInfo":"荒井詩万(著)","imgUrl":"https://m.media-amazon.com/images/I/81Q49pKFWJL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4639027524","title":"中近世和鏡の研究","bylineInfo":"青木豊(著)","imgUrl":"https://m.media-amazon.com/images/I/71oFRfnKhEL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4422440470","title":"大地と人の物語: 地質学でよみとく日本の伝承","bylineInfo":"日本地質学会(著)","imgUrl":"https://m.media-amazon.com/images/I/71i05zOApmL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4065404290","title":"宇宙線のひみつ 「宇宙最強のエネルギー」の謎を追って (ブルーバックス B 2301)","bylineInfo":"藤井俊博(著)","imgUrl":"https://m.media-amazon.com/images/I/71p9FMAt2jL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4867931047","title":"呪文の言語学: ルーマニアの魔女に耳をすませて","bylineInfo":"角悠介(著)","imgUrl":"https://m.media-amazon.com/images/I/91Os-hnQkzL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4801400647","title":"今あるもので「あか抜けた」部屋になる。 (サンクチュアリ出版)","bylineInfo":"荒井詩万(著)","imgUrl":"https://m.media-amazon.com/images/I/81Q49pKFWJL._SY385_.jpg"}

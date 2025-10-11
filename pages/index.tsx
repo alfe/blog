@@ -17,6 +17,7 @@ type HomeProps = {
 }
 const Home = (props: HomeProps) => {
   const { posts, hasArchive } = props
+
   return (
     <Layout title="">
       <OgpHeader />

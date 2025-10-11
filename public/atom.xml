@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2025-08-31T05:10:31.909Z</updated>
+    <updated>2025-09-30T12:03:10.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,18 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2025年9月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2025/09/30/2025%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2025/09/30/2025%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2025-09-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+呪文の言語学
+
+ルーマニアの魔女について。現在でも生活に魔術や呪文が根付いているルーマニアのトランシルバニア地方で、どのように魔術が使われているのか。そして、その呪文をどのように類型分類ができるか。
+日本にあまり情報が入ってこない東欧の生活史としても面白いし、東欧におけるキリスト教の立ち位置や魔女狩りの行われた地域差の解説としても面白い。もちろん、日常に魔術がある都市での体験談として]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年8月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2025/08/31/2025%E5%B9%B48%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -80,7 +92,7 @@
 
 <p>動物が持つセンサーと環世界について。良書。
 環境全体のうち動物が知覚して体験できる部分のみを指して環世界と呼ぶ。人間と他の動物は異なる環世界を生きており、人間にとっての暗闇や静寂が他の動物にとってはそうでないということを知れる本。</p>
-人間は人間の感覚をベースに他の動物の能力を測ろうとしてしまう。他の動物にはそれぞれの生活に即し]]></summary>
+人間は人間の感覚をベースに他の動物の能力を測ろうとしてしまう。他の動物にはそれぞれの生活に即した]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025年3月に読んだ本]]></title>
@@ -136,18 +148,5 @@ LED式薄型信号機をデザインしたひとのデザイン論。
 
 「記号創発システム論」という学術的概念に関係する分野とキーワードを、それぞれの分野の研究者が紹介・解説する本。
 <p>今年はAIの利用がさらに拡大した年であったと思うが、事実に基づかない情報を生成するハルシネーション問題も頻繁に見かけるよう]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年12月に読んだ本]]></title>
-        <id>https://blog.alfebelow.com/entry/2024/12/28/2024%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2024/12/28/2024%E5%B9%B412%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
-        <updated>2024-12-27T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[いつもの。年末に今年のまとめがあるのでちょっと早めに。
-
-記号創発システム論
-
-「記号創発システム論」という学術的概念に関係する分野とキーワードを、それぞれの分野の研究者が紹介・解説する本。
-手元に置いて読み返すことになるだろう良書。
-人間社会は言葉という記号を用いたコミュニケーションを行っているが、その記号の意味がどのように成立しているのか？についての探求を人文社会・情報・工学・哲学と各分野横断]]></summary>
     </entry>
 </feed>

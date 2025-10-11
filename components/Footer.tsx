@@ -64,7 +64,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://mastodon-japan.net/@alfe" target="_blank" rel="me noopener noreferrer">
+            <a href="https://mstdn.sublimer.me/@alfe" target="_blank" rel="me noopener noreferrer">
               Mastodon
             </a>
           </li>

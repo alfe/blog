@@ -68,7 +68,7 @@ const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs, slug?
   return {
     title: Title || null,
     category: Category || null,
-    thumbnail: !IMAGE ? null : (IMAGE.includes('https://') ? IMAGE : `${process.env.SITE_URL}${IMAGE}`),
+    thumbnail: !IMAGE ? null : IMAGE  ,
     published: (rawPublished).toISOString() || null,
     content,
     description,
