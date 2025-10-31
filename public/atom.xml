@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.alfebelow.com/</id>
     <title>FUN YOU BLOG</title>
-    <updated>2025-09-30T12:03:10.827Z</updated>
+    <updated>2025-10-31T10:16:50.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>@alfe_below</name>
@@ -12,6 +12,19 @@
     <subtitle>alfe_belowのブログ</subtitle>
     <logo>https://blog.alfebelow.com/favicon.png</logo>
     <rights>All rights reserved @alfe_below</rights>
+    <entry>
+        <title type="html"><![CDATA[2025年10月に読んだ本]]></title>
+        <id>https://blog.alfebelow.com/entry/2025/10/31/2025%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
+        <link href="https://blog.alfebelow.com/entry/2025/10/31/2025%E5%B9%B410%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC"/>
+        <updated>2025-10-31T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[いつもの。
+
+世界一シンプルな進化論講義
+
+進化論に関する概念や誤解に対する説明が書かれた本。
+進化のメカニズムは4つしかない。有害な遺伝子が潜性だと除去しきれない。立派な武器が進化するのは1対1で闘う生物。全生物の共通祖先は地球最初の生物ではなかったかもしれない。ミトコンドリア・イブは数万人いる。などなど。
+連載が基になっているようで、それぞれのトピックがサクッと読めて、それぞれのトピックが興味]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年9月に読んだ本]]></title>
         <id>https://blog.alfebelow.com/entry/2025/09/30/2025%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC</id>
@@ -135,18 +148,5 @@ LED式薄型信号機をデザインしたひとのデザイン論。
 プロダクトデザインという仕事をするにあたって意識している事柄について語っている。
 アートではなくプロダクトデザインに軸を置いているだけあって、堅実なデザイン論だなという印象を受けた。
 各章のタイトルに含まれている「素敵な妥協」「研ぎ澄まされたふつう」「腑に落ちた日常」というキ]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年に読んで良かった7冊の本]]></title>
-        <id>https://blog.alfebelow.com/entry/2024/12/30/2024%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC</id>
-        <link href="https://blog.alfebelow.com/entry/2024/12/30/2024%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC"/>
-        <updated>2024-12-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[年末恒例の2024年に読んだ中で良かった本をまとめておこうという記事。
-今年も、年内に読んだ本の中から特に良かった本を7冊紹介します。
-
-記号創発システム論
-
-「記号創発システム論」という学術的概念に関係する分野とキーワードを、それぞれの分野の研究者が紹介・解説する本。
-<p>今年はAIの利用がさらに拡大した年であったと思うが、事実に基づかない情報を生成するハルシネーション問題も頻繁に見かけるよう]]></summary>
     </entry>
 </feed>
