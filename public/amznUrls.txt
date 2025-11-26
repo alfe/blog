@@ -358,3 +358,16 @@
 {"url":"https://www.amazon.co.jp/dp/B0F48BTWDN","title":"動物には何が見え,聞こえ、感じられるのか　人間には感知できない驚異の環世界","bylineInfo":"エド・ヨン(著),久保尚子(著)","imgUrl":"https://m.media-amazon.com/images/I/91pByVHxbuL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0FCWNL2DX","title":"私たちの暮らしに生かせる 南極レシピ","bylineInfo":"渡貫淳子(著)","imgUrl":"https://m.media-amazon.com/images/I/91CsV-aQFXL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/gp/product/B003TQIEK0","title":"サカベ ラウンドウッディテーブル脚折れ式WZ-1200NA(1200×750mm)ナチュラル","bylineInfo":"ブランド:SKB","imgUrl":"https://m.media-amazon.com/images/I/31gxhvnRpsL._AC_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4061388320","title":"大日本サムライガール 1 (星海社FICTIONS シ 2-1)","bylineInfo":"至道流星(著),まごまご(イラスト)","imgUrl":"https://m.media-amazon.com/images/I/514ChugBZDL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4594067247","title":"メンタリズムの罠 TRICKS of the MIND","bylineInfo":"ダレン・ブラウン(著),メンタリストDaiGo(訳者)(著)","imgUrl":"https://m.media-amazon.com/images/I/81Sf2hDh5TL._SY342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DCNJMHNL","title":"大学4年間の天文学が10時間でざっと学べる","bylineInfo":"戸谷友則(著)","imgUrl":"https://m.media-amazon.com/images/I/913q-LrdOGL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DFLQPWJF","title":"肥満の科学　ヒトはなぜ太るのか","bylineInfo":"リチャード・J・ジョンソン(著),中里京子(翻訳)","imgUrl":"https://m.media-amazon.com/images/I/71MBl5l-8WL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DJV337M1","title":"GitLabに学ぶ パフォーマンスを最大化させるドキュメンテーション技術 数千ページにもわたるハンドブックを活用したテキストコミュニケーションの作法","bylineInfo":"千田和央(著),伊藤俊廷(監修),佐々木直晴(監修)&0その他","imgUrl":"https://m.media-amazon.com/images/I/71kSRphs2rL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4788512475","title":"複雑さと共に暮らす―デザインの挑戦","bylineInfo":"ドナルド・ノーマン(著),伊賀聡一郎(翻訳),岡本明(翻訳),安村通晃(翻訳)&1その他","imgUrl":"https://m.media-amazon.com/images/I/41sXP2Q80nL._SY445_SX342_ML2_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4873118867","title":"レガシーコードからの脱却 ―ソフトウェアの寿命を延ばし価値を高める9つのプラクティス","bylineInfo":"DavidScottBernstein(著),吉羽龍太郎(著),永瀬美穂(著)&0その他","imgUrl":"https://m.media-amazon.com/images/I/51Y2mtMUYwL._SY445_SX342_ML2_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B07MKG3LZG","title":"ヴァーチャル社会の〈哲学〉――ビットコイン・VR・ポストトゥルース","bylineInfo":"大黒岳彦(著)","imgUrl":"https://m.media-amazon.com/images/I/91Gtx-ish-L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4326653930","title":"日常に侵入する自己啓発: 生き方・手帳術・片づけ","bylineInfo":"牧野智和(著)","imgUrl":"https://m.media-amazon.com/images/I/51vnYcv8RnL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4873118867","title":"レガシーコードからの脱却 ―ソフトウェアの寿命を延ばし価値を高める9つのプラクティス","bylineInfo":"DavidScottBernstein(著),吉羽龍太郎(著),永瀬美穂(著)&0その他","imgUrl":"https://m.media-amazon.com/images/I/51Y2mtMUYwL._SY445_SX342_ML2_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4788512475","title":"複雑さと共に暮らす―デザインの挑戦","bylineInfo":"ドナルド・ノーマン(著),伊賀聡一郎(翻訳),岡本明(翻訳),安村通晃(翻訳)&1その他","imgUrl":"https://m.media-amazon.com/images/I/81oIQ4bfgxL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B07MKG3LZG","title":"ヴァーチャル社会の〈哲学〉――ビットコイン・VR・ポストトゥルース","bylineInfo":"大黒岳彦(著)","imgUrl":"https://m.media-amazon.com/images/I/91Gtx-ish-L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4326653930","title":"日常に侵入する自己啓発: 生き方・手帳術・片づけ","bylineInfo":"牧野智和(著)","imgUrl":"https://m.media-amazon.com/images/I/51vnYcv8RnL._SY385_.jpg"}
