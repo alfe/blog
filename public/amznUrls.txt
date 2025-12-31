@@ -377,3 +377,13 @@
 {"url":"https://www.amazon.co.jp/dp/B0FRZR9FPW","title":"マヨネーズ解体新書","bylineInfo":"日本のマヨネーズ誕生１００周年記念委員会(著),キユーピー株式会社(読み手)","imgUrl":"https://m.media-amazon.com/images/I/718N-Bm9-WL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B07ZH4QG18","title":"行動経済学まんが　ヘンテコノミクス","bylineInfo":"菅俊一(著),高橋秀明(著),佐藤雅彦(著)&0その他","imgUrl":"https://m.media-amazon.com/images/I/81Ldpa4ApOL._SY342_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0FNZZ7KXM","title":"化石が語る植物の進化5億年史","bylineInfo":"矢部淳(著)","imgUrl":"https://m.media-amazon.com/images/I/81IyDV3Ll-L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4880655864","title":"錯視アートの楽しみ　見てしまえば、だまされる","bylineInfo":"杉原厚吉(著)","imgUrl":"https://m.media-amazon.com/images/I/61pVw-u5WwL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0G2QWNV8J","title":"トコトンやさしい　情報通信設備の本 (今日からモノ知りシリーズ)","bylineInfo":"福田遵(著),斉藤孝史(その他)","imgUrl":"https://m.media-amazon.com/images/I/81cTuKiYihL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0FXL74NXT","title":"住みたい街の東京史","bylineInfo":"青山誠(著)","imgUrl":"https://m.media-amazon.com/images/I/91jJZWPI20L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0CQ4PFSGY","title":"暗い夜空のパラドックスから宇宙を見る (岩波科学ライブラリー)","bylineInfo":"谷口義明(著)","imgUrl":"https://m.media-amazon.com/images/I/71wactoqZFL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0G3W3X3FL","title":"サイバネティックス運動 〈情報的世界観〉成立の理路","bylineInfo":"大黒岳彦(著)","imgUrl":"https://m.media-amazon.com/images/I/61b9RQmLJmL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4880655864","title":"錯視アートの楽しみ　見てしまえば、だまされる","bylineInfo":"杉原厚吉(著)","imgUrl":"https://m.media-amazon.com/images/I/41uVagjC2sL._SY445_SX342_ML2_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0CQ4PFSGY","title":"暗い夜空のパラドックスから宇宙を見る (岩波科学ライブラリー)","bylineInfo":"谷口義明(著)","imgUrl":"https://m.media-amazon.com/images/I/71wactoqZFL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0FXL74NXT","title":"住みたい街の東京史","bylineInfo":"青山誠(著)","imgUrl":"https://m.media-amazon.com/images/I/91jJZWPI20L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0G3W3X3FL","title":"サイバネティックス運動 〈情報的世界観〉成立の理路","bylineInfo":"大黒岳彦(著)","imgUrl":"https://m.media-amazon.com/images/I/61b9RQmLJmL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0G2QWNV8J","title":"トコトンやさしい　情報通信設備の本 (今日からモノ知りシリーズ)","bylineInfo":"福田遵(著),斉藤孝史(その他)","imgUrl":"https://m.media-amazon.com/images/I/81cTuKiYihL._SY385_.jpg"}
