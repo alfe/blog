@@ -389,3 +389,11 @@
 {"url":"https://www.amazon.co.jp/dp/B0G2QWNV8J","title":"トコトンやさしい　情報通信設備の本 (今日からモノ知りシリーズ)","bylineInfo":"福田遵(著),斉藤孝史(その他)","imgUrl":"https://m.media-amazon.com/images/I/81cTuKiYihL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4000022342","title":"無人化と労働の未来――インダストリー4.0の現場を行く","bylineInfo":"コンスタンツェ・クルツ(著),フランク・リーガー(著),木本栄(翻訳)&0その他","imgUrl":"https://m.media-amazon.com/images/I/61MALe9PIQL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0F7729WDQ","title":"よく聞く健康知識、どうなってるの？","bylineInfo":"坪井貴司(著),寺田新(著)","imgUrl":"https://m.media-amazon.com/images/I/81OoZpssDqL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4434369911","title":"ツナマヨはなぜ美味しいのか?: ―ツナマヨの100年と開発者たちのルーツ― (a)","bylineInfo":"斉田育秀(著)","imgUrl":"https://m.media-amazon.com/images/I/41ub3kVXXEL._SY445_SX342_ML2_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GH75V1JL","title":"LLMの原理、RAG・エージェント開発から読み解く　コンテキストエンジニアリング エンジニア選書","bylineInfo":"蒲生弘郷(著)","imgUrl":"https://m.media-amazon.com/images/I/81+ffQ-tJyL._SY342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GG83YP36","title":"哺乳類の食事事典","bylineInfo":"南正人(著),福江佑子(著),永井碧海(著),ちなきのこ(イラスト)&1その他","imgUrl":"https://m.media-amazon.com/images/I/81VRORB9ebL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DPW1ZB3Y","title":"東大物理学者が教える 創造力のレッスン (PHP新書)","bylineInfo":"上田正仁(著)","imgUrl":"https://m.media-amazon.com/images/I/71EtViEUnSL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GFM7CQ8Y","title":"なぜ、人はアートに惹かれるのか","bylineInfo":"髙橋芳郎(著)","imgUrl":"https://m.media-amazon.com/images/I/61dez7xO0aL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DGGBCR5S","title":"「腸と脳」の科学　脳と体を整える、腸の知られざるはたらき (ブルーバックス)","bylineInfo":"坪井貴司(著)","imgUrl":"https://m.media-amazon.com/images/I/719RY17iLeL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4469280275","title":"防災地元学—地誌で読み解く災害の記憶と知恵","bylineInfo":"小田隆史(著)","imgUrl":"https://m.media-amazon.com/images/I/41Yxnmx4OWL._SY445_SX342_ML2_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0D6QJG61T","title":"サイバースペースの地政学 (ハヤカワ新書)","bylineInfo":"小宮山功一朗(著),小泉悠(著)","imgUrl":"https://m.media-amazon.com/images/I/61xF+JAFYsL._SY425_.jpg"}

@@ -50,6 +50,10 @@ export const getStaticProps = async ({ params }) => {
 
 export const getStaticPaths = async () => {
   const paths = [
+    { params: { byYear: '2028' } },
+    { params: { byYear: '2027' } },
+    { params: { byYear: '2026' } },
+    { params: { byYear: '2025' } },
     { params: { byYear: '2023' } },
     { params: { byYear: '2022' } },
     { params: { byYear: '2021' } },
