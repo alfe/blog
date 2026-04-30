@@ -2,7 +2,7 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 8
+  version: 9
   cacheKey: 10
 
 "@ampproject/remapping@npm:^2.2.0":
@@ -6112,9 +6112,12 @@ __metadata:
     playwright: "npm:^1.44.0"
     react: "npm:18.2.0"
     react-dom: "npm:18.2.0"
+    rehype-parse: "npm:9.0.1"
     rehype-react: "npm:^8.0.0"
     remark: "npm:^15.0.1"
     remark-html: "npm:^16.0.1"
+    remark-parse: "npm:11.0.0"
+    remark-stringify: "npm:11.0.0"
     remark-strip-html: "npm:^1.0.2"
     request: "npm:^2.88.2"
     storybook: "npm:8.0.0"
@@ -6132,7 +6135,7 @@ __metadata:
     textlint-rule-preset-ja-technical-writing: "npm:^12.0.2"
     textlint-rule-preset-japanese: "npm:^10.0.4"
     typescript: "npm:^5.4.2"
-    unified: "npm:^11.0.4"
+    unified: "npm:11.0.4"
   languageName: unknown
   linkType: soft
 
@@ -10081,6 +10084,20 @@ __metadata:
   dependencies:
     function-bind: "npm:^1.1.2"
   checksum: 10/7898a9c1788b2862cf0f9c345a6bec77ba4a0c0983c7f19d610c382343d4f98fa260686b225dfb1f88393a66679d2ec58ee310c1d6868c081eda7918f32cc70a
+  languageName: node
+  linkType: hard
+
+"hast-util-from-html@npm:^2.0.0":
+  version: 2.0.3
+  resolution: "hast-util-from-html@npm:2.0.3"
+  dependencies:
+    "@types/hast": "npm:^3.0.0"
+    devlop: "npm:^1.1.0"
+    hast-util-from-parse5: "npm:^8.0.0"
+    parse5: "npm:^7.0.0"
+    vfile: "npm:^6.0.0"
+    vfile-message: "npm:^4.0.0"
+  checksum: 10/cdd8ceae114d7ff6d4a81d9d7314c53299acfaca3d959a5894e80eb013c0850af613e2688f1682945c2793e0d9e1acb105560295fd8f141ab7b75f4b2e49cb2c
   languageName: node
   linkType: hard
 
@@ -15206,6 +15223,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"rehype-parse@npm:9.0.1":
+  version: 9.0.1
+  resolution: "rehype-parse@npm:9.0.1"
+  dependencies:
+    "@types/hast": "npm:^3.0.0"
+    hast-util-from-html: "npm:^2.0.0"
+    unified: "npm:^11.0.0"
+  checksum: 10/67855c6426d1cd39d64b4a38e934bb234e59f1d4df2f67008848b9bde01f9e068eed549d62a97f54d5c5eb8bfa56c7e2c4b7c3aad769fc4ded9218dc9078ef37
+  languageName: node
+  linkType: hard
+
 "rehype-parse@npm:^6.0.1":
   version: 6.0.2
   resolution: "rehype-parse@npm:6.0.2"
@@ -15291,7 +15319,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"remark-parse@npm:^11.0.0":
+"remark-parse@npm:11.0.0, remark-parse@npm:^11.0.0":
   version: 11.0.0
   resolution: "remark-parse@npm:11.0.0"
   dependencies:
@@ -15312,7 +15340,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"remark-stringify@npm:^11.0.0":
+"remark-stringify@npm:11.0.0, remark-stringify@npm:^11.0.0":
   version: 11.0.0
   resolution: "remark-stringify@npm:11.0.0"
   dependencies:
@@ -18004,7 +18032,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"unified@npm:^11.0.0, unified@npm:^11.0.4":
+"unified@npm:11.0.4, unified@npm:^11.0.0":
   version: 11.0.4
   resolution: "unified@npm:11.0.4"
   dependencies:
