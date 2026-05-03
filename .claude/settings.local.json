@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(yarn tsc *)",
-      "Bash(npx textlint *)",
-      "Bash(echo \"exit: $?\")"
-    ]
-  }
-}
