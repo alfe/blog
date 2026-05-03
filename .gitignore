@@ -57,3 +57,5 @@ public/sitemap.xml
 /playwright/.cache/
 /test-results/
 .claude/settings.local.json
+/storybook-static
+debug-storybook.log
