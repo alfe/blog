@@ -18,23 +18,23 @@ const EXTENSION = ".md"
 /**
  * Markdown のファイル一覧を取得する
  */
-const listContentFiles = ({ fs }) => {
+const listContentFiles = ({ fs }: { fs: any }) => {
   const result = diggingFiles(fs, '');
   return result;
 }
 
-const diggingFiles = (fs, dir) => {
-  let fileNames = [];
-  
+const diggingFiles = (fs: any, dir: string): any[] => {
+  let fileNames: any[] = [];
+
   const files = fs.readdirSync(`${DIR}/${dir}`, { withFileTypes: true })
   fileNames = [
     ...files
-      .filter((file) => path.parse(file.name).ext === EXTENSION)
-      .map((file) => `${dir}/${file.name}`),
+      .filter((file: any) => path.parse(file.name).ext === EXTENSION)
+      .map((file: any) => `${dir}/${file.name}`),
 
     ...files
-      .filter(file => file.isDirectory())
-      .map(childDir => diggingFiles(fs, `${dir}/${childDir.name}`)),
+      .filter((file: any) => file.isDirectory())
+      .map((childDir: any) => diggingFiles(fs, `${dir}/${childDir.name}`)),
   ];
   return fileNames.flat();
 }
@@ -42,10 +42,10 @@ const diggingFiles = (fs, dir) => {
 /**
  * Markdown のファイルの中身をパースして取得する
  */
-const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs, slug?: string, dirname?: string, filename?: string }) => {
+const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs: any, slug?: string, dirname?: string, filename?: string }) => {
   if (slug === undefined) {
-    slug = path.parse(filename).name
-    dirname = `${path.parse(filename).dir}/`
+    slug = path.parse(filename ?? '').name
+    dirname = `${path.parse(filename ?? '').dir}/`
     dirname = dirname === '//' ? '/' : dirname
   }
   const raw = fs.readFileSync(path.join(DIR, `${dirname}${slug}${EXTENSION}`), 'utf8')
@@ -80,9 +80,9 @@ const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs, slug?
 /**
  * Markdown のファイルの中身を全件パースして取得する
  */
-const readContentFiles = async ({ fs }) => {
+const readContentFiles = async ({ fs }: { fs: any }) => {
   const promises = listContentFiles({ fs })
-    .map((filename) => readContentFile({ fs, filename }))
+    .map((filename: string) => readContentFile({ fs, filename }))
 
   const contents = await Promise.all(promises)
 
@@ -92,7 +92,7 @@ const readContentFiles = async ({ fs }) => {
 /**
  * Markdown の投稿をソートするためのヘルパー
  */
-const sortWithProp = (name, reversed) => (a, b) => {
+const sortWithProp = (name: string, reversed: boolean) => (a: any, b: any) => {
   if (reversed) {
     return a[name] < b[name] ? 1 : -1
   } else {
@@ -105,10 +105,10 @@ const replaceComponentInHtml = (propsValues: {
 }) => {
   const rehypeReactOption: ReactOptions = {
     ...production,
-    components: { 
-      a: (props: { href: string; children: string; }) => LinkCard({ ...props, ...propsValues.a }),
+    components: {
+      a: ((props: any) => LinkCard({ ...props, ...propsValues.a })) as any,
     },
-  };
+  } as any;
   return unified()
     .use(rehypeParse, { fragment: true })
     .use(rehypeReact, rehypeReactOption);

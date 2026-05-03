@@ -6,14 +6,15 @@ import { readContentFiles } from "lib/content-loader"
 import { useRouter } from "next/router"
 import { useState, useEffect } from "react"
 
+type Post = {
+  title: string;
+  dirname: string;
+  slug: string;
+  published: string;
+  thumbnail?: string;
+}
 type categoryProps = {
-  posts: {
-    title: string;
-    dirname: string;
-    slug: string;
-    published: string;
-    thumbnail?: string;
-  }[];
+  posts: Post[];
 }
 
 const POSTS_PER_PAGE = 20
@@ -22,7 +23,7 @@ const Category = (props: categoryProps) => {
   const { posts } = props
   const router = useRouter()
   const [currentPage, setCurrentPage] = useState(1)
-  const [displayedPosts, setDisplayedPosts] = useState([])
+  const [displayedPosts, setDisplayedPosts] = useState<Post[]>([])
 
   useEffect(() => {
     const startIndex = (currentPage - 1) * POSTS_PER_PAGE
@@ -143,12 +144,12 @@ const Category = (props: categoryProps) => {
 
 export default Category;
 
-export const getStaticProps = async ({ params }) => {
+export const getStaticProps = async ({ params }: { params: any }) => {
   const posts = await readContentFiles({ fs })
   return {
     props: {
       posts: posts.filter(
-        (post) => post.category?.find(category => category === params.category)
+        (post: any) => post.category?.find((category: string) => category === params.category)
       ),
     }
   }

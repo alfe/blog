@@ -40,7 +40,7 @@ const Post = (params: PostProps) => {
         slug={params.slug}
         title={params.title}
         description={params.description}
-        thumbnail={params.thumbnail} />
+        thumbnail={params.thumbnail ?? ''} />
 
       <ArticleHeadInfos
         published={params.published}
@@ -59,7 +59,7 @@ export default Post;
 /**
  * ページコンポーネントで使用する値を用意する
  */
-export const getStaticProps = async ({ params }) => {
+export const getStaticProps = async ({ params }: { params: any }) => {
   const postContent = await readContentFile({ fs, slug: params.slug.join('/') })
 
   const posts = await readContentFiles({ fs })

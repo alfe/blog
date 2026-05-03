@@ -10,7 +10,7 @@ const OgpCard = (props: OgpCardProps) => {
   const { ogp } = props;
   return (
     <span>
-      <a className="ogp-link" href={props.href} target="_blank" rel="noopener noreferrer">
+      <a className="ogp-link" href={props.href ?? undefined} target="_blank" rel="noopener noreferrer">
       {!!ogp?.ogImage?.[0] && (
         <Image 
           alt={ogp.ogTitle || "ogp-link"}
@@ -24,9 +24,9 @@ const OgpCard = (props: OgpCardProps) => {
           className="ogp-image"
         />
       )}
-      <cite>{ogp.ogTitle}</cite>
+      <cite>{ogp?.ogTitle}</cite>
       <br />
-      <small>{ogp.ogDescription}</small>
+      <small>{ogp?.ogDescription}</small>
       <br />
       <small className="ogp-url">{props.href}</small>
       </a>

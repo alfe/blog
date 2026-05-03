@@ -30,8 +30,8 @@ const Archive = (props: ArchiveProps) => {
           key={post.slug}
           to={`/entry${post.dirname}${post.slug}`}
           thumbnail={post.thumbnail}
-          title={post.title}
-          published={post.published}
+          title={post.title ?? ''}
+          published={post.published ?? ''}
         />
       ))}
 
@@ -50,7 +50,7 @@ const Archive = (props: ArchiveProps) => {
 };
 export default Archive;
 
-export const getStaticProps = async ({ params }) => {
+export const getStaticProps = async ({ params }: { params: any }) => {
   const page = parseInt(params.page, 10)
   const end = COUNT_PER_PAGE * page
   const start = end - COUNT_PER_PAGE
@@ -90,6 +90,6 @@ export const getStaticPaths = async () => {
 /**
  * ユーティリティ: 1 から指定された整数までを格納した Array を返す
  */
-function range(stop) {
+function range(stop: number) {
   return Array.from({ length: stop }, (_, i) => i + 1)
 }

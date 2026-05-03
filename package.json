@@ -41,8 +41,6 @@
   },
   "devDependencies": {
     "@netlify/plugin-nextjs": "^4.41.3",
-    "@playwright/experimental-ct-react": "^1.44.0",
-    "@playwright/test": "^1.44.0",
     "@storybook/addon-essentials": "8.0.0",
     "@storybook/addon-interactions": "8.0.0",
     "@storybook/addon-links": "8.0.0",
@@ -60,7 +58,6 @@
     "eslint": "8.57.0",
     "eslint-config-next": "14.1.3",
     "eslint-plugin-storybook": "^0.8.0",
-    "playwright": "^1.44.0",
     "storybook": "8.0.0",
     "sudachi-synonyms-dictionary": "^12.0.0",
     "textlint": "^15.2.1",
@@ -75,7 +72,7 @@
     "textlint-rule-preset-ja-spacing": "^2.4.3",
     "textlint-rule-preset-ja-technical-writing": "^12.0.2",
     "textlint-rule-preset-japanese": "^10.0.4",
-    "typescript": "^5.4.2"
+    "typescript": "^6.0.3"
   },
   "packageManager": "yarn@4.14.1"
 }

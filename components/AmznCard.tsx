@@ -8,6 +8,7 @@ type AmznCardProps = {
 const AmznCard = (props: AmznCardProps) => {
   const { amzn } = props;
   const href = `${props.href}?tag=ab1025-22&amp;linkCode=osi&amp;th=1&amp;psc=1`;
+  if (!amzn) return null;
   return (
     <span>
       <a className="amzn-link" href={href} target="_blank" rel="noopener noreferrer">

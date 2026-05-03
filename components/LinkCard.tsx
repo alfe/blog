@@ -10,42 +10,44 @@ type LinkCardProps = {
   amznData?: AmznData[];
 };
 const LinkCard = (props: LinkCardProps) => {
+  const href = props.href ?? '';
+  const children = props.children ?? undefined;
   // 独立行のURL
   if (props.href === props.children) {
-    const ogp = props.ogpDatas.find((ogpData) => props.href === ogpData.requestUrl)
+    const ogp = (props.ogpDatas ?? []).find((ogpData) => props.href === ogpData.requestUrl)
     if (!!ogp) {
       return (
-        <OgpCard href={props.href} ogp={ogp} />
+        <OgpCard href={href} ogp={ogp} />
       );
     }
 
     const amzn = (props.amznData || []).find((amznData) => props.href === amznData.url)
     if (!!amzn) {
       return (
-        <AmznCard href={props.href} amzn={amzn} />
+        <AmznCard href={href} amzn={amzn} />
       );
     }
 
     return (
-      <a href={props.href} target="_blank" rel="noopener noreferrer">
-        {props.children}
+      <a href={href} target="_blank" rel="noopener noreferrer">
+        {children}
       </a>
     );
   }
 
   // ブログ内リンク
-  if (props.href.startsWith('/')) {
+  if (href.startsWith('/')) {
     return (
-      <a href={props.href} target="_blank" rel="noopener noreferrer">
-        {props.children}
+      <a href={href} target="_blank" rel="noopener noreferrer">
+        {children}
       </a>
     );
   }
 
   // 行内のURL
   return (
-    <a href={props.href} target="_blank" rel="noopener noreferrer">
-      {props.children}
+    <a href={href} target="_blank" rel="noopener noreferrer">
+      {children}
     </a>
   );
 };

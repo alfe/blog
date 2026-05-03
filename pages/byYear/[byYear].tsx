@@ -37,7 +37,7 @@ const category = (props: categoryProps) => {
 }
 export default category;
 
-export const getStaticProps = async ({ params }) => {
+export const getStaticProps = async ({ params }: { params: any }) => {
   const posts = await readContentFiles({ fs })
   return {
     props: {
