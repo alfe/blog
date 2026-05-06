@@ -2,7 +2,7 @@ import fs from "fs"
 import PostLinkItem from "components/PostLinkItem"
 import Layout from "components/Layout"
 import OgpHeader from "components/OgpHeader"
-import { readContentFiles } from "lib/content-loader"
+import { readContentMetas } from "lib/content-loader"
 import { useRouter } from "next/router"
 import { useState, useEffect } from "react"
 
@@ -145,7 +145,7 @@ const Category = (props: categoryProps) => {
 export default Category;
 
 export const getStaticProps = async ({ params }: { params: any }) => {
-  const posts = await readContentFiles({ fs })
+  const posts = readContentMetas({ fs })
   return {
     props: {
       posts: posts.filter(

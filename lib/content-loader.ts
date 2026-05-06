@@ -2,7 +2,6 @@ import { createElement } from "react";
 import path from "path"
 import { remark } from "remark"
 import remarkHtml from "remark-html"
-import strip from "remark-strip-html"
 import matter from "gray-matter"
 import { unified } from "unified"
 import rehypeReact, { type Options as ReactOptions } from "rehype-react"
@@ -57,12 +56,10 @@ const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs: any, 
     .processSync(matterResult.content)
   const content = parsedContent.toString()
 
-  const description = await remark()
-    .use(remarkHtml, {sanitize: true})
-    .use(strip)
-    .processSync(matterResult.content)
-    .toString()
-    .replace(/\<.+\>(.*)\<\/.+\>/g, '$1')
+  const description = content
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
     .substring(0, 200)
 
   return {
@@ -79,14 +76,52 @@ const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs: any, 
 
 /**
  * Markdown のファイルの中身を全件パースして取得する
+ *
+ * Why: ビルド中に getStaticProps が記事ごとに呼び出すため、
+ * メモ化しないと N×N の Markdown パースが走る。
  */
+let _readContentFilesCache: Promise<any[]> | null = null
 const readContentFiles = async ({ fs }: { fs: any }) => {
-  const promises = listContentFiles({ fs })
-    .map((filename: string) => readContentFile({ fs, filename }))
+  if (_readContentFilesCache) return _readContentFilesCache
+  _readContentFilesCache = (async () => {
+    const promises = listContentFiles({ fs })
+      .map((filename: string) => readContentFile({ fs, filename }))
+    const contents = await Promise.all(promises)
+    return contents.sort(sortWithProp('published', true))
+  })()
+  return _readContentFilesCache
+}
 
-  const contents = await Promise.all(promises)
+/**
+ * Markdown のファイルから front-matter のみ抽出する
+ *
+ * Why: 一覧ページ（archive / byYear / category / index）は本文 HTML を必要とせず、
+ * remark で Markdown→HTML する 1 件あたり数百 ms のコストを丸ごと省ける。
+ */
+const readContentMeta = ({ fs, filename }: { fs: any; filename: string }) => {
+  const slug = path.parse(filename).name
+  let dirname = `${path.parse(filename).dir}/`
+  dirname = dirname === '//' ? '/' : dirname
+  const raw = fs.readFileSync(path.join(DIR, `${dirname}${slug}${EXTENSION}`), 'utf8')
+  const matterResult = matter(raw)
+  const { Title, Category, IMAGE, Date: rawPublished } = matterResult.data
+  return {
+    title: Title || null,
+    category: Category || null,
+    thumbnail: !IMAGE ? null : IMAGE,
+    published: (rawPublished).toISOString() || null,
+    slug,
+    dirname,
+  }
+}
 
-  return contents.sort(sortWithProp('published', true))
+let _readContentMetasCache: any[] | null = null
+const readContentMetas = ({ fs }: { fs: any }) => {
+  if (_readContentMetasCache) return _readContentMetasCache
+  _readContentMetasCache = listContentFiles({ fs })
+    .map((filename: string) => readContentMeta({ fs, filename }))
+    .sort(sortWithProp('published', true))
+  return _readContentMetasCache
 }
 
 /**
@@ -113,4 +148,4 @@ const replaceComponentInHtml = (propsValues: {
     .use(rehypeParse, { fragment: true })
     .use(rehypeReact, rehypeReactOption);
 }
-export { listContentFiles, readContentFile, readContentFiles, replaceComponentInHtml }
+export { listContentFiles, readContentFile, readContentFiles, readContentMetas, replaceComponentInHtml }

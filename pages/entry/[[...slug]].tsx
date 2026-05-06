@@ -7,7 +7,7 @@ import Ogp from "components/Ogp"
 import PostFooter from "components/PostFooter"
 import ArticleHeadInfos from "components/ArticleHeadInfos"
 import ArticleContentStyles from "components/ArticleContentStyles"
-import { listContentFiles, replaceComponentInHtml, readContentFile, readContentFiles } from "lib/content-loader"
+import { listContentFiles, replaceComponentInHtml, readContentFiles } from "lib/content-loader"
 import getFloatingUrls from "lib/getFloatingUrls"
 import getOgpData, { OgpData } from "lib/getOgpData"
 import getAmazonLinkInfos, { AmznData } from "lib/getAmazonLinkInfos"
@@ -60,12 +60,12 @@ export default Post;
  * ページコンポーネントで使用する値を用意する
  */
 export const getStaticProps = async ({ params }: { params: any }) => {
-  const postContent = await readContentFile({ fs, slug: params.slug.join('/') })
-
   const posts = await readContentFiles({ fs })
-  const postIndex = posts
-    .map((post) => `${post.dirname === '//' ? '/' : post.dirname}${post.slug}`)
-    .findIndex(url => url === `/${params.slug.join('/')}`);
+  const targetUrl = `/${params.slug.join('/')}`
+  const postIndex = posts.findIndex(
+    (post) => `${post.dirname === '//' ? '/' : post.dirname}${post.slug}` === targetUrl
+  );
+  const postContent = posts[postIndex]
 
   const floatingUrls = getFloatingUrls(postContent.content ?? '');
   const amznUrls = floatingUrls.filter(url => url.includes('amazon.co.jp'))

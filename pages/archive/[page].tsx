@@ -3,7 +3,7 @@ import Layout from "components/Layout"
 import PostLinkItem from "components/PostLinkItem"
 import Pager from "components/Pager"
 import OgpHeader from "components/OgpHeader"
-import { listContentFiles, readContentFiles } from "lib/content-loader"
+import { listContentFiles, readContentMetas } from "lib/content-loader"
 
 const COUNT_PER_PAGE = 10
 
@@ -54,7 +54,7 @@ export const getStaticProps = async ({ params }: { params: any }) => {
   const page = parseInt(params.page, 10)
   const end = COUNT_PER_PAGE * page
   const start = end - COUNT_PER_PAGE
-  const posts = await readContentFiles({ fs })
+  const posts = readContentMetas({ fs })
 
   return {
     props: {

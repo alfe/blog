@@ -3,7 +3,7 @@ import Link from "next/link"
 import Layout from "components/Layout"
 import OgpHeader from "components/OgpHeader"
 import PostLinkItem from "components/PostLinkItem"
-import { readContentFiles } from "lib/content-loader"
+import { readContentMetas } from "lib/content-loader"
 
 type HomeProps = {
   posts: {
@@ -52,7 +52,7 @@ export default Home;
 
 export const getStaticProps = async () => {
   const MAX_COUNT = 10
-  const posts = await readContentFiles({ fs })
+  const posts = readContentMetas({ fs })
   const hasArchive = posts.length > MAX_COUNT
 
   return {
