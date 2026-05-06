@@ -1,9 +1,11 @@
 import ArticleHeadInfos from '../ArticleHeadInfos';
 
-export default {
+const meta = {
   title: 'component/ArticleHeadInfos',
   component: ArticleHeadInfos,
 };
+
+export default meta;
 
 export const Default = {
   args: {

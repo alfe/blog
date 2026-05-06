@@ -1,12 +1,20 @@
 {
   "compilerOptions": {
-        "baseUrl": "./",
-        "paths": {
-          "lib/*": ["lib/*"],
-          "components/*": ["components/*"],
-          "pages/*": ["pages/*"],
-          "styles/*": ["styles/*"]
-        },
+    "baseUrl": "./",
+    "paths": {
+      "lib/*": [
+        "lib/*"
+      ],
+      "components/*": [
+        "components/*"
+      ],
+      "pages/*": [
+        "pages/*"
+      ],
+      "styles/*": [
+        "styles/*"
+      ]
+    },
     "target": "esnext",
     "module": "es2020",
     "lib": [
@@ -21,11 +29,11 @@
     "noEmit": true,
     "incremental": true,
     "esModuleInterop": true,
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
     "ignoreDeprecations": "6.0",
-    "jsx": "preserve"
+    "jsx": "react-jsx"
   },
   "include": [
     "next-env.d.ts",

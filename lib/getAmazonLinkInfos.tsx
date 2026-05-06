@@ -53,7 +53,6 @@ const fetchAmazonInfo = async (url: string): Promise<AmznData | null> => {
     await browser.close();
     return dataItem;
   } catch (e) {
-    // eslint-disable-next-line no-console
     console.error(e);
     return null;
   }

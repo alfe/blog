@@ -1,9 +1,11 @@
 import AmznCard from '../AmznCard';
 
-export default {
+const meta = {
   title: 'component/AmznCard',
   component: AmznCard,
 };
+
+export default meta;
 
 export const Default = {
   args: {

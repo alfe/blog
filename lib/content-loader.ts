@@ -74,23 +74,23 @@ const readContentFile = async ({ fs, slug, dirname = '', filename }: { fs: any, 
   }
 }
 
+const memoize = <Args extends any[], T>(fn: (...args: Args) => T) => {
+  const cache: { value?: T } = {}
+  return (...args: Args): T => (cache.value ??= fn(...args))
+}
+
 /**
  * Markdown のファイルの中身を全件パースして取得する
  *
  * Why: ビルド中に getStaticProps が記事ごとに呼び出すため、
  * メモ化しないと N×N の Markdown パースが走る。
  */
-let _readContentFilesCache: Promise<any[]> | null = null
-const readContentFiles = async ({ fs }: { fs: any }) => {
-  if (_readContentFilesCache) return _readContentFilesCache
-  _readContentFilesCache = (async () => {
-    const promises = listContentFiles({ fs })
-      .map((filename: string) => readContentFile({ fs, filename }))
-    const contents = await Promise.all(promises)
-    return contents.sort(sortWithProp('published', true))
-  })()
-  return _readContentFilesCache
-}
+const readContentFiles = memoize(async ({ fs }: { fs: any }) => {
+  const promises = listContentFiles({ fs })
+    .map((filename: string) => readContentFile({ fs, filename }))
+  const contents = await Promise.all(promises)
+  return contents.sort(sortWithProp('published', true))
+})
 
 /**
  * Markdown のファイルから front-matter のみ抽出する
@@ -115,14 +115,11 @@ const readContentMeta = ({ fs, filename }: { fs: any; filename: string }) => {
   }
 }
 
-let _readContentMetasCache: any[] | null = null
-const readContentMetas = ({ fs }: { fs: any }) => {
-  if (_readContentMetasCache) return _readContentMetasCache
-  _readContentMetasCache = listContentFiles({ fs })
+const readContentMetas = memoize(({ fs }: { fs: any }) =>
+  listContentFiles({ fs })
     .map((filename: string) => readContentMeta({ fs, filename }))
     .sort(sortWithProp('published', true))
-  return _readContentMetasCache
-}
+)
 
 /**
  * Markdown の投稿をソートするためのヘルパー

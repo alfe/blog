@@ -72,7 +72,6 @@ const getOgpData = async (floatingUrls: string[]): Promise<OgpData[]> => {
           appendCache(url, result);
         })
         .catch((error) => {
-          // eslint-disable-next-line no-console
           console.log('OgpData parse error:', error);
           appendCache(url, null);
         });

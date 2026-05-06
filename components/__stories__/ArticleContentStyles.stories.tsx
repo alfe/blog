@@ -1,10 +1,12 @@
 import React from 'react';
 import ArticleContentStyles from '../ArticleContentStyles';
 
-export default {
+const meta = {
   title: 'component/ArticleContentStyles',
   component: ArticleContentStyles,
 };
+
+export default meta;
 
 export const Default = () => (
   <ArticleContentStyles>

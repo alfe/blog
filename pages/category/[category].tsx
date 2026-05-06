@@ -3,8 +3,7 @@ import PostLinkItem from "components/PostLinkItem"
 import Layout from "components/Layout"
 import OgpHeader from "components/OgpHeader"
 import { readContentMetas } from "lib/content-loader"
-import { useRouter } from "next/router"
-import { useState, useEffect } from "react"
+import { useMemo, useState } from "react"
 
 type Post = {
   title: string;
@@ -21,14 +20,12 @@ const POSTS_PER_PAGE = 20
 
 const Category = (props: categoryProps) => {
   const { posts } = props
-  const router = useRouter()
   const [currentPage, setCurrentPage] = useState(1)
-  const [displayedPosts, setDisplayedPosts] = useState<Post[]>([])
 
-  useEffect(() => {
+  const displayedPosts = useMemo(() => {
     const startIndex = (currentPage - 1) * POSTS_PER_PAGE
     const endIndex = startIndex + POSTS_PER_PAGE
-    setDisplayedPosts(posts.slice(startIndex, endIndex))
+    return posts.slice(startIndex, endIndex)
   }, [currentPage, posts])
 
   const totalPages = Math.ceil(posts.length / POSTS_PER_PAGE)

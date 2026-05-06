@@ -1,9 +1,11 @@
 import OgpCard from '../OgpCard';
 
-export default {
+const meta = {
   title: 'component/OgpCard',
   component: OgpCard,
 };
+
+export default meta;
 
 export const Default = {
   args: {
