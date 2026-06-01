@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm ls *)",
+      "WebFetch(domain:the-great-alfe-site.netlify.app)",
+      "WebFetch(domain:blog.alfebelow.com)",
+      "WebFetch(domain:docs.netlify.com)"
+    ]
+  }
+}
