@@ -397,3 +397,9 @@
 {"url":"https://www.amazon.co.jp/dp/B0DGGBCR5S","title":"「腸と脳」の科学　脳と体を整える、腸の知られざるはたらき (ブルーバックス)","bylineInfo":"坪井貴司(著)","imgUrl":"https://m.media-amazon.com/images/I/719RY17iLeL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4469280275","title":"防災地元学—地誌で読み解く災害の記憶と知恵","bylineInfo":"小田隆史(著)","imgUrl":"https://m.media-amazon.com/images/I/41Yxnmx4OWL._SY445_SX342_ML2_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0D6QJG61T","title":"サイバースペースの地政学 (ハヤカワ新書)","bylineInfo":"小宮山功一朗(著),小泉悠(著)","imgUrl":"https://m.media-amazon.com/images/I/61xF+JAFYsL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0G1L7MRQF","title":"スキンケアの科学　科学的に正しい皮膚の話 (ブルーバックス)","bylineInfo":"平山令明(著)","imgUrl":"https://m.media-amazon.com/images/I/71l+cRKtJFL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GJQV61J1","title":"絵巻の楽しみ　角川選書ビギナーズ","bylineInfo":"山本陽子(著)","imgUrl":"https://m.media-amazon.com/images/I/81Zb9e4LN7L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GSF8N781","title":"宇宙でラーメンは食べられるか　宇宙暮らしのロマンと現実 (幻冬舎新書)","bylineInfo":"野口聡一(著)","imgUrl":"https://m.media-amazon.com/images/I/81p7CD3r3nL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0CYHG97R3","title":"この3つで劇的にあか抜ける 人生が変わるインテリア","bylineInfo":"大塚彬子(著)","imgUrl":"https://m.media-amazon.com/images/I/716o8Se8oQL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0FQ9ZQ474","title":"続 喫茶の効用：実践編","bylineInfo":"飯塚めり(著),星野概念(著)","imgUrl":"https://m.media-amazon.com/images/I/714y-4J2kEL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0FNMRQDM6","title":"騙されるＡＩ　「不可解なパートナー」人工知能との付き合い方 (講談社＋α新書)","bylineInfo":"宮田晋次(著)","imgUrl":"https://m.media-amazon.com/images/I/81aDpiljSJL._SY385_.jpg"}
