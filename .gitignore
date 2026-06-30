@@ -59,3 +59,4 @@ public/sitemap.xml
 .claude/settings.local.json
 /storybook-static
 debug-storybook.log
+deno.lock

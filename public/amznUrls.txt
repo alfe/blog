@@ -403,3 +403,8 @@
 {"url":"https://www.amazon.co.jp/dp/B0CYHG97R3","title":"この3つで劇的にあか抜ける 人生が変わるインテリア","bylineInfo":"大塚彬子(著)","imgUrl":"https://m.media-amazon.com/images/I/716o8Se8oQL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0FQ9ZQ474","title":"続 喫茶の効用：実践編","bylineInfo":"飯塚めり(著),星野概念(著)","imgUrl":"https://m.media-amazon.com/images/I/714y-4J2kEL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0FNMRQDM6","title":"騙されるＡＩ　「不可解なパートナー」人工知能との付き合い方 (講談社＋α新書)","bylineInfo":"宮田晋次(著)","imgUrl":"https://m.media-amazon.com/images/I/81aDpiljSJL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4286268454","title":"図書館員の左腕 (文芸社セレクション)","bylineInfo":"奥間司(著)形式:文庫","imgUrl":"https://m.media-amazon.com/images/I/61ZL5R8NliL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B09KN2RS8G","title":"味・香り 「こつ」の科学","bylineInfo":"川崎寛也(著)","imgUrl":"https://m.media-amazon.com/images/I/81n01t8ue8L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0G5P8XLKH","title":"感覚史入門 なぜプラスチックを「清潔」に感じるのか (平凡社新書 1096)","bylineInfo":"久野愛(著)","imgUrl":"https://m.media-amazon.com/images/I/81ID7MIOQrL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GX31MJZD","title":"「考える力」と「好奇心」をぐんぐん伸ばす　AI×学び入門","bylineInfo":"安井政樹(著)","imgUrl":"https://m.media-amazon.com/images/I/81nh0T9jdFL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GR1Z5G3Q","title":"軍民両用化する技術～「デュアルユース問題」とは何か？～ (光文社新書)","bylineInfo":"大庭弘継(著)","imgUrl":"https://m.media-amazon.com/images/I/71T+8siDlhL._SY425_.jpg"}
