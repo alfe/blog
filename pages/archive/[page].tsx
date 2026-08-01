@@ -38,7 +38,7 @@ const Archive = (props: ArchiveProps) => {
       <Pager
         page={page} total={total} perPage={perPage}
         href="/archive/[page]"
-        asCallback={(page: number) => `/archive/${page}`}
+        asCallback={(pageNumber: number) => `/archive/${pageNumber}`}
       />
       <style jsx global>{`
         img[alt="thumb"] {
@@ -80,8 +80,8 @@ export const getStaticProps = async ({ params }: { params: any }) => {
 export const getStaticPaths = async () => {
   const posts = await listContentFiles({ fs })
   const pages = range(Math.ceil(posts.length / COUNT_PER_PAGE))
-  const paths = pages.map((page) => ({
-    params: { page: `${page}` }
+  const paths = pages.map((pageNumber) => ({
+    params: { page: `${pageNumber}` }
   }))
 
   return { paths: paths, fallback: false }

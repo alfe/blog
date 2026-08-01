@@ -1,0 +1,40 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.5.1/schema.json",
+  "files": {
+    "includes": [
+      "**",
+      "!.netlify",
+      "!.next",
+      "!.yarn",
+      "!out",
+      "!build",
+      "!storybook-static",
+      "!public",
+      "!__snapshots__",
+      "!next-env.d.ts",
+      "!**/*.stories.*",
+      "!components/**/__stories__/**",
+      "!pages/_document.js"
+    ]
+  },
+  "formatter": {
+    "enabled": true,
+    "indentStyle": "space",
+    "indentWidth": 2
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "preset": "recommended",
+      "suspicious": {
+        "noExplicitAny": "off"
+      }
+    }
+  },
+  "javascript": {
+    "formatter": {
+      "quoteStyle": "single",
+      "semicolons": "always"
+    }
+  }
+}

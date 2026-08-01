@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { OgpData } from "lib/getOgpData";
+import type { OgpData } from "lib/getOgpData";
 
 type OgpCardProps = {
   href: string | null;

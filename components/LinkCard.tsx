@@ -1,5 +1,5 @@
-import { OgpData } from "lib/getOgpData";
-import { AmznData } from "lib/getAmazonLinkInfos";
+import type { OgpData } from "lib/getOgpData";
+import type { AmznData } from "lib/getAmazonLinkInfos";
 import OgpCard from "./OgpCard";
 import AmznCard from "./AmznCard";
 
@@ -15,14 +15,14 @@ const LinkCard = (props: LinkCardProps) => {
   // 独立行のURL
   if (props.href === props.children) {
     const ogp = (props.ogpDatas ?? []).find((ogpData) => props.href === ogpData.requestUrl)
-    if (!!ogp) {
+    if (ogp) {
       return (
         <OgpCard href={href} ogp={ogp} />
       );
     }
 
     const amzn = (props.amznData || []).find((amznData) => props.href === amznData.url)
-    if (!!amzn) {
+    if (amzn) {
       return (
         <AmznCard href={href} amzn={amzn} />
       );

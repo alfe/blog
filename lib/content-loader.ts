@@ -89,7 +89,7 @@ const readContentFiles = memoize(async ({ fs }: { fs: any }) => {
   const promises = listContentFiles({ fs })
     .map((filename: string) => readContentFile({ fs, filename }))
   const contents = await Promise.all(promises)
-  return contents.sort(sortWithProp('published', true))
+  return contents.toSorted(sortWithProp('published', true))
 })
 
 /**

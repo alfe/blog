@@ -18,9 +18,9 @@ const category = (props: categoryProps) => {
   return (
     <Layout title="">
       <OgpHeader />
-      {posts.map((post, index) => (
+      {posts.map((post) => (
         <PostLinkItem
-          key={`${index}-${post.slug}`}
+          key={post.slug}
           to={`/entry${post.dirname}${post.slug}`}
           thumbnail={post.thumbnail}
           title={post.title}

@@ -20,8 +20,8 @@ const Footer = () => {
       <div>
         <h2>カテゴリー</h2>
         <ul>
-          {CATEGORY.map((category, index) => (
-            <li key={`${index}-${category}`}>
+          {CATEGORY.map((category) => (
+            <li key={category}>
               <Link href="/category/[category]" as={`/category/${category}`}>
                 {category}
               </Link>
@@ -32,8 +32,8 @@ const Footer = () => {
       <div>
         <h2>年別アーカイブ</h2>
         <ul>
-          {BY_YEAR.map((byYear, index) => (
-            <li key={`${index}-${byYear}`}>
+          {BY_YEAR.map((byYear) => (
+            <li key={byYear}>
               <Link href="/byYear/[byYear]" as={`/byYear/${byYear}`}>
                 {byYear}
               </Link>

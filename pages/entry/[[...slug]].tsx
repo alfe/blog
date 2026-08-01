@@ -1,4 +1,4 @@
-import { ReactNode } from "react"
+import type { ReactNode } from "react"
 import fs from "fs"
 import path from "path"
 
@@ -9,8 +9,8 @@ import ArticleHeadInfos from "components/ArticleHeadInfos"
 import ArticleContentStyles from "components/ArticleContentStyles"
 import { listContentFiles, replaceComponentInHtml, readContentFiles } from "lib/content-loader"
 import getFloatingUrls from "lib/getFloatingUrls"
-import getOgpData, { OgpData } from "lib/getOgpData"
-import getAmazonLinkInfos, { AmznData } from "lib/getAmazonLinkInfos"
+import getOgpData, { type OgpData } from "lib/getOgpData"
+import getAmazonLinkInfos, { type AmznData } from "lib/getAmazonLinkInfos"
 
 type PostProps = {
   title: string;

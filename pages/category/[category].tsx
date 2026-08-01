@@ -47,9 +47,9 @@ const Category = (props: categoryProps) => {
   return (
     <Layout title="">
       <OgpHeader />
-      {displayedPosts.map((post, index) => (
+      {displayedPosts.map((post) => (
         <PostLinkItem
-          key={`${index}-${post.slug}`}
+          key={post.slug}
           to={`/entry${post.dirname}${post.slug}`}
           thumbnail={post.thumbnail}
           title={post.title}
@@ -59,6 +59,7 @@ const Category = (props: categoryProps) => {
       
       <div className="pagination">
         <button
+          type="button"
           onClick={handlePrevPage}
           disabled={currentPage === 1}
           className="page-button"
@@ -71,6 +72,7 @@ const Category = (props: categoryProps) => {
             width="24"
             height="32"
           >
+            <title>前のページへ</title>
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 19l-7-7 7-7" />
           </svg>
           前のページ
@@ -83,6 +85,7 @@ const Category = (props: categoryProps) => {
         </div>
 
         <button
+          type="button"
           onClick={handleNextPage}
           disabled={currentPage === totalPages}
           className="page-button"
@@ -96,6 +99,7 @@ const Category = (props: categoryProps) => {
             width="24"
             height="32"
           >
+            <title>次のページへ</title>
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5l7 7-7 7" />
           </svg>
         </button>

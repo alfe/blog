@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import type { ReactNode } from "react";
 import Head from "next/head"
 import Link from "next/link"
 import Footer from "./Footer";

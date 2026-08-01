@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { AmznData } from "lib/getAmazonLinkInfos";
+import type { AmznData } from "lib/getAmazonLinkInfos";
 
 type AmznCardProps = {
   href: string | null;

@@ -408,3 +408,11 @@
 {"url":"https://www.amazon.co.jp/dp/B0G5P8XLKH","title":"感覚史入門 なぜプラスチックを「清潔」に感じるのか (平凡社新書 1096)","bylineInfo":"久野愛(著)","imgUrl":"https://m.media-amazon.com/images/I/81ID7MIOQrL._SY425_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0GX31MJZD","title":"「考える力」と「好奇心」をぐんぐん伸ばす　AI×学び入門","bylineInfo":"安井政樹(著)","imgUrl":"https://m.media-amazon.com/images/I/81nh0T9jdFL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0GR1Z5G3Q","title":"軍民両用化する技術～「デュアルユース問題」とは何か？～ (光文社新書)","bylineInfo":"大庭弘継(著)","imgUrl":"https://m.media-amazon.com/images/I/71T+8siDlhL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4767835038","title":"新・メンズファッションの解剖図鑑","bylineInfo":"MB(著)形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/81vtO+SJ0JL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4761528001","title":"日常の絶景: 知ってる街の、知らない見方","bylineInfo":"八馬智(著)形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/71llgYuf5WL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GX1DRS3K","title":"京大理系の科学入門　「すごい研究」はこうして生まれる (ブルーバックス)","bylineInfo":"高松夕佳(著),京都大学総合研究推進本部(監修)","imgUrl":"https://m.media-amazon.com/images/I/8145QL5kC7L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GX2WXJHW","title":"イグ・ノーベル賞の受賞者たち ニュートン＋新書","bylineInfo":"科学雑誌Newton(著)","imgUrl":"https://m.media-amazon.com/images/I/51rR7EfYnIL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DQKQMQPW","title":"ＳＦ脳とリアル脳　どこまで可能か、なぜ不可能なのか (ブルーバックス)","bylineInfo":"櫻井武(著)","imgUrl":"https://m.media-amazon.com/images/I/71gwpEE+QNL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GX2WXJHW","title":"イグ・ノーベル賞の受賞者たち ニュートン＋新書","bylineInfo":"科学雑誌Newton(著)","imgUrl":"https://m.media-amazon.com/images/I/51rR7EfYnIL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0DQKQMQPW","title":"ＳＦ脳とリアル脳　どこまで可能か、なぜ不可能なのか (ブルーバックス)","bylineInfo":"櫻井武(著)","imgUrl":"https://m.media-amazon.com/images/I/71gwpEE+QNL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0GX1DRS3K","title":"京大理系の科学入門　「すごい研究」はこうして生まれる (ブルーバックス)","bylineInfo":"高松夕佳(著),京都大学総合研究推進本部(監修)","imgUrl":"https://m.media-amazon.com/images/I/8145QL5kC7L._SY385_.jpg"}

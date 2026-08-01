@@ -44,7 +44,7 @@ export const Default = () => (
     </code></pre>
     <p>ユーザのURLが<code>links.href</code>に書いてます。ここを参照して <code>https://ap.alfebelow.com/u/alfe</code> に再びGETリクエストを投げるとユーザのプロフィール情報が返ってきます。</p>
 
-    <a href="https://www.amazon.co.jp/SUPER%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9-%E3%80%8C%E9%9B%BB%E6%B0%97%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E7%89%A9%E7%90%86%E7%8F%BE%E8%B1%A1%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E7%A7%91%E5%AD%A6-%E9%BD%8B%E8%97%A4%E5%8B%9D%E8%A3%95-ebook/dp/B0C9ZP5NBY?_encoding=UTF8&qid=1698581725&sr=1-1&linkCode=li3&tag=ab1025-22&linkId=efa4eb799e00a5a0af5f66ecbc91f74f&language=ja_JP&ref_=as_li_ss_il" target="_blank">
+    <a href="https://www.amazon.co.jp/SUPER%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9-%E3%80%8C%E9%9B%BB%E6%B0%97%E3%80%8D%E3%81%A8%E3%81%84%E3%81%86%E7%89%A9%E7%90%86%E7%8F%BE%E8%B1%A1%E3%81%AE%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E7%A7%91%E5%AD%A6-%E9%BD%8B%E8%97%A4%E5%8B%9D%E8%A3%95-ebook/dp/B0C9ZP5NBY?_encoding=UTF8&qid=1698581725&sr=1-1&linkCode=li3&tag=ab1025-22&linkId=efa4eb799e00a5a0af5f66ecbc91f74f&language=ja_JP&ref_=as_li_ss_il" target="_blank" rel="noopener">
       {/* eslint-disable-next-line */}
       <img src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0C9ZP5NBY&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=ab1025-22&language=ja_JP" />
     </a>
