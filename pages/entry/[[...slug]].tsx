@@ -15,6 +15,7 @@ import getAmazonLinkInfos, { type AmznData } from "lib/getAmazonLinkInfos"
 type PostProps = {
   title: string;
   slug: string;
+  dirname: string;
   description: string;
   thumbnail?: string;
   published: string;
@@ -34,13 +35,16 @@ type PostProps = {
   amznData?: AmznData[];
 }
 const Post = (params: PostProps) => {
+  const entryPath = `/entry${params.dirname === '//' ? '/' : params.dirname}${params.slug}`
+
   return (
-    <Layout title={params.title}>
+    <Layout title={params.title} canonicalPath={entryPath}>
       <Ogp
-        slug={params.slug}
+        path={entryPath}
         title={params.title}
         description={params.description}
-        thumbnail={params.thumbnail ?? ''} />
+        published={params.published}
+        thumbnail={params.thumbnail} />
 
       <ArticleHeadInfos
         published={params.published}

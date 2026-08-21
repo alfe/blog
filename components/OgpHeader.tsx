@@ -1,18 +1,19 @@
-import React from "react"
 import Head from "next/head"
+import { getAbsoluteUrl, SITE_DESCRIPTION, SITE_TITLE } from "../lib/site"
 
-const Ogp = () => {
-  const siteTitle = "FUN YOU BLOG"
+const Ogp = (props: { path: string }) => {
+  const url = getAbsoluteUrl(props.path)
 
   return (
     <Head>
-      <meta property="og:url" content={`${process.env.PRD_URL}/`} />
+      <meta name="description" content={SITE_DESCRIPTION} />
+      <meta property="og:url" content={url} />
       <meta property="og:type" content="website" />
-      <meta property="og:title" content={siteTitle} />
-      <meta property="og:description" content="書籍沼なIT屋さんのブログ" />
-      <meta property="og:site_name" content={siteTitle} />
-      <meta property="og:locale" content="ja" />
-      <meta property="og:image" content={`${process.env.PRD_URL}/img/ogp-home.png`} />
+      <meta property="og:title" content={SITE_TITLE} />
+      <meta property="og:description" content={SITE_DESCRIPTION} />
+      <meta property="og:site_name" content={SITE_TITLE} />
+      <meta property="og:locale" content="ja_JP" />
+      <meta property="og:image" content={getAbsoluteUrl("/img/ogp-home.png")} />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@alfe_below" />
     </Head>

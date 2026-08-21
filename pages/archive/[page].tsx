@@ -19,12 +19,13 @@ type ArchiveProps = {
   page: number;
   total: number;
   perPage: number;
+  canonicalPath: string;
 };
 const Archive = (props: ArchiveProps) => {
   const { posts, page, total, perPage } = props
   return (
-    <Layout title="アーカイブ">
-      <OgpHeader />
+    <Layout title="アーカイブ" canonicalPath={props.canonicalPath}>
+      <OgpHeader path={props.canonicalPath} />
       {posts.map((post) => (
         <PostLinkItem
           key={post.slug}
@@ -68,6 +69,7 @@ export const getStaticProps = async ({ params }: { params: any }) => {
           thumbnail: post.thumbnail,
         })),
       page,
+      canonicalPath: `/archive/${page}`,
       total: posts.length,
       perPage: COUNT_PER_PAGE,
     }

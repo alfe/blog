@@ -2,22 +2,23 @@ import type { ReactNode } from "react";
 import Head from "next/head"
 import Link from "next/link"
 import Footer from "./Footer";
+import { getAbsoluteUrl, SITE_TITLE } from "../lib/site";
 
-const Layout = (props: { title?: string; children: ReactNode; }) => {
-  const { title, children } = props
-  const siteTitle = "FUN YOU BLOG"
+const Layout = (props: { title?: string; canonicalPath: string; children: ReactNode; }) => {
+  const { title, canonicalPath, children } = props
 
   return (
     <div>
       <Head>
-        <title>{title ? `${title} | ${siteTitle}` : siteTitle}</title>
+        <title>{title ? `${title} | ${SITE_TITLE}` : SITE_TITLE}</title>
+        <link rel="canonical" href={getAbsoluteUrl(canonicalPath)} />
         <link rel="icon" href="/favicon.ico" />
-        <link rel="alternate" type="application/rss+xml" title={siteTitle} href={`/feed.xml`} />
+        <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={`/feed.xml`} />
       </Head>
 
       <header>
         <h1 className="site-title">
-          <Link href="/" prefetch={false}>{siteTitle}</Link>
+          <Link href="/" prefetch={false}>{SITE_TITLE}</Link>
         </h1>
       </header>
 
@@ -92,4 +93,3 @@ const Layout = (props: { title?: string; children: ReactNode; }) => {
   );
 }
 export default Layout
-

@@ -14,6 +14,7 @@ type Post = {
 }
 type categoryProps = {
   posts: Post[];
+  canonicalPath: string;
 }
 
 const POSTS_PER_PAGE = 20
@@ -45,8 +46,8 @@ const Category = (props: categoryProps) => {
   }
 
   return (
-    <Layout title="">
-      <OgpHeader />
+    <Layout title="" canonicalPath={props.canonicalPath}>
+      <OgpHeader path={props.canonicalPath} />
       {displayedPosts.map((post) => (
         <PostLinkItem
           key={post.slug}
@@ -149,6 +150,7 @@ export const getStaticProps = async ({ params }: { params: any }) => {
   const posts = readContentMetas({ fs })
   return {
     props: {
+      canonicalPath: `/category/${params.category}`,
       posts: posts.filter(
         (post: any) => post.category?.find((category: string) => category === params.category)
       ),

@@ -5,6 +5,7 @@ import OgpHeader from "components/OgpHeader"
 import { readContentMetas } from "lib/content-loader"
 
 type categoryProps = {
+  canonicalPath: string;
   posts: {
     title: string;
     dirname: string;
@@ -16,8 +17,8 @@ type categoryProps = {
 const category = (props: categoryProps) => {
   const { posts } = props
   return (
-    <Layout title="">
-      <OgpHeader />
+    <Layout title="" canonicalPath={props.canonicalPath}>
+      <OgpHeader path={props.canonicalPath} />
       {posts.map((post) => (
         <PostLinkItem
           key={post.slug}
@@ -41,6 +42,7 @@ export const getStaticProps = async ({ params }: { params: any }) => {
   const posts = readContentMetas({ fs })
   return {
     props: {
+      canonicalPath: `/byYear/${params.byYear}`,
       posts: posts.filter(
         (post) => post.published.substring(0, 4) === params.byYear
       ),
