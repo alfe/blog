@@ -416,3 +416,10 @@
 {"url":"https://www.amazon.co.jp/dp/B0GX2WXJHW","title":"イグ・ノーベル賞の受賞者たち ニュートン＋新書","bylineInfo":"科学雑誌Newton(著)","imgUrl":"https://m.media-amazon.com/images/I/51rR7EfYnIL._SY425_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0DQKQMQPW","title":"ＳＦ脳とリアル脳　どこまで可能か、なぜ不可能なのか (ブルーバックス)","bylineInfo":"櫻井武(著)","imgUrl":"https://m.media-amazon.com/images/I/71gwpEE+QNL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/B0GX1DRS3K","title":"京大理系の科学入門　「すごい研究」はこうして生まれる (ブルーバックス)","bylineInfo":"高松夕佳(著),京都大学総合研究推進本部(監修)","imgUrl":"https://m.media-amazon.com/images/I/8145QL5kC7L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4297157063","title":"表層UIデザインの解剖学──ユーザーの知覚に訴える「見た目」の作り方","bylineInfo":"本田雅人(著)形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/71cZaaoH0eL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4492047166","title":"巨神のツール 俺の生存戦略 知性編","bylineInfo":"ティム・フェリス(著),川島睦保(翻訳)形式:単行本","imgUrl":"https://m.media-amazon.com/images/I/71y3x-jSYSL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798639931","title":"イラストでまなぶ！用兵思想入門　現代アメリカ海兵隊の戦い方編","bylineInfo":"田村尚也(著)形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/819Kr2KeWuL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4065428688","title":"金融数学入門 (ブルーバックス)","bylineInfo":"冨島佑允(著)形式:新書","imgUrl":"https://m.media-amazon.com/images/I/7176NtqTrwL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798196339","title":"セキュアAPI 設計・構築・実装を貫く原則","bylineInfo":"JoséHaroPeralta(原著),元内柊也(翻訳),水元恭平(翻訳),織茂駿斗(翻訳),小栁斉(翻訳)&1その他形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/81lLbsDxIXL._SY342_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/440512034X","title":"サクッとわかる ビジネス教養 防衛学","bylineInfo":"小野圭司(監修)形式:単行本","imgUrl":"https://m.media-amazon.com/images/I/81KAUFjmsEL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4798190705/","title":"絵で見てわかるWeb APIの仕組み","bylineInfo":"武田大輝(著),枇榔晃裕(著),渋川よしき(著),真野隼記(著)&1その他形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/81e3yIvr+GL._SY385_.jpg"}
