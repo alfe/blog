@@ -10,6 +10,13 @@
     },
     "items": [
         {
+            "id": "https://blog.alfebelow.com/entry/2026/09/30/2026%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "content_html": "いつもの。 〈情報的世界観〉の哲学 https://www.amazon.co.jp/dp/B0CPLLJJBZ 量子コンピュータ、メタヴァース、生成ＡＩを題材に、社会哲学的・メディア論的分析を行う本。 情報社会での数の扱い方として、ビッグデータと純粋数学の対比。生成AIは何を実現し、AIが創造したというためにはなにが足りないか。 流行りのキーワードが社会に対してどういう立ち位置にいるかを捉え直す",
+            "url": "https://blog.alfebelow.com/entry/2026/09/30/2026%E5%B9%B49%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
+            "title": "2026年9月に読んだ本",
+            "date_modified": "2026-09-30T10:00:00.000Z"
+        },
+        {
             "id": "https://blog.alfebelow.com/entry/2026/09/16/%E6%9B%B8%E3%81%84%E3%81%9F%E6%9C%AC%E3%81%8C%E5%87%BA%E7%89%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A9%B1%E3%81%9D%E3%81%AE2",
             "content_html": "書いた本が出版される話その２。 Web APIについての本を書いた。 https://www.amazon.co.jp/dp/4798190705/ 前回は以下。E2Eテストについての本を書いた。 https://blog.alfebelow.com/entry/2024/06/16/%E6%9B%B8%E3%81%84%E3%81%9F%E6%9C%AC%E3%81%8C%E5%87%BA%E7",
             "url": "https://blog.alfebelow.com/entry/2026/09/16/%E6%9B%B8%E3%81%84%E3%81%9F%E6%9C%AC%E3%81%8C%E5%87%BA%E7%89%88%E3%81%95%E3%82%8C%E3%82%8B%E8%A9%B1%E3%81%9D%E3%81%AE2",
@@ -71,13 +78,6 @@
             "url": "https://blog.alfebelow.com/entry/2026/01/31/2026%E5%B9%B41%E6%9C%88%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A0%E6%9C%AC",
             "title": "2026年1月に読んだ本",
             "date_modified": "2026-01-31T11:00:00.000Z"
-        },
-        {
-            "id": "https://blog.alfebelow.com/entry/2025/12/30/2025%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC",
-            "content_html": "年末恒例の2025年に読んだ中で良かった本をまとめておこうという記事。 今年も、年内に読んだ本の中から特に良かった本を7冊紹介します。 動物には何が見え、聞こえ、感じられるのか https://www.amazon.co.jp/dp/B0F48BTWDN 動物が持つセンサーと環世界について。人間が持たない知覚と、人間とは違う世界の見方があるということを知れた。 環境全体のうち動物が知覚して体験でき",
-            "url": "https://blog.alfebelow.com/entry/2025/12/30/2025%E5%B9%B4%E3%81%AB%E8%AA%AD%E3%82%93%E3%81%A7%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F7%E5%86%8A%E3%81%AE%E6%9C%AC",
-            "title": "2025年に読んで良かった7冊の本",
-            "date_modified": "2025-12-30T11:00:00.000Z"
         }
     ]
 }

@@ -423,3 +423,8 @@
 {"url":"https://www.amazon.co.jp/dp/4798196339","title":"セキュアAPI 設計・構築・実装を貫く原則","bylineInfo":"JoséHaroPeralta(原著),元内柊也(翻訳),水元恭平(翻訳),織茂駿斗(翻訳),小栁斉(翻訳)&1その他形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/81lLbsDxIXL._SY342_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/440512034X","title":"サクッとわかる ビジネス教養 防衛学","bylineInfo":"小野圭司(監修)形式:単行本","imgUrl":"https://m.media-amazon.com/images/I/81KAUFjmsEL._SY385_.jpg"}
 {"url":"https://www.amazon.co.jp/dp/4798190705/","title":"絵で見てわかるWeb APIの仕組み","bylineInfo":"武田大輝(著),枇榔晃裕(著),渋川よしき(著),真野隼記(著)&1その他形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/81e3yIvr+GL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/4480873481","title":"骨董自在ナリ","bylineInfo":"勝見充男(著)形式:単行本（ソフトカバー）","imgUrl":"https://m.media-amazon.com/images/I/718+n8wtwmL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B078JQY1WS","title":"塑する思考","bylineInfo":"佐藤卓(著)","imgUrl":"https://m.media-amazon.com/images/I/71wgEXYZ-iL._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0CPLLJJBZ","title":"〈情報的世界観〉の哲学：量子コンピュータ・メタヴァース・生成AI","bylineInfo":"大黒岳彦(著)","imgUrl":"https://m.media-amazon.com/images/I/81iz7oDeF3L._SY385_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0BXL8P4SC","title":"90歳までに使い切る　お金の賢い減らし方 (光文社新書)","bylineInfo":"大江英樹(著)","imgUrl":"https://m.media-amazon.com/images/I/71hTjDYqUeL._SY425_.jpg"}
+{"url":"https://www.amazon.co.jp/dp/B0BPM2PJLP","title":"「未来」とは何か：１秒先から宇宙の終わりまでを見通すビッグ・クエスチョン (NewsPicksパブリッシング)","bylineInfo":"デイビッド・クリスチャン(著),水谷淳(翻訳),鍛原多惠子(翻訳)&0その他","imgUrl":"https://m.media-amazon.com/images/I/71LumWK3r7L._SY385_.jpg"}
